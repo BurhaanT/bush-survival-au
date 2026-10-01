@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1390" viewBox="0 0 1000 1390" role="img" aria-labelledby="title desc">
+  <title id="title">AED action card — main action flow</title>
+  <desc id="desc">A working Australian automated external defibrillator action flow. Continue CPR until the AED is on and pads are attached, expose the chest, attach pads exactly as pictured, keep everyone clear during analysis and shock, then immediately resume CPR. A separate companion card covers pad contact, children, medication patches and implanted devices.</desc>
+  <defs>
+    <marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto"><path d="M0 0 L18 9 L0 18 Z" fill="#244a3c"/></marker>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.warning{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.path{fill:none;stroke:#244a3c;stroke-width:4;marker-end:url(#arrow)}.title{font:700 46px Arial,sans-serif;fill:#173f35}.head{font:700 31px Arial,sans-serif;fill:#173f35}.small{font:28px Arial,sans-serif;fill:#344c41}.step{font:700 39px Arial,sans-serif;fill:#7a2926}.red{fill:#7a2926}.amber{fill:#7b5114}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="1390"/>
+  <text class="title" x="36" y="57">AED: main action flow</text>
+
+  <rect class="warning" x="34" y="80" width="932" height="174" rx="10"/>
+  <text class="head red" x="58" y="121">WARNING — CLINICAL REVIEW OUTSTANDING</text>
+  <text class="small" x="58" y="162">Editorial estimate: wording 95%; stressed-reader use 70%.</text>
+  <text class="small" x="58" y="200">Use only when unresponsive and not breathing normally.</text>
+  <text class="small" x="58" y="238">Follow 000 and every AED prompt. Do not delay compressions to read.</text>
+
+  <rect class="box" x="66" y="282" width="868" height="174" rx="10"/>
+  <text class="step" x="92" y="330">1</text>
+  <text class="head" x="154" y="325">KEEP CPR GOING</text>
+  <text class="small" x="154" y="369">Continue CPR until the AED is on and pads are attached.</text>
+  <text class="small" x="154" y="406">A helper prepares it while CPR continues.</text>
+  <text class="small" x="154" y="442">If alone, follow prompts; minimise the pad pause.</text>
+  <path class="path" d="M500 456 V484"/>
+
+  <rect class="box" x="66" y="496" width="868" height="164" rx="10"/>
+  <text class="step" x="92" y="544">2</text>
+  <text class="head" x="154" y="539">TURN IT ON AND EXPOSE THE CHEST</text>
+  <text class="small" x="154" y="583">Use the pad-safety card for contact hazards.</text>
+  <text class="small" x="154" y="620">Keep following the spoken prompts.</text>
+  <path class="path" d="M500 660 V688"/>
+
+  <rect class="box" x="66" y="700" width="868" height="164" rx="10"/>
+  <text class="step" x="92" y="748">3</text>
+  <text class="head" x="154" y="743">ATTACH THE PADS</text>
+  <text class="small" x="154" y="787">Press pads firmly on bare skin, as their pictures show.</text>
+  <text class="small" x="154" y="824">Actual pad pictures and prompts—not this drawing—control.</text>
+  <path class="path" d="M500 864 V892"/>
+
+  <rect class="warning" x="66" y="904" width="868" height="174" rx="10"/>
+  <text class="step" x="92" y="952">4</text>
+  <text class="head red" x="154" y="947">EVERYONE CLEAR</text>
+  <text class="small" x="154" y="991">No one touches the person during AED analysis or shock.</text>
+  <text class="small" x="154" y="1028">If told to shock, check everyone is clear.</text>
+  <text class="small" x="154" y="1064">Press if instructed. Restart CPR when the AED tells you.</text>
+  <path class="path" d="M500 1078 V1106"/>
+
+  <rect class="caution" x="66" y="1118" width="868" height="156" rx="10"/>
+  <text class="step amber" x="92" y="1166">5</text>
+  <text class="head amber" x="154" y="1161">RESUME CPR IMMEDIATELY</text>
+  <text class="small" x="154" y="1205">After a shock—or no-shock advice—restart when told.</text>
+  <text class="small" x="154" y="1242">Keep following prompts; use the CPR stopping rules.</text>
+
+  <rect class="warning" x="66" y="1297" width="868" height="53" rx="10"/>
+  <text class="small red" x="92" y="1333">See “AED pads and safety” before placing pads when possible.</text>
+
+  <rect x="0" y="1354" width="1000" height="36" fill="#fff7e6"/>
+  <text x="964" y="1379" text-anchor="end" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#77551c">WORKING DRAFT — main card; clinical and stressed-reader review outstanding</text>
+</svg>

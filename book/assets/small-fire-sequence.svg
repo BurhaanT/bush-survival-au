@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1920" viewBox="0 0 1000 1920" role="img" aria-labelledby="title desc">
+  <title id="title">Conditional small fire: prepare and control</title>
+  <desc id="desc">Working preparation and control card used only while all ten Victorian fire gates remain yes. Prepare at least ten litres of extinguishing water already beside the fire in usable vessels or an immediately usable connected hose; it must be separate from drinking water the group needs or there is no fire. Also prepare a non-combustible turning tool, a labelled solid campfire firelighter product and three piles of dry, untreated, expressly permitted kindling. Keep all prepared fuel outside the three-metre clear area until needed. Use only a supplied public fireplace or the exact fireplace the current site rule specifically authorises. Use the pictured build only when the firelighter's current label permits its amount, base placement, kindling layout and ignition tool. Light only as the label directs. This exact sequence has not been live-fire tested.</desc>
+  <defs>
+    <marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto"><path d="M0 0 L15 8 L0 16 Z" fill="#244a3c"/></marker>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.warning{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.path{fill:none;stroke:#244a3c;stroke-width:4;marker-end:url(#arrow)}.title{font:700 40px Arial,sans-serif;fill:#173f35}.head{font:700 31px Arial,sans-serif;fill:#173f35}.body{font:27px Arial,sans-serif;fill:#22382d}.small{font:24px Arial,sans-serif;fill:#344c41}.red{fill:#7a2926}.amber{fill:#7b5114}.fine{stroke:#a77b45;stroke-width:6;stroke-linecap:round}.starter{fill:#d9b96e;stroke:#7b5114;stroke-width:3}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="1920"/>
+  <text class="title" x="36" y="58">Conditional small fire — prepare and control</text>
+
+  <rect class="warning" x="34" y="82" width="932" height="280" rx="10"/>
+  <text class="head red" x="58" y="124">ONLY WHILE ALL TEN GO/NO-GO GATES STAY YES</text>
+  <text class="small" x="58" y="163">Estimated wording accuracy: 75% for this untested exact sequence.</text>
+  <text class="small" x="58" y="198">Live rules and conditions control. This card is not permission to light.</text>
+  <text class="small" x="58" y="233">Other gate fails, fire contained, exit safe: stop fuel and extinguish.</text>
+  <text class="small red" x="58" y="268">Fire spreads or exit is threatened: move first; then 000, SOS or PLB.</text>
+  <text class="small red" x="58" y="303">No phone: activate satellite SOS or a PLB as its instructions direct.</text>
+  <text class="small red" x="58" y="338">Schematic—not a design, clearance scale or field-approved method.</text>
+
+  <rect class="box" x="66" y="390" width="868" height="650" rx="10"/>
+  <text class="head" x="92" y="433">1  PREPARE EVERYTHING BEFORE IGNITION</text>
+  <text class="body" x="92" y="475">• At least 10 L of extinguishing water already beside the fire in</text>
+  <text class="body" x="122" y="510">usable vessel(s), or an immediately usable connected hose.</text>
+  <text class="small red" x="122" y="543">Needed drinking water—or a source without delivery—does not count.</text>
+  <text class="body" x="92" y="585">• Suitable non-combustible turning tool beside the water.</text>
+  <text class="body" x="92" y="627">• Supplied public or specifically authorised fireplace.</text>
+  <text class="body" style="font-size:25px" x="92" y="669">• Labelled SOLID campfire firelighter. Its current label must permit</text>
+  <text class="body" style="font-size:25px" x="122" y="704">this amount, base position, kindling layout and ignition tool.</text>
+  <text class="body" style="font-size:25px" x="92" y="746">• Dry, untreated wood: lawfully obtained AND expressly permitted here.</text>
+  <text class="body" x="92" y="788">• Three piles: match-thin, pencil-thick and thumb-thick.</text>
+  <text class="body" style="font-size:25px" x="122" y="823">Keep all piles outside the 3 m clear area until each is needed.</text>
+  <text class="body" style="font-size:25px" x="122" y="858">Each loose bundle: drink-can width; every piece fits in the fireplace.</text>
+  <text class="small red" x="92" y="900">Do not cut plants. No petrol, diesel, kerosene, methylated spirits,</text>
+  <text class="small red" x="92" y="932">aerosol, gas, liquid firelighter or stove fuel on a campfire.</text>
+  <text class="small" x="92" y="974">Size progression is cross-checked; this exact build is not live-tested.</text>
+  <text class="small" x="92" y="1006">Prepare only while every rating, rule, site, wind and exit gate passes.</text>
+  <path class="path" d="M500 1040 V1080"/>
+
+  <rect class="caution" x="66" y="1092" width="868" height="295" rx="10"/>
+  <text class="head amber" x="92" y="1135">2  FIRST STAGE IN THE FIREPLACE — NO FLAME YET</text>
+  <text class="body" style="font-size:25px" x="92" y="1177">Use this picture only if the firelighter label permits every step.</text>
+  <text class="body" style="font-size:25px" x="92" y="1213">Place it on the base; loosely lean MATCH-THIN pieces as directed.</text>
+  <text class="body" style="font-size:25px" x="92" y="1249">Label differs or omits this layout: STOP.</text>
+  <rect x="674" y="1280" width="200" height="42" rx="8" fill="#d5d0c7" stroke="#5d5a52" stroke-width="4"/>
+  <rect class="starter" x="760" y="1267" width="28" height="18" rx="3"/>
+  <path class="fine" d="M712 1285 L764 1243 M826 1285 L774 1243 M734 1285 L774 1253 M804 1285 L764 1253"/>
+  <text class="small red" x="92" y="1303">Missing directions: this build is unavailable.</text>
+  <text class="small" x="92" y="1345">Unlit/not to scale. An old ring, scar or improvised pit is not enough.</text>
+  <path class="path" d="M500 1387 V1427"/>
+
+  <rect class="box" x="66" y="1439" width="868" height="385" rx="10"/>
+  <text class="head" x="92" y="1482">3  LIGHT ONLY AS THE LABEL DIRECTS</text>
+  <text class="body" x="92" y="1524">Light the firelighter only as its current label directs.</text>
+  <text class="body" x="92" y="1560">Use a carried lighter or waterproof match. Keep body and fuel away.</text>
+  <text class="body" x="92" y="1596">When match-thin pieces burn on their own, add pencil-thick pieces</text>
+  <text class="body" x="92" y="1632">a few at a time without crushing the air gaps.</text>
+  <text class="body" x="92" y="1668">When those burn on their own, add thumb-thick pieces slowly.</text>
+  <text class="body" x="92" y="1704">Do not add a larger stage until the smaller stage burns steadily.</text>
+  <text class="small red" x="92" y="1746">Stage goes out, embers move or control is doubtful: extinguish.</text>
+  <text class="small" x="92" y="1782">Use the extinguishment card. Never leave the fire unattended.</text>
+
+  <text x="500" y="1893" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#77551c">WORKING DRAFT — NOT FIELD-APPROVED</text>
+</svg>

@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="3150" viewBox="0 0 1000 3150" role="img" aria-labelledby="title desc" lang="en-AU" xml:lang="en-AU">
+  <title id="title">Non-contact water rescue from secure land — person still in water</title>
+  <desc id="desc">Working non-contact water-rescue card from secure land. Call Triple Zero, remain on secure land, and try Talk, then a safe Reach with a long aid, then Throw a rope or buoyant object. Stop if the rescuer could fall or be pulled in, and never put a rope around the rescuer. If already on a craft, stay aboard and use its rescue equipment and procedures only within current training; no craft-handling method is provided. Water entry, swimming, towing, in-water resuscitation and contact rescue are excluded. Once the person is on a safe firm surface, use Card 2.</desc>
+  <defs>
+    <marker id="greenArrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#244a3c"/></marker>
+    <marker id="blueArrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#2b6684"/></marker>
+    <style>
+      .title{font:700 42px Arial,sans-serif;fill:#173f35}
+      .subtitle{font:700 30px Arial,sans-serif;fill:#344c41}
+      .head{font:700 32px Arial,sans-serif;fill:#173f35}
+      .body{font:30px Arial,sans-serif;fill:#344c41}
+      .small{font:25px Arial,sans-serif;fill:#344c41}
+      .tiny{font:20px Arial,sans-serif;fill:#344c41}
+      .danger{fill:#7a2926}
+      .amber{fill:#7a4b0d}
+      .panel{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}
+      .info{fill:#eaf1f6;stroke:#2b6684;stroke-width:3}
+      .warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}
+      .caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}
+      .line{stroke:#244a3c;stroke-width:8;fill:none;stroke-linecap:round;stroke-linejoin:round}
+      .thin{stroke:#244a3c;stroke-width:4;fill:none;stroke-linecap:round;stroke-linejoin:round}
+      .blue{stroke:#2b6684;stroke-width:7;fill:none;stroke-linecap:round;stroke-linejoin:round}
+      .ground{stroke:#646e61;stroke-width:8;fill:none;stroke-linecap:round}
+    </style>
+  </defs>
+  <rect width="1000" height="3150" fill="#fffefa"/>
+  <text class="title" x="34" y="58">DROWNING / WATER RESCUE — CARD 1</text>
+  <text class="subtitle" x="34" y="108">Person still in water — non-contact help from secure land</text>
+
+  <rect class="warn" x="34" y="138" width="932" height="302" rx="12"/>
+  <text class="head danger" x="58" y="184">WARNING — AQUATIC-RESCUE REVIEW OUTSTANDING</text>
+  <text class="body" x="58" y="228">Subjective estimates: source match 95%; decision layout 60%.</text>
+  <text class="body" x="58" y="266">Not probabilities of safe rescue, treatment success or survival.</text>
+  <text class="body" x="58" y="304">This card does not qualify you to enter water or make contact.</text>
+  <text class="body" x="58" y="342">Follow 000. Never enter because this picture shows a rescue.</text>
+  <text class="small danger" x="58" y="384">Independent aquatic-rescue and practical review remains open.</text>
+  <text class="small danger" x="58" y="416">Stressed-reader review remains open.</text>
+
+  <rect class="info" x="34" y="470" width="932" height="230" rx="12"/>
+  <text class="head" x="58" y="518">1 — SHOUT FOR HELP — CALL 000</text>
+  <text class="body" x="58" y="562">Name a helper to call. If alone, use speaker if available.</text>
+  <text class="body" x="58" y="600">Keep the person in sight. Tell 000 the location.</text>
+  <text class="body" x="58" y="638">Say whether the person responds.</text>
+  <text class="small" x="58" y="678">No contact? Use Chapter 3's satellite, radio or PLB emergency path.</text>
+
+  <rect class="panel" x="34" y="730" width="932" height="360" rx="12"/>
+  <text class="head" x="58" y="778">2 — STAY ON SECURE LAND</text>
+  <text class="body" x="58" y="822">Can you help without entering, falling or being pulled in?</text>
+  <text class="body" x="58" y="866"><tspan font-weight="700">YES</tspan> — try TALK. Then REACH or THROW only</text>
+  <text class="body" x="58" y="904">while you and the aid stay secure.</text>
+  <text class="body danger" x="58" y="948"><tspan font-weight="700">NO / UNSURE</tspan> — stay back and update 000.</text>
+  <text class="body danger" x="58" y="986">Guide trained rescuers. Do not enter.</text>
+  <rect class="warn" x="58" y="1008" width="884" height="58" rx="7"/>
+  <text class="small danger" x="500" y="1045" text-anchor="middle">Do not enter because a first attempt failed.</text>
+
+  <rect class="caution" x="34" y="1120" width="932" height="140" rx="12"/>
+  <text class="head" x="58" y="1168">ALREADY ON A CRAFT?</text>
+  <text class="small" x="58" y="1206">Stay aboard. Use its rescue equipment and procedures only within</text>
+  <text class="small" x="58" y="1238">your current training, and follow 000. This card gives no craft method.</text>
+
+  <rect class="panel" x="34" y="1290" width="932" height="410" rx="12"/>
+  <text class="head" x="58" y="1338">3 — TALK — SAFEST FIRST</text>
+  <text class="body" x="58" y="1382">Call to the person. Reassure them.</text>
+  <text class="body" x="58" y="1420">Tell them to hold any float and move toward the nearest safe edge,</text>
+  <text class="body" x="58" y="1458">if able. Keep pointing to safety. Do not enter the water.</text>
+  <g aria-hidden="true">
+    <path class="thin" d="M350 1510q42 14 74 48 M372 1482q62 20 105 67"/>
+    <circle cx="286" cy="1510" r="25" fill="#fffefa" stroke="#244a3c" stroke-width="4"/>
+    <path class="line" d="M286 1538v72 M286 1565l-46 35 M286 1565l46 35"/>
+    <path class="ground" d="M58 1640h442"/>
+    <path class="blue" d="M500 1640h442"/>
+    <path d="M500 1588v78" stroke="#8c2f2b" stroke-width="7"/>
+    <circle cx="770" cy="1586" r="22" fill="#eaf1f6" stroke="#2b6684" stroke-width="4"/>
+    <path class="thin" d="M770 1610v42 M770 1622l-32 18 M770 1622l32 18"/>
+    <text class="tiny" x="250" y="1680" text-anchor="middle">RESCUER ON LAND</text>
+    <text class="tiny" x="735" y="1680" text-anchor="middle">PERSON IN WATER</text>
+  </g>
+
+  <rect class="info" x="34" y="1730" width="932" height="510" rx="12"/>
+  <text class="head" x="58" y="1778">4 — REACH — ONLY FROM A STABLE POSITION</text>
+  <text class="body" x="58" y="1822">Use a long, sturdy reach aid. Stay low and behind the edge.</text>
+  <text class="body" x="58" y="1860">Tell the person to hold it. Pull only while the bank, aid,</text>
+  <text class="body" x="58" y="1898">grip and your balance remain secure.</text>
+  <rect class="warn" x="58" y="1922" width="884" height="72" rx="8"/>
+  <text class="small danger" x="500" y="1952" text-anchor="middle">Could you be pulled in? STOP.</text>
+  <text class="small danger" x="500" y="1982" text-anchor="middle">Do not turn a reach into a water entry.</text>
+  <g aria-hidden="true">
+    <path class="ground" d="M58 2178h458"/>
+    <path class="blue" d="M516 2178h426"/>
+    <path d="M516 2050v158" stroke="#8c2f2b" stroke-width="8"/>
+    <text class="tiny" x="60" y="2216">LAND</text><text class="tiny" x="842" y="2216">WATER</text>
+    <circle cx="245" cy="2070" r="23" fill="#fffefa" stroke="#244a3c" stroke-width="4"/>
+    <path class="line" d="M245 2096l-62 35 M245 2096l62 35 M212 2114l-52 22 M275 2114l-15 22"/>
+    <path d="M275 2114L756 2178" stroke="#8a5a10" stroke-width="10" fill="none"/>
+    <circle cx="792" cy="2114" r="24" fill="#eaf1f6" stroke="#2b6684" stroke-width="4"/>
+    <path class="thin" d="M792 2140v50 M792 2158l-36 20 M792 2158l36 20"/>
+    <text class="tiny danger" x="526" y="2216">EDGE</text>
+  </g>
+
+  <rect class="panel" x="34" y="2270" width="932" height="490" rx="12"/>
+  <text class="head" x="58" y="2318">5 — THROW — AID WITHOUT ENTRY</text>
+  <text class="body" x="58" y="2362">Throw a rope or something that floats within reach:</text>
+  <text class="body" x="58" y="2400">lifejacket, lifebuoy, bodyboard, inflated ball or buoyant cooler lid.</text>
+  <text class="body" x="58" y="2438">Tell them to hold it and keep their face clear.</text>
+  <text class="body" x="58" y="2476">Try again from land if the first throw misses.</text>
+  <text class="body" x="58" y="2514">Bring them toward a safe exit only while you remain secure.</text>
+  <text class="small danger" x="58" y="2554">Cannot grasp or follow? Keep them in sight and update 000.</text>
+  <g aria-hidden="true">
+    <path class="ground" d="M58 2698h458"/>
+    <path class="blue" d="M516 2698h426"/>
+    <path d="M202 2680q238-72 476 0" stroke="#8a5a10" stroke-width="6" fill="none" stroke-dasharray="13 11" marker-end="url(#greenArrow)"/>
+    <circle cx="692" cy="2682" r="38" fill="#fff7e6" stroke="#8a5a10" stroke-width="8"/>
+    <circle cx="810" cy="2674" r="22" fill="#eaf1f6" stroke="#2b6684" stroke-width="4"/>
+    <path class="thin" d="M810 2699v32 M810 2712l-32 18 M810 2712l32 18"/>
+    <text class="tiny" x="78" y="2738">Throw from land; no rope around the rescuer.</text>
+  </g>
+
+  <rect class="warn" x="34" y="2790" width="932" height="310" rx="12"/>
+  <text class="head danger" x="58" y="2838">STOP BOUNDARY</text>
+  <text class="body" x="58" y="2882">No wading, swimming, towing, in-water breaths or contact rescue</text>
+  <text class="body" x="58" y="2920">is taught here. Use a higher-risk method only if you already have</text>
+  <text class="body" x="58" y="2958">current aquatic-rescue training, suitable flotation and conditions</text>
+  <text class="body" x="58" y="2996">within that training. Chest compressions are ineffective in water</text>
+  <text class="body" x="58" y="3034">and must not be attempted there.</text>
+  <rect class="info" x="58" y="3042" width="884" height="50" rx="8"/>
+  <text class="small" x="500" y="3075" text-anchor="middle" font-weight="700">ON SAFE, FIRM SURFACE → USE CARD 2</text>
+
+  <rect x="0" y="3110" width="1000" height="40" fill="#173f35"/>
+  <text x="500" y="3138" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#fffefa">WORKING DRAFT • CARD 1 OF 2 • secure-land path only • follow 000</text>
+</svg>

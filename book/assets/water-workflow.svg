@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="550" viewBox="0 0 900 550" role="img" aria-labelledby="title desc">
+  <title id="title">Rolling-boil water treatment in three stages</title>
+  <desc id="desc">Working three-stage Victorian field-water diagram. First reject salt or brackish water, algae or scum, floodwater, a current warning, sewage, mine, farm or industrial runoff, fuel, ash or firefighting chemicals. No visible warning does not prove safety. Second, use a suitable unsealed heat-safe pot and only a lawful heat source that can be operated exactly as instructed; bring the whole water surface to a vigorous rolling boil, then turn off the heat as instructed. Third, cool the pot on a stable non-combustible heat-safe surface protected from new contamination. Use promptly when cool enough, or pour into a clean closed drinking-water container without touching its inside or opening. Boiling treats most microbial hazards, not salt, algal toxins, chemicals or metals. The rolling-boil principle has an editorial source-match estimate of ninety-five per cent and the field handling sequence eighty per cent; these are not safety probabilities.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8" fill="#244a3c"/></marker>
+    <style>.bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.title{font:700 27px Arial,sans-serif;fill:#173f35}.head{font:700 23px Arial,sans-serif;fill:#173f35}.body{font:16px Arial,sans-serif;fill:#22382d}.red{fill:#7a2926}.amber{fill:#77551c}.path{stroke:#244a3c;stroke-width:4;marker-end:url(#arrow)}</style>
+  </defs>
+  <rect class="bg" width="900" height="550"/>
+  <text class="title" x="32" y="42">Rolling-boil treatment — simple route, strict limits</text>
+  <rect class="warn" x="32" y="56" width="836" height="66" rx="8"/>
+  <text class="body red" x="50" y="82" font-weight="700">WORKING DIAGRAM — water-health and field review outstanding</text>
+  <text class="body" x="50" y="106">Editorial confidence: 95% rolling-boil principle; 80% handling. Not safety odds.</text>
+
+  <rect class="box" x="32" y="148" width="248" height="274" rx="8"/>
+  <text class="head" x="156" y="181" text-anchor="middle">1  SCREEN SOURCE</text>
+  <text class="body" x="50" y="214">Reject salt or brackish water;</text>
+  <text class="body" x="50" y="237">algae or scum; floodwater;</text>
+  <text class="body" x="50" y="260">a current warning; sewage;</text>
+  <text class="body" x="50" y="283">mine, farm or industrial runoff;</text>
+  <text class="body" x="50" y="306">fuel, ash or firefighting chemicals.</text>
+  <text class="body red" x="50" y="348">No visible red flag does not</text>
+  <text class="body red" x="50" y="371">prove natural water safe.</text>
+  <text class="body" x="50" y="400">Water is still untreated.</text>
+
+  <line class="path" x1="286" y1="285" x2="316" y2="285"/>
+  <rect class="box" x="326" y="148" width="248" height="274" rx="8"/>
+  <text class="head" x="450" y="181" text-anchor="middle">2  BOIL</text>
+  <text class="body" x="344" y="214">Suitable unsealed heat-safe pot.</text>
+  <text class="body" x="344" y="237">Lawful, safely operable heat source.</text>
+  <text class="body" x="344" y="275">Stay with the pot; keep it stable.</text>
+  <text class="body" x="344" y="313">Whole surface continuously disturbed</text>
+  <text class="body" x="344" y="336">by vigorous bubbling.</text>
+  <text class="body" x="344" y="374">Then turn off the heat exactly</text>
+  <text class="body" x="344" y="397">as its instructions require.</text>
+
+  <line class="path" x1="580" y1="285" x2="610" y2="285"/>
+  <rect class="box" x="620" y="148" width="248" height="274" rx="8"/>
+  <text class="head" x="744" y="181" text-anchor="middle">3  COOL + USE</text>
+  <text class="body" x="638" y="214">Stable non-combustible heat-safe base.</text>
+  <text class="body" x="638" y="247">Protect from ash, dirt, splash,</text>
+  <text class="body" x="638" y="270">insects, dirty hands and animals.</text>
+  <text class="body" x="638" y="308">When cool enough, use promptly;</text>
+  <text class="body" x="638" y="331">or pour into clean closed storage.</text>
+  <text class="body" x="638" y="364">Do not touch the clean container's</text>
+  <text class="body" x="638" y="387">inside, opening, cap or threads.</text>
+
+  <text class="body red" x="450" y="460" text-anchor="middle" font-weight="700">GERMS ONLY — not salt, algal toxins, chemicals or metals</text>
+  <text class="body" x="450" y="487" text-anchor="middle">No thermometer, transfer ladle or special dry-rim method is required.</text>
+  <text class="body amber" x="450" y="514" text-anchor="middle">No dependable zero-equipment treatment is supplied.</text>
+  <text x="450" y="540" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#77551c">WORKING DRAFT — NOT FIELD-APPROVED</text>
+</svg>

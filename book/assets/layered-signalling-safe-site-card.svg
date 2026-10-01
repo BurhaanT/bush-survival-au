@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2700" viewBox="0 0 1000 2700" role="img" aria-labelledby="title desc">
+  <title id="title">Layer signals at the safe waiting place</title>
+  <desc id="desc">A working three-panel card grouping five non-fire signalling modes at the safe waiting place. The modes are parallel, not steps: emergency contact or alert, continuous bright contrast, sound, a purpose-made daylight mirror in sunlight and a controlled night light. Each mode may be absent. The card says not to leave urgent care, shelter, warmth or the reported place merely to signal; a possible reply does not confirm contact; and fire, smoke, flares, pyrotechnics and lasers are excluded. It gives no detection range, exact timing, reply code, ground-air construction, product performance, device method or rescue guarantee. Proposed subjective editorial estimates are 90 percent for source-match of the five categories and principal cautions and 60 percent for completeness of the combined wording, order and layout.</desc>
+  <defs>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.blue{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.amberBox{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.footer{fill:#fff0ed}
+      .title{font:700 40px Arial,sans-serif;fill:#173f35}.status{font:700 22px Arial,sans-serif;fill:#77551c}.head{font:700 28px Arial,sans-serif;fill:#173f35}.midhead{font:700 25px Arial,sans-serif;fill:#173f35}.body{font:24px Arial,sans-serif;fill:#344c41}.limit{font:700 22px Arial,sans-serif;fill:#7a2926}.amber{fill:#7b5114}.red{fill:#7a2926}.tile{font:700 23px Arial,sans-serif;fill:#173f35}.footText{font:700 19px Arial,sans-serif;fill:#7a2926}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="2700"/>
+
+  <!-- PANEL A: 0–900 -->
+  <text class="title" x="34" y="58">LAYER SIGNALS — SAFE WAITING PLACE</text>
+  <text class="status" x="966" y="94" text-anchor="end">WORKING CARD · PANEL A OF 3 · USE ALL PANELS</text>
+
+  <rect class="warn" x="34" y="118" width="932" height="190" rx="10"/>
+  <text class="midhead red" x="58" y="158">WARNING — SIGNALS DO NOT PROVE CONTACT OR RESCUE</text>
+  <text class="body" x="58" y="197">These five modes are a project grouping, not an official rescue sequence.</text>
+  <text class="body" x="58" y="232">Use more than one safe mode when possible at the safe waiting place.</text>
+  <text class="body" x="58" y="267">Stay near the reported place. Move only if it becomes unsafe or a responsible</text>
+  <text class="limit" x="58" y="297">responder directs you. Never leave urgent care, shelter or warmth just to signal.</text>
+
+  <rect class="amberBox" x="34" y="330" width="932" height="185" rx="10"/>
+  <text class="midhead amber" x="58" y="370">EVIDENCE + EDITORIAL CONFIDENCE</text>
+  <text class="body" x="58" y="407">High for the separate basic principles; Moderate for this untested combined set.</text>
+  <text class="body" x="58" y="444">Estimates: 90% source-match; 60% combined completeness and layout.</text>
+  <text class="body" x="58" y="481">These subjective estimates are not probabilities of detection, contact, rescue,</text>
+  <text class="body" x="58" y="505">safety, product performance or survival.</text>
+
+  <rect class="box" x="34" y="538" width="932" height="100" rx="10"/>
+  <text class="head" x="58" y="577">PARALLEL MODES — NOT FIVE STEPS</text>
+  <text class="body" x="58" y="613">You do not need all five. Do not delay or move to add a missing mode.</text>
+
+  <rect class="blue" x="34" y="660" width="292" height="76" rx="9"/>
+  <text class="tile" x="180" y="690" text-anchor="middle">EMERGENCY CONTACT</text>
+  <text class="tile" x="180" y="720" text-anchor="middle">OR ALERT</text>
+  <rect class="blue" x="354" y="660" width="292" height="76" rx="9"/>
+  <text class="tile" x="500" y="690" text-anchor="middle">BRIGHT CONTRAST</text>
+  <text class="tile" x="500" y="720" text-anchor="middle">THAT STAYS OUT</text>
+  <rect class="blue" x="674" y="660" width="292" height="76" rx="9"/>
+  <text class="tile" x="820" y="705" text-anchor="middle">SOUND</text>
+  <rect class="blue" x="34" y="754" width="452" height="76" rx="9"/>
+  <text class="tile" x="260" y="784" text-anchor="middle">PURPOSE-MADE MIRROR</text>
+  <text class="tile" x="260" y="814" text-anchor="middle">IN SUNLIGHT</text>
+  <rect class="blue" x="514" y="754" width="452" height="76" rx="9"/>
+  <text class="tile" x="740" y="784" text-anchor="middle">CONTROLLED NIGHT LIGHT</text>
+  <text class="tile" x="740" y="814" text-anchor="middle">KEEP POWER FOR CONTACT + CARE</text>
+
+  <rect class="footer" x="0" y="852" width="1000" height="48"/>
+  <text class="footText" x="500" y="883" text-anchor="middle">WORKING DRAFT · ALSO READ B–C · NEVER USE THIS DETACHED PANEL ALONE</text>
+
+  <!-- PANEL B: 900–1800 -->
+  <text class="title" x="34" y="958">CONTACT / ALERT + BRIGHT CONTRAST</text>
+  <text class="status" x="966" y="994" text-anchor="end">WORKING CARD · PANEL B OF 3 · PANEL A CONTROLS</text>
+
+  <rect class="amberBox" x="34" y="1018" width="932" height="115" rx="10"/>
+  <text class="midhead amber" x="58" y="1058">PARALLEL MODES — NOT THE NEXT STEPS</text>
+  <text class="body" x="58" y="1095">Keep urgent care, shelter, warmth and the safe waiting place.</text>
+  <text class="limit" x="58" y="1123">Whole card: 90% source-match; 60% completeness/layout — not outcome odds.</text>
+
+  <rect class="blue" x="34" y="1154" width="932" height="290" rx="10"/>
+  <text class="head" x="58" y="1195">WITH A PHONE, SATELLITE SOS OR DISTRESS BEACON</text>
+  <text class="body" x="58" y="1234">Use Chapter 3 and the exact device instructions. Report the position and its</text>
+  <text class="body" x="58" y="1269">uncertainty with IM-184. A screen position does not prove an alert was sent.</text>
+  <text class="body" x="58" y="1304">If a distress beacon is activated for this real emergency, leave it on until rescue</text>
+  <text class="body" x="58" y="1339">services advise otherwise. Keep other devices reachable and preserve power.</text>
+  <text class="midhead" x="58" y="1374">WITHOUT A WORKING CONTACT OR ALERT ROUTE</text>
+  <text class="body" x="58" y="1407">Mark it ABSENT or UNCONFIRMED. Do not invent coordinates, functions or status.</text>
+  <text class="body" x="58" y="1432">Do not climb or wander for reception. Keep the other safe modes.</text>
+
+  <rect class="box" x="34" y="1465" width="932" height="190" rx="10"/>
+  <text class="head" x="58" y="1506">WITH SAFE SPARE BRIGHT MATERIAL</text>
+  <text class="body" x="58" y="1545">Use a bright item that contrasts with the background. Secure it at or immediately</text>
+  <text class="body" x="58" y="1580">beside the safe waiting place. Tell responders if the signal and your position differ.</text>
+  <text class="midhead" x="58" y="1622">WITHOUT SAFE SPARE MATERIAL</text>
+  <text class="body" x="58" y="1640">Mark it ABSENT. Keep essential clothing, shelter, insulation and first-aid material.</text>
+
+  <rect class="warn" x="34" y="1678" width="932" height="86" rx="10"/>
+  <text class="midhead red" x="58" y="1716">DO NOT MOVE ONLY TO BE SEEN</text>
+  <text class="body" x="58" y="1750">No clearing, ridge, road, water, cliff, climbing or tree cutting just to signal.</text>
+
+  <rect class="footer" x="0" y="1774" width="1000" height="26"/>
+  <text class="footText" x="500" y="1795" text-anchor="middle">NO COLOUR, SIZE, SHAPE OR RANGE IS APPROVED · READ PANEL C · DO NOT USE DETACHED</text>
+
+  <!-- PANEL C: 1800–2700 -->
+  <text class="title" x="34" y="1858">SOUND + SUNLIGHT + NIGHT MODES</text>
+  <text class="status" x="966" y="1894" text-anchor="end">WORKING CARD · PANEL C OF 3 · PANELS A–B CONTROL</text>
+
+  <rect class="amberBox" x="34" y="1918" width="932" height="112" rx="10"/>
+  <text class="midhead amber" x="58" y="1958">CONDITIONAL PARALLEL MODES — NOT A SEQUENCE</text>
+  <text class="body" x="58" y="1995">Whole card: 90% source-match; 60% completeness/layout — not outcome odds.</text>
+  <text class="limit" x="58" y="2018">Use with Panels A–B. Keep urgent care, shelter, warmth and contact going.</text>
+
+  <rect class="blue" x="34" y="2050" width="932" height="178" rx="10"/>
+  <text class="head" x="58" y="2091">SOUND</text>
+  <text class="body" x="58" y="2130">With a whistle: use IM-185 — three distinct short blasts; stop and listen.</text>
+  <text class="body" x="58" y="2165">Without one: answer a nearby voice with short calls, then listen.</text>
+  <text class="limit" x="58" y="2205">Do not exhaust a casualty or blow near an ear. No seconds, range or reply code.</text>
+
+  <rect class="box" x="34" y="2250" width="932" height="170" rx="10"/>
+  <text class="head" x="58" y="2291">PURPOSE-MADE MIRROR IN SUNLIGHT</text>
+  <text class="body" x="58" y="2332">Use a purpose-made sighting mirror only after practice; follow its exact instructions.</text>
+  <text class="body" x="58" y="2369">Without one, mark it ABSENT. No tested foil or ordinary-mirror method is supplied.</text>
+  <text class="limit" x="58" y="2406">Do not assume equal results. Never look at the sun or use a laser. No range promised.</text>
+
+  <rect class="blue" x="34" y="2432" width="932" height="162" rx="10"/>
+  <text class="head" x="58" y="2470">CONTROLLED NIGHT LIGHT</text>
+  <text class="body" x="58" y="2508">With a tested light: use Chapter 9. Preserve contact and care power.</text>
+  <text class="body" x="58" y="2541">Without one: mark it ABSENT. Do not improvise fire, smoke, a flare or a pyrotechnic.</text>
+  <text class="limit" x="58" y="2575">A generic strobe or “SOS mode” does not prove aviation or night-vision visibility.</text>
+
+  <rect class="warn" x="34" y="2602" width="932" height="66" rx="10"/>
+  <text class="midhead red" x="58" y="2628">POSSIBLE REPLY ≠ CONFIRMED CONTACT</text>
+  <text class="body" x="58" y="2660">Continue the plan until a responsible responder gives direct instructions.</text>
+
+  <rect class="footer" x="0" y="2676" width="1000" height="24"/>
+  <text class="footText" x="500" y="2692" text-anchor="middle">NOT FIELD-APPROVED · USE ALL 3 PANELS · NO FIRE, SMOKE, FLARE, PYROTECHNIC OR LASER</text>
+</svg>

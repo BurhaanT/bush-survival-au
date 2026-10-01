@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2700" viewBox="0 0 1000 2700" role="img" aria-labelledby="title desc">
+  <title id="title">Asthma danger gate and blue-grey salbutamol puffer first aid</title>
+  <desc id="desc">Working Australian asthma first-aid card in three parts. First check response and breathing. If the person is unresponsive and not breathing normally, including gasping or uncertain breathing, call Triple Zero and start CPR on a firm surface. Call Triple Zero immediately for severe or rapidly worsening breathing trouble, inability to speak comfortably, blue lips, drowsiness, little or no relief from a reliever, no reliever, or doubt. When known asthma overlaps with a known severe allergy after possible contact with that severe allergen, follow the anaphylaxis cards: give the person's current adrenaline device first if available and as the plan and exact device direct, call Triple Zero, use the correct anaphylaxis position and then follow the asthma plan. Otherwise keep a conscious person comfortably upright, stay with them and follow their current asthma plan and exact reliever instructions. Only when there is no plan and the device is a recognised blue-grey salbutamol puffer, give four separate puffs, preferably through a spacer: shake, put one puff into the spacer, take four breaths, then repeat until four puffs have been given. Wait four minutes. If there is little or no improvement, repeat four puffs. If still not improving, or at any time severe or worsening, call Triple Zero and continue four puffs every four minutes while awaiting help. Do not transfer this dose sequence to a different inhaler. If no reliever is available, call Triple Zero and do not substitute steam, a paper bag or improvised medicine. If the call will not connect, keep care going and use Chapter 3's emergency-contact route without leaving the person merely to seek reception.</desc>
+  <defs>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.blue{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.amberBox{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.white{fill:#fff;stroke:#244a3c;stroke-width:2}
+      .title{font:700 42px Arial,sans-serif;fill:#173f35}.subtitle{font:700 23px Arial,sans-serif;fill:#77551c}.head{font:700 31px Arial,sans-serif;fill:#173f35}.midhead{font:700 27px Arial,sans-serif;fill:#173f35}.body{font:28px Arial,sans-serif;fill:#344c41}.small{font:24px Arial,sans-serif;fill:#344c41}.tiny{font:21px Arial,sans-serif;fill:#344c41}.red{fill:#7a2926}.amber{fill:#7b5114}.num{fill:#244a3c}.numText{font:700 25px Arial,sans-serif;fill:#fff}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="2700"/>
+
+  <text class="title" x="34" y="58">ASTHMA ATTACK — DANGER FIRST</text>
+  <text class="subtitle" x="966" y="92" text-anchor="end">WORKING CARD · PART 1 OF 3</text>
+
+  <rect class="amberBox" x="34" y="115" width="932" height="190" rx="10"/>
+  <text class="head amber" x="58" y="158">RESPIRATORY AND DEVICE REVIEW STILL REQUIRED</text>
+  <text class="small" x="58" y="200">Subjective estimates: source wording 93%; new layout 60%.</text>
+  <text class="small" x="58" y="238">These are not probabilities of correct treatment, recovery or survival.</text>
+  <text class="small" x="58" y="276">Use all parts together. Follow 000, the current plan and exact device.</text>
+
+  <rect class="warn" x="34" y="330" width="932" height="155" rx="10"/>
+  <text class="head red" x="58" y="374">UNRESPONSIVE AND NOT BREATHING NORMALLY?</text>
+  <text class="body" x="58" y="418">Gasping or unsure counts. Call 000. Use a firm surface.</text>
+  <text class="body red" x="58" y="460">Start CPR now. Do not work through the inhaler steps first.</text>
+
+  <rect class="blue" x="34" y="510" width="932" height="220" rx="10"/>
+  <text class="head" x="58" y="554">CALL 000 NOW — DO NOT WAIT FOUR MINUTES</text>
+  <text class="small" x="58" y="598">• breathing trouble is severe or becoming worse quickly</text>
+  <text class="small" x="58" y="636">• cannot speak comfortably, lips look blue, or becoming drowsy</text>
+  <text class="small" x="58" y="674">• little or no relief, no reliever available, or you are unsure</text>
+  <text class="tiny" x="58" y="710">Keep giving supported first aid while help is arranged.</text>
+
+  <rect class="warn" x="34" y="755" width="932" height="190" rx="10"/>
+  <text class="head red" x="58" y="799">COULD THIS BE ANAPHYLAXIS?</text>
+  <text class="small" x="58" y="833">Known asthma + known severe allergy + sudden breathing trouble after</text>
+  <text class="small" x="58" y="868">possible contact: follow the anaphylaxis cards. Give their current</text>
+  <text class="small" x="58" y="903">adrenaline device first if available and as directed; call 000 and use</text>
+  <text class="small" x="58" y="938">the correct position, then the asthma plan. Do not wait for a rash.</text>
+
+  <rect x="0" y="960" width="1000" height="40" fill="#fff7e6"/>
+  <text x="964" y="986" text-anchor="end" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#77551c">WORKING DRAFT — CONTINUE TO PART 2</text>
+
+  <text class="title" x="34" y="1058">BLUE/GREY PUFFER — THE 4 × 4 × 4 START</text>
+  <text class="subtitle" x="966" y="1092" text-anchor="end">WORKING CARD · PART 2 OF 3</text>
+
+  <rect class="amberBox" x="34" y="1115" width="932" height="145" rx="10"/>
+  <text class="midhead amber" x="58" y="1158">ONLY IF THERE IS NO PLAN AND YOU RECOGNISE THE DEVICE</text>
+  <text class="small" x="58" y="1200">This part is only for a blue/grey salbutamol puffer. A different reliever,</text>
+  <text class="small" x="58" y="1236">dry-powder inhaler or combination inhaler has different instructions.</text>
+
+  <rect class="box" x="34" y="1285" width="932" height="110" rx="10"/>
+  <text class="head" x="58" y="1328">SIT COMFORTABLY UPRIGHT · STAY · REASSURE</text>
+  <text class="small" x="58" y="1372">Do not leave the person alone. Start now; severe signs still mean 000 now.</text>
+
+  <rect class="blue" x="34" y="1420" width="932" height="310" rx="10"/>
+  <text class="head" x="58" y="1464">WITH A SPACER — GIVE 4 SEPARATE PUFFS</text>
+  <circle class="num" cx="82" cy="1520" r="22"/><text class="numText" x="82" y="1529" text-anchor="middle">1</text>
+  <text class="body" x="122" y="1530">Shake the puffer. Put it upright into the spacer.</text>
+  <circle class="num" cx="82" cy="1580" r="22"/><text class="numText" x="82" y="1589" text-anchor="middle">2</text>
+  <text class="body" x="122" y="1590">Press once: one puff into the spacer.</text>
+  <circle class="num" cx="82" cy="1640" r="22"/><text class="numText" x="82" y="1649" text-anchor="middle">3</text>
+  <text class="body" x="122" y="1650">Take 4 breaths in and out through the spacer.</text>
+  <circle class="num" cx="82" cy="1700" r="22"/><text class="numText" x="82" y="1709" text-anchor="middle">4</text>
+  <text class="body" x="122" y="1710">Repeat one puff + four breaths until 4 puffs are given.</text>
+
+  <rect class="warn" x="34" y="1750" width="932" height="105" rx="10"/>
+  <text class="head red" x="58" y="1794">WAIT 4 MINUTES — WATCH BREATHING</text>
+  <text class="small" x="58" y="1837">Any worsening or severe sign means 000 immediately. Do not finish the wait.</text>
+
+  <rect x="0" y="1860" width="1000" height="40" fill="#fff7e6"/>
+  <text x="964" y="1886" text-anchor="end" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#77551c">WORKING DRAFT — CONTINUE TO PART 3</text>
+
+  <text class="title" x="34" y="1958">AFTER FOUR MINUTES — RECHECK</text>
+  <text class="subtitle" x="966" y="1992" text-anchor="end">WORKING CARD · PART 3 OF 3</text>
+
+  <rect class="blue" x="34" y="2015" width="932" height="245" rx="10"/>
+  <text class="head" x="58" y="2058">LITTLE OR NO IMPROVEMENT?</text>
+  <text class="body" x="58" y="2105">Give another 4 separate puffs by the same spacer method.</text>
+  <text class="body" x="58" y="2152">Still not improving, or severe/worsening at any time? Call 000.</text>
+  <text class="body" x="58" y="2199">Keep giving 4 puffs every 4 minutes while awaiting help.</text>
+  <text class="tiny" x="58" y="2240">Breathing normally again? Stop extra doses and seek medical review promptly.</text>
+
+  <rect class="warn" x="34" y="2285" width="932" height="150" rx="10"/>
+  <text class="midhead red" x="58" y="2327">DIFFERENT RELIEVER OR NO RELIEVER</text>
+  <text class="small" x="58" y="2368">Different device: follow the current plan and exact device instructions.</text>
+  <text class="small" x="58" y="2405">No reliever: call 000 now. No steam, paper bag or improvised medicine.</text>
+
+  <rect class="box" x="34" y="2460" width="448" height="145" rx="10"/>
+  <text class="head" x="58" y="2503">WITH A KIT</text>
+  <text class="small" x="58" y="2545">• matched reliever + spacer</text>
+  <text class="small" x="58" y="2582">• current plan + timer</text>
+
+  <rect class="box" x="518" y="2460" width="448" height="145" rx="10"/>
+  <text class="head" x="542" y="2503">WITHOUT A KIT</text>
+  <text class="small" x="542" y="2545">• use the person’s correct reliever</text>
+  <text class="small red" x="542" y="2582">• none available: 000; no substitute</text>
+
+  <rect class="amberBox" x="34" y="2625" width="932" height="55" rx="10"/>
+  <text class="tiny amber" x="500" y="2660" text-anchor="middle">000 will not connect? Keep care going; use Chapter 3. Do not leave merely for signal.</text>
+
+  <rect x="0" y="2685" width="1000" height="15" fill="#fff0ed"/>
+</svg>

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1800" viewBox="0 0 1000 1800" role="img" aria-labelledby="title desc">
+  <title id="title">Warrigal greens and bower spinach stop check before preparation</title>
+  <desc id="desc">Working two-part comparison prompt, not an identification key or eating clearance. Leaves alone are not enough. Follow the same plant from overall growth, to flower attachment, to mature fruit. Warrigal greens are a low sprawling herb with flowers at or very near a leaf node and a roughly one-centimetre dry or thinly succulent fruit with angles, wings or short horns. Bower spinach is a trailing or climbing woody-based plant with yellow flowers on visible slender stalks about five to thirty millimetres long and a five-to-eight-millimetre fruit that is fleshy outside and hard within. A source-labelled Victorian photograph now shows attached red and yellow-orange bower-spinach fruit, but it has no ruler and mature stage is not independently confirmed. The guide still lacks a matched, measured mature-fruit pair. If flower attachment and mature fruit cannot both be checked on the same plant, stop: do not taste, eat or prepare it. Never transfer the Warrigal boiling method to bower spinach. The percentages shown estimate source wording and new layout completeness only, not correct identification, food safety or survival.</desc>
+  <defs>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.blue{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.amberBox{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.white{fill:#fff;stroke:#244a3c;stroke-width:2}
+      .title{font:700 39px Arial,sans-serif;fill:#173f35}.subtitle{font:700 22px Arial,sans-serif;fill:#77551c}.head{font:700 31px Arial,sans-serif;fill:#173f35}.midhead{font:700 27px Arial,sans-serif;fill:#173f35}.body{font:28px Arial,sans-serif;fill:#344c41}.small{font:24px Arial,sans-serif;fill:#344c41}.tiny{font:21px Arial,sans-serif;fill:#344c41}.red{fill:#7a2926}.amber{fill:#7b5114}.num{fill:#244a3c}.numText{font:700 25px Arial,sans-serif;fill:#fff}.arrow{fill:none;stroke:#244a3c;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="1800"/>
+
+  <text class="title" x="34" y="58">WARRIGAL GREENS OR BOWER SPINACH?</text>
+  <text class="subtitle" x="966" y="92" text-anchor="end">WORKING STOP CHECK · PART 1 OF 2</text>
+
+  <rect class="amberBox" x="34" y="118" width="932" height="190" rx="10"/>
+  <text class="head amber" x="58" y="160">NOT AN IDENTIFICATION KEY OR EATING CLEARANCE</text>
+  <text class="small" x="58" y="203">Subjective estimates: source wording 95%; new layout 60%.</text>
+  <text class="small" x="58" y="241">These are not probabilities of correct identity, food safety or survival.</text>
+  <text class="small" x="58" y="279">Use the photographs and both parts together. Expert review is still required.</text>
+
+  <rect class="warn" x="34" y="334" width="932" height="132" rx="10"/>
+  <text class="head red" x="500" y="380" text-anchor="middle">LEAVES ALONE ARE NOT ENOUGH</text>
+  <text class="body" x="500" y="426" text-anchor="middle">Do not taste or prepare either plant from a leaf match.</text>
+
+  <rect class="box" x="34" y="492" width="932" height="154" rx="10"/>
+  <text class="midhead" x="58" y="535">FOLLOW ONE PLANT THROUGH THREE CHECKS</text>
+  <circle class="num" cx="126" cy="590" r="24"/><text class="numText" x="126" y="599" text-anchor="middle">1</text>
+  <text class="small" x="161" y="600">whole growth</text>
+  <path class="arrow" d="M330 590h95m-18-16 18 16-18 16"/>
+  <circle class="num" cx="484" cy="590" r="24"/><text class="numText" x="484" y="599" text-anchor="middle">2</text>
+  <text class="small" x="519" y="600">flower attachment</text>
+  <path class="arrow" d="M747 590h70m-18-16 18 16-18 16"/>
+  <circle class="num" cx="868" cy="590" r="24"/><text class="numText" x="868" y="599" text-anchor="middle">3</text>
+  <text class="tiny" x="902" y="583">mature</text>
+  <text class="tiny" x="902" y="610">fruit</text>
+
+  <rect class="blue" x="34" y="660" width="448" height="206" rx="10"/>
+  <text class="head" x="58" y="704">WARRIGAL GREENS</text>
+  <text class="small" x="58" y="746">• low, sprawling herb</text>
+  <text class="small" x="58" y="786">• flower at or very near a leaf node</text>
+  <text class="tiny" x="58" y="826">• fruit about 1 cm; dry or thinly fleshy,</text>
+  <text class="tiny" x="78" y="854">with angles, wings or short horns</text>
+
+  <rect class="white" x="518" y="660" width="448" height="206" rx="10"/>
+  <text class="head" x="542" y="704">BOWER SPINACH</text>
+  <text class="small" x="542" y="746">• trailing or climbing; woody at base</text>
+  <text class="small" x="542" y="786">• yellow flower on a 5–30 mm stalk</text>
+  <text class="tiny" x="542" y="826">• fruit 5–8 mm; fleshy outside,</text>
+  <text class="tiny" x="562" y="854">hard within</text>
+
+  <rect x="0" y="874" width="1000" height="26" fill="#fff7e6"/>
+  <text x="966" y="894" text-anchor="end" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#77551c">WORKING DRAFT — CONTINUE TO PART 2 BEFORE ANY PREPARATION</text>
+
+  <text class="title" x="34" y="958">STOP UNLESS THE WHOLE CHECK AGREES</text>
+  <text class="subtitle" x="966" y="992" text-anchor="end">WORKING STOP CHECK · PART 2 OF 2</text>
+
+  <rect class="amberBox" x="34" y="1018" width="932" height="142" rx="10"/>
+  <text class="head amber" x="58" y="1060">CURRENT PHOTO LIMIT</text>
+  <text class="small" x="58" y="1102">No matched, measured mature-fruit pair is in this guide.</text>
+  <text class="small" x="58" y="1140">Bower photo: no ruler; maturity is not expert-confirmed.</text>
+
+  <rect class="box" x="34" y="1186" width="932" height="214" rx="10"/>
+  <text class="head" x="58" y="1231">STOP IF ANY ANSWER IS NO OR UNSURE</text>
+  <text class="body" x="58" y="1276">□ Did you follow the same plant from habit to reproductive parts?</text>
+  <text class="body" x="58" y="1321">□ Can you see where its flower joins and whether it has a stalk?</text>
+  <text class="body" x="58" y="1366">□ Is mature fruit present and consistent with the botanical account?</text>
+
+  <rect class="warn" x="34" y="1426" width="932" height="198" rx="10"/>
+  <text class="head red" x="500" y="1470" text-anchor="middle">IF A CHECK IS MISSING OR INCONSISTENT</text>
+  <text class="body" x="500" y="1516" text-anchor="middle">Do not taste it. Do not eat it. Do not prepare it.</text>
+  <text class="body red" x="500" y="1562" text-anchor="middle">Never transfer the Warrigal boiling method to bower spinach.</text>
+  <text class="small" x="500" y="1602" text-anchor="middle">Use carried food or another already-known, approved option.</text>
+
+  <rect class="blue" x="34" y="1650" width="932" height="102" rx="10"/>
+  <text class="tiny" x="58" y="1684">Botanical basis: VicFlora and Flora of Australia (S-342, S-400).</text>
+  <text class="tiny" x="58" y="1718">No Traditional Owner name, food method or permission is inferred on this card.</text>
+  <text class="tiny" x="58" y="1742">Botanist, food-safety and novice no-consumption review remain outstanding.</text>
+
+  <rect x="0" y="1764" width="1000" height="36" fill="#fff0ed"/>
+  <text x="966" y="1789" text-anchor="end" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#7a2926">WORKING DRAFT — IF UNSURE, DO NOT EAT</text>
+</svg>

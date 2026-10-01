@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2020" viewBox="0 0 1000 2020" role="img" aria-labelledby="title desc">
+  <title id="title">Conservative Victorian fire go or no-go check</title>
+  <desc id="desc">A ten-gate Victorian fire decision card. A fire may be considered only when there is no nearby fire threat; the rating is Moderate and every live ban, restriction, closure, land rule and sign permits this exact fire; a supplied public or specifically and currently authorised fireplace is available; wind is below ten kilometres per hour and not rising; the site and three-metre clear area are safe; at least ten litres of extinguishing water is already beside the fire in usable vessels or an immediately usable hose is connected, and that extinguishing water is separate from drinking water the group needs; a turning tool is ready; a capable adult will supervise continuously; a fire is genuinely needed; and a safe exit remains available. Any no or unknown answer means no fire.</desc>
+  <defs>
+    <marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto"><path d="M0 0 L15 8 L0 16 Z" fill="#244a3c"/></marker>
+    <marker id="arrowRed" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto"><path d="M0 0 L15 8 L0 16 Z" fill="#8c2f2b"/></marker>
+    <style>
+      .bg{fill:#fffefa}.decision{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warning{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.path{fill:none;stroke:#244a3c;stroke-width:4;marker-end:url(#arrow)}.stopPath{fill:none;stroke:#8c2f2b;stroke-width:4;marker-end:url(#arrowRed)}.title{font:700 46px Arial,sans-serif;fill:#173f35}.head{font:700 31px Arial,sans-serif;fill:#173f35}.body{font:27px Arial,sans-serif;fill:#22382d}.small{font:24px Arial,sans-serif;fill:#344c41}.branch{font:700 25px Arial,sans-serif}.red{fill:#7a2926}.amber{fill:#7b5114}.tick{fill:#244a3c;font:700 31px Arial,sans-serif}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="2020"/>
+  <text class="title" x="36" y="58">Fire: every answer must be YES</text>
+
+  <rect class="warning" x="34" y="82" width="932" height="195" rx="10"/>
+  <text class="head red" x="58" y="124">CURRENT RULES AND CONDITIONS CONTROL</text>
+  <text class="small" x="58" y="165">Estimated wording accuracy: 95% for the cited limits; screen untested.</text>
+  <text class="small" x="58" y="202">This is a subjective estimate, not a probability of safety.</text>
+  <text class="small" x="58" y="239">Check the exact location now. Any NO or UNKNOWN means NO FIRE.</text>
+
+  <rect class="decision" x="50" y="305" width="900" height="1250" rx="10"/>
+  <text class="head" x="78" y="348">BEFORE MAKING A FLAME, CONFIRM ALL TEN IN ORDER</text>
+
+  <text class="tick" x="78" y="398">1</text>
+  <text class="body" x="130" y="398">NO NEARBY FIRE THREAT</text>
+  <text class="small" x="130" y="430">No nearby smoke, visible fire or fire warning. If present: NO FIRE.</text>
+
+  <text class="tick" x="78" y="498">2</text>
+  <text class="body" x="130" y="498">MODERATE RATING + CURRENT PERMISSION</text>
+  <text class="small" x="130" y="530">All live bans, restrictions, closures, land rules and signs allow it.</text>
+  <text class="small red" style="font-size:22px" x="130" y="560">High, Extreme, Catastrophic, No Rating, unknown or Total Fire Ban: NO.</text>
+
+  <text class="tick" x="78" y="628">3</text>
+  <text class="body" x="130" y="628">CURRENTLY AUTHORISED FIREPLACE</text>
+  <text class="small" x="130" y="660">Use a supplied public fireplace, or the exact fireplace the current</text>
+  <text class="small" x="130" y="690">site rule specifically authorises. Old ring, scar or improvised pit: NO.</text>
+
+  <text class="tick" x="78" y="758">4</text>
+  <text class="body" x="130" y="758">LOW, STEADY WIND</text>
+  <text class="small" x="130" y="790">Below 10 km/h every time and not increasing. Moving small branches,</text>
+  <text class="small" x="130" y="820">moving embers, rising wind or doubt: NO FIRE.</text>
+
+  <text class="tick" x="78" y="888">5</text>
+  <text class="body" x="130" y="888">SAFE SITE + FULL CLEAR AREA</text>
+  <text class="small" x="130" y="920">Measure 3 m from outer edge in every direction and highest point up.</text>
+  <text class="small" style="font-size:22px" x="130" y="950">Fire at most 1 m × 1 m. Tents and spare fuel stay outside.</text>
+  <text class="small red" style="font-size:20px" x="130" y="978">Fire starter and prepared wood stay outside until needed;</text>
+  <text class="small red" style="font-size:20px" x="130" y="1004">reject litter, roots, slope or an ember path.</text>
+
+  <text class="tick" x="78" y="1048">6</text>
+  <text class="body" x="130" y="1048">USABLE EXTINGUISHING WATER</text>
+  <text class="small" x="130" y="1080">At least 10 L already beside the fire in usable vessel(s), or an</text>
+  <text class="small" x="130" y="1110">immediately usable hose. A stream, lake or tank without delivery is NO.</text>
+  <text class="small red" style="font-size:22px" x="130" y="1140">Separate from drinking water the group needs—or NO FIRE.</text>
+
+  <text class="tick" x="78" y="1178">7</text>
+  <text class="body" x="130" y="1178">TURNING TOOL</text>
+  <text class="small" x="130" y="1210">A suitable non-combustible tool is beside the water.</text>
+
+  <text class="tick" x="78" y="1278">8</text>
+  <text class="body" x="130" y="1278">CONTINUOUS CAPABLE SUPERVISION</text>
+  <text class="small" x="130" y="1310">An adult stays awake, alert, able to intervene and in constant sight.</text>
+
+  <text class="tick" x="78" y="1378">9</text>
+  <text class="body" x="130" y="1378">GENUINE NEED</text>
+  <text class="small" x="130" y="1410">Shelter, insulation, ready food or non-fire signals do not solve it.</text>
+
+  <text class="tick" x="78" y="1478">10</text>
+  <text class="body" x="130" y="1478">SAFE EXIT</text>
+  <text class="small" x="130" y="1510">An exit away from the fire and surrounding hazards remains usable.</text>
+
+  <path class="stopPath" d="M360 1555 V1610"/>
+  <text class="branch red" x="330" y="1600" text-anchor="end">ANY NO / UNKNOWN</text>
+  <path class="path" d="M640 1555 V1610"/>
+  <text class="branch" x="670" y="1600">ALL YES</text>
+
+  <rect class="warning" x="34" y="1622" width="448" height="305" rx="10"/>
+  <text class="head red" x="58" y="1665">NO FIRE</text>
+  <text class="small" x="58" y="1708">Use shelter and insulation.</text>
+  <text class="small" x="58" y="1746">Eat ready-to-eat carried food.</text>
+  <text class="small" x="58" y="1784">Use 000, satellite SOS or a PLB.</text>
+  <text class="small" x="58" y="1822">Signal by whistle, torch, mirror</text>
+  <text class="small" x="58" y="1852">or bright material—not a signal fire.</text>
+  <text class="small" x="58" y="1890">Use carried safe water or a route</text>
+  <text class="small" x="58" y="1920">Chapter 7 currently provides.</text>
+
+  <rect class="caution" x="518" y="1622" width="448" height="305" rx="10"/>
+  <text class="head amber" x="542" y="1665">A CONDITIONAL SMALL</text>
+  <text class="head amber" x="542" y="1702">FIRE MAY BE CONSIDERED</text>
+  <text class="small" x="542" y="1744">This is not permission to light.</text>
+  <text class="small" x="542" y="1782">Use the small-fire control card.</text>
+  <text class="small" x="542" y="1820">Other gate failure: stop fuel and</text>
+  <text class="small" x="542" y="1850">extinguish while exit remains safe.</text>
+  <text class="small red" x="542" y="1888">Fire spreads or exit threatened:</text>
+  <text class="small red" x="542" y="1918">move first; then 000, SOS or PLB.</text>
+
+  <text x="500" y="1995" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#77551c">WORKING DRAFT — NOT FIELD-APPROVED</text>
+</svg>

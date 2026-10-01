@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="510" viewBox="0 0 900 510" role="img" aria-labelledby="title desc"><title id="title">Running-sinker rig: order of parts</title><desc id="desc">Original working diagram. Read the adjoining instructions and limitations.</desc><defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8" fill="#244a3c"/></marker></defs><rect width="900" height="510" fill="#fffefa"/><g font-family="Arial, sans-serif" fill="#22382d"><text x="32" y="44" font-size="28" font-weight="bold">Running-sinker rig: order of parts</text>
+<text x="70" y="100" font-size="23">Main line from rod / handline</text>
+<path d="M90 156H330" stroke="#244a3c" stroke-width="4"/><ellipse cx="250" cy="156" rx="36" ry="26" fill="#bebcae" stroke="#555d53" stroke-width="3"/><path d="M214 156H286" stroke="#244a3c" stroke-width="4"/>
+<ellipse cx="350" cy="156" rx="20" ry="12" fill="none" stroke="#5e5f52" stroke-width="4"/><rect x="370" y="146" width="32" height="20" rx="7" fill="#aaa997" stroke="#5e5f52" stroke-width="3"/><ellipse cx="422" cy="156" rx="20" ry="12" fill="none" stroke="#5e5f52" stroke-width="4"/>
+<path d="M442 156H760V269" fill="none" stroke="#244a3c" stroke-width="4"/>
+<circle cx="760" cy="282" r="10" fill="none" stroke="#445548" stroke-width="4"/><path d="M760 292V348Q760 386 723 385Q690 385 690 349L690 326" fill="none" stroke="#445548" stroke-width="5"/>
+<text x="171" y="232" font-size="22">Sliding sinker</text><path d="M247 205V187" stroke="#244a3c" stroke-width="2"/>
+<text x="349" y="277" font-size="22">Swivel</text><path d="M387 250V177" stroke="#244a3c" stroke-width="2"/>
+<text x="493" y="222" font-size="22">Trace: 40–50 cm example</text><text x="493" y="251" font-size="18">A separate short length of line</text>
+<text x="680" y="430" font-size="22">One hook</text>
+<text x="60" y="353" font-size="21">Tie main line to one end of swivel.</text><text x="60" y="387" font-size="21">Tie trace to the other end, then to hook.</text>
+<text x="60" y="464" font-size="20">Generic hook symbol — not a fish-size, hook-size or knot diagram.</text><text x="32" y="492" font-size="16" fill="#77551c">WORKING DIAGRAM • Not to scale • Read the warning and full instructions</text></g></svg>

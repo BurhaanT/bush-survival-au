@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1815" viewBox="0 0 1000 1815" role="img" aria-labelledby="title desc">
+  <title id="title">Unresponsive person: first response flow</title>
+  <desc id="desc">A working Australian first-response flow. Check danger first, control obvious life-threatening bleeding, check response, call triple zero, open and clear the airway, check breathing, then use side positioning for an adult or child breathing normally or start CPR when breathing is abnormal or uncertain.</desc>
+  <defs>
+    <marker id="arrowGreen" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto"><path d="M0 0 L18 9 L0 18 Z" fill="#244a3c"/></marker>
+    <marker id="arrowRed" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto"><path d="M0 0 L18 9 L0 18 Z" fill="#8c2f2b"/></marker>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.decision{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warning{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.path{fill:none;stroke:#244a3c;stroke-width:4;marker-end:url(#arrowGreen)}.stopPath{fill:none;stroke:#8c2f2b;stroke-width:4;marker-end:url(#arrowRed)}.title{font:700 46px Arial,sans-serif;fill:#173f35}.head{font:700 31px Arial,sans-serif;fill:#173f35}.small{font:28px Arial,sans-serif;fill:#344c41}.branch{font:700 28px Arial,sans-serif;fill:#173f35}.red{fill:#7a2926}.amber{fill:#7b5114}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="1815"/>
+  <text class="title" x="36" y="57">Unresponsive person: what to do first</text>
+
+  <rect class="warning" x="34" y="80" width="932" height="174" rx="10"/>
+  <text class="head red" x="58" y="121">WARNING — CLINICAL REVIEW OUTSTANDING</text>
+  <text class="small" x="58" y="162">Editorial estimate: wording 95%; stressed-reader use 70%.</text>
+  <text class="small" x="58" y="200">Follow the 000 call-taker. Do not delay urgent care to study this card.</text>
+  <text class="small" x="58" y="238">Not for a newborn immediately after birth.</text>
+
+  <rect class="decision" x="66" y="281" width="868" height="112" rx="10"/>
+  <text class="head" x="92" y="324">1  CAN YOU APPROACH SAFELY?</text>
+  <text class="small" x="92" y="368">Check traffic, fire, electricity, water, unstable ground and trees.</text>
+  <path class="stopPath" d="M330 393 V429"/>
+  <text class="branch red" x="300" y="420" text-anchor="end">NO / UNSURE</text>
+  <path class="path" d="M670 393 V429"/>
+  <text class="branch" x="700" y="420">YES</text>
+
+  <rect class="warning" x="34" y="442" width="448" height="128" rx="10"/>
+  <text class="head red" x="58" y="483">DO NOT ENTER</text>
+  <text class="small" x="58" y="525">Call 000 from safety. Follow the</text>
+  <text class="small" x="58" y="559">call-taker's instructions.</text>
+  <rect class="caution" x="518" y="442" width="448" height="128" rx="10"/>
+  <text class="head amber" x="542" y="483">APPROACH CAREFULLY</text>
+  <text class="small" x="542" y="525">Keep checking for danger while</text>
+  <text class="small" x="542" y="559">you help.</text>
+  <path class="path" d="M670 570 V596 H500 V610"/>
+
+  <rect class="caution" x="66" y="622" width="868" height="166" rx="10"/>
+  <text class="head amber" x="92" y="664">IF BLEEDING IS OBVIOUSLY LIFE-THREATENING</text>
+  <text class="small" x="92" y="706">Apply firm direct pressure now and call 000.</text>
+  <text class="small" x="92" y="742">With helpers: one applies pressure; another follows this card.</text>
+  <text class="small" x="92" y="778">Minor bleeding does not come before CPR.</text>
+  <path class="path" d="M500 788 V816"/>
+
+  <rect class="decision" x="66" y="828" width="868" height="108" rx="10"/>
+  <text class="head" x="92" y="870">2  DO THEY RESPOND?</text>
+  <text class="small" x="92" y="913">Speak loudly; gently squeeze shoulders. Never shake an infant.</text>
+  <path class="path" d="M330 936 V970"/>
+  <text class="branch" x="300" y="962" text-anchor="end">RESPONDS</text>
+  <path class="path" d="M670 936 V970"/>
+  <text class="branch" x="700" y="962">NO RESPONSE</text>
+
+  <rect class="box" x="34" y="983" width="448" height="146" rx="10"/>
+  <text class="head" x="58" y="1024">STOP THIS FLOW</text>
+  <text class="small" x="58" y="1066">Assess the problem. Call 000</text>
+  <text class="small" x="58" y="1101">if serious. Watch breathing.</text>
+  <rect class="warning" x="518" y="983" width="448" height="146" rx="10"/>
+  <text class="head red" x="542" y="1024">CALL 000 NOW</text>
+  <text class="small" x="542" y="1066">Use speaker. Send for an AED</text>
+  <text class="small" x="542" y="1101">if available. Continue below.</text>
+  <path class="path" d="M670 1129 V1150 H500 V1168"/>
+
+  <rect class="box" x="66" y="1180" width="868" height="218" rx="10"/>
+  <text class="head" x="92" y="1222">3  OPEN AND CLEAR THE AIRWAY</text>
+  <text class="small" x="92" y="1264">If fluid or matter blocks the mouth, promptly roll them onto a side.</text>
+  <text class="small" x="92" y="1300">Let it drain. Remove only what you can see. Never sweep blindly.</text>
+  <text class="small" x="92" y="1336">Age 1+: tilt head and lift chin. Do not press under the chin.</text>
+  <text class="small" x="92" y="1372">Infant under 1: keep the head neutral.</text>
+  <path class="path" d="M500 1398 V1424"/>
+
+  <rect class="decision" x="66" y="1436" width="868" height="116" rx="10"/>
+  <text class="head" x="92" y="1478">4  ARE THEY BREATHING NORMALLY?</text>
+  <text class="small" x="92" y="1520">Check up to 10 sec. Gasps abnormal. Unsure = NO. No pulse check.</text>
+  <path class="path" d="M330 1552 V1586"/>
+  <text class="branch" x="300" y="1578" text-anchor="end">YES</text>
+  <path class="stopPath" d="M670 1552 V1586"/>
+  <text class="branch red" x="700" y="1578">NO / UNSURE</text>
+
+  <rect class="box" x="34" y="1599" width="448" height="168" rx="10"/>
+  <text class="head" x="58" y="1640">NORMAL BREATHING</text>
+  <text class="small" x="58" y="1680">Age 1+: side; airway open.</text>
+  <text class="small" x="58" y="1714">Watch breathing. Abnormal? CPR.</text>
+  <text class="small" x="58" y="1748">Infant: follow 000; not shown.</text>
+  <rect class="warning" x="518" y="1599" width="448" height="168" rx="10"/>
+  <text class="head red" x="542" y="1640">START CPR NOW</text>
+  <text class="small" x="542" y="1680">Put them on their back on</text>
+  <text class="small" x="542" y="1714">a firm surface. Start 30</text>
+  <text class="small" x="542" y="1748">compressions; use CPR card.</text>
+
+  <rect x="0" y="1779" width="1000" height="36" fill="#fff7e6"/>
+  <text x="964" y="1804" text-anchor="end" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#77551c">WORKING DRAFT — clinical and stressed-reader review outstanding</text>
+</svg>

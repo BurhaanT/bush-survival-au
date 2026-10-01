@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1240" viewBox="0 0 1000 1240" role="img" aria-labelledby="title desc">
+  <title id="title">AED pads and safety companion card</title>
+  <desc id="desc">A working Australian AED companion card. It covers bare-chest contact, removal of only the moisture or excessive hair needed for pad contact, medication-patch removal, eight-centimetre clearance from an implanted device, adult and paediatric pad modes, and front-back placement when pads might touch.</desc>
+  <defs>
+    <marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto"><path d="M0 0 L18 9 L0 18 Z" fill="#244a3c"/></marker>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.warning{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.path{fill:none;stroke:#244a3c;stroke-width:4;marker-end:url(#arrow)}.title{font:700 45px Arial,sans-serif;fill:#173f35}.head{font:700 31px Arial,sans-serif;fill:#173f35}.small{font:28px Arial,sans-serif;fill:#344c41}.red{fill:#7a2926}.amber{fill:#7b5114}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="1240"/>
+  <text class="title" x="36" y="57">AED pads and safety</text>
+
+  <rect class="warning" x="34" y="80" width="932" height="172" rx="10"/>
+  <text class="head red" x="58" y="121">FOLLOW THE ACTUAL AED AND PAD PICTURES</text>
+  <text class="small" x="58" y="162">Clinical review outstanding. Follow the device, pad pictures and 000.</text>
+  <text class="small" x="58" y="200">Keep CPR pauses short. Do not delay a shock to study this card.</text>
+  <text class="small" x="58" y="237">Not for a newborn immediately after birth.</text>
+
+  <rect class="box" x="66" y="280" width="868" height="161" rx="10"/>
+  <text class="head" x="92" y="322">1  MAKE ONLY THE CONTACT NEEDED</text>
+  <text class="small" x="92" y="364">Expose the chest. Remove only moisture or excess hair</text>
+  <text class="small" x="92" y="400">needed for firm pad contact. Minimise delay.</text>
+  <path class="path" d="M500 441 V469"/>
+
+  <rect class="warning" x="66" y="481" width="868" height="198" rx="10"/>
+  <text class="head red" x="92" y="523">2  CHECK PATCHES AND IMPLANTED DEVICES</text>
+  <text class="small" x="92" y="565">Do not place a pad over a medication patch.</text>
+  <text class="small" x="92" y="601">Remove the patch; wipe the area before pad placement.</text>
+  <text class="small" x="92" y="643">Keep a pad at least 8 cm from an implanted medical device.</text>
+  <path class="path" d="M500 679 V707"/>
+
+  <rect class="box" x="66" y="719" width="868" height="227" rx="10"/>
+  <text class="head" x="92" y="761">3  CHOOSE THE AED MODE AND PADS</text>
+  <text class="small" x="92" y="803">Older than 8: a standard adult AED and pads are suitable.</text>
+  <text class="small" x="92" y="839">Under 8, including infants: paediatric pads and mode are preferred.</text>
+  <text class="small" x="92" y="875">If unavailable, standard adult pads are reasonable.</text>
+  <text class="small red" x="92" y="917">Exactly age 8: follow the device label, AED prompts and 000.</text>
+  <path class="path" d="M500 946 V974"/>
+
+  <rect class="caution" x="66" y="986" width="868" height="174" rx="10"/>
+  <text class="head amber" x="92" y="1028">4  NEVER LET THE PADS TOUCH</text>
+  <text class="small" x="92" y="1070">If pads may touch on the chest, follow their pictures and prompts.</text>
+  <text class="small" x="92" y="1106">Put one on the upper back between the shoulder blades;</text>
+  <text class="small" x="92" y="1142">put the other on the front of the chest.</text>
+
+  <rect x="0" y="1204" width="1000" height="36" fill="#fff7e6"/>
+  <text x="964" y="1229" text-anchor="end" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#77551c">WORKING DRAFT — companion card; clinical and stressed-reader review outstanding</text>
+</svg>

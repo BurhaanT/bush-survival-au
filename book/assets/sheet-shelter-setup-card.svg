@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="4200" viewBox="0 0 1000 4200" role="img" aria-labelledby="title desc" lang="en-AU" xml:lang="en-AU">
+  <title id="title">Rapid sheet shelter — only when the equipment and site pass</title>
+  <desc id="desc">Working, untested sequence for a carried sheet shelter. First confirm an intact sheet, sound existing tie points, suitable lines and pegs or anchors, a stable support intended for the equipment, conditions mild enough for setup, an exact setup already known and practised, and capacity to pitch it without climbing, unsafe effort, stopping essential care or leaving an injured person. Screen the site for falling trees or limbs, runoff and rising water, unstable ground, fire and smoke, and keep an escape route. Lay out the bedding, place the low edge toward incoming wind and rain, keep the opening on the sheltered side, use only the equipment's intended supports and attachments, form a continuously sloping roof, then check breathing space, runoff, pooling, attachment stability, entrance clearance and reachable emergency items. If equipment or a check is missing or uncertain, do not build this design. The card gives no shelter dimensions, knot, anchor method, wind rating, temperature rating or natural-material shelter method and does not permit combustion inside.</desc>
+  <defs>
+    <marker id="arrowGreen" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#244a3c"/></marker>
+    <marker id="arrowBlue" markerWidth="44" markerHeight="44" refX="40" refY="22" orient="auto" markerUnits="userSpaceOnUse" viewBox="0 0 44 44"><path d="M0,0 L44,22 L0,44 z" fill="#2b6684"/></marker>
+    <style>
+      .title{font:700 42px Arial,sans-serif;fill:#173f35}
+      .subtitle{font:700 30px Arial,sans-serif;fill:#344c41}
+      .head{font:700 32px Arial,sans-serif;fill:#173f35}
+      .body{font:30px Arial,sans-serif;fill:#344c41}
+      .small{font:24px Arial,sans-serif;fill:#344c41}
+      .tiny{font:20px Arial,sans-serif;fill:#344c41}
+      .danger{fill:#7a2926}
+      .amber{fill:#7a4b0d}
+      .panel{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}
+      .info{fill:#eaf1f6;stroke:#2b6684;stroke-width:3}
+      .warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}
+      .caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}
+      .line{stroke:#244a3c;stroke-width:8;fill:none;stroke-linecap:round;stroke-linejoin:round}
+      .thin{stroke:#244a3c;stroke-width:4;fill:none;stroke-linecap:round;stroke-linejoin:round}
+      .blue{stroke:#2b6684;stroke-width:7;fill:none;stroke-linecap:round;stroke-linejoin:round}
+      .ground{stroke:#646e61;stroke-width:8;fill:none}
+    </style>
+  </defs>
+  <rect width="1000" height="4200" fill="#fffefa"/>
+
+  <text class="title" x="34" y="58">RAPID SHEET SHELTER</text>
+  <text class="subtitle" x="34" y="108">Only when the equipment and site pass</text>
+
+  <rect class="warn" x="34" y="138" width="932" height="407" rx="12"/>
+  <text class="head danger" x="58" y="184">WARNING — UNTESTED SHEET-SHELTER SEQUENCE</text>
+  <text class="body" x="58" y="230">Evidence confidence: Moderate for the carried-sheet order;</text>
+  <text class="body" x="58" y="268">insufficient for exact anchors or weather performance.</text>
+  <text class="body" x="58" y="306">Subjective estimates: hazard/prohibition wording 95%;</text>
+  <text class="body" x="58" y="344">project-synthesis setup order 70%; new layout 60%.</text>
+  <text class="body" x="58" y="382">Not probabilities of safety, warmth, holding strength or survival.</text>
+  <text class="body" x="58" y="420">No dimension, knot, anchor method or wind rating is supplied.</text>
+  <text class="body" x="58" y="458">No safe-temperature claim is supplied.</text>
+  <text class="body" x="58" y="496">Use an established tent or the maker's setup when available.</text>
+  <text class="small danger" x="58" y="530">Outdoor and search-and-rescue, practical and reader review remains open.</text>
+
+  <rect class="panel" x="34" y="575" width="932" height="615" rx="12"/>
+  <text class="head" x="58" y="623">USE THIS ROUTE ONLY IF EVERY ANSWER IS YES</text>
+  <g>
+    <rect x="62" y="650" width="28" height="28" fill="#fffefa" stroke="#244a3c" stroke-width="3"/><text class="body" x="106" y="676">Intact sheet</text>
+    <rect x="62" y="705" width="28" height="28" fill="#fffefa" stroke="#244a3c" stroke-width="3"/><text class="body" x="106" y="731">Sound existing tie points</text>
+    <rect x="62" y="760" width="28" height="28" fill="#fffefa" stroke="#244a3c" stroke-width="3"/><text class="body" x="106" y="786">Suitable lines</text>
+    <rect x="62" y="815" width="28" height="28" fill="#fffefa" stroke="#244a3c" stroke-width="3"/><text class="small" x="106" y="839">Exact setup practised</text>
+    <rect x="520" y="650" width="28" height="28" fill="#fffefa" stroke="#244a3c" stroke-width="3"/><text class="body" x="564" y="676">Suitable pegs or anchors</text>
+    <rect x="520" y="705" width="28" height="28" fill="#fffefa" stroke="#244a3c" stroke-width="3"/><text class="small" x="564" y="729">Stable intended support</text>
+    <rect x="520" y="760" width="28" height="28" fill="#fffefa" stroke="#244a3c" stroke-width="3"/><text class="small" x="564" y="784">Mild enough to set up safely</text>
+    <rect x="520" y="815" width="28" height="28" fill="#fffefa" stroke="#244a3c" stroke-width="3"/><text class="small" x="564" y="839">No unsafe effort needed</text>
+  </g>
+  <rect class="warn" x="58" y="867" width="884" height="76" rx="9"/>
+  <text class="head danger" x="500" y="917" text-anchor="middle">NO OR UNSURE → DO NOT BUILD THIS DESIGN</text>
+  <text class="small" x="62" y="974">Do not invent a missing knot, anchor or support from this picture.</text>
+  <text class="small" x="62" y="1004">Do not climb, stop essential care or leave an injured person to pitch it.</text>
+  <text class="small" x="62" y="1034">Use rainwear and intact carried layers against wind and rain.</text>
+  <text class="small" x="62" y="1064">Put dry spare clothing or a pack under you; remove hard objects.</text>
+  <text class="small" x="62" y="1094">Keep the face open. Seek rescue sooner. This is not equal shelter.</text>
+  <rect class="caution" x="58" y="1112" width="884" height="58" rx="7"/>
+  <text class="tiny amber" x="500" y="1138" text-anchor="middle">STOP: strong or worsening wind, lightning, unstable ground,</text>
+  <text class="tiny amber" x="500" y="1162" text-anchor="middle">rising water, runoff or an unsafe support.</text>
+
+  <rect class="info" x="34" y="1220" width="932" height="380" rx="12"/>
+  <text class="head" x="58" y="1268">1 — SCREEN THE SITE: LOOK UP, AROUND AND UNDER</text>
+  <g aria-hidden="true">
+    <path class="thin" d="M82 1335v82 M82 1358l-26 42 M82 1358l30 38 M58 1318l24-30 24 30z"/>
+    <path class="blue" d="M164 1426q38-36 76 0t76 0"/>
+    <path class="thin" d="M336 1430l54-92 60 92"/>
+    <path d="M507 1428c-28-38 16-52-4-92 49 26 37 61 55 92z" fill="#fff7e6" stroke="#8a5a10" stroke-width="4"/>
+    <path class="thin" d="M640 1382h112" marker-end="url(#arrowGreen)"/>
+  </g>
+  <text class="small" x="58" y="1470">Avoid falling trees or limbs; drains, gullies, runoff and rising water.</text>
+  <text class="small" x="58" y="1504">Avoid unstable rock or slopes; fire and smoke; keep a clear escape route.</text>
+  <text class="small" x="58" y="1538">No site is “safe”. Choose the least-hazard workable site.</text>
+  <text class="small danger" x="58" y="1572">Serious hazard remains? Do not build here.</text>
+
+  <rect class="panel" x="34" y="1630" width="932" height="590" rx="12"/>
+  <text class="head" x="58" y="1678">2 — LAY OUT BEFORE PITCHING</text>
+  <g aria-hidden="true">
+    <rect x="142" y="1742" width="410" height="350" rx="6" fill="#eaf1f6" stroke="#244a3c" stroke-width="5"/>
+    <path d="M142 1742v350" stroke="#173f35" stroke-width="15"/>
+    <path d="M552 1742v350" stroke="#2b6684" stroke-width="7" stroke-dasharray="16 12"/>
+    <rect x="184" y="1840" width="250" height="92" rx="38" fill="#c5cdb9" stroke="#244a3c" stroke-width="4"/>
+    <circle cx="398" cy="1886" r="28" fill="#fffefa" stroke="#244a3c" stroke-width="4"/>
+    <path class="blue" d="M70 1790h60" marker-end="url(#arrowBlue)"/>
+    <path class="blue" d="M70 2038h60" marker-end="url(#arrowBlue)"/>
+    <path class="thin" d="M484 1970h86" marker-end="url(#arrowGreen)"/>
+    <text class="tiny" x="142" y="1724">LOW EDGE</text>
+    <text class="tiny" x="312" y="2124" text-anchor="middle">OPENING — SHELTERED SIDE</text>
+    <text class="tiny" x="176" y="1822">MAT + DRY BEDDING</text>
+    <text class="tiny" x="88" y="1890" text-anchor="middle">WIND</text>
+    <text class="tiny" x="88" y="1918" text-anchor="middle">+ RAIN</text>
+    <text class="tiny amber" x="312" y="2178" text-anchor="middle">CONCEPT ONLY — NOT TO SCALE</text>
+  </g>
+  <text class="small" x="590" y="1758">Mark where the mat and</text>
+  <text class="small" x="590" y="1792">dry bedding will lie.</text>
+  <text class="small" x="590" y="1848">Low edge faces incoming</text>
+  <text class="small" x="590" y="1882">wind and rain.</text>
+  <text class="small" x="590" y="1938">Opening goes on the</text>
+  <text class="small" x="590" y="1972">sheltered side.</text>
+  <text class="small" x="590" y="2028">Runoff lands outside.</text>
+  <text class="small" x="590" y="2084">Body and face must not</text>
+  <text class="small" x="590" y="2118">touch the wet roof.</text>
+
+  <rect class="caution" x="34" y="2250" width="932" height="330" rx="12"/>
+  <text class="head" x="58" y="2298">3 — SECURE THE LOW EDGE</text>
+  <text class="body" x="58" y="2342">Use existing tie points and suitable lines and pegs or anchors.</text>
+  <text class="body" x="58" y="2380">Follow the equipment's intended arrangement.</text>
+  <text class="body" x="58" y="2418">Use only an arrangement you know and have practised.</text>
+  <rect class="warn" x="58" y="2442" width="884" height="72" rx="8"/>
+  <text class="small danger" x="500" y="2472" text-anchor="middle">NOT SHOWN: knot, anchor type, peg angle or depth,</text>
+  <text class="small danger" x="500" y="2502" text-anchor="middle">spacing or load capacity.</text>
+  <text class="small" x="58" y="2548">No loose or balanced pole. No heavy branch or loose rock overhead.</text>
+
+  <rect class="panel" x="34" y="2610" width="932" height="650" rx="12"/>
+  <text class="head" x="58" y="2658">4 — RAISE AND SECURE THE OPEN SIDE</text>
+  <g aria-hidden="true">
+    <path class="ground" d="M60 3210h520"/>
+    <rect x="400" y="2780" width="80" height="430" rx="8" fill="#e5e8e5" stroke="#7a8580" stroke-width="5" stroke-dasharray="12 10"/>
+    <path d="M410 2825l58-36 M410 2895l58-36 M410 2965l58-36 M410 3035l58-36 M410 3105l58-36 M410 3175l58-36" stroke="#a7afa9" stroke-width="5"/>
+    <path d="M105 3178L450 2798" stroke="#244a3c" stroke-width="13" fill="none"/>
+    <rect x="180" y="3126" width="205" height="42" rx="10" fill="#c5cdb9" stroke="#244a3c" stroke-width="3"/>
+    <circle cx="350" cy="3106" r="24" fill="#fffefa" stroke="#244a3c" stroke-width="3"/>
+    <path class="blue" d="M80 2816h112" marker-end="url(#arrowBlue)"/>
+    <path class="blue" d="M92 2888l70 80" marker-end="url(#arrowBlue)"/>
+    <path class="thin" d="M495 3050h69" marker-end="url(#arrowGreen)"/>
+    <text class="tiny" x="48" y="2868">WIND / RAIN</text>
+    <text class="tiny" x="74" y="3242">LOW EDGE + RUNOFF OUTSIDE</text>
+    <text class="tiny" x="300" y="2718" text-anchor="middle">INTENDED FIXED SUPPORT / ATTACHMENT ZONE</text>
+    <text class="tiny" x="300" y="2748" text-anchor="middle">EXACT SETUP NOT SHOWN</text>
+    <text class="tiny" x="530" y="3085" text-anchor="middle">CLEAR</text>
+    <text class="tiny" x="530" y="3110" text-anchor="middle">EXIT</text>
+  </g>
+  <text class="small" x="600" y="2768">Use only the support and</text>
+  <text class="small" x="600" y="2802">line arrangement intended</text>
+  <text class="small" x="600" y="2836">for your equipment.</text>
+  <text class="small" x="600" y="2892">Raise only enough for</text>
+  <text class="small" x="600" y="2926">usable space.</text>
+  <text class="small" x="600" y="2982">Keep one continuous slope.</text>
+  <text class="small" x="600" y="3016">Remove sag and rain pockets.</text>
+  <text class="small" x="600" y="3072">Do not damage fabric or</text>
+  <text class="small" x="600" y="3106">tie points with excess tension.</text>
+  <text class="small" x="600" y="3162">Keep supports and lines</text>
+  <text class="small" x="600" y="3196">out of the entrance and faces.</text>
+
+  <rect class="info" x="34" y="3290" width="932" height="530" rx="12"/>
+  <text class="head" x="58" y="3338">5 — CHECK FROM INSIDE</text>
+  <text class="head" x="58" y="3378">RECHECK AFTER RAIN STARTS OR WIND CHANGES</text>
+  <g>
+    <rect x="62" y="3420" width="28" height="28" fill="#fffefa" stroke="#244a3c" stroke-width="3"/><text class="small" x="106" y="3444">Face and breathing clear</text>
+    <rect x="62" y="3484" width="28" height="28" fill="#fffefa" stroke="#244a3c" stroke-width="3"/><text class="small" x="106" y="3508">Roof not touching person</text>
+    <rect x="62" y="3548" width="28" height="28" fill="#fffefa" stroke="#244a3c" stroke-width="3"/><text class="small" x="106" y="3572">Runoff outside bedding</text>
+    <rect x="62" y="3612" width="28" height="28" fill="#fffefa" stroke="#244a3c" stroke-width="3"/><text class="small" x="106" y="3636">No pooling or serious sag</text>
+    <rect x="520" y="3420" width="28" height="28" fill="#fffefa" stroke="#244a3c" stroke-width="3"/><text class="small" x="564" y="3444">Attachments holding</text>
+    <rect x="520" y="3484" width="28" height="28" fill="#fffefa" stroke="#244a3c" stroke-width="3"/><text class="small" x="564" y="3508">Opening sheltered</text>
+    <rect x="520" y="3548" width="28" height="28" fill="#fffefa" stroke="#244a3c" stroke-width="3"/><text class="small" x="564" y="3572">Entrance clear</text>
+    <rect x="520" y="3612" width="28" height="28" fill="#fffefa" stroke="#244a3c" stroke-width="3"/><text class="small" x="564" y="3636">Phone/light/whistle reachable</text>
+  </g>
+  <rect class="warn" x="58" y="3670" width="884" height="125" rx="9"/>
+  <text class="small danger" x="500" y="3708" text-anchor="middle">ANY FAIL, RAIN ENTRY OR WIND SHIFT → correct or repitch only if safe.</text>
+  <text class="small danger" x="500" y="3742" text-anchor="middle">If it will not stay stable, use a safer available shelter.</text>
+  <text class="small danger" x="500" y="3776" text-anchor="middle">Do not remain under failing supports.</text>
+
+  <rect class="warn" x="34" y="3850" width="932" height="290" rx="12"/>
+  <text class="head danger" x="500" y="3898" text-anchor="middle">NOT LIGHTNING SHELTER • NO WIND RATING</text>
+  <text class="head danger" x="500" y="3938" text-anchor="middle">NO SAFE-TEMPERATURE CLAIM</text>
+  <text class="head danger" x="500" y="3984" text-anchor="middle">NO STOVE, FIRE, HEATER OR ENGINE HEAT INSIDE</text>
+  <text class="small" x="58" y="4030">No debris hut, bark stripping, tree felling, snow shelter or loose overhead loads.</text>
+  <text class="small" x="58" y="4068">A diagram cannot prove that the site, attachments or shelter will hold.</text>
+  <text class="tiny amber" x="500" y="4115" text-anchor="middle">Read Chapter 5's full site, cold, heat and combustion warnings.</text>
+
+  <rect x="0" y="4160" width="1000" height="40" fill="#173f35"/>
+  <text x="500" y="4188" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#fffefa">WORKING DRAFT • FIELD_READY_BUILD=NO • independent practical review outstanding</text>
+</svg>

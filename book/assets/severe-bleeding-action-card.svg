@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="3480" viewBox="0 0 1000 3480" role="img" aria-labelledby="title desc">
+  <title id="title">Severe bleeding immediate-action card</title>
+  <desc id="desc">A working Australian first-aid review card. Treat heavy bleeding, major traumatic bleeding, bleeding that firm pressure does not control, or bleeding with serious deterioration as life threatening. Call Triple Zero, put firm continuous pressure on the bleeding point, use one or two accurately placed pads rather than a loose stack, do not remove an embedded object, and keep watching the person. Separate kit and no-kit options are shown. Tourniquet and haemostatic-dressing mechanics are withheld for trained use with an exact product.</desc>
+  <defs>
+    <marker id="arrowGreen" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto">
+      <path d="M0 0 L18 9 L0 18 Z" fill="#244a3c"/>
+    </marker>
+    <style>
+      .bg{fill:#fffefa}
+      .box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}
+      .decision{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}
+      .caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}
+      .warning{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}
+      .path{fill:none;stroke:#244a3c;stroke-width:4;marker-end:url(#arrowGreen)}
+      .title{font:700 40px Arial,sans-serif;fill:#173f35}
+      .head{font:700 30px Arial,sans-serif;fill:#173f35}
+      .small{font:27px Arial,sans-serif;fill:#344c41}
+      .narrowHead{font-size:27px}
+      .narrow{font-size:24px}
+      .red{fill:#7a2926}
+      .amber{fill:#7b5114}
+      .label{font:700 23px Arial,sans-serif;fill:#173f35}
+      .target{fill:#fff0ed;stroke:#8c2f2b;stroke-width:5}
+      .pad{fill:#ffffff;stroke:#244a3c;stroke-width:4}
+      .object{fill:#7b5114;stroke:#5b3a0c;stroke-width:3}
+    </style>
+  </defs>
+
+  <rect class="bg" width="1000" height="3480"/>
+  <text class="title" x="36" y="56">Severe bleeding:</text>
+  <text class="title" x="36" y="103">press now, call 000, keep pressing</text>
+
+  <rect class="warning" x="34" y="132" width="932" height="270" rx="10"/>
+  <text class="head red" x="58" y="174">WARNING — WORKING REVIEW CARD</text>
+  <text class="small" x="58" y="216">Subjective estimates: core wording 95%; untested layout 72%.</text>
+  <text class="small" x="58" y="258">These are not safety, success or survival probabilities.</text>
+  <text class="small" x="58" y="300">This card cannot verify pressure or teach a tourniquet, wound</text>
+  <text class="small" x="58" y="342">packing or haemostatic dressing. Follow 000 and exact training.</text>
+  <text class="small" x="58" y="384">Australian clinical, practical and stressed-reader review is outstanding.</text>
+
+  <rect class="decision" x="66" y="446" width="868" height="330" rx="10"/>
+  <text class="head" x="92" y="490">1  TREAT IT AS LIFE THREATENING IF ANY APPLY</text>
+  <text class="small" x="92" y="536">• blood is heavy, spurting or rapidly soaking material</text>
+  <text class="small" x="92" y="578">• there is an amputation or other major traumatic wound</text>
+  <text class="small" x="92" y="620">• firm pressure is not controlling the bleeding</text>
+  <text class="small" x="92" y="662">• the person is pale, sweaty, faint, confused or less responsive</text>
+  <text class="head red" x="92" y="714">CALL 000 NOW — do not wait for every sign</text>
+  <text class="small" x="92" y="754">Use speaker. Have a helper call while pressure continues, if possible.</text>
+
+  <path class="path" d="M500 776 V820"/>
+  <rect class="box" x="34" y="834" width="932" height="370" rx="10"/>
+  <text class="head" x="58" y="878">2  FIND THE BLEEDING POINT AND PRESS NOW</text>
+  <text class="small" x="58" y="924">Check danger. Use gloves if they are ready; do not delay pressure.</text>
+  <text class="small" x="58" y="966">Help the person lie down when breathing and injuries permit.</text>
+  <text class="small" x="58" y="1008">Expose only enough to find the point. Press firmly and continuously.</text>
+  <text class="small" x="58" y="1050">Use hands or a pad directly over the point. A helper or the injured</text>
+  <text class="small" x="58" y="1092">person may press. Do not keep lifting the pad to look.</text>
+
+  <text class="head" x="500" y="1172" text-anchor="middle">KEEP PRESSURE ON THE POINT</text>
+
+  <path class="path" d="M500 1204 V1248"/>
+  <text class="head" x="500" y="1295" text-anchor="middle">3  USE THE RIGHT PRESSURE BRANCH</text>
+
+  <rect class="box" x="34" y="1322" width="452" height="330" rx="10"/>
+  <text class="head narrowHead" x="58" y="1365">OPEN WOUND</text>
+  <text class="small narrow" x="58" y="1408">Press directly on the bleeding point.</text>
+  <text class="small narrow" x="58" y="1446">Keep the pressure firm and still.</text>
+  <text class="head narrowHead" x="260" y="1542" text-anchor="middle">PRESS ON THE POINT</text>
+
+  <rect class="caution" x="514" y="1322" width="452" height="330" rx="10"/>
+  <text class="head narrowHead amber" x="538" y="1365">OBJECT STUCK IN WOUND</text>
+  <text class="small narrow" x="538" y="1408">Do not pull it out or press on it.</text>
+  <text class="small narrow" x="538" y="1446">Press and pad around its sides.</text>
+  <text class="head narrowHead amber" x="739" y="1542" text-anchor="middle">PRESS AROUND — NOT ON</text>
+  <text class="small narrow red" x="538" y="1593">Eye or torso object: follow 000.</text>
+  <text class="small narrow red" x="538" y="1629">This card does not teach that care.</text>
+
+  <path class="path" d="M500 1652 V1696"/>
+  <text class="head" x="500" y="1743" text-anchor="middle">4  USE WHAT IS READY — DO NOT DELAY</text>
+
+  <rect class="box" x="34" y="1770" width="452" height="250" rx="10"/>
+  <text class="head narrowHead" x="58" y="1813">WITH A FIRST-AID KIT</text>
+  <text class="small narrow" x="58" y="1856">Use gloves if immediately ready.</text>
+  <text class="small narrow" x="58" y="1894">Put a trauma pad or dressing over</text>
+  <text class="small narrow" x="58" y="1932">the bleeding point and keep firm</text>
+  <text class="small narrow" x="58" y="1970">continuous hand pressure on it.</text>
+
+  <rect class="box" x="514" y="1770" width="452" height="250" rx="10"/>
+  <text class="head narrowHead" x="538" y="1813">WITHOUT A FIRST-AID KIT</text>
+  <text class="small narrow" x="538" y="1856">Use clean, dry folded cloth or clothing.</text>
+  <text class="small narrow" x="538" y="1894">If nothing is ready, hand pressure is</text>
+  <text class="small narrow" x="538" y="1932">better than delay. Avoid blood contact</text>
+  <text class="small narrow" x="538" y="1970">where possible.</text>
+
+  <path class="path" d="M500 2020 V2064"/>
+  <rect class="decision" x="34" y="2078" width="932" height="438" rx="10"/>
+  <text class="head" x="58" y="2122">5  IF BLOOD KEEPS COMING THROUGH</text>
+  <text class="small" x="58" y="2168">• keep pressure on the exact bleeding point</text>
+  <text class="small" x="58" y="2210">• add one second pad and a tighter bandage if available</text>
+  <text class="small" x="58" y="2252">• if still uncontrolled, check that the pads are on the point</text>
+  <text class="small" x="58" y="2294">• use firmer, focused pressure; do not build a loose stack</text>
+  <text class="small" x="58" y="2336">• tell 000 that bleeding remains uncontrolled</text>
+
+  <text class="small" x="58" y="2400">When controlled, secure the pad firmly without losing its position.</text>
+  <text class="small" x="58" y="2442">Keep watching for renewed bleeding.</text>
+
+  <path class="path" d="M500 2516 V2560"/>
+  <rect class="warning" x="34" y="2574" width="932" height="432" rx="10"/>
+  <text class="head red" x="58" y="2618">6  UNCONTROLLED LIFE-THREATENING BLEEDING</text>
+  <text class="small" x="58" y="2664">Keep focused pressure and follow the 000 call-taker.</text>
+  <text class="small" x="58" y="2706">A manufactured arterial tourniquet is for life-threatening limb</text>
+  <text class="small" x="58" y="2748">bleeding not controlled by pressure — only with the exact product</text>
+  <text class="small" x="58" y="2790">and training. Haemostatic dressings also require training and an</text>
+  <text class="small" x="58" y="2832">exact product. This card gives no application or packing method.</text>
+  <text class="small" x="58" y="2884">Do not use a blood-draw band, narrow cord or wire. ANZCOR notes</text>
+  <text class="small" x="58" y="2926">that a failed improvised tourniquet can increase bleeding.</text>
+  <text class="small narrow" x="58" y="2965">If trained and equipped, follow training/device instructions; record</text>
+  <text class="small narrow" x="58" y="2997">the time, keep it visible and do not remove it in the field.</text>
+
+  <rect class="box" x="34" y="3046" width="932" height="246" rx="10"/>
+  <text class="head" x="58" y="3090">7  WHILE HELP IS COMING</text>
+  <text class="small" x="58" y="3136">Keep the person still, warm and observed. Recheck response, normal</text>
+  <text class="small" x="58" y="3178">breathing and the dressing. If bleeding returns, press again.</text>
+  <text class="small" x="58" y="3220">Give no food, drink or medicine. Record what happened and when.</text>
+  <text class="small" x="58" y="3262">If unresponsive and not breathing normally, use the CPR card and 000.</text>
+
+  <rect class="warning" x="34" y="3322" width="932" height="108" rx="10"/>
+  <text class="head red" x="58" y="3364">DO NOT: elevate · clean first · remove an object</text>
+  <text class="small" x="58" y="3406">Do not confuse wound pressure with snakebite pressure immobilisation.</text>
+
+  <rect x="0" y="3442" width="1000" height="38" fill="#fff7e6"/>
+  <text x="964" y="3468" text-anchor="end" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#77551c">WORKING DRAFT — Australian clinical, practical and stressed-reader review outstanding</text>
+</svg>

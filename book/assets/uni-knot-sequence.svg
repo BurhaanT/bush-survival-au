@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="930" viewBox="0 0 1000 930" role="img" aria-labelledby="title desc">
+  <title id="title">Uni knot tied to a hook or swivel eye in six steps</title>
+  <desc id="desc">Original working diagram. Green is the standing line and gold is the moving tag end. Read the adjoining instructions and limitations.</desc>
+  <defs>
+    <marker id="arrow-green" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8" fill="#244a3c"/></marker>
+    <marker id="arrow-gold" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8" fill="#ad7032"/></marker>
+    <style>
+      .panel { fill:#fffefa; stroke:#c9c7bc; stroke-width:2; }
+      .head { font:700 22px Arial,sans-serif; fill:#22382d; }
+      .note { font:18px Arial,sans-serif; fill:#22382d; }
+      .small { font:16px Arial,sans-serif; fill:#526057; }
+      .main { fill:none; stroke:#244a3c; stroke-width:6; stroke-linecap:round; stroke-linejoin:round; }
+      .tag { fill:none; stroke:#ad7032; stroke-width:6; stroke-linecap:round; stroke-linejoin:round; }
+      .metal { fill:none; stroke:#5e5f52; stroke-width:5; }
+    </style>
+  </defs>
+  <rect width="1000" height="930" fill="#f4f2eb"/>
+  <g font-family="Arial, sans-serif" fill="#22382d">
+    <text x="38" y="46" font-size="30" font-weight="bold">Uni knot: eye connection</text>
+    <text x="38" y="78" font-size="18">Green = standing line · Gold = tag end you move</text>
+
+    <g transform="translate(35 105)">
+      <rect class="panel" width="450" height="230" rx="10"/>
+      <text class="head" x="20" y="34">1. Through the eye; double back</text>
+      <ellipse class="metal" cx="375" cy="126" rx="25" ry="15"/>
+      <path class="main" d="M35 126 H350"/>
+      <path class="tag" d="M350 126 H410 C428 126 429 86 405 86 H118" marker-end="url(#arrow-gold)"/>
+      <text class="small" x="34" y="188">Keep the tag end beside the standing line.</text>
+    </g>
+
+    <g transform="translate(515 105)">
+      <rect class="panel" width="450" height="230" rx="10"/>
+      <text class="head" x="20" y="34">2. Lay the tag over to form a loop</text>
+      <ellipse class="metal" cx="385" cy="126" rx="24" ry="15"/>
+      <path class="main" d="M35 126 H361"/>
+      <path class="tag" d="M361 126 H414 C426 126 425 84 403 84 H125 C87 84 74 111 94 135 C111 156 152 159 190 146" marker-end="url(#arrow-gold)"/>
+      <text class="small" x="34" y="191">The loop lies alongside the doubled line.</text>
+    </g>
+
+    <g transform="translate(35 360)">
+      <rect class="panel" width="450" height="230" rx="10"/>
+      <text class="head" x="20" y="34">3. Wrap both lines 5–6 times</text>
+      <path class="main" d="M35 120 H415"/>
+      <path class="tag" d="M365 82 C335 66 305 72 300 96 C296 119 325 137 347 126 C369 115 363 86 339 82 C310 77 281 87 279 108 C278 132 306 145 328 135 C350 125 347 96 323 92 C294 87 265 97 263 118 C262 142 290 155 312 145 C334 135 331 106 307 102 C278 97 249 107 247 128 C246 152 274 165 296 155 C318 145 315 116 291 112 C260 107 229 121 228 145 C227 166 251 177 273 169"/>
+      <path class="tag" d="M273 169 C219 185 171 170 129 146" marker-end="url(#arrow-gold)"/>
+      <text class="small" x="34" y="199">Each turn goes around both parallel sections and through the loop.</text>
+    </g>
+
+    <g transform="translate(515 360)">
+      <rect class="panel" width="450" height="230" rx="10"/>
+      <text class="head" x="20" y="34">4. Moisten; pull tag to snug turns</text>
+      <path class="main" d="M35 121 H410"/>
+      <path class="tag" d="M310 82 C292 76 270 84 270 103 C270 122 293 133 310 124 C327 115 325 92 307 87 C286 81 263 91 263 111 C263 130 286 141 303 132 C320 123 318 100 300 95 C279 89 256 99 256 119 C256 138 279 149 296 140"/>
+      <path class="tag" d="M296 140 C238 158 181 159 116 151" marker-end="url(#arrow-gold)"/>
+      <path d="M104 177 H43" fill="none" stroke="#ad7032" stroke-width="3" marker-end="url(#arrow-gold)"/>
+      <text class="small" x="34" y="207">Draw the wraps together; reject crossed or damaged line.</text>
+    </g>
+
+    <g transform="translate(35 615)">
+      <rect class="panel" width="450" height="230" rx="10"/>
+      <text class="head" x="20" y="34">5. Slide the snug knot to the eye</text>
+      <ellipse class="metal" cx="386" cy="122" rx="24" ry="15"/>
+      <path class="main" d="M35 122 H362"/>
+      <path class="tag" d="M266 91 C254 84 239 89 239 103 C239 117 255 124 267 117 C279 110 277 94 265 90 C250 85 235 92 235 106 C235 120 251 127 263 120 C275 113 273 97 261 93 C246 88 231 95 231 109 C231 123 247 130 259 123"/>
+      <path class="tag" d="M259 123 L197 145"/>
+      <path d="M281 174 H354" fill="none" stroke="#244a3c" stroke-width="3" marker-end="url(#arrow-green)"/>
+      <text class="small" x="34" y="202">Hold the eye safely; push or slide the knot toward it.</text>
+    </g>
+
+    <g transform="translate(515 615)">
+      <rect class="panel" width="450" height="230" rx="10"/>
+      <text class="head" x="20" y="34">6. Tighten and pull-test</text>
+      <ellipse class="metal" cx="385" cy="120" rx="24" ry="15"/>
+      <path class="main" d="M35 120 H316"/>
+      <path class="tag" d="M316 92 C304 87 292 94 293 107 C294 120 308 126 319 119 C330 112 327 97 315 94 C301 90 289 98 290 111 C291 124 305 130 316 123 C327 116 324 101 312 98 L272 151"/>
+      <path class="main" d="M319 120 H361"/>
+      <path d="M128 166 H48" fill="none" stroke="#244a3c" stroke-width="3" marker-end="url(#arrow-green)"/>
+      <path d="M344 166 H413" fill="none" stroke="#244a3c" stroke-width="3" marker-end="url(#arrow-green)"/>
+      <text class="small" x="34" y="202">Leave a short visible tail. Retie if the tail moves.</text>
+    </g>
+
+    <text x="38" y="888" font-size="18">Practise with the exact line before a trip. Guard the hook point while tightening.</text>
+    <text x="38" y="916" font-size="16" fill="#77551c">WORKING DIAGRAM · Fishing connection only · Not a rescue knot · Read the warning and full instructions</text>
+  </g>
+</svg>

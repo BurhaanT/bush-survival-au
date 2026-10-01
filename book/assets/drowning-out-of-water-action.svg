@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="3820" viewBox="0 0 1000 3820" role="img" aria-labelledby="title desc" lang="en-AU" xml:lang="en-AU">
+  <title id="title">Drowning action card — person out of water</title>
+  <desc id="desc">Working out-of-water drowning card. Call Triple Zero for every drowning incident and arrange ambulance assessment even if the person seems well. Assess an unresponsive person on their back with head and body level. A responsive person rests and is watched. An unresponsive person breathing normally is placed on the side; the adult and child recovery-position card applies from age one, while this card gives no infant side-position mechanics. Abnormal, gasping or uncertain breathing requires CPR with rescue breaths. The card covers obvious airway obstruction with the shortest possible CPR interruption, kit and no-kit care, cold and spinal priorities.</desc>
+  <defs>
+    <marker id="greenArrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#244a3c"/></marker>
+    <style>
+      .title{font:700 42px Arial,sans-serif;fill:#173f35}
+      .subtitle{font:700 30px Arial,sans-serif;fill:#344c41}
+      .head{font:700 32px Arial,sans-serif;fill:#173f35}
+      .body{font:30px Arial,sans-serif;fill:#344c41}
+      .small{font:25px Arial,sans-serif;fill:#344c41}
+      .branch{font:27px Arial,sans-serif;fill:#344c41}
+      .tiny{font:20px Arial,sans-serif;fill:#344c41}
+      .danger{fill:#7a2926}
+      .amber{fill:#7a4b0d}
+      .panel{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}
+      .info{fill:#eaf1f6;stroke:#2b6684;stroke-width:3}
+      .warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}
+      .caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}
+      .line{stroke:#244a3c;stroke-width:8;fill:none;stroke-linecap:round;stroke-linejoin:round}
+      .thin{stroke:#244a3c;stroke-width:4;fill:none;stroke-linecap:round;stroke-linejoin:round}
+      .blue{stroke:#2b6684;stroke-width:7;fill:none;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+  <rect width="1000" height="3820" fill="#fffefa"/>
+  <text class="title" x="34" y="58">DROWNING — CARD 2</text>
+  <text class="subtitle" x="34" y="108">Person out of water — first response</text>
+
+  <rect class="warn" x="34" y="138" width="932" height="340" rx="12"/>
+  <text class="head danger" x="58" y="184">WARNING — CLINICAL REVIEW OUTSTANDING</text>
+  <text class="head danger" x="58" y="224">AQUATIC-RESCUE REVIEW OUTSTANDING</text>
+  <text class="body" x="58" y="268">Subjective estimates: source match 95%; decision layout 65%.</text>
+  <text class="body" x="58" y="306">Not probabilities of correct treatment, recovery or survival.</text>
+  <text class="body" x="58" y="344">This is a refresher, not CPR or rescue training. Follow 000.</text>
+  <text class="body danger" x="58" y="382">Never delay airway care or CPR to read this card.</text>
+  <text class="small danger" x="58" y="426">Clinical, aquatic-rescue and practical review remains open.</text>
+  <text class="small danger" x="58" y="458">Wet-manikin and stressed-reader review remains open.</text>
+
+  <rect class="info" x="34" y="508" width="932" height="230" rx="12"/>
+  <text class="head" x="58" y="556">1 — CALL 000 — EVERY DROWNING INCIDENT</text>
+  <text class="body" x="58" y="600">Call even if it seemed minor.</text>
+  <text class="body" x="58" y="638">Call even if the person now appears recovered.</text>
+  <text class="body" x="58" y="676">Already called? Update the call-taker.</text>
+  <text class="small" x="58" y="716">Send a helper for equipment only while essential care continues.</text>
+
+  <rect class="panel" x="34" y="768" width="932" height="300" rx="12"/>
+  <text class="head" x="58" y="816">2 — OUT, SAFE, FIRM SURFACE</text>
+  <text class="body" x="58" y="860">If unresponsive, place them on their back.</text>
+  <text class="body" x="58" y="898">Keep the head and body level.</text>
+  <text class="body danger" x="58" y="936">Do not put the head lower. Do not try to drain water.</text>
+  <text class="body" x="58" y="974">Check response. Open the airway. Check for normal breathing.</text>
+  <g aria-hidden="true">
+    <path class="thin" d="M690 1028h220"/>
+    <circle cx="720" cy="1010" r="18" fill="#fffefa" stroke="#244a3c" stroke-width="4"/>
+    <path class="line" d="M740 1012h126"/>
+    <text class="tiny" x="686" y="1052">HEAD + BODY LEVEL</text>
+  </g>
+
+  <rect class="caution" x="34" y="1098" width="932" height="122" rx="12"/>
+  <text class="head" x="500" y="1146" text-anchor="middle">DO THEY RESPOND?</text>
+  <text class="body" x="260" y="1190" text-anchor="middle"><tspan font-weight="700">YES</tspan> → left panel</text>
+  <text class="body" x="740" y="1190" text-anchor="middle"><tspan font-weight="700">NO</tspan> → check breathing</text>
+
+  <rect class="panel" x="34" y="1248" width="448" height="572" rx="12"/>
+  <text class="head" x="58" y="1296">YES — RESPONDS</text>
+  <text class="branch" x="58" y="1342">Let them sit or lie in a</text>
+  <text class="branch" x="58" y="1378">comfortable position.</text>
+  <text class="branch" x="58" y="1426">Reassure them. Watch</text>
+  <text class="branch" x="58" y="1462">breathing continuously.</text>
+  <text class="branch" x="58" y="1510">Protect from wind, wet ground</text>
+  <text class="branch" x="58" y="1546">and further cooling when</text>
+  <text class="branch" x="58" y="1582">immediate care allows.</text>
+  <text class="branch danger" x="58" y="1630">Do not leave them alone.</text>
+  <text class="branch" x="58" y="1738">Skip to AFTERCARE near the</text>
+  <text class="branch" x="58" y="1774">bottom of this card.</text>
+
+  <rect class="info" x="518" y="1248" width="448" height="572" rx="12"/>
+  <text class="head" x="542" y="1296">NO RESPONSE</text>
+  <text class="branch" x="542" y="1342">BREATHING NORMALLY?</text>
+  <text class="branch" x="542" y="1388"><tspan font-weight="700">YES</tspan> — side position;</text>
+  <text class="branch" x="542" y="1424">airway open; watch breathing.</text>
+  <text class="branch" x="542" y="1472">Age 1+: use the recovery-</text>
+  <text class="branch" x="542" y="1508">position card.</text>
+  <text class="branch" x="542" y="1556">Infant: keep the airway open,</text>
+  <text class="branch" x="542" y="1592">watch breathing and follow 000.</text>
+  <text class="branch danger" x="542" y="1640">No infant side-position</text>
+  <text class="branch danger" x="542" y="1676">mechanics are given here.</text>
+  <rect class="warn" x="542" y="1710" width="400" height="88" rx="8"/>
+  <text class="branch danger" x="558" y="1746"><tspan font-weight="700">NO / GASPING / UNSURE</tspan></text>
+  <text class="branch danger" x="558" y="1782">Start CPR now.</text>
+
+  <rect class="warn" x="34" y="1850" width="932" height="400" rx="12"/>
+  <text class="head danger" x="58" y="1898">CPR AFTER DROWNING</text>
+  <text class="body" x="58" y="1942">Use the guide's age-specific CPR cards:</text>
+  <text class="head" x="58" y="1986">30 compressions, then 2 rescue breaths.</text>
+  <text class="body" x="58" y="2030">Breaths matter because drowning deprives the body of oxygen.</text>
+  <text class="body" x="58" y="2068">Unable or unwilling to give breaths? Keep compressing for now.</text>
+  <text class="body" x="58" y="2106">Add breaths when someone willing and able to give them arrives,</text>
+  <text class="body" x="58" y="2144">or when a ready breathing barrier becomes available.</text>
+  <text class="body danger" x="58" y="2192">Do not wait for oxygen, an AED, a barrier, dry clothes or shelter.</text>
+
+  <rect class="panel" x="34" y="2280" width="932" height="500" rx="12"/>
+  <text class="head" x="58" y="2328">ONLY IF THE AIRWAY IS OBVIOUSLY BLOCKED</text>
+  <text class="branch danger" x="58" y="2372">Keep any CPR interruption as short as possible.</text>
+  <text class="branch" x="58" y="2414">1. Roll promptly onto the side.</text>
+  <text class="branch" x="58" y="2452">2. Open the mouth and turn it slightly down so obvious matter drains.</text>
+  <text class="branch" x="58" y="2490">3. Remove only clearly visible matter. Never sweep blindly.</text>
+  <text class="branch" x="58" y="2528">4. Recheck response and normal breathing.</text>
+  <text class="branch" x="58" y="2574">Normal breathing → leave on the side and watch continuously.</text>
+  <text class="branch" x="58" y="2612">Not breathing normally → firm surface; resume CPR at once.</text>
+  <rect class="warn" x="58" y="2640" width="884" height="112" rx="8"/>
+  <text class="branch danger" x="500" y="2676" text-anchor="middle">No head-down hanging, abdominal pressure or blind sweep.</text>
+  <text class="branch danger" x="500" y="2714" text-anchor="middle">Do not keep clearing froth that reforms.</text>
+
+  <rect class="info" x="34" y="2810" width="448" height="430" rx="12"/>
+  <text class="head" x="58" y="2858">WITH KIT</text>
+  <text class="branch" x="58" y="2906">Barrier only if ready, familiar</text>
+  <text class="branch" x="58" y="2942">and causing no delay.</text>
+  <text class="branch" x="58" y="2990">Attach AED when available.</text>
+  <text class="branch" x="58" y="3026">Dry the chest if feasible;</text>
+  <text class="branch" x="58" y="3062">follow its pictures and prompts.</text>
+  <text class="branch" x="58" y="3110">A helper may add dry insulation</text>
+  <text class="branch" x="58" y="3146">while essential care continues.</text>
+  <text class="branch danger" x="58" y="3194">Oxygen: only currently trained</text>
+  <text class="branch danger" x="58" y="3230">and certified people.</text>
+
+  <rect class="panel" x="518" y="2810" width="448" height="430" rx="12"/>
+  <text class="head" x="542" y="2858">WITHOUT A KIT</text>
+  <text class="branch" x="542" y="2906">Use your hands for CPR.</text>
+  <text class="branch" x="542" y="2942">Give breaths if willing and able.</text>
+  <text class="branch" x="542" y="2990">If not, keep compressing until</text>
+  <text class="branch" x="542" y="3026">someone willing and able can give</text>
+  <text class="branch" x="542" y="3062">breaths.</text>
+  <text class="branch" x="542" y="3110">No improvised suction, airway</text>
+  <text class="branch" x="542" y="3146">tool or drainage method.</text>
+  <text class="branch danger" x="542" y="3194">Warmth must not interrupt</text>
+  <text class="branch danger" x="542" y="3230">airway care or CPR.</text>
+
+  <rect class="caution" x="34" y="3270" width="932" height="490" rx="12"/>
+  <text class="head" x="58" y="3318">AFTERCARE — EVEN IF THEY SEEM WELL</text>
+  <text class="body" x="58" y="3362">Call 000 for every drowning incident.</text>
+  <text class="body" x="58" y="3400">Have ambulance clinicians assess the person,</text>
+  <text class="body" x="58" y="3438">even if they seem well.</text>
+  <text class="body" x="58" y="3482">Keep checking response and normal breathing.</text>
+  <text class="body" x="58" y="3520">Breathing worsens or response falls? Return to the gate above.</text>
+  <text class="small" x="58" y="3564">After diving, surf, rocks or a craft incident, minimise twisting if spinal</text>
+  <text class="small" x="58" y="3598">injury is possible — but never delay removal, airway care or CPR.</text>
+  <text class="small" x="58" y="3642">Protect from wind, wet clothing and ground cold without interrupting care.</text>
+  <rect class="warn" x="58" y="3670" width="884" height="64" rx="7"/>
+  <text class="branch danger" x="500" y="3712" text-anchor="middle">No field-clearance time is given.</text>
+
+  <rect x="0" y="3780" width="1000" height="40" fill="#173f35"/>
+  <text x="500" y="3808" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#fffefa">WORKING DRAFT • CARD 2 OF 2 • infant side-position mechanics not shown • follow 000</text>
+</svg>

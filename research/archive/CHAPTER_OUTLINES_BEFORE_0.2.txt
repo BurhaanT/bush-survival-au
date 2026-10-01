@@ -1,0 +1,523 @@
+# Chapter outlines before readable revision
+
+Archived 7 September 2026. These are historical planning files, not the current manuscript.
+
+===== book/chapters/00-front-matter.md =====
+
+# Victorian Bush Survival Field Guide
+
+## Personal edition
+
+**Geographic scope:** Victoria, Australia  
+**Edition:** Working source - not yet field-ready  
+**Last source review:** Not yet completed
+
+> **Do not use this draft in an emergency.** These chapters are outlines and research plans, not finished instructions. Advice will enter the finished guide only after it passes the required evidence, safety and wording checks.
+
+## Purpose
+
+This guide is intended to help someone without survival training who is lost, injured or stranded in the Victorian bush. It will explain what to do first and why. Immediate danger, getting help, body temperature, injuries and water come before less urgent bushcraft or food gathering. The order will depend on the emergency.
+
+Find advice by the problem you face, whatever brought you into the bush. First-aid pages will explain what to do with a first-aid kit and without one. Each page will name the supplies it needs.
+
+## Evidence standard
+
+Every fact, instruction and picture must pass the project's [content checks](../../CONTENT_VALIDATION_GATE.md). For advice that could cause serious harm if wrong, we compare independent sources, look for conflicting advice, check that it applies in Victoria and obtain specialist review.
+
+## Emergency limitation
+
+The finished guide will help you prepare and make decisions. It cannot guarantee your safety or make a phone or radio connect. It does not replace training, emergency services or medical care.
+
+
+===== book/chapters/01-how-to-use-this-guide.md =====
+
+# How to use this guide
+
+**Chapter status:** Proposed - research and usability testing not complete.
+
+## Reader job
+
+Explain how a stressed reader can move from an immediate problem to the correct action page in seconds.
+
+## Planned sections
+
+- What this guide covers and does not cover
+- Finding advice for the problem you face now
+- Finding the emergency quick-reference pages
+- Meaning of action, warning, stop and uncertainty panels
+- How regional and seasonal notes change an instruction
+- How source dates and review status are shown
+- When the book cannot help enough and you need outside help
+
+## Evidence and test requirements
+
+- Ask readers who have not seen the book to find a page and explain what to do first, what comes next and when to stop.
+- Test low-light, wet-hand and time-pressure use after layout.
+- Keep each warning beside the action it affects, including after a page break.
+- Confirm readers do not need to choose an activity category before finding an emergency action.
+- Confirm all emergency contact references remain current immediately before each edition.
+
+
+===== book/chapters/02-first-minutes.md =====
+
+# The first minutes
+
+**Chapter status:** Proposed - no field-ready instructions yet.
+
+## Reader job
+
+Recognise immediate danger, pause to think, work out what has happened, protect the group and start getting help.
+
+## Planned sections
+
+- Immediate threats before all other priorities
+- A short stop-think-observe-plan process
+- Checking for injuries, dangerous cold or heat, fire, flood, falling objects and dangerous ground
+- Working out the time, the last place you were sure of, what equipment you have and how everyone is coping
+- Context changes that matter, such as a disabled vehicle, watercraft, fixed camp or being on foot
+- Children, separated groups and people who need extra help
+- First five minutes, first hour and first night overview
+
+## Instructions that need specialist review
+
+- Immediate-action sequence
+- When immediate danger makes it necessary to move
+- Group separation rules
+- Interaction with emergency communications
+- Interaction with first aid and temperature threats
+
+Organise this chapter by the emergency. Mention hiking, camping, 4WD or fishing only when it changes the advice. Do not make the reader choose an activity before finding an urgent action.
+
+## Required review
+
+- Current Victoria Police/Parks Victoria and recognised Australian emergency guidance
+- Independent search-and-rescue review
+- Timed tests in which people without survival training use the draft to respond to a described emergency
+- Cross-check against chapters 3, 4, 5 and 6 after layout
+
+
+===== book/chapters/03-emergency-communication.md =====
+
+# Emergency communication
+
+**Chapter status:** Proposed - no device or communication instructions approved for field use.
+
+## Reader job
+
+Use the equipment you have to call for help, tell rescuers what they need to know and keep that equipment working.
+
+## Planned sections
+
+- Calling emergency services
+- What information rescuers need
+- Mobile phone call, text and location options
+- Personal locator beacons (PLBs): emergency devices that send a distress signal
+- Satellite messaging and calling devices
+- UHF (ultra-high frequency) and other radios where relevant
+- Keeping batteries and devices working in cold or wet conditions
+- What to do after a distress signal is sent
+- What can fail and why you cannot assume a signal will get through
+
+## Gate requirements
+
+- Every device/procedure claim is Level 3.
+- Check current Australian and Victorian emergency-service guidance.
+- Verify network/device functions against current manufacturer and carrier documentation without making brand-dependent promises.
+- Test wording with an emergency communications/search-and-rescue reviewer.
+- Recheck before every PDF edition and after any major network or emergency-number feature change.
+
+
+===== book/chapters/04-stay-or-move.md =====
+
+# Stay, retrace or move
+
+**Chapter status:** Proposed - no decision rule approved.
+
+## Reader job
+
+Decide whether to stay, go a short way back along a known route or move to a known place of shelter. Explain the risks of each choice, including whether rescuers can find you.
+
+## Planned sections
+
+- Helping rescuers find you
+- How moving from your last known position changes the search
+- Immediate hazards that make staying unsafe
+- Vehicle, track, river, ridge and shelter contexts
+- Going a short way back versus setting out for another place
+- Decisions involving injured or exhausted people, children and groups
+- When to check the plan again, stop or turn back
+- Marking movement without creating misleading clues
+
+## Gate requirements
+
+- Treat the decision tree and every exception as Level 3.
+- Use current Victorian search-and-rescue guidance plus independent confirmation.
+- Seek case evidence where apparently reasonable movement worsened or improved outcomes.
+- Review the exact final flowchart with an appropriate search-and-rescue specialist.
+- Test the draft with timed example emergencies, including unusual situations in which a simple rule could be dangerous.
+
+
+===== book/chapters/05-temperature-and-shelter.md =====
+
+# Body temperature and shelter
+
+**Chapter status:** Proposed - shelter instructions and advice about heat or cold are not approved.
+
+## Reader job
+
+Use clothing, location, materials that hold warmth and shelter to avoid getting dangerously cold or hot. Choose a shelter that suits the conditions and can be made in time.
+
+## Planned sections
+
+- How cold, wind, wet ground, heat and sun change priority
+- Noticing when cold or heat is becoming dangerous
+- Choosing a place and checking its dangers
+- Clothing: staying dry and dealing with sweat or wet layers
+- Reducing heat loss to the ground
+- Existing shelter, vehicle and improvised options
+- Rapid shelter types by environment and available material
+- Airflow, moisture collecting inside shelter and the dangers of fire nearby
+- Checking that the shelter works and recognising common failures
+- Alpine, wet-forest, Mallee and coastal variations
+
+## Gate requirements
+
+- Medical advice about cold or heat illness is Level 3 and needs medical review.
+- Hazardous site and extreme-environment shelter advice is Level 3.
+- Construction sequences require independent practical sources, measured trials and novice usability testing.
+- Record material availability and legal collection limits by land context.
+- Photograph only the final tested construction sequence; diagrams must match measurements and warnings.
+
+
+===== book/chapters/06-first-aid-and-evacuation.md =====
+
+# First aid and getting medical help
+
+**Chapter status:** Proposed - no medical guidance approved.
+
+## Reader job
+
+Recognise urgent threats, give first aid within your training and ability, and work out when and how to get medical help.
+
+Every practical condition page will use the same paired presentation:
+
+- **With a first-aid kit** — name the supplies needed for this injury or illness.
+- **Without a first-aid kit** — also use this section if your kit is missing those supplies.
+
+Put the shared first actions, when to call for help and what to keep checking before these two sections.
+
+## Planned sections
+
+- Checking the emergency and knowing when to call for help
+- CPR (chest compressions and rescue breaths) and using an automated external defibrillator (AED)
+- Severe bleeding and shock
+- Snakebite
+- Head and spinal injury
+- Fracture, dislocation, sprain and inability to walk
+- Hypothermia (dangerously low body temperature) and heat illness
+- Burns from heat, smoke or hot gases, electricity and chemicals
+- Asthma, stroke, seizure, heart attack and diabetic emergency
+- Bites, stings and allergic reactions
+- Wounds and infection risk
+- Eye injury and poisoning
+- Checking for changes, keeping notes and telling the people taking over care
+- Moving to medical care versus waiting for rescue
+
+## Gate requirements
+
+- Every treatment, symptom threshold and evacuation rule is Level 3.
+- Use current Australian clinical guidance, not overseas or historical survival texts as the primary authority.
+- Record guideline version and review date.
+- Define the comprehensive first-aid kit in chapter 13 and cross-check every named item, quantity, expiry and prerequisite.
+- The no-kit path must identify when no safe substitute exists and when lack of equipment changes evacuation urgency.
+- Do not include invasive improvisation, unverified natural remedies or substitutes that introduce infection, bleeding, airway, circulation or poisoning risk.
+- A qualified Australian clinician must review the exact final words and diagrams.
+- Test page navigation under time pressure without simulating unsafe treatment.
+- Traditional remedies, if discussed at all, must be separated from clinically established treatment and pass both medical and cultural gates.
+
+
+===== book/chapters/07-water.md =====
+
+# Water
+
+**Chapter status:** Proposed - no source or treatment method approved.
+
+## Reader job
+
+Weigh the need for water against the dangers of looking for it. These include injury, becoming more lost and drinking water that contains germs or harmful chemicals. Explain what each treatment can and cannot remove.
+
+## Planned sections
+
+- When water becomes a priority
+- Whether to move in search of water
+- Victorian landscape and seasonal indicators
+- Rain, surface water and carried sources
+- Collection methods
+- Treatment methods and their limitations
+- Cloudy water, disease-causing germs, blue-green algae, salt and harmful chemicals
+- Containers, storage and keeping treated water from becoming contaminated again
+- Methods that do not make unsafe water safe
+
+## Gate requirements
+
+- All safety, treatment-performance and drinking claims are Level 3.
+- Use current Australian/Victorian public-health and water authority sources plus independent technical confirmation.
+- Record organism/contaminant, treatment conditions, time, temperature and equipment limits.
+- Seek failure evidence and conditions under which a method is ineffective.
+- Do not infer water safety from appearance, movement, animal use or a single landscape sign.
+- A field test can show whether someone can use the equipment. It cannot prove the water is free of harmful germs; that needs suitable scientific testing.
+
+
+===== book/chapters/08-fire.md =====
+
+# Bushfire danger and using fire
+
+**Chapter status:** Research and review questions recorded - no caught-in-bushfire, lighting or fire-use instructions approved.
+
+## Reader job
+
+Recognise bushfire danger and understand the difference between leaving early and last-resort shelter. Separately, decide whether you need to light a fire, whether the rules allow it and whether you can control it. Consider other ways to stay warm, signal for help or feel less distressed.
+
+## Planned sections
+
+- Avoiding bushfire danger before entering or staying in an area
+- Fire nearby: current warnings, getting help and changes to the stay-or-move decision
+- Last resorts on foot, in an enclosed car and in a building — separate reviewed advice, no safety guarantee
+- Neighbourhood Safer Places and Community Fire Refuges: what the names do and do not mean
+- Smoke, radiant heat, clothing and blanket limits
+- Changing shelter conditions and dangers after fire passes
+
+- Fire as a benefit and a new emergency risk
+- Total Fire Bans, Fire Danger Periods and land-manager rules
+- Decision to use or avoid fire
+- Choosing a site, clearing space, keeping the fire contained and putting it out
+- Lighting a fire with equipment you carry
+- Fuel selection and wet conditions
+- Fire layouts only where they solve a defined need
+- Clothing, shelter, smoke and carbon monoxide (a poisonous gas from burning fuel)
+- Signalling limitations
+- No-fire alternatives
+
+## Gate requirements
+
+- Legal, bushfire, burn and carbon-monoxide content is Level 3.
+- Check current CFA, Forest Fire Management Victoria, Parks Victoria and land-manager rules as applicable.
+- Record edition date and link to live rule checks.
+- Independently review any lighting/layout instruction and field-test only when lawful, safe and appropriately supervised.
+- Do not claim that being in an emergency automatically gives legal permission to light a fire.
+
+## Research records
+
+- [Fire-use law and extinguishment](../../research/evidence-packets/EP-012-victorian-fire-law-use-and-extinguishment.md)
+- [Bushfire threat and last-resort shelter](../../research/evidence-packets/EP-015-bushfire-threat-and-last-resort-shelter.md)
+- [Ignition and separate fire-control equipment](../../research/equipment/IGNITION_AND_FIRE_CONTROL_ASSESSMENT.md)
+- [Fire-safety reviewer questions](../../research/reviewer-briefs/RB-006-bushfire-and-public-fire-safety.md)
+
+
+===== book/chapters/09-navigation-and-signalling.md =====
+
+# Navigation and signalling
+
+**Chapter status:** Proposed - no movement or signalling procedure approved.
+
+## Reader job
+
+Help rescuers find you. Work out your location and direction, avoid getting more lost and use signals that rescuers may see or hear.
+
+## Planned sections
+
+- Making yourself easier to find and preserving clues for searchers
+- Turning a map to match your surroundings and matching mapped features to what you see
+- Compass use and its limits
+- Phone/offline mapping and technology failure
+- Choosing a direction and route without assuming the ground ahead can be crossed
+- Limits of estimating distance from steps or time
+- Making ground signals stand out from the air: contrast, size and position
+- Light, sound, reflective and electronic signals
+- When and how often to signal, and how long batteries or fuel may last
+- How vegetation, terrain and weather affect detection
+
+## Gate requirements
+
+- Movement decisions and emergency signalling are Level 3.
+- Cross-check with current Australian/Victorian search-and-rescue practice.
+- Reproduce navigation techniques and measure novice error.
+- Field-test signal visibility/detection claims without interfering with emergency channels or operations.
+- Diagrams must preserve scale, orientation, body position and stop conditions.
+
+
+===== book/chapters/10-victorian-regions-and-seasons.md =====
+
+# Victorian regions and seasons
+
+**Chapter status:** Proposed - regional boundaries and hazard summaries not verified.
+
+## Reader job
+
+Recognise how your location, height above sea level, season and current weather change what matters first and what you can do.
+
+## Planned regions
+
+- Alpine and High Country
+- Gippsland and wet eastern forests
+- Otways and south-west wet forests
+- Central Victorian forests
+- North-east Victoria
+- Grampians/Gariwerd and western ranges
+- Wimmera and Mallee
+- Coast, estuaries and islands where relevant
+- Major river corridors
+
+## Planned comparisons
+
+- Temperature, wind, rainfall and exposure
+- Fire and smoke conditions
+- Water availability and contamination risks
+- Terrain, vegetation and shelter materials
+- Communications and access limitations
+- Seasonal hazards and rapid changes
+- Species distribution relevant to later chapters
+
+## Gate requirements
+
+- Use authoritative Victorian climate, fire, land, water and botanical datasets.
+- Record the area and time period covered by each set of data. Do not imply it describes a particular place or moment more closely than it does.
+- Check each map's sources, dates and image-use rights, and whether simplifying it hides important differences.
+- Cultural place names and Country references require authoritative sources and appropriate review.
+- Every regional summary must change a practical decision; omit travel-guide description.
+
+
+===== book/chapters/11-plants-and-natural-materials.md =====
+
+# Plants and natural materials
+
+**Chapter status:** Proposed - no species or use approved.
+
+## Reader job
+
+Identify a small number of common Victorian plants and natural materials for useful emergency tasks. Explain when uncertainty means you must not use them.
+
+## Planned entry structure
+
+- Common and accepted scientific names
+- Traditional or local names only with the necessary permission and correct local context
+- Whole-plant shape, how it grows and its size
+- Features that distinguish it: leaves or leaf-like structures, bark, stems, flowers, fruit and seeds
+- Habitat and Victorian distribution
+- Season and life stage
+- The exact part that can be used and what it could help with in an emergency
+- Preparation, limits and when not to use it
+- Dangerous lookalikes
+- Poisoning risks and clear reasons not to use it
+- Identification confidence, reviewers and source IDs
+
+## Gate requirements
+
+- Every species use/identity entry follows the Level 3 edible-plant/natural-food gate where consumption is involved.
+- Evidence of a plant's name or where it grows is not evidence that it is edible or that a preparation method is safe.
+- At least three independent checks, including an authoritative Victorian botanical source, are required for consequential claims.
+- A Victorian botanist must review the exact final entry and image panel.
+- Pictures must show the features needed to distinguish the plant, its season and size. Do not use AI-generated pictures for identification.
+- If a novice cannot reliably distinguish a dangerous lookalike from the printed panel, reject the consumption entry.
+- Aboriginal knowledge must also pass the Indigenous Cultural and Intellectual Property (ICIP) checks. Finding information in a public source does not by itself give permission to reuse it.
+
+
+===== book/chapters/12-food-fishing-and-wildlife.md =====
+
+# Food, fishing and wildlife
+
+**Chapter status:** Proposed - no food-gathering or eating advice approved.
+
+## Reader job
+
+Understand when finding food matters. Weigh the possible benefit against the energy, time and risk of getting it. Include an option only when the evidence supports it and the law allows it.
+
+## Planned sections
+
+- Why food usually comes later in a short emergency
+- Whether getting food is worth the effort, injury risk or delay
+- Using the food you carry and deciding how to share or ration it
+- Limits and risks of fishing and gathering food from water
+- Animal/insect foods only if evidence and law support inclusion
+- Food hygiene, cooking and storage limits
+- Protected wildlife, licences, seasons and land status
+- Historical practices documented without harmful actionable detail where appropriate
+
+## Gate requirements
+
+- Procurement, identity, preparation and consumption advice is Level 3.
+- Recheck Victorian wildlife, fisheries, animal-welfare and land-management rules immediately before each edition.
+- Do not provide ordinary instruction for snares, indiscriminate traps, water poisoning, dangerous toxins or protected-wildlife taking.
+- Specialists must review food safety and diseases that can pass from animals to people.
+- Indigenous food knowledge must pass the cultural gate as well as species and food-safety gates.
+
+
+===== book/chapters/13-preparation-and-kits.md =====
+
+# Preparation, equipment and kits
+
+**Chapter status:** Proposed - kit recommendations not yet tested.
+
+## Reader job
+
+Prepare and choose equipment to reduce the chance of becoming lost, injured or stranded, and to help if it happens. Base choices on the conditions, group and distance from help, not just the activity's name.
+
+## Planned sections
+
+- Trip plan, route, weather, fire and land checks
+- Communication and check-in plan
+- Skills and fitness the advice depends on
+- Personal, day-walk, overnight and group kits
+- Vehicle emergency kit
+- Defined comprehensive first-aid kit used by the paired medical instructions
+- Without a first-aid kit: ordinary clothing or materials may be available, but do not assume any specialist supplies
+- Seasonal and regional changes
+- Medication and personal medical information
+- Choosing a personal locator beacon (PLB), satellite device or phone
+- Equipment maintenance, expiry and battery checks
+- Packing for essential needs rather than collecting gadgets
+
+## Gate requirements
+
+- Recommendations must state the use case, user and conditions.
+- Safety-critical equipment claims require current standards/manufacturer/authority evidence and practical checks.
+- Record weight, packed size, care, replacement supplies and what can fail.
+- Avoid undisclosed brand promotion; compare functions and limitations.
+- Test whether the complete kit is actually carried across the intended real-use contexts.
+- Cross-check every medical item against chapter 6 so the kit does not promise a capability the reader lacks and the medical chapter does not name supplies absent from the defined kit.
+
+
+===== book/chapters/14-sources-reviewers-and-limitations.md =====
+
+# Sources, reviewers and limitations
+
+**Chapter status:** Framework - populated as chapters are approved.
+
+## Edition record
+
+- Edition/version: TBD
+- Source freeze date: TBD
+- PDF build date: TBD
+- Content register snapshot: TBD
+- File hash: TBD
+- Next scheduled review: TBD
+
+## Source method
+
+The final chapter will explain how we check advice. Advice that could cause more harm needs stronger evidence. Several websites repeating one original source do not count as independent checks. We also look for conflicting advice and explain or leave out claims that remain uncertain.
+
+## Specialist reviewers
+
+The final edition will list, with permission, each reviewer's relevant role, the material reviewed, version and date. Review of one topic does not imply endorsement of the whole book.
+
+## Cultural authority and contributors
+
+Any Aboriginal knowledge, language, artwork or cultural mapping will record the authorising person or organisation, Country, agreed wording, attribution, permitted edition/distribution and any limits. Material without an appropriate authority will be excluded.
+
+## Known limitations
+
+The final edition will state unresolved limitations, excluded topics, geographic boundaries, data dates and circumstances in which current official advice must override the book.
+
+## Corrections
+
+Edit the original chapter and its records, not the combined Markdown or PDF. Check the change for wording, evidence and safety. Then rebuild the files and check that the pages, pictures and links still work.

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2200" viewBox="0 0 1000 2200" role="img" aria-labelledby="title desc">
+  <title id="title">How Victoria measures a scale fish</title>
+  <desc id="desc">A generic, non-diagnostic scale-fish silhouette and measuring line. Measure from the forward tip of the snout with the mouth closed to the end of the tail. Keep the fish in the water where possible while identifying and checking the current rule. Wet hands, support the fish horizontally and minimise handling. The exact current species rule controls. This generic drawing cannot identify a fish, set a legal size, establish whether a fish may be kept or show that it is safe to eat. Its subjective wording-confidence estimate is 96 percent and is not a probability of correct identification, legal compliance, safe handling, safe food or survival.</desc>
+  <defs>
+    <marker id="arrowStart" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" refX="2" refY="8" orient="auto"><path d="M16 0 L1 8 L16 16 Z" fill="#244a3c"/></marker>
+    <marker id="arrowEnd" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto"><path d="M0 0 L15 8 L0 16 Z" fill="#244a3c"/></marker>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.warning{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.fish{fill:#dce9e3;stroke:#244a3c;stroke-width:5}.fin{fill:#c7ddd2;stroke:#244a3c;stroke-width:4}.guide{fill:none;stroke:#8a5a10;stroke-width:3;stroke-dasharray:10 9}.measure{fill:none;stroke:#244a3c;stroke-width:5;marker-start:url(#arrowStart);marker-end:url(#arrowEnd)}.title{font:700 40px Arial,sans-serif;fill:#173f35}.head{font:700 30px Arial,sans-serif;fill:#173f35}.body{font:27px Arial,sans-serif;fill:#22382d}.small{font:24px Arial,sans-serif;fill:#344c41}.label{font:700 25px Arial,sans-serif;fill:#173f35}.red{fill:#7a2926}.amber{fill:#7b5114}.green{fill:#173f35}
+    </style>
+  </defs>
+
+  <rect class="bg" width="1000" height="2200"/>
+  <text class="title" x="36" y="60">Measure a scale fish: closed snout to tail end</text>
+
+  <rect class="warning" x="34" y="86" width="932" height="300" rx="10"/>
+  <text class="head red" x="58" y="130">WARNING — THIS DRAWING CANNOT IDENTIFY A FISH</text>
+  <text class="body" x="58" y="174">Use the exact current rule for the positively identified species.</text>
+  <text class="body red" x="58" y="216">It controls size, limits, season and what action is lawful.</text>
+  <text class="small" x="58" y="258">The ruler below is a method diagram, not a printable measuring tool.</text>
+  <text class="small" x="58" y="300">Subjective wording-confidence estimate: 96%.</text>
+  <text class="small" x="58" y="340">This rates the wording—not identification, legal compliance,</text>
+  <text class="small" x="58" y="372">safe handling, safe food or survival.</text>
+
+  <rect class="box" x="50" y="432" width="900" height="930" rx="10"/>
+  <text class="head" x="500" y="480" text-anchor="middle">VICTORIAN SCALE-FISH MEASUREMENT METHOD</text>
+
+  <rect x="92" y="520" width="816" height="110" rx="8" fill="#eaf1f6" stroke="#244a3c" stroke-width="3"/>
+  <text class="label" x="118" y="562">A  START</text>
+  <text class="small" x="118" y="602">Forward tip of the snout—with the mouth fully closed</text>
+
+  <path class="fish" d="M142 830 C220 705 430 675 650 746 C720 768 765 804 800 842 L880 752 L852 862 L880 972 L800 884 C755 930 688 965 598 982 C430 1012 250 970 168 900 C132 870 124 848 142 830 Z"/>
+  <path class="fin" d="M470 710 L550 626 L610 736 Z"/>
+  <path class="fin" d="M476 978 L552 1058 L612 964 Z"/>
+  <path class="fin" d="M430 872 L530 936 L548 848 Z"/>
+  <circle cx="245" cy="805" r="10" fill="#173f35"/>
+  <line x1="140" y1="848" x2="205" y2="848" stroke="#244a3c" stroke-width="5" stroke-linecap="round"/>
+  <text class="small amber" x="142" y="1094">Generic silhouette — no species features are claimed</text>
+
+  <line class="guide" x1="140" y1="690" x2="140" y2="1230"/>
+  <line class="guide" x1="880" y1="690" x2="880" y2="1230"/>
+  <path class="measure" d="M140 1165 H880"/>
+  <text class="label" x="140" y="1216" text-anchor="middle">SNOUT TIP</text>
+  <text class="label" x="880" y="1216" text-anchor="middle">TAIL END</text>
+
+  <rect x="108" y="1248" width="784" height="74" fill="#f9f2df" stroke="#8a5a10" stroke-width="3"/>
+  <line x1="140" y1="1248" x2="140" y2="1290" stroke="#8a5a10" stroke-width="4"/>
+  <line x1="214" y1="1248" x2="214" y2="1274" stroke="#8a5a10" stroke-width="3"/>
+  <line x1="288" y1="1248" x2="288" y2="1290" stroke="#8a5a10" stroke-width="4"/>
+  <line x1="362" y1="1248" x2="362" y2="1274" stroke="#8a5a10" stroke-width="3"/>
+  <line x1="436" y1="1248" x2="436" y2="1290" stroke="#8a5a10" stroke-width="4"/>
+  <line x1="510" y1="1248" x2="510" y2="1274" stroke="#8a5a10" stroke-width="3"/>
+  <line x1="584" y1="1248" x2="584" y2="1290" stroke="#8a5a10" stroke-width="4"/>
+  <line x1="658" y1="1248" x2="658" y2="1274" stroke="#8a5a10" stroke-width="3"/>
+  <line x1="732" y1="1248" x2="732" y2="1290" stroke="#8a5a10" stroke-width="4"/>
+  <line x1="806" y1="1248" x2="806" y2="1274" stroke="#8a5a10" stroke-width="3"/>
+  <line x1="880" y1="1248" x2="880" y2="1290" stroke="#8a5a10" stroke-width="4"/>
+  <text class="small amber" x="500" y="1310" text-anchor="middle">RULER / MEASURING BOARD — NOT TO SCALE</text>
+
+  <rect class="caution" x="66" y="1410" width="868" height="350" rx="10"/>
+  <text class="head amber" x="92" y="1456">HANDLE QUICKLY AND GENTLY</text>
+  <text class="body" x="92" y="1504">• Keep the fish in the water where possible while identifying</text>
+  <text class="body" x="112" y="1546">it and checking the current rule.</text>
+  <text class="body" x="92" y="1588">• Wet your hands. Support the fish horizontally.</text>
+  <text class="body" x="92" y="1630">• Minimise handling. Keep clear of teeth and spines.</text>
+  <text class="body" x="92" y="1672">• Do not touch or grip the eyes or gills.</text>
+  <text class="small red" x="92" y="1724">Measurement does not establish identity, legality or food safety.</text>
+
+  <rect class="warning" x="66" y="1804" width="868" height="245" rx="10"/>
+  <text class="head red" x="92" y="1850">CURRENT SPECIES RULE CONTROLS</text>
+  <text class="body" x="92" y="1898">Check the current VFA Guide, Fisheries Notices and site signs.</text>
+  <text class="body" x="92" y="1940">Other aquatic animals may use a different measurement method.</text>
+  <text class="small red" x="92" y="1984">This generic diagram cannot tell you to keep, release or eat a fish.</text>
+  <text class="small" x="92" y="2022">Before casting, an unresolved identity or required action means stop.</text>
+
+  <text x="500" y="2120" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" fill="#344c41">Basis: S-459 and Chapter 12 • Recheck current rules before use</text>
+  <text x="500" y="2170" text-anchor="middle" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#77551c">WORKING DRAFT — NOT FIELD-APPROVED</text>
+</svg>

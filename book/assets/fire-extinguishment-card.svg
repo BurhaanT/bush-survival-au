@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2400" viewBox="0 0 1000 2400" role="img" aria-labelledby="title desc">
+  <title id="title">Put a small permitted wood campfire completely out</title>
+  <desc id="desc">A working extinguishment flowchart only for the small permitted wood campfire described in the chapter. Never apply its water-turn-touch method to a leaking or burning stove, gas or pressurised canister, liquid fuel, electrical item or cooking fat; move away, call triple zero, warn others and follow exact product or emergency-service directions. If extinguishing water becomes insufficient, remain only while safe: a spreading fire, threatened exit or any other danger means move away first, then call triple zero or use satellite SOS or a personal locator beacon. If remaining is safe, do not leave or cover the fire with soil; seek help and keep signalling. Otherwise repeat the water, turn, look, listen and near-hand checks until every stated cold condition passes.</desc>
+  <defs>
+    <marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto"><path d="M0 0 L15 8 L0 16 Z" fill="#244a3c"/></marker>
+    <marker id="arrowRed" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto"><path d="M0 0 L15 8 L0 16 Z" fill="#8c2f2b"/></marker>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.decision{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warning{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.out{fill:#e5f3e9;stroke:#244a3c;stroke-width:4}.path{fill:none;stroke:#244a3c;stroke-width:4;marker-end:url(#arrow)}.loop{fill:none;stroke:#8c2f2b;stroke-width:4;marker-end:url(#arrowRed)}.title{font:700 46px Arial,sans-serif;fill:#173f35}.head{font:700 31px Arial,sans-serif;fill:#173f35}.body{font:27px Arial,sans-serif;fill:#22382d}.small{font:24px Arial,sans-serif;fill:#344c41}.tiny{font:22px Arial,sans-serif;fill:#344c41}.branch{font:700 25px Arial,sans-serif;fill:#22382d}.red{fill:#7a2926}.amber{fill:#7b5114}.green{fill:#173f35}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="2400"/>
+  <text class="title" style="font-size:40px" x="36" y="58">Put the small wood campfire completely out</text>
+
+  <rect class="warning" x="34" y="82" width="932" height="250" rx="10"/>
+  <text class="head red" x="58" y="124">WOOD CAMPFIRE ONLY — EMERGENCY OVERRIDE</text>
+  <text class="body red" x="58" y="166">Fire spreading or exit threatened: move first; then 000, SOS or PLB.</text>
+  <text class="small" x="58" y="204">Water-turn-touch applies only to the small permitted wood fire.</text>
+  <text class="small" style="font-size:21px" x="58" y="242">Never use on stove, gas canister, liquid fuel, electrical item or fat.</text>
+  <text class="small red" style="font-size:21px" x="58" y="278">For those: move away, call 000, follow exact emergency directions.</text>
+  <text class="small" style="font-size:21px" x="58" y="310">80% wording confidence; 10 L minimum, not a guaranteed dose.</text>
+
+  <rect class="box" x="66" y="360" width="868" height="245" rx="10"/>
+  <text class="head" x="92" y="403">1  STOP, TURN AND SOAK</text>
+  <text class="body" x="92" y="445">Stop adding fuel well before sleep, leaving or another task.</text>
+  <text class="body" x="92" y="481">Turn material inside the fireplace without scattering it.</text>
+  <text class="body" x="92" y="517">Pour water slowly over every coal and partly burned piece.</text>
+  <text class="body" x="92" y="553">Stir and turn the wet material, then add more water.</text>
+  <text class="small red" x="92" y="587">Keep your face and body clear of steam.</text>
+  <path class="path" d="M500 605 V645"/>
+
+  <rect class="box" x="66" y="657" width="868" height="275" rx="10"/>
+  <text class="head" x="92" y="700">2  WATER → TURN → LOOK, LISTEN AND NEAR-CHECK</text>
+  <text class="body" x="92" y="742">Add water. Stir and turn every part inside the fireplace.</text>
+  <text class="body" x="92" y="778">Look and listen for smoke, steam or hissing.</text>
+  <text class="body" x="92" y="814">Without touching ash or coal, hold a hand near every turned part.</text>
+  <text class="small red" x="92" y="852">Heat, smoke, steam or hissing means the fire is NOT OUT.</text>
+  <text class="small" x="92" y="890">Keep checking newly exposed material, not only the surface.</text>
+  <path class="path" d="M500 932 V972"/>
+
+  <rect class="decision" x="125" y="984" width="750" height="92" rx="10"/>
+  <text class="head" x="500" y="1024" text-anchor="middle">HEAT, SMOKE, STEAM OR HISSING?</text>
+  <text class="small" x="500" y="1058" text-anchor="middle">Check every turned part</text>
+
+  <path class="loop" d="M700 1076 V1125"/>
+  <text class="branch red" x="724" y="1115">YES</text>
+  <rect class="decision" x="485" y="1137" width="450" height="150" rx="10"/>
+  <text class="head" x="710" y="1180" text-anchor="middle">ENOUGH WATER READY?</text>
+  <text class="small" x="710" y="1216" text-anchor="middle">Usable vessel(s) beside the fire</text>
+  <text class="small" x="710" y="1248" text-anchor="middle">or an immediately usable hose</text>
+  <text class="tiny" x="710" y="1276" text-anchor="middle">Water must be deliverable now.</text>
+
+  <path class="loop" d="M935 1210 H974 V780 H934"/>
+  <text class="tiny red" x="950" y="968" text-anchor="end">YES: RETURN TO STEP 2</text>
+  <path class="loop" d="M710 1287 V1330"/>
+  <text class="branch red" x="735" y="1321">NO</text>
+
+  <rect class="warning" x="390" y="1342" width="545" height="320" rx="10"/>
+  <text class="head red" x="414" y="1385">WATER IS INSUFFICIENT</text>
+  <text class="small red" style="font-size:21px" x="414" y="1424">REMAIN ONLY WHILE SAFE.</text>
+  <text class="tiny red" style="font-size:19px" x="414" y="1456">Spread, threatened exit or other danger: MOVE FIRST.</text>
+  <text class="tiny red" style="font-size:20px" x="414" y="1488">Then call 000, use satellite SOS or a PLB.</text>
+  <text class="tiny" style="font-size:20px" x="414" y="1524">If staying is safe: do not leave or cover with soil.</text>
+  <text class="tiny" style="font-size:20px" x="414" y="1560">Call 000: say you cannot put the fire out.</text>
+  <text class="tiny" style="font-size:20px" x="414" y="1596">No contact: keep people and fuel away; signal.</text>
+  <text class="tiny" style="font-size:20px" x="414" y="1632">Do not declare it out. This branch cannot lead to OUT.</text>
+
+  <path class="path" d="M300 1076 V1690"/>
+  <text class="branch" x="270" y="1120" text-anchor="end">NO</text>
+
+  <rect class="caution" x="66" y="1702" width="868" height="320" rx="10"/>
+  <text class="head amber" x="92" y="1745">3  NO SIGNS? MAKE THE FINAL</text>
+  <text class="head amber" x="92" y="1782">NEAR-CHECK, THEN LIMITED TOUCH CHECK</text>
+  <text class="body" x="92" y="1824">Turn everything again and near-check every part for heat.</text>
+  <text class="body" x="92" y="1860">Only after no nearby heat, cautiously touch the wet ash and</text>
+  <text class="body" x="92" y="1896">visibly unburnt wood to confirm they are cool.</text>
+  <text class="small red" x="92" y="1934">Never touch coal, charred material or anything that may be hot.</text>
+  <text class="small" x="92" y="1972">Any warmth or doubt means the fire is not out.</text>
+  <path class="path" d="M500 2022 V2062"/>
+
+  <rect class="decision" x="225" y="2074" width="550" height="90" rx="10"/>
+  <text class="head" x="500" y="2115" text-anchor="middle">ANY WARMTH OR DOUBT?</text>
+  <text class="small" x="500" y="2148" text-anchor="middle">A doubtful fire is not out</text>
+
+  <path class="loop" d="M700 2164 H978 V1210 H935"/>
+  <text class="branch red" x="724" y="2200">YES — CHECK WATER</text>
+  <path class="path" d="M300 2164 V2205"/>
+  <text class="branch" x="270" y="2197" text-anchor="end">NO</text>
+
+  <rect class="out" x="125" y="2217" width="750" height="125" rx="10"/>
+  <text class="head green" x="500" y="2258" text-anchor="middle">FIRE COMPLETELY OUT</text>
+  <text class="small" x="500" y="2292" text-anchor="middle">Near-check: no heat. Wet ash and unburnt wood: cool.</text>
+  <text class="head green" x="500" y="2330" text-anchor="middle">ONLY NOW MAY YOU LEAVE</text>
+
+  <text x="500" y="2380" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#77551c">WORKING DRAFT — NOT FIELD-APPROVED</text>
+</svg>

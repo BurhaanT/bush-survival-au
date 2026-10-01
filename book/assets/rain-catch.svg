@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1410" viewBox="0 0 1000 1410" role="img" aria-labelledby="title desc">
+  <title id="title">Direct rain catch when water supplies are limited</title>
+  <desc id="desc">Working rain-catch diagram. Rainwater is not automatically safe. Catch rain directly into a suitable clean collector or the heat-safe pot that will be used for boiling. A sheet is used only when its maker confirms suitable drinking-water or liquid-food contact and it has no chemical, fuel, oil, coating, paint, animal-dropping or unknown residue. Keep the catch surface off soil and never remove shelter that a person needs. Reject catch exposed to ash, firefighting chemicals, fuel, oil, coolant, paint, pesticides, detergent or animal contamination. First runoff may remove loose dirt but cannot remove an unknown coating or chemical. One millimetre of rain on one square metre of horizontal footprint is at most one litre before losses. Caught rain still requires the complete treatment route.</desc>
+  <defs>
+    <marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto"><path d="M0 0 L15 8 L0 16 Z" fill="#27647a"/></marker>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.warning{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}
+      .title{font:700 43px Arial,sans-serif;fill:#173f35}.head{font:700 31px Arial,sans-serif;fill:#173f35}.body{font:27px Arial,sans-serif;fill:#22382d}.small{font:22px Arial,sans-serif;fill:#22382d}.red{fill:#7a2926}.amber{fill:#7b5114}
+      .rain{stroke:#4d91ad;stroke-width:5;stroke-linecap:round}.sheet{fill:#eaf1f6;stroke:#244a3c;stroke-width:5;stroke-linejoin:round}.water{fill:#cde7f4;stroke:#27647a;stroke-width:4}.arrow{fill:none;stroke:#27647a;stroke-width:5;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="1410"/>
+  <text class="title" x="36" y="58">Rain catch when supplies are limited</text>
+
+  <rect class="warning" x="34" y="82" width="932" height="205" rx="10"/>
+  <text class="head red" x="58" y="126">RAINWATER IS NOT AUTOMATICALLY SAFE</text>
+  <text class="body" x="58" y="170">Editorial confidence: 95% limits; 70% untested setup.</text>
+  <text class="small" x="58" y="210">These figures describe wording—not safety or yield.</text>
+  <text class="small red" x="58" y="250">Caught rain still needs the complete treatment route.</text>
+
+  <rect class="box" x="34" y="320" width="448" height="545" rx="10"/>
+  <text class="head" x="58" y="365">DIRECT CATCH</text>
+  <text class="body" x="58" y="410">Use a suitable clean collector</text>
+  <text class="body" x="58" y="448">or the heat-safe boiling pot.</text>
+  <text class="small red" x="58" y="488">Never use a former chemical container.</text>
+  <path class="rain" d="M120 545 L100 590 M205 525 L185 570 M290 545 L270 590 M375 525 L355 570"/>
+  <path class="water" d="M118 655 H395 L372 820 H142 Z"/>
+  <path d="M145 712 Q256 685 368 712" fill="none" stroke="#4d91ad" stroke-width="5"/>
+  <path d="M160 655 V620 H350 V655" fill="none" stroke="#27647a" stroke-width="6"/>
+  <text class="small" x="258" y="850" text-anchor="middle">Keep opening above soil splash.</text>
+
+  <rect class="box" x="518" y="320" width="448" height="545" rx="10"/>
+  <text class="head" x="542" y="365">SHEET CATCH — ONLY IF SUITABLE</text>
+  <text class="small" x="542" y="407">Maker confirms water or liquid-food contact.</text>
+  <text class="small" x="542" y="441">No coating, paint, fuel, oil or unknown residue.</text>
+  <path class="rain" d="M575 520 L555 560 M665 505 L645 545 M755 520 L735 560 M845 505 L825 545"/>
+  <path class="sheet" d="M550 605 L715 642 L915 590 L852 710 L715 674 L608 720 Z"/>
+  <circle cx="715" cy="674" r="8" fill="#27647a"/>
+  <path class="arrow" d="M715 682 V748"/>
+  <path class="water" d="M650 748 H780 L768 830 H662 Z"/>
+  <text class="small" x="742" y="850" text-anchor="middle">One low drain point. Keep off soil.</text>
+
+  <rect class="warning" x="34" y="945" width="448" height="255" rx="10"/>
+  <text class="head red" x="58" y="990">REJECT THE CATCH</text>
+  <text class="small" x="58" y="1035">Ash or firefighting chemical;</text>
+  <text class="small" x="58" y="1070">fuel, oil, coolant, paint or detergent;</text>
+  <text class="small" x="58" y="1105">pesticide, animal droppings or unknown residue.</text>
+  <text class="small red" x="58" y="1145">A first flush cannot fix a chemical or coating.</text>
+  <text class="small red" x="58" y="1180">Never remove shelter that a person needs.</text>
+
+  <rect class="caution" x="518" y="945" width="448" height="255" rx="10"/>
+  <text class="head amber" x="542" y="990">FIRST RUNOFF + YIELD</text>
+  <text class="small" x="542" y="1035">First runoff may remove loose dirt only.</text>
+  <text class="small" x="542" y="1075">1 mm rain × 1 m² horizontal footprint</text>
+  <text class="small" x="542" y="1110">= at most 1 L before losses.</text>
+  <text class="small" x="542" y="1150">Expect less from wind, slope, splash and leaks.</text>
+  <text class="small red" x="542" y="1185">This calculation does not make water safe.</text>
+
+  <rect class="box" x="120" y="1240" width="760" height="95" rx="10"/>
+  <text class="body" x="500" y="1282" text-anchor="middle">Treat caught rain with the rolling-boil card or an</text>
+  <text class="body" x="500" y="1318" text-anchor="middle">exact reviewed product. Otherwise label it UNTREATED.</text>
+  <text x="500" y="1392" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#77551c">WORKING DRAFT — NOT FIELD-APPROVED</text>
+</svg>

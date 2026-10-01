@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2380" viewBox="0 0 1000 2380" role="img" aria-labelledby="title desc">
+  <title id="title">Choking action card for an adult or child aged one year or older</title>
+  <desc id="desc">Working Australian choking card for a responsive adult or child aged one year or older. An effective cough is encouraged and watched. For an ineffective cough, call Triple Zero, lean the person forward, give up to five back blows while checking after each, then up to five chest thrusts on the lower half of the breastbone while checking after each. Alternate only while the person remains responsive and blocked. The actions are the same with or without a first-aid kit and equipment must not delay treatment. If the object clears, stop and use the second card's after-clear warning. Abdominal thrusts and blind finger sweeps are prohibited. Infant and collapse actions are on the second card.</desc>
+  <defs>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.blue{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.amberBox{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}
+      .title{font:700 42px Arial,sans-serif;fill:#173f35}.head{font:700 32px Arial,sans-serif;fill:#173f35}.body{font:30px Arial,sans-serif;fill:#344c41}.red{fill:#7a2926}.amber{fill:#7b5114}.num{fill:#244a3c}.numText{font:700 34px Arial,sans-serif;fill:#fff}.icon{fill:none;stroke:#244a3c;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}.target{fill:#f1b24a;stroke:#8a5a10;stroke-width:4}.stop{fill:none;stroke:#8c2f2b;stroke-width:10;stroke-linecap:round}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="2200"/>
+  <text class="title" x="36" y="58">CHOKING — ADULT OR CHILD AGE 1+</text>
+  <text class="title" x="36" y="108">Australian back-blow and chest-thrust sequence</text>
+
+  <rect class="warn" x="34" y="138" width="932" height="274" rx="10"/>
+  <text class="head red" x="58" y="182">WARNING — HANDS-ON REVIEW OUTSTANDING</text>
+  <text class="body" x="58" y="226">Subjective estimates: source match 95%; new illustration 60%.</text>
+  <text class="body" x="58" y="268">These are not safety, treatment-success or survival probabilities.</text>
+  <text class="body" x="58" y="310">Body and hand positions need accredited first-aid review and practice.</text>
+  <text class="body" x="58" y="352">Follow the 000 call-taker. This is not a substitute for training.</text>
+  <text class="body red" x="58" y="394">Infant under 1 year, or any person collapses? Use Card 2.</text>
+
+  <rect class="blue" x="34" y="442" width="932" height="210" rx="10"/>
+  <text class="head" x="58" y="486">CAN THEY COUGH EFFECTIVELY?</text>
+  <text class="body" x="58" y="530">Air is moving and the cough is strong: encourage coughing.</text>
+  <text class="body" x="58" y="572">Stay with them and watch continuously. Do not strike them.</text>
+  <text class="body" x="58" y="614">Call 000 if it does not clear or the cough becomes weak or silent.</text>
+
+  <rect class="warn" x="34" y="682" width="932" height="248" rx="10"/>
+  <text class="head red" x="58" y="726">INEFFECTIVE COUGH — ACT NOW</text>
+  <text class="body" x="58" y="770">Little or no air; weak or silent cough; cannot speak or breathe;</text>
+  <text class="body" x="58" y="812">gasping, no sound or rapid deterioration.</text>
+  <text class="body red" x="58" y="856">Do not wait for blue skin or collapse.</text>
+  <text class="body" x="58" y="900">Use Steps 1–3 while the person remains responsive.</text>
+
+  <rect class="box" x="34" y="958" width="932" height="154" rx="10"/>
+  <circle class="num" cx="80" cy="1010" r="26"/><text class="numText" x="80" y="1022" text-anchor="middle">1</text>
+  <text class="head" x="122" y="1022">CALL 000</text>
+  <text class="body" x="300" y="1022">Send a named helper if one is present.</text>
+  <text class="body" x="122" y="1066">Put the call on speaker where possible. Start treatment now.</text>
+
+  <rect class="blue" x="34" y="1140" width="932" height="360" rx="10"/>
+  <circle class="num" cx="80" cy="1192" r="26"/><text class="numText" x="80" y="1204" text-anchor="middle">2</text>
+  <text class="head" x="122" y="1204">LEAN WELL FORWARD — BACK BLOWS</text>
+  <text class="body" x="58" y="1252">Use the heel of your hand</text>
+  <text class="body" x="58" y="1294">between the shoulder blades.</text>
+  <text class="body" x="58" y="1336">Give up to 5 sharp back blows.</text>
+  <text class="body" x="58" y="1378">Check after every blow.</text>
+  <text class="body" x="58" y="1420">Stop as soon as the object clears.</text>
+  <circle class="icon" cx="828" cy="1258" r="28"/>
+  <path class="icon" d="M807 1292 L744 1378 M756 1360 L695 1378 M757 1358 L808 1418"/>
+  <ellipse class="target" cx="776" cy="1338" rx="25" ry="20"/>
+  <path class="icon" d="M906 1268 L820 1328"/>
+  <path class="icon" d="M842 1316 L820 1328 L830 1304"/>
+  <text class="body amber" x="620" y="1428">TARGET: BETWEEN</text>
+  <text class="body amber" x="620" y="1466">SHOULDER BLADES</text>
+
+  <rect class="box" x="34" y="1528" width="932" height="390" rx="10"/>
+  <circle class="num" cx="80" cy="1580" r="26"/><text class="numText" x="80" y="1592" text-anchor="middle">3</text>
+  <text class="head" x="122" y="1592">STILL BLOCKED — CHEST THRUSTS</text>
+  <text class="body" x="58" y="1640">Support the middle back.</text>
+  <text class="body" x="58" y="1682">Place the other hand’s heel</text>
+  <text class="body" x="58" y="1724">on the lower half of breastbone.</text>
+  <text class="body red" x="58" y="1766">Not the abdomen.</text>
+  <text class="body" x="58" y="1808">Give up to 5 thrusts.</text>
+  <text class="body" x="58" y="1850">Slower and sharper than CPR.</text>
+  <text class="body" x="58" y="1892">Check each. Stop when clear.</text>
+  <circle class="icon" cx="838" cy="1630" r="27"/>
+  <path class="icon" d="M754 1690 Q838 1646 922 1690 L902 1856 H774 Z"/>
+  <path class="icon" d="M838 1698 V1810"/>
+  <path class="target" d="M838 1752 V1810"/>
+  <path class="stop" d="M800 1840 L876 1900 M876 1840 L800 1900"/>
+  <text class="body amber" x="720" y="1694" text-anchor="end">HEEL HERE:</text>
+  <text class="body amber" x="720" y="1734" text-anchor="end">LOWER HALF</text>
+  <text class="body amber" x="720" y="1774" text-anchor="end">BREASTBONE</text>
+  <text class="body red" x="720" y="1886" text-anchor="end">NOT ABDOMEN</text>
+
+  <rect class="amberBox" x="34" y="1948" width="932" height="380" rx="10"/>
+  <text class="head amber" x="58" y="1992">STILL BLOCKED AND RESPONSIVE?</text>
+  <text class="body" x="58" y="2036">Alternate up to 5 back blows and up to 5 chest thrusts.</text>
+  <text class="body" x="58" y="2078">Check after every action; never automatically complete all five.</text>
+  <text class="body" x="58" y="2120">Kit or no kit: use the same actions.</text>
+  <text class="body" x="58" y="2162">Do not delay to fetch equipment.</text>
+  <text class="body" x="58" y="2204">Clear? Stop. Use Card 2: AFTER IT CLEARS.</text>
+  <text class="body red" x="58" y="2246">No abdominal thrusts. No blind finger sweep.</text>
+  <text class="body red" x="58" y="2288">Collapse → Card 2.</text>
+
+  <rect x="0" y="2340" width="1000" height="40" fill="#fff7e6"/>
+  <text x="964" y="2368" text-anchor="end" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#77551c">WORKING DRAFT — age 1+ only; use with Card 2 and follow 000</text>
+</svg>

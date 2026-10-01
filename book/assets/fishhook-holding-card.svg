@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2300" viewBox="0 0 1000 2300" role="img" aria-labelledby="title desc">
+  <title id="title">Embedded fishhook: hold it still and get medical help</title>
+  <desc id="desc">A conservative holding and escalation card. It gives no fishhook-removal technique. Call triple zero for serious bleeding, collapse or another immediate threat. For a hook in or near an eye, do not press or flush a penetrated eye; prevent rubbing and pressure and use Chapter 6. Otherwise leave a deep or high-risk hook in place, prevent the hook and tackle from moving, and obtain urgent medical help. With a first-aid kit, use only the rigid eye shield, retained-object and bleeding guidance described in Chapter 6. Without a kit, do not improvise a removal tool or press a dressing onto the hook; prevent snagging and movement while arranging help. The subjective wording-confidence estimate is 91 percent and is not an outcome probability.</desc>
+  <defs>
+    <marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto"><path d="M0 0 L15 8 L0 16 Z" fill="#244a3c"/></marker>
+    <marker id="arrowRed" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto"><path d="M0 0 L15 8 L0 16 Z" fill="#8c2f2b"/></marker>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.decision{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warning{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.out{fill:#e5f3e9;stroke:#244a3c;stroke-width:4}.path{fill:none;stroke:#244a3c;stroke-width:4;marker-end:url(#arrow)}.redPath{fill:none;stroke:#8c2f2b;stroke-width:4;marker-end:url(#arrowRed)}.title{font:700 40px Arial,sans-serif;fill:#173f35}.head{font:700 31px Arial,sans-serif;fill:#173f35}.body{font:27px Arial,sans-serif;fill:#22382d}.small{font:23px Arial,sans-serif;fill:#344c41}.tiny{font:21px Arial,sans-serif;fill:#344c41}.branch{font:700 24px Arial,sans-serif;fill:#22382d}.red{fill:#7a2926}.amber{fill:#7b5114}.green{fill:#173f35}
+    </style>
+  </defs>
+
+  <rect class="bg" width="1000" height="2300"/>
+  <text class="title" x="36" y="60">Embedded fishhook: hold still and get help</text>
+
+  <rect class="warning" x="34" y="86" width="932" height="270" rx="10"/>
+  <text class="head red" x="58" y="130">WARNING — THIS IS A HOLDING ROUTE ONLY</text>
+  <text class="body red" x="58" y="174">Do not yank, twist, push through or cut around the hook.</text>
+  <text class="body" x="58" y="216">This card does not show or authorise a removal technique.</text>
+  <text class="small" x="58" y="256">Subjective wording-confidence estimate: 91%.</text>
+  <text class="small" x="58" y="294">It describes this warning—not the chance of a safe outcome.</text>
+  <text class="small red" x="58" y="332">Use Chapter 6: First aid and evacuation.</text>
+
+  <rect class="decision" x="100" y="400" width="800" height="150" rx="10"/>
+  <text class="head" x="500" y="446" text-anchor="middle">1  IS THERE AN IMMEDIATE THREAT TO LIFE?</text>
+  <text class="body" style="font-size:24px" x="500" y="490" text-anchor="middle">Serious bleeding, breathing difficulty, collapse or another threat</text>
+  <text class="small" x="500" y="526" text-anchor="middle">Treat the life threat first using Chapter 6.</text>
+
+  <path class="redPath" d="M300 550 V594"/>
+  <text class="branch red" x="270" y="584" text-anchor="end">YES</text>
+  <path class="path" d="M700 550 V594"/>
+  <text class="branch" x="730" y="584">NO</text>
+
+  <rect class="warning" x="34" y="606" width="448" height="230" rx="10"/>
+  <text class="head red" x="58" y="650">CALL 000 NOW</text>
+  <text class="body" x="58" y="692">Give the exact location.</text>
+  <text class="body" x="58" y="732">Follow the call-taker and</text>
+  <text class="body" x="58" y="770">Chapter 6 first-aid steps.</text>
+  <text class="small red" x="58" y="810">Do not delay to remove the hook.</text>
+
+  <rect class="decision" x="518" y="606" width="448" height="230" rx="10"/>
+  <text class="head" style="font-size:28px" x="742" y="650" text-anchor="middle">2  IN OR NEAR AN EYE?</text>
+  <text class="body" x="542" y="696">Or could movement press it</text>
+  <text class="body" x="542" y="734">against the eye?</text>
+  <text class="small red" x="542" y="780">Do not test the eye or hook.</text>
+  <path class="redPath" d="M742 836 V882"/>
+  <text class="branch red" x="710" y="872" text-anchor="end">YES — EYE ROUTE</text>
+  <path class="path" d="M966 720 H982 V1322 H900"/>
+  <text class="branch" x="950" y="872" text-anchor="end">NO — STEP 3</text>
+
+  <rect class="warning" x="66" y="894" width="868" height="290" rx="10"/>
+  <text class="head red" x="92" y="938">EYE OR NEAR-EYE ROUTE</text>
+  <text class="body red" x="92" y="982">Call 000. Do not press or flush a penetrated eye.</text>
+  <text class="body" x="92" y="1024">Prevent rubbing and pressure.</text>
+  <text class="body" x="92" y="1066">Keep the hook and attached tackle still.</text>
+  <text class="small" x="92" y="1108">Do not touch, test or inspect the hook or penetrated eye.</text>
+  <text class="small red" x="92" y="1150">Use a rigid eye shield only as Chapter 6 describes—never pressure.</text>
+
+  <rect class="decision" x="100" y="1230" width="800" height="185" rx="10"/>
+  <text class="head" x="500" y="1276" text-anchor="middle">3  CHECK FOR DEEP OR HIGH-RISK FEATURES</text>
+  <text class="body" x="500" y="1320" text-anchor="middle">Face, hand, over a joint, deeply embedded, or altered</text>
+  <text class="body" x="500" y="1358" text-anchor="middle">feeling, movement or circulation: urgent medical help.</text>
+  <text class="small red" x="500" y="1394" text-anchor="middle">Leave it in place. Do not experiment with removal.</text>
+
+  <path class="path" d="M500 1415 V1460"/>
+
+  <rect class="caution" x="66" y="1472" width="868" height="180" rx="10"/>
+  <text class="head amber" x="92" y="1516">FOR ANY EMBEDDED HOOK WHILE HELP IS ARRANGED</text>
+  <text class="small" x="92" y="1558">Keep the person still. Stop clothing and gear from snagging the hook.</text>
+  <text class="small" x="92" y="1596">Stop the line or lure from pulling on it.</text>
+  <text class="small" x="92" y="1634">Support attached tackle without pressing the hook farther in.</text>
+
+  <path class="path" d="M500 1652 V1666"/>
+  <line x1="500" y1="1666" x2="500" y2="1698" stroke="#244a3c" stroke-width="4"/>
+  <line x1="250" y1="1698" x2="750" y2="1698" stroke="#244a3c" stroke-width="4"/>
+  <path class="path" d="M250 1698 V1742"/>
+  <path class="path" d="M750 1698 V1742"/>
+
+  <rect class="box" x="34" y="1754" width="448" height="300" rx="10"/>
+  <text class="head" x="58" y="1798">WITH A FIRST-AID KIT</text>
+  <text class="small" x="58" y="1842">A kit does not make removal safe.</text>
+  <text class="small" x="58" y="1880">Use only Chapter 6 guidance for:</text>
+  <text class="small" x="78" y="1918">• a rigid eye shield without pressure;</text>
+  <text class="small" x="78" y="1956">• a retained object; and</text>
+  <text class="small" x="78" y="1994">• bleeding around—not onto—the hook.</text>
+  <text class="small red" x="58" y="2032">Arrange medical help.</text>
+
+  <rect class="box" x="518" y="1754" width="448" height="300" rx="10"/>
+  <text class="head" x="542" y="1798">WITHOUT A KIT</text>
+  <text class="small red" x="542" y="1842">Do not improvise a removal tool.</text>
+  <text class="small" x="542" y="1880">Do not press a dressing onto the hook.</text>
+  <text class="small" x="542" y="1918">Keep the person from snagging or</text>
+  <text class="small" x="542" y="1956">moving it. Continue the holding</text>
+  <text class="small" x="542" y="1994">actions above while arranging help.</text>
+  <text class="small red" x="542" y="2032">Lack of a kit does not justify removal.</text>
+
+  <rect class="out" x="100" y="2100" width="800" height="120" rx="10"/>
+  <text class="head green" x="500" y="2146" text-anchor="middle">HOLD STILL • GET MEDICAL HELP</text>
+  <text class="small" x="500" y="2186" text-anchor="middle">Recheck bleeding, feeling, movement and circulation.</text>
+
+  <text x="500" y="2270" text-anchor="middle" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#77551c">WORKING DRAFT — NOT FIELD-APPROVED</text>
+</svg>

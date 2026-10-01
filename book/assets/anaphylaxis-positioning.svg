@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1780" viewBox="0 0 1000 1780" role="img" aria-labelledby="title desc">
+  <title id="title">Ordered positioning guide for possible anaphylaxis</title>
+  <desc id="desc">Ordered anaphylaxis position guide. CPR takes priority when the person is unresponsive and not breathing normally. Otherwise use the first matching branch: pregnancy on the left side; vomiting or unconscious with normal breathing on the side; responsive breathing difficulty seated on the ground with legs straight; otherwise flat. Infants and young children are held flat or legs-out across a carer's lap, never upright. Do not allow standing or walking.</desc>
+  <defs>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.blue{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.amberBox{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}
+      .title{font:700 42px Arial,sans-serif;fill:#173f35}.head{font:700 32px Arial,sans-serif;fill:#173f35}.body{font:30px Arial,sans-serif;fill:#344c41}.small{font:27px Arial,sans-serif;fill:#344c41}.red{fill:#7a2926}.amber{fill:#7b5114}.num{fill:#244a3c}.numText{font:700 34px Arial,sans-serif;fill:#fff}.icon{fill:none;stroke:#244a3c;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}.accent{fill:none;stroke:#a75b18;stroke-width:8;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="1780"/>
+  <text class="title" x="36" y="58">ANAPHYLAXIS — POSITIONING</text>
+  <text class="title" x="36" y="108">Use the first matching row</text>
+
+  <rect class="warn" x="34" y="138" width="932" height="230" rx="10"/>
+  <text class="head red" x="58" y="182">WARNING — WORKING CARD; NOT HANDLING TRAINING</text>
+  <text class="body" x="58" y="226">Subjective estimates: core source match 95%; new layout 60%.</text>
+  <text class="body" x="58" y="268">These are not safety, treatment-success or survival probabilities.</text>
+  <text class="body" x="58" y="310">Never stand or walk. Follow the current ASCIA plan and 000.</text>
+  <text class="body" x="58" y="352">Clinical, practical and stressed-reader review is outstanding.</text>
+
+  <rect class="warn" x="34" y="398" width="932" height="166" rx="10"/>
+  <text class="head red" x="58" y="442">UNRESPONSIVE AND NOT BREATHING NORMALLY?</text>
+  <text class="body" x="58" y="486">Gasping or unsure counts: firm surface, call 000 and start CPR.</text>
+  <text class="body" x="58" y="528">A helper follows the adrenaline plan. Stop this position flow.</text>
+
+  <text class="head" x="500" y="620" text-anchor="middle">BREATHING IS NORMAL — USE THE FIRST MATCHING ROW</text>
+
+  <rect class="blue" x="34" y="652" width="932" height="174" rx="10"/>
+  <circle class="num" cx="80" cy="704" r="26"/><text class="numText" x="80" y="716" text-anchor="middle">1</text>
+  <text class="head" x="122" y="716">PREGNANT</text>
+  <text class="body" x="122" y="758">Use the left-side recovery position.</text>
+  <text class="body" x="122" y="800">Do not withhold adrenaline.</text>
+  <circle class="icon" cx="820" cy="730" r="25"/>
+  <path class="icon" d="M852 734 H930 M876 734 L850 772 M904 734 L932 772"/>
+  <path class="accent" d="M850 786 Q890 806 936 786"/>
+  <text class="small amber" x="804" y="812">LEFT SIDE</text>
+
+  <rect class="box" x="34" y="846" width="932" height="196" rx="10"/>
+  <circle class="num" cx="80" cy="898" r="26"/><text class="numText" x="80" y="910" text-anchor="middle">2</text>
+  <text class="head" x="122" y="900">VOMITING, OR UNRESPONSIVE</text>
+  <text class="head" x="122" y="936">BUT BREATHING NORMALLY</text>
+  <text class="body" x="122" y="978">Use the recovery/side position.</text>
+  <text class="body" x="122" y="1020">Keep face and airway clear. Watch breathing.</text>
+  <circle class="icon" cx="846" cy="982" r="24"/>
+  <path class="icon" d="M876 986 H938 M900 986 L876 1024 M922 986 L942 1024"/>
+
+  <rect class="amberBox" x="34" y="1062" width="932" height="284" rx="10"/>
+  <circle class="num" cx="80" cy="1114" r="26"/><text class="numText" x="80" y="1126" text-anchor="middle">3</text>
+  <text class="head amber" x="122" y="1126">RESPONSIVE AND BREATHING IS DIFFICULT</text>
+  <text class="body" x="122" y="1168">Ground, legs straight out. No chair.</text>
+  <text class="body" x="122" y="1210">Young child: legs-out across a lap.</text>
+  <text class="body" x="122" y="1252">Never upright or over a shoulder.</text>
+  <text class="body" x="122" y="1294">Faint, drowsy or worse? Lay flat.</text>
+  <text class="body" x="122" y="1336">Then recheck response and breathing.</text>
+  <circle class="icon" cx="830" cy="1168" r="23"/>
+  <path class="icon" d="M852 1192 L880 1222 L888 1264 M880 1222 H940 M848 1194 L824 1252"/>
+  <path class="accent" d="M758 1304 H936 M782 1286 Q820 1266 856 1286"/>
+  <circle class="accent" cx="770" cy="1284" r="14"/>
+  <text class="small amber" x="744" y="1330">CHILD: LEGS OUT</text>
+
+  <rect class="blue" x="34" y="1366" width="932" height="190" rx="10"/>
+  <circle class="num" cx="80" cy="1418" r="26"/><text class="numText" x="80" y="1430" text-anchor="middle">4</text>
+  <text class="head" x="122" y="1430">OTHERWISE: LAY FLAT</text>
+  <text class="body" x="122" y="1472">Keep still. Bring the device to them.</text>
+  <text class="body" x="122" y="1514">Young child: flat across a carer’s lap.</text>
+  <circle class="icon" cx="830" cy="1438" r="23"/>
+  <path class="icon" d="M860 1442 H936 M884 1442 L860 1482 M914 1442 L938 1482"/>
+  <path class="accent" d="M756 1518 H936 M784 1500 Q820 1482 858 1500"/>
+  <circle class="accent" cx="770" cy="1498" r="14"/>
+
+  <rect class="warn" x="34" y="1580" width="932" height="150" rx="10"/>
+  <text class="head red" x="58" y="1624">NEVER STAND OR WALK</text>
+  <text class="body" x="58" y="1666">No shower or upright chair. Never hold a child over a shoulder.</text>
+  <text class="body" x="58" y="1708">Bring the adrenaline device to the person.</text>
+
+  <rect x="0" y="1740" width="1000" height="40" fill="#fff7e6"/>
+  <text x="964" y="1768" text-anchor="end" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#77551c">WORKING DRAFT — use with Cards 1 and 3; follow 000</text>
+</svg>

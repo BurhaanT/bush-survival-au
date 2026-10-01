@@ -1,0 +1,18 @@
+# Generated book outputs and temporary research/build files
+/output/
+/tmp/
+
+# Reader dependencies and generated artifacts
+/reader/node_modules/
+/reader/.vinext/
+/reader/dist/
+/reader/dist-pages/
+/reader/outputs/
+/reader/work/
+/reader/.reader-logs/
+/reader/*.tsbuildinfo
+
+# Local environment and logs
+.env*
+*.log
+

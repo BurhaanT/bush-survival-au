@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2700" viewBox="0 0 1000 2700" role="img" aria-labelledby="title desc">
+  <title id="title">Ordinary thermal-burn first-aid action card</title>
+  <desc id="desc">Working Australian burn card in three parts. First keep out of fire, toxic air and live electricity. If the person is unresponsive and not breathing normally, call Triple Zero and start CPR before skin care. Call Triple Zero for breathing trouble, smoke or facial or throat burns, deep or large burns, electrical or chemical burns, or doubt that the burn is significant. Chemical, electrical and smoke or inhalation injuries need their own emergency route; this card continues only for an ordinary external heat burn once the scene is safe. Cool the burned area with cool running water for at least 20 minutes as soon as possible; cooling may still help when started within three hours. Remove rings, watches, jewellery and wet loose clothing only when they are not stuck. Keep the rest of the person warm. No running-water route in this card authorises untreated natural water or sets a scarce drinking-water allocation. After cooling, cover loosely with a sterile non-stick dressing when available, or clean dry non-fluffy material without a kit. Do not wrap tightly, cover the face, use ice, creams, oils, toothpaste or plant paste, burst blisters, peel stuck material or substitute gel for proper cooling. Keep watching response, normal breathing and warmth. If Triple Zero will not connect, keep care going and use Chapter 3 without leaving the person merely to seek reception.</desc>
+  <defs>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.blue{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.amberBox{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.white{fill:#fff;stroke:#244a3c;stroke-width:2}
+      .title{font:700 41px Arial,sans-serif;fill:#173f35}.subtitle{font:700 22px Arial,sans-serif;fill:#77551c}.head{font:700 30px Arial,sans-serif;fill:#173f35}.midhead{font:700 26px Arial,sans-serif;fill:#173f35}.body{font:27px Arial,sans-serif;fill:#344c41}.small{font:23px Arial,sans-serif;fill:#344c41}.tiny{font:20px Arial,sans-serif;fill:#344c41}.red{fill:#7a2926}.amber{fill:#7b5114}.num{fill:#244a3c}.numText{font:700 24px Arial,sans-serif;fill:#fff}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="2700"/>
+
+  <text class="title" x="34" y="58">HEAT BURN — DANGER AND HELP FIRST</text>
+  <text class="subtitle" x="966" y="92" text-anchor="end">WORKING CARD · PART 1 OF 3</text>
+
+  <rect class="amberBox" x="34" y="115" width="932" height="170" rx="10"/>
+  <text class="midhead amber" x="58" y="155">BURNS AND REMOTE-CARE REVIEW STILL REQUIRED</text>
+  <text class="small" x="58" y="194">Estimates: core source wording 95%; remote boundaries 70%;</text>
+  <text class="small" x="58" y="229">new layout 60%. These do not estimate safety, success or survival.</text>
+  <text class="small" x="58" y="264">Use all three parts together. Follow 000 and current specialist advice.</text>
+
+  <rect class="warn" x="34" y="310" width="932" height="160" rx="10"/>
+  <text class="head red" x="58" y="352">FIRE, TOXIC AIR OR LIVE ELECTRICITY?</text>
+  <text class="body" x="58" y="397">Do not enter or touch. Move away or isolate power only if safe.</text>
+  <text class="body red" x="58" y="442">Call 000. Do not create a second casualty.</text>
+
+  <rect class="warn" x="34" y="495" width="932" height="155" rx="10"/>
+  <text class="head red" x="58" y="537">NOT RESPONDING AND NOT BREATHING NORMALLY?</text>
+  <text class="body" x="58" y="582">Gasping or uncertainty counts. Call 000. Use a firm surface.</text>
+  <text class="body red" x="58" y="625">Start CPR now. Do not delay CPR to cool the skin.</text>
+
+  <rect class="blue" x="34" y="675" width="932" height="150" rx="10"/>
+  <text class="head" x="58" y="717">CALL 000 NOW</text>
+  <text class="small" x="58" y="759">Breathing trouble; smoke, face or throat burn; deep or large burn;</text>
+  <text class="small" x="58" y="795">electrical or chemical burn; or any doubt the burn is significant.</text>
+
+  <text class="tiny" x="500" y="854" text-anchor="middle">Ordinary external heat burn in a safe scene? Continue. Other mechanisms need their own route.</text>
+  <rect x="0" y="865" width="1000" height="35" fill="#fff7e6"/>
+  <text x="964" y="889" text-anchor="end" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#77551c">WORKING DRAFT — CONTINUE TO PART 2</text>
+
+  <text class="title" x="34" y="958">COOL THE BURNED AREA</text>
+  <text class="subtitle" x="966" y="992" text-anchor="end">WORKING CARD · PART 2 OF 3</text>
+
+  <rect class="amberBox" x="34" y="1015" width="932" height="140" rx="10"/>
+  <text class="midhead amber" x="58" y="1057">ORDINARY EXTERNAL HEAT BURN ONLY</text>
+  <text class="small" x="58" y="1098">Chemical, electrical and smoke/inhalation injuries do not use this card</text>
+  <text class="small" x="58" y="1133">as their complete treatment. Follow 000, Poisons and exact hazard advice.</text>
+
+  <rect class="blue" x="34" y="1180" width="932" height="370" rx="10"/>
+  <text class="head" x="58" y="1224">COOL RUNNING WATER — AT LEAST 20 MINUTES</text>
+  <circle class="num" cx="82" cy="1280" r="22"/><text class="numText" x="82" y="1289" text-anchor="middle">1</text>
+  <text class="body" x="122" y="1290">Start as soon as possible. Time the cooling.</text>
+  <circle class="num" cx="82" cy="1342" r="22"/><text class="numText" x="82" y="1351" text-anchor="middle">2</text>
+  <text class="body" x="122" y="1352">Keep cool running water on the burned area for 20 minutes.</text>
+  <circle class="num" cx="82" cy="1404" r="22"/><text class="numText" x="82" y="1413" text-anchor="middle">3</text>
+  <text class="body" x="122" y="1414">Cooling may still help when started within 3 hours.</text>
+  <circle class="num" cx="82" cy="1466" r="22"/><text class="numText" x="82" y="1475" text-anchor="middle">4</text>
+  <text class="body" x="122" y="1476">Never use ice. Gel does not replace proper water cooling.</text>
+  <text class="tiny" x="58" y="1524">No running water? Use clean cool liquid if available; see the limit below.</text>
+
+  <rect class="box" x="34" y="1570" width="932" height="190" rx="10"/>
+  <text class="head" x="58" y="1608">REMOVE ONLY WHAT IS NOT STUCK · KEEP THE REST WARM</text>
+  <text class="small" x="58" y="1648">• Remove rings, watches, jewellery and wet loose clothing if not stuck.</text>
+  <text class="small" x="58" y="1680">• Never pull away material stuck to the burn.</text>
+  <text class="small" x="58" y="1712">• Protect every unburned area. Children and large burns cool quickly.</text>
+  <text class="tiny red" x="58" y="1743">No approved scarce-water quantity or untreated-creek substitute is supplied.</text>
+
+  <rect x="0" y="1765" width="1000" height="35" fill="#fff7e6"/>
+  <text x="964" y="1789" text-anchor="end" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#77551c">WORKING DRAFT — CONTINUE TO PART 3</text>
+
+  <text class="title" x="34" y="1858">AFTER COOLING — COVER AND WATCH</text>
+  <text class="subtitle" x="966" y="1892" text-anchor="end">WORKING CARD · PART 3 OF 3</text>
+
+  <rect class="amberBox" x="34" y="1915" width="932" height="125" rx="10"/>
+  <text class="midhead amber" x="58" y="1957">KEEP THE COVER LOOSE</text>
+  <text class="small" x="58" y="1998">Do not wrap around a limb, bind tightly, or put a covering over the face.</text>
+  <text class="tiny" x="58" y="2028">This card gives no cling-film method and no chemical-burn covering method.</text>
+
+  <rect class="box" x="34" y="2065" width="448" height="205" rx="10"/>
+  <text class="head" x="58" y="2108">WITH A KIT</text>
+  <text class="small" x="58" y="2150">After cooling, place a sterile</text>
+  <text class="small" x="58" y="2186">non-stick dressing loosely.</text>
+  <text class="small" x="58" y="2228">Keep the rest of the person</text>
+  <text class="small" x="58" y="2260">warm without covering the face.</text>
+
+  <rect class="box" x="518" y="2065" width="448" height="205" rx="10"/>
+  <text class="head" x="542" y="2108">WITHOUT A KIT</text>
+  <text class="small" x="542" y="2150">After cooling, use clean, dry,</text>
+  <text class="small" x="542" y="2186">non-fluffy material loosely.</text>
+  <text class="small" x="542" y="2228">Do not improvise powders, pastes,</text>
+  <text class="small" x="542" y="2260">oils or a tight bandage.</text>
+
+  <rect class="warn" x="34" y="2295" width="932" height="185" rx="10"/>
+  <text class="head red" x="58" y="2338">DO NOT</text>
+  <text class="small" x="58" y="2380">• use ice, butter, oil, toothpaste, cream or plant paste</text>
+  <text class="small" x="58" y="2418">• burst blisters, peel stuck material or touch the injured surface</text>
+  <text class="small" x="58" y="2456">• treat chemical, electrical or inhalation injury as an ordinary burn</text>
+
+  <rect class="blue" x="34" y="2505" width="932" height="130" rx="10"/>
+  <text class="head" x="58" y="2547">KEEP WATCHING AND REPORT CHANGES</text>
+  <text class="small" x="58" y="2588">Recheck response, normal breathing and warmth. Record the cause and times.</text>
+  <text class="tiny" x="58" y="2620">000 will not connect? Keep care going; use Chapter 3. Do not leave merely for signal.</text>
+
+  <rect x="0" y="2665" width="1000" height="35" fill="#fff0ed"/>
+  <text x="500" y="2689" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#7a2926">NOT FIELD-APPROVED · USE ALL PARTS WITH THE CHAPTER WARNING</text>
+</svg>

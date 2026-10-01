@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2800" viewBox="0 0 1000 2800" role="img" aria-labelledby="title desc">
+  <title id="title">Casualty movement boundary</title>
+  <desc id="desc">A working Australian bush first-aid decision aid. Ask whether a present hazard or blocked lifesaving care requires movement. If yes, move only the minimum necessary, stop, recheck response, normal breathing, severe bleeding and condition, then report the new position. Lifesaving reposition, minimum hazard movement, supported movement, organised evacuation and technical rescue are kept separate. No carry, drag, lift, stretcher or extraction technique is shown.</desc>
+  <defs>
+    <marker id="arrowGreen" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto">
+      <path d="M0 0 L18 9 L0 18 Z" fill="#244a3c"/>
+    </marker>
+    <marker id="arrowRed" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto">
+      <path d="M0 0 L18 9 L0 18 Z" fill="#8c2f2b"/>
+    </marker>
+    <style>
+      .bg{fill:#fffefa}
+      .box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}
+      .decision{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}
+      .caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}
+      .warning{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}
+      .path{fill:none;stroke:#244a3c;stroke-width:4;marker-end:url(#arrowGreen)}
+      .stopPath{fill:none;stroke:#8c2f2b;stroke-width:4;marker-end:url(#arrowRed)}
+      .join{fill:none;stroke:#244a3c;stroke-width:4}
+      .title{font:700 40px Arial,sans-serif;fill:#173f35}
+      .head{font:700 30px Arial,sans-serif;fill:#173f35}
+      .small{font:27px Arial,sans-serif;fill:#344c41}
+      .branch{font:700 27px Arial,sans-serif;fill:#173f35}
+      .narrowHead{font-size:27px}
+      .narrow{font-size:24px}
+      .red{fill:#7a2926}
+      .amber{fill:#7b5114}
+      .white{fill:#ffffff}
+    </style>
+  </defs>
+
+  <rect class="bg" width="1000" height="2800"/>
+  <text class="title" x="36" y="57">Moving an injured or ill person: the boundary</text>
+
+  <rect class="warning" x="34" y="82" width="932" height="214" rx="10"/>
+  <text class="head red" x="58" y="124">WARNING — REVIEW OUTSTANDING</text>
+  <text class="small" x="58" y="166">Editorial estimate: wording 94%; layout completeness 72%.</text>
+  <text class="small" x="58" y="207">These are not safety or success probabilities. Follow 000 or rescuers.</text>
+  <text class="small" x="58" y="248">This card teaches a boundary. It shows no moving technique.</text>
+  <text class="small" x="58" y="283">Movement can worsen pain, injury, bleeding and shock.</text>
+
+  <rect class="decision" x="66" y="332" width="868" height="172" rx="10"/>
+  <text class="head" x="92" y="376">1  IS MOVEMENT NEEDED RIGHT NOW?</text>
+  <text class="small" x="92" y="419">Present hazard or unmanageable extreme-weather exposure?</text>
+  <text class="small" x="92" y="456">Does this position block airway care, CPR or bleeding access?</text>
+  <text class="small" x="92" y="492">Reduce the hazard or protect in place when possible.</text>
+
+  <path class="stopPath" d="M290 504 V548"/>
+  <text class="branch red" x="260" y="537" text-anchor="end">NO</text>
+  <path class="path" d="M710 504 V548"/>
+  <text class="branch" x="740" y="537">YES</text>
+
+  <rect class="box" x="34" y="564" width="436" height="174" rx="10"/>
+  <text class="head narrowHead" x="58" y="606">TREAT WHERE FOUND</text>
+  <text class="small narrow" x="58" y="648">Call or activate help. Protect from</text>
+  <text class="small narrow" x="58" y="684">weather. Keep the group together.</text>
+  <text class="small narrow" x="58" y="720">Stay findable and keep watching.</text>
+
+  <rect class="caution" x="530" y="564" width="436" height="174" rx="10"/>
+  <text class="head narrowHead amber" x="554" y="606">2  MINIMUM MOVE ONLY</text>
+  <text class="small narrow" x="554" y="648">Move only enough to solve the</text>
+  <text class="small narrow" x="554" y="684">hazard or allow lifesaving care.</text>
+  <text class="small narrow" x="554" y="720">No distance or physical method.</text>
+
+  <path class="path" d="M748 738 V774 H500 V798"/>
+  <rect class="caution" x="112" y="810" width="776" height="126" rx="10"/>
+  <text class="head amber" x="138" y="853">3  STOP WHEN THAT PROBLEM IS SOLVED</text>
+  <text class="small" x="138" y="898">Do not turn a short move into a carry or walkout.</text>
+
+  <path class="path" d="M500 936 V970"/>
+  <rect class="decision" x="112" y="982" width="776" height="192" rx="10"/>
+  <text class="head" x="138" y="1025">4  RECHECK BEFORE ANYTHING ELSE</text>
+  <text class="small" x="138" y="1069">• response</text>
+  <text class="small" x="138" y="1105">• normal breathing</text>
+  <text class="small" x="510" y="1069">• severe bleeding</text>
+  <text class="small" x="510" y="1105">• the condition and injury</text>
+  <text class="small" x="138" y="1151">Any change: return to the relevant first-aid section.</text>
+
+  <path class="path" d="M500 1174 V1208"/>
+  <rect class="box" x="112" y="1220" width="776" height="134" rx="10"/>
+  <text class="head" x="138" y="1263">5  REPORT THE NEW POSITION</text>
+  <text class="small" x="138" y="1307">Tell 000 or rescuers where the person is now.</text>
+  <text class="small" x="138" y="1341">Say why, what changed; stay findable. Keep the PLB on.</text>
+
+  <text class="head" x="500" y="1414" text-anchor="middle">FIVE DIFFERENT SITUATIONS — DO NOT MERGE THEM</text>
+
+  <rect class="box" x="34" y="1444" width="452" height="214" rx="10"/>
+  <text class="head narrowHead" x="58" y="1486">1  LIFESAVING REPOSITION</text>
+  <text class="small narrow" x="58" y="1529">Only enough movement to manage</text>
+  <text class="small narrow" x="58" y="1565">the airway, begin CPR or reach</text>
+  <text class="small narrow" x="58" y="1601">severe bleeding. Use the condition</text>
+  <text class="small narrow" x="58" y="1637">page. No technique is shown here.</text>
+
+  <rect class="box" x="514" y="1444" width="452" height="214" rx="10"/>
+  <text class="head narrowHead" x="538" y="1486">2  MINIMUM HAZARD MOVE</text>
+  <text class="small narrow" x="538" y="1529">Only enough movement to leave a</text>
+  <text class="small narrow" x="538" y="1565">present danger or otherwise</text>
+  <text class="small narrow" x="538" y="1601">unmanageable extreme-weather</text>
+  <text class="small narrow" x="538" y="1637">exposure. Stop once safer.</text>
+
+  <rect class="caution" x="34" y="1686" width="452" height="226" rx="10"/>
+  <text class="head narrowHead amber" x="58" y="1728">3  SUPPORTED MOVEMENT</text>
+  <text class="small narrow" x="58" y="1771">Only when the exact condition or</text>
+  <text class="small narrow" x="58" y="1807">responder plan permits it and the</text>
+  <text class="small narrow" x="58" y="1843">person can participate. This is not</text>
+  <text class="small narrow" x="58" y="1879">a general walkout clearance.</text>
+
+  <rect class="caution" x="514" y="1686" width="452" height="226" rx="10"/>
+  <text class="head narrowHead amber" x="538" y="1728">4  ORGANISED EVACUATION</text>
+  <text class="small narrow" x="538" y="1771">A trained team uses a planned</text>
+  <text class="small narrow" x="538" y="1807">route, proper equipment and one</text>
+  <text class="small narrow" x="538" y="1843">coordinator. Follow rescuers.</text>
+  <text class="small narrow" x="538" y="1879">Do not improvise the evacuation.</text>
+
+  <rect class="warning" x="112" y="1940" width="776" height="164" rx="10"/>
+  <text class="head red" x="138" y="1982">5  TECHNICAL RESCUE — NOT TAUGHT</text>
+  <text class="small" x="138" y="2025">Steep, vertical, swift-water or unstable-ground rescue</text>
+  <text class="small" x="138" y="2061">and vehicle extraction need trained teams.</text>
+
+  <text class="head" x="500" y="2166" text-anchor="middle">EQUIPMENT DOES NOT CHANGE THE BOUNDARY</text>
+  <rect class="box" x="34" y="2196" width="452" height="224" rx="10"/>
+  <text class="head narrowHead" x="58" y="2238">WITH A FIRST-AID KIT</text>
+  <text class="small narrow" x="58" y="2281">Pad and protect around the person.</text>
+  <text class="small narrow" x="58" y="2317">Do not hide breathing or bleeding.</text>
+  <text class="small narrow" x="58" y="2353">A kit does not make a carry safe.</text>
+  <text class="small narrow" x="58" y="2389">Use the full text and responder plan.</text>
+
+  <rect class="box" x="514" y="2196" width="452" height="224" rx="10"/>
+  <text class="head narrowHead" x="538" y="2238">WITHOUT A FIRST-AID KIT</text>
+  <text class="small narrow" x="538" y="2281">Reduce danger or protect in place.</text>
+  <text class="small narrow" x="538" y="2317">Do not turn available materials</text>
+  <text class="small narrow" x="538" y="2353">into an untested litter.</text>
+  <text class="small narrow" x="538" y="2389">Use the full text and call 000.</text>
+
+  <rect class="warning" x="34" y="2452" width="932" height="282" rx="10"/>
+  <text class="head red" x="58" y="2494">THIS CARD DOES NOT AUTHORISE:</text>
+  <text class="small" x="58" y="2538">• an improvised litter, drag, carry or long walkout</text>
+  <text class="small" x="58" y="2574">• a lone messenger, group split or spinal transfer</text>
+  <text class="small" x="58" y="2610">• water, steep-ground or vehicle extraction</text>
+  <text class="small" x="58" y="2654">Do not walk out a person another section says to keep still.</text>
+  <text class="small" x="58" y="2698">Do not enter danger. Call 000 from safety.</text>
+
+  <rect x="0" y="2762" width="1000" height="38" fill="#fff7e6"/>
+  <text x="964" y="2788" text-anchor="end" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#77551c">WORKING DRAFT — clinical, rescue and stressed-reader review outstanding</text>
+</svg>

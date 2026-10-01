@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="3660" viewBox="0 0 1000 3660" role="img" aria-labelledby="title desc">
+  <title id="title">Suspected Australian snakebite in Victoria: call Triple Zero, keep still and use pressure immobilisation</title>
+  <desc id="desc">Working review card for a known or suspected Australian snakebite. Call Triple Zero, keep the person lying still and continuously watched, and start CPR first if the person is unresponsive and not breathing normally. For a known bite site on an arm or leg, the card names one ANZCOR-permitted two-bandage method: a broad elasticised bandage over the bite, then a second broad bandage from just above the fingers or toes upward over clothing, followed by limb immobilisation. The limb picture is a concept map, not wrapping or pressure instruction. Exact pressure, unknown-site care, upper-limb method, no-kit wrapping, self-application and lone-person movement remain withheld pending specialist review and practical testing. Do not wash, cut or suck the bite, use an arterial tourniquet, pursue the snake or remove the bandage before hospital care.</desc>
+  <defs>
+    <marker id="greenArrow" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto">
+      <path d="M0 0 L18 9 L0 18 Z" fill="#244a3c"/>
+    </marker>
+    <marker id="redArrow" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto">
+      <path d="M0 0 L18 9 L0 18 Z" fill="#8c2f2b"/>
+    </marker>
+    <pattern id="coverage" width="18" height="18" patternUnits="userSpaceOnUse" patternTransform="rotate(24)">
+      <rect width="18" height="18" fill="#dfeaf0"/>
+      <rect width="7" height="18" fill="#b8cfda"/>
+    </pattern>
+    <style>
+      .bg{fill:#fffefa}
+      .box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}
+      .blue{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}
+      .caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}
+      .warning{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}
+      .title{font:700 39px Arial,sans-serif;fill:#173f35}
+      .head{font:700 29px Arial,sans-serif;fill:#173f35}
+      .subhead{font:700 25px Arial,sans-serif;fill:#173f35}
+      .small{font:26px Arial,sans-serif;fill:#344c41}
+      .tiny{font:23px Arial,sans-serif;fill:#344c41}
+      .micro{font:20px Arial,sans-serif;fill:#344c41}
+      .label{font:700 21px Arial,sans-serif;fill:#173f35;letter-spacing:.4px}
+      .red{fill:#7a2926}
+      .amber{fill:#7b5114}
+      .green{fill:#173f35}
+      .flow{fill:none;stroke:#244a3c;stroke-width:5;marker-end:url(#greenArrow)}
+      .dangerFlow{fill:none;stroke:#8c2f2b;stroke-width:5;marker-end:url(#redArrow)}
+      .limb{fill:#fffefa;stroke:#244a3c;stroke-width:8;stroke-linejoin:round}
+      .splint{stroke:#8a5a10;stroke-width:18;stroke-linecap:round}
+      .cross{stroke:#8c2f2b;stroke-width:8;stroke-linecap:round}
+    </style>
+  </defs>
+
+  <rect class="bg" width="1000" height="3660"/>
+  <text class="title" x="36" y="48">Suspected Australian snakebite:</text>
+  <text class="title" x="36" y="90">call 000, lie still, keep watching</text>
+
+  <rect class="warning" x="34" y="118" width="932" height="310" rx="10"/>
+  <text class="head red" x="58" y="160">WARNING — WORKING REVIEW CARD; NOT PRACTICAL TRAINING</text>
+  <text class="tiny" x="58" y="204">Evidence agreement is HIGH for 000, stillness, continuous observation, pressure</text>
+  <text class="tiny" x="58" y="239">immobilisation, CPR priority and the prohibited actions below. It is MODERATE</text>
+  <text class="tiny" x="58" y="274">for reproducing correct pressure and sequence from a static card.</text>
+  <text class="tiny" x="58" y="315">Subjective wording estimates: 95% core actions; 78% selected two-bandage wording.</text>
+  <text class="tiny" x="58" y="350">These are not probabilities of correct pressure, safety, success or survival.</text>
+  <text class="tiny" x="58" y="391">Exact equipment and pressure need toxicology, instructor and practical review. Follow 000.</text>
+
+  <rect class="blue" x="34" y="456" width="932" height="228" rx="10"/>
+  <text class="head" x="58" y="499">1  SUSPICION IS ENOUGH — CALL 000 NOW</text>
+  <text class="small" x="58" y="545">A bite may be painless and leave no visible mark.</text>
+  <text class="small" x="58" y="588">Do not wait for symptoms or for a mark to appear.</text>
+  <text class="small" x="58" y="631">Do not remove clothing, search for a bite or try to identify the snake.</text>
+  <text class="tiny red" x="58" y="667">Feeling better after an early collapse does not clear the danger.</text>
+
+  <rect class="warning" x="34" y="712" width="932" height="270" rx="10"/>
+  <text class="head red" x="58" y="756">2  CHECK RESPONSE AND NORMAL BREATHING</text>
+  <text class="subhead red" x="58" y="806">UNRESPONSIVE AND NOT BREATHING NORMALLY?</text>
+  <path class="dangerFlow" d="M58 846 H138"/>
+  <text class="small red" x="164" y="856">YES — start CPR now. Do not finish bandaging first.</text>
+  <text class="tiny" x="58" y="902">Unresponsive but breathing normally: use the airway/side-position card.</text>
+  <text class="tiny" x="58" y="941">Responsive: have the person lie down and keep completely still.</text>
+  <text class="micro" x="58" y="971">A second rescuer may bandage only if CPR is not interrupted.</text>
+
+  <rect class="box" x="34" y="1010" width="932" height="276" rx="10"/>
+  <text class="head" x="58" y="1053">3  CALL, STILLNESS AND WATCHING COME FIRST</text>
+  <text class="small" x="58" y="1099">• A helper calls while another person gives care, if possible.</text>
+  <text class="small" x="58" y="1143">• Keep the whole person and bitten limb still. Reassure them.</text>
+  <text class="small" x="58" y="1187">• Stay beside them and watch response and breathing continuously.</text>
+  <text class="small" x="58" y="1231">• Bring help and transport to them. Do not let them walk.</text>
+  <text class="tiny amber" x="58" y="1270">Move only the minimum needed for immediate danger or lifesaving care.</text>
+
+  <rect class="caution" x="34" y="1314" width="932" height="286" rx="10"/>
+  <text class="head amber" x="58" y="1357">4  WHERE IS THE BITE?</text>
+  <rect class="box" x="58" y="1383" width="278" height="186" rx="8"/>
+  <text class="subhead" x="78" y="1421">LIMB; SITE KNOWN</text>
+  <text class="tiny" x="78" y="1461">Use the selected</text>
+  <text class="tiny" x="78" y="1494">limb sequence below.</text>
+  <text class="micro amber" x="78" y="1533">One permitted method;</text>
+  <text class="micro amber" x="78" y="1559">not proven best.</text>
+  <rect class="blue" x="361" y="1383" width="278" height="186" rx="8"/>
+  <text class="subhead" x="381" y="1421">LIMB; SITE UNKNOWN</text>
+  <text class="tiny" x="381" y="1461">Do not search or remove</text>
+  <text class="tiny" x="381" y="1494">clothing. Tell 000.</text>
+  <text class="micro red" x="381" y="1533">Sequence withheld pending</text>
+  <text class="micro red" x="381" y="1559">specialist decision.</text>
+  <rect class="warning" x="664" y="1383" width="278" height="186" rx="8"/>
+  <text class="subhead red" x="684" y="1421">NOT ON A LIMB</text>
+  <text class="tiny" x="684" y="1461">Do not wrap the head,</text>
+  <text class="tiny" x="684" y="1494">neck or chest, or restrict</text>
+  <text class="tiny" x="684" y="1527">breathing. Follow 000.</text>
+  <text class="micro red" x="684" y="1559">Pressure placement not shown.</text>
+
+  <rect class="box" x="34" y="1628" width="932" height="990" rx="10"/>
+  <text class="head" x="58" y="1671">5  WITH A KIT — ONE PERMITTED LOCAL-FIRST SEQUENCE</text>
+  <text class="tiny amber" x="58" y="1710">CONCEPT MAP ONLY — it does not show wrap overlap, force or proven pressure.</text>
+
+  <rect class="blue" x="58" y="1740" width="420" height="190" rx="8"/>
+  <text class="subhead" x="80" y="1780">A  KNOWN BITE SITE</text>
+  <text class="tiny" x="80" y="1821">Place one broad elasticised</text>
+  <text class="tiny" x="80" y="1856">10–15 cm bandage over it.</text>
+  <text class="micro" x="80" y="1894">Do not delay to find an unseen mark.</text>
+
+  <rect class="blue" x="522" y="1740" width="420" height="190" rx="8"/>
+  <text class="subhead" x="544" y="1780">B  WHOLE LIMB</text>
+  <text class="tiny" x="544" y="1821">Use a second broad bandage from</text>
+  <text class="tiny" x="544" y="1856">just above digits upward, covering</text>
+  <text class="tiny" x="544" y="1891">as much limb as possible and the bite.</text>
+
+  <g aria-hidden="true">
+    <path class="limb" d="M190 1992 L324 1992 L358 2400 L333 2495 L181 2495 L157 2400 Z"/>
+    <path d="M181 2495 L152 2548 L337 2548 L333 2495 Z" fill="#fffefa" stroke="#244a3c" stroke-width="8"/>
+    <rect x="159" y="2135" width="196" height="104" rx="8" fill="#f2c9ad" stroke="#8c2f2b" stroke-width="5"/>
+    <rect x="160" y="2020" width="194" height="445" rx="12" fill="url(#coverage)" opacity=".82" stroke="#2b6684" stroke-width="6"/>
+    <rect x="159" y="2135" width="196" height="104" rx="8" fill="none" stroke="#8c2f2b" stroke-width="7"/>
+    <line class="splint" x1="128" y1="1995" x2="128" y2="2488"/>
+    <line x1="128" y1="2070" x2="167" y2="2070" stroke="#8a5a10" stroke-width="7"/>
+    <line x1="128" y1="2350" x2="169" y2="2350" stroke="#8a5a10" stroke-width="7"/>
+  </g>
+  <text class="micro red" x="365" y="2158" font-weight="700">LOCAL</text>
+  <text class="micro red" x="365" y="2183" font-weight="700">BANDAGE</text>
+  <line x1="356" y1="2189" x2="330" y2="2189" stroke="#8c2f2b" stroke-width="4"/>
+  <text class="label" x="365" y="2280">WHOLE-LIMB</text>
+  <text class="label" x="365" y="2309">COVERAGE</text>
+  <line x1="360" y1="2316" x2="331" y2="2316" stroke="#2b6684" stroke-width="4"/>
+  <text class="label amber" x="58" y="1978">SPLINT</text>
+  <line x1="58" y1="1988" x2="112" y2="2008" stroke="#8a5a10" stroke-width="4"/>
+  <text class="micro" x="337" y="2541" font-weight="700">DIGITS VISIBLE</text>
+
+  <rect class="caution" x="532" y="1960" width="410" height="586" rx="8"/>
+  <text class="subhead amber" x="554" y="2002">C  PRESSURE AND SPLINT</text>
+  <text class="tiny" x="554" y="2045">• Apply over clothing where practical.</text>
+  <text class="tiny" x="554" y="2085">• Keep fingers or toes visible.</text>
+  <text class="tiny" x="554" y="2125">• Make the bandage firm and even—</text>
+  <text class="tiny" x="576" y="2158">not a narrow arterial tourniquet.</text>
+  <text class="tiny" x="554" y="2198">• Splint joints above and below.</text>
+  <text class="tiny" x="554" y="2238">• Keep person and limb completely still.</text>
+  <text class="tiny" x="554" y="2278">• If the site is already known, mark it</text>
+  <text class="tiny" x="576" y="2311">outside and record the times.</text>
+  <rect class="warning" x="554" y="2342" width="366" height="186" rx="8"/>
+  <text class="subhead red" x="575" y="2383">A PICTURE CANNOT CHECK</text>
+  <text class="tiny red" x="575" y="2422">whether pressure is correct.</text>
+  <text class="micro" x="575" y="2460">Exact bandage and pressure need testing.</text>
+  <text class="micro" x="575" y="2489">Upper-limb care needs separate</text>
+  <text class="micro" x="575" y="2518">specialist review.</text>
+
+  <text class="micro amber" x="58" y="2591">The shaded limb is a coverage concept, not wrapping geometry or a child-size guide.</text>
+
+  <rect class="caution" x="34" y="2646" width="932" height="294" rx="10"/>
+  <text class="subhead amber" x="58" y="2689">6  WITHOUT A PROPER BANDAGE — LOWER-ASSURANCE FALLBACK</text>
+  <text class="small" x="58" y="2736">Keep the person and limb still. Do not walk away to find equipment.</text>
+  <text class="small" x="58" y="2781">ANZCOR permits broad clothing or other material; Ambulance Victoria says</text>
+  <text class="small" x="58" y="2826">a regular bandage or clothing at least 10–15 cm wide may be used.</text>
+  <text class="tiny red" x="58" y="2871">Do not use a belt, cord, rope, narrow strip or improvised arterial tourniquet.</text>
+  <text class="micro red" x="58" y="2914">Exact material, anchoring, overlap, pressure and improvised splint are not illustrated:</text>
+  <text class="micro red" x="58" y="2937">each proposed method needs pressure and usability testing first.</text>
+
+  <rect class="blue" x="34" y="2968" width="932" height="288" rx="10"/>
+  <text class="head" x="58" y="3011">7  LEAVE IT IN PLACE. KEEP WATCHING.</text>
+  <text class="small" x="58" y="3057">• Do not remove, loosen or redo the bandage or splint to inspect the bite.</text>
+  <text class="small" x="58" y="3101">• Stay with the person. Watch response and normal breathing continuously.</text>
+  <text class="small" x="58" y="3145">• If breathing becomes abnormal or stops, start CPR immediately.</text>
+  <text class="small" x="58" y="3189">• Leave removal to the hospital team responsible for treatment.</text>
+  <text class="tiny amber" x="58" y="3232">No field check proves that venom spread has stopped.</text>
+
+  <rect class="warning" x="34" y="3284" width="932" height="258" rx="10"/>
+  <text class="head red" x="58" y="3327">DO NOT</text>
+  <text class="tiny red" x="58" y="3371">✕ wash, cut or suck the bite   ✕ apply ice   ✕ use an arterial tourniquet</text>
+  <text class="tiny red" x="58" y="3412">✕ stand or walk   ✕ pursue, catch or kill the snake   ✕ delay for a photo</text>
+  <text class="tiny red" x="58" y="3453">✕ remove the bandage before hospital care</text>
+  <text class="subhead red" x="58" y="3501">PRESSURE IMMOBILISATION ≠ BLEEDING TOURNIQUET</text>
+  <text class="micro" x="58" y="3531">This card is for suspected Australian snakebite—not every bite or sting.</text>
+
+  <rect class="caution" x="34" y="3568" width="932" height="58" rx="8"/>
+  <text class="micro amber" x="58" y="3594">NOT SHOWN: self-application, unknown-site or non-limb technique, upper-limb sling,</text>
+  <text class="micro amber" x="58" y="3618">child sizing, no-kit wrapping, pressure indicators, or a lone/no-contact walkout rule.</text>
+
+  <rect x="0" y="3630" width="1000" height="30" fill="#fff7e6"/>
+  <text x="966" y="3652" text-anchor="end" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#77551c">WORKING DRAFT — toxicology, instructor, pressure, practical and stressed-reader review outstanding</text>
+</svg>

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2750" viewBox="0 0 1000 2750" role="img" aria-labelledby="title desc">
+  <title id="title">Infant choking and collapse action card</title>
+  <desc id="desc">Working Australian choking card for an infant under one year, followed by the collapse branch for any age. If the infant is coughing effectively and breathing, let the infant cough, watch continuously and do not strike. For a weak or silent cough or little air, call Triple Zero. Support the responsive infant face-down and head-low for up to five back blows, then face-up and head-low for up to five two-finger chest thrusts on the lower half of the breastbone, checking after each action. The actions are the same with or without a first-aid kit and equipment must not delay treatment. If anyone becomes unresponsive, remove only a clearly visible object. Start CPR only if unresponsive and not breathing normally; otherwise use the side position and keep watching. Abdominal thrusts, blind finger sweeps, shaking and inversion are prohibited.</desc>
+  <defs>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.blue{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.amberBox{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}
+      .title{font:700 42px Arial,sans-serif;fill:#173f35}.head{font:700 32px Arial,sans-serif;fill:#173f35}.body{font:30px Arial,sans-serif;fill:#344c41}.red{fill:#7a2926}.amber{fill:#7b5114}.num{fill:#244a3c}.numText{font:700 34px Arial,sans-serif;fill:#fff}.icon{fill:none;stroke:#244a3c;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}.support{fill:none;stroke:#a75b18;stroke-width:12;stroke-linecap:round;stroke-linejoin:round}.target{fill:#f1b24a;stroke:#8a5a10;stroke-width:4}.stop{fill:none;stroke:#8c2f2b;stroke-width:10;stroke-linecap:round}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="2500"/>
+  <text class="title" x="36" y="58">CHOKING — INFANT UNDER 1 YEAR</text>
+  <text class="title" x="36" y="108">Plus the collapse branch for any age</text>
+
+  <rect class="warn" x="34" y="138" width="932" height="274" rx="10"/>
+  <text class="head red" x="58" y="182">WARNING — HANDS-ON REVIEW OUTSTANDING</text>
+  <text class="body" x="58" y="226">Subjective estimates: source match 95%; new illustration 60%.</text>
+  <text class="body" x="58" y="268">These are not safety, treatment-success or survival probabilities.</text>
+  <text class="body" x="58" y="310">Infant support and hand positions need paediatric first-aid review.</text>
+  <text class="body" x="58" y="352">Follow the 000 call-taker. This is not a substitute for training.</text>
+  <text class="body red" x="58" y="394">Adult or child age 1+ and still responsive? Use Card 1.</text>
+
+  <rect class="amberBox" x="34" y="442" width="932" height="240" rx="10"/>
+  <text class="head amber" x="58" y="486">CAN THE INFANT COUGH EFFECTIVELY?</text>
+  <text class="body" x="58" y="530">YES — let the infant cough. Watch continuously.</text>
+  <text class="body" x="58" y="572">Do not strike or shake.</text>
+  <text class="body red" x="58" y="614">WEAK / SILENT OR LITTLE AIR? Call 000 now.</text>
+  <text class="body" x="58" y="656">Start Step 1 only while the infant is responsive.</text>
+
+  <rect class="blue" x="34" y="710" width="932" height="510" rx="10"/>
+  <circle class="num" cx="80" cy="762" r="26"/><text class="numText" x="80" y="774" text-anchor="middle">1</text>
+  <text class="head" x="122" y="774">FACE-DOWN, HEAD LOWER — BACK BLOWS</text>
+  <text class="body" x="58" y="822">Support the infant across your forearm or lap.</text>
+  <text class="body" x="58" y="864">Support the head, jaw and shoulders.</text>
+  <text class="body red" x="58" y="906">Do not press the soft throat.</text>
+  <path class="support" d="M602 1088 Q754 1060 930 970"/>
+  <circle class="icon" cx="646" cy="1040" r="34"/>
+  <path class="icon" d="M680 1024 Q760 966 872 984 M710 1010 L690 1070 M842 984 L884 1032"/>
+  <ellipse class="target" cx="770" cy="990" rx="30" ry="20"/>
+  <path class="icon" d="M792 928 V962 M776 946 L792 962 L808 946"/>
+  <text class="body amber" x="58" y="1124">Give up to 5 sharp blows between the shoulder blades.</text>
+  <text class="body" x="58" y="1166">Check after every blow. Stop as soon as the object clears.</text>
+
+  <rect class="box" x="34" y="1250" width="932" height="510" rx="10"/>
+  <circle class="num" cx="80" cy="1302" r="26"/><text class="numText" x="80" y="1314" text-anchor="middle">2</text>
+  <text class="head" x="122" y="1314">FACE-UP, HEAD LOWER — CHEST THRUSTS</text>
+  <text class="body" x="58" y="1362">Turn the infant while supporting the head and body.</text>
+  <text class="body" x="58" y="1404">Keep the infant face-up and head lower across your thigh.</text>
+  <path class="support" d="M602 1628 Q754 1602 930 1514"/>
+  <circle class="icon" cx="646" cy="1580" r="34"/>
+  <path class="icon" d="M680 1564 Q760 1504 872 1522 M710 1550 L690 1610 M842 1522 L884 1570"/>
+  <circle class="target" cx="762" cy="1534" r="18"/>
+  <path class="icon" d="M744 1460 V1500 M776 1460 V1500"/>
+  <path class="icon" d="M744 1490 L762 1510 L780 1490"/>
+  <text class="body amber" x="58" y="1664">Use 2 fingers on the lower half of the breastbone.</text>
+  <text class="body" x="58" y="1706">Give up to 5 chest thrusts. Check after each; stop if clear.</text>
+
+  <rect class="amberBox" x="34" y="1790" width="932" height="240" rx="10"/>
+  <text class="head amber" x="58" y="1834">STILL BLOCKED AND RESPONSIVE?</text>
+  <text class="body" x="58" y="1878">Alternate the two steps. Check after every action.</text>
+  <text class="body red" x="58" y="1920">No abdominal thrusts. Do not shake or hold upside down.</text>
+  <text class="body" x="58" y="1962">Kit or no kit: use the same actions.</text>
+  <text class="body" x="58" y="2004">Do not delay to fetch equipment.</text>
+
+  <rect class="warn" x="34" y="2060" width="932" height="370" rx="10"/>
+  <text class="head red" x="58" y="2104">ANY AGE: PERSON BECOMES UNRESPONSIVE</text>
+  <text class="body" x="58" y="2148">1. Open and check the airway.</text>
+  <text class="body" x="58" y="2190">2. Remove an object only if it is clearly visible.</text>
+  <text class="body red" x="58" y="2232">Never sweep blindly with a finger.</text>
+  <text class="body" x="58" y="2274">3. Not breathing normally, gasping or unsure?</text>
+  <text class="body red" x="94" y="2316">Call 000; firm surface; start CPR; attach an AED.</text>
+  <text class="body" x="58" y="2358">4. Breathing normally? Use the side position and keep watching.</text>
+  <text class="body" x="58" y="2400">Use the guide’s CPR, AED and recovery-position cards.</text>
+
+  <rect class="box" x="34" y="2460" width="932" height="242" rx="10"/>
+  <text class="head" x="58" y="2504">AFTER IT CLEARS</text>
+  <text class="body" x="58" y="2548">Stop blows and thrusts. Keep watching breathing.</text>
+  <text class="body" x="58" y="2590">If 000 has been called, update the call-taker.</text>
+  <text class="body" x="58" y="2632">Persistent cough, wheeze, noisy or difficult breathing,</text>
+  <text class="body" x="58" y="2674">coughing blood or fever needs medical assessment.</text>
+
+  <rect x="0" y="2710" width="1000" height="40" fill="#fff7e6"/>
+  <text x="964" y="2738" text-anchor="end" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#77551c">WORKING DRAFT — infant/collapse card; use with Card 1 and follow 000</text>
+</svg>

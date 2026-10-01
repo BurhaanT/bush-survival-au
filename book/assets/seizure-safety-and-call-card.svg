@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2800" viewBox="0 0 1000 2800" role="img" aria-labelledby="title desc">
+  <title id="title">Seizure safety, ambulance triggers and breathing check</title>
+  <desc id="desc">Working Australian seizure first-aid card. If the person is unresponsive and not breathing normally, including gasping or uncertain breathing, call Triple Zero and start CPR on a firm surface. Otherwise stay, start timing, clear nearby hazards, move the person only from immediate danger, protect the head with a soft flat item and let movements happen without restraint. Do not put anything in the mouth or force a roll. Call Triple Zero as soon as any listed trigger applies, including more than five minutes, another seizure before recovery, a first or unknown seizure, an unknown person or no plan, water, known diabetes or possible pregnancy, injury, breathing trouble, delayed response, a different pattern, food, fluid or vomit in the mouth, or doubt. Do not wait for five minutes when another trigger already applies. After movements stop, use CPR for abnormal breathing, the recovery-position card for an unresponsive person breathing normally, or rest and observation when responsive. If Triple Zero will not connect, keep care going and use Chapter 3's life-threatening-emergency contact path; do not leave the person merely to seek signal. Prescribed rescue medicine is only for a trained carer following the current plan and exact product instructions. Give nothing by mouth until fully awake and alert.</desc>
+  <defs>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.blue{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.amberBox{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.white{fill:#fff;stroke:#244a3c;stroke-width:2}
+      .title{font:700 42px Arial,sans-serif;fill:#173f35}.subtitle{font:700 24px Arial,sans-serif;fill:#77551c}.head{font:700 32px Arial,sans-serif;fill:#173f35}.midhead{font:700 28px Arial,sans-serif;fill:#173f35}.body{font:29px Arial,sans-serif;fill:#344c41}.small{font:25px Arial,sans-serif;fill:#344c41}.tiny{font:22px Arial,sans-serif;fill:#344c41}.red{fill:#7a2926}.amber{fill:#7b5114}.num{fill:#244a3c}.numText{font:700 27px Arial,sans-serif;fill:#fff}.icon{fill:none;stroke:#244a3c;stroke-width:7;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="2800"/>
+
+  <text class="title" x="34" y="58">SEIZURE — KEEP SAFE, TIME, WATCH</text>
+  <text class="subtitle" x="966" y="93" text-anchor="end">WORKING CARD · USE ALL 3 PARTS</text>
+
+  <rect class="amberBox" x="34" y="120" width="932" height="235" rx="10"/>
+  <text class="head amber" x="58" y="162">WARNING — CLINICAL AND HANDS-ON REVIEW NEEDED</text>
+  <text class="small" x="58" y="205">Subjective estimates: source match 95%; new layout 60%.</text>
+  <text class="small" x="58" y="244">These are not probabilities of safety, treatment success or survival.</text>
+  <text class="small" x="58" y="283">Side-position timing during convulsions and remote escalation remain unresolved.</text>
+  <text class="small" x="58" y="322">Use all parts together. Follow 000 and the person’s current plan.</text>
+
+  <rect class="warn" x="34" y="380" width="932" height="150" rx="10"/>
+  <text class="head red" x="58" y="423">UNRESPONSIVE AND NOT BREATHING NORMALLY?</text>
+  <text class="body" x="58" y="468">Gasping or unsure counts. Call 000 and use a firm surface.</text>
+  <text class="body red" x="58" y="508">Start CPR now. Do not work through this card first.</text>
+
+  <rect class="box" x="34" y="555" width="932" height="335" rx="10"/>
+  <text class="head" x="58" y="600">WHILE MOVEMENTS ARE HAPPENING</text>
+  <circle class="num" cx="78" cy="648" r="23"/><text class="numText" x="78" y="658" text-anchor="middle">1</text>
+  <text class="body" x="118" y="658">Stay. Start a timer now.</text>
+  <circle class="num" cx="78" cy="714" r="23"/><text class="numText" x="78" y="724" text-anchor="middle">2</text>
+  <text class="body" x="118" y="724">Clear hard or sharp objects. Move only from immediate danger.</text>
+  <circle class="num" cx="78" cy="780" r="23"/><text class="numText" x="78" y="790" text-anchor="middle">3</text>
+  <text class="body" x="118" y="790">Protect the head with a soft, flat item such as folded clothing.</text>
+  <circle class="num" cx="78" cy="846" r="23"/><text class="numText" x="78" y="856" text-anchor="middle">4</text>
+  <text class="body" x="118" y="856">Let the movements happen. Watch breathing when safely able.</text>
+
+  <rect class="warn" x="34" y="965" width="932" height="200" rx="10"/>
+  <text class="head red" x="58" y="1008">DO NOT</text>
+  <text class="body" x="58" y="1052">• do not hold the person down or restrain the movements</text>
+  <text class="body" x="58" y="1094">• do not force the mouth open or put anything in it</text>
+  <text class="body" x="58" y="1136">• do not force a roll; use the side-position branch below when safe</text>
+
+  <rect class="blue" x="34" y="1190" width="932" height="625" rx="10"/>
+  <path class="icon" d="M82 1230h34v48H82z M88 1220h22 M91 1288h16"/>
+  <text class="head" x="140" y="1243">CALL 000 AS SOON AS ANY ONE APPLIES</text>
+  <text class="small" x="58" y="1285">Do not wait for every sign or for the seizure to stop.</text>
+
+  <text class="small" x="58" y="1340">• more than five minutes</text>
+  <text class="small" x="58" y="1412">• another seizure starts before</text>
+  <text class="small" x="78" y="1444">the person fully recovers</text>
+  <text class="small" x="58" y="1516">• first or unknown seizure</text>
+  <text class="small" x="78" y="1548">unknown person or no seizure plan</text>
+  <text class="small" x="58" y="1620">• happened in water</text>
+  <text class="small" x="58" y="1692">• known diabetes or may be pregnant</text>
+
+  <text class="small" x="520" y="1340">• injury or breathing trouble</text>
+  <text class="small" x="520" y="1412">• not responsive five minutes</text>
+  <text class="small" x="540" y="1444">after movements stop</text>
+  <text class="small" x="520" y="1516">• different from the plan or</text>
+  <text class="small" x="540" y="1548">the person’s usual pattern</text>
+  <text class="small" x="520" y="1620">• food, fluid or vomit in the mouth</text>
+  <text class="small" x="520" y="1692">• any doubt or concern</text>
+
+  <rect class="amberBox" x="58" y="1730" width="884" height="62" rx="8"/>
+  <text class="small amber" x="500" y="1770" text-anchor="middle">A five-minute threshold is one trigger — not a wait-before-help rule.</text>
+
+  <rect class="box" x="34" y="1885" width="932" height="405" rx="10"/>
+  <text class="midhead" x="58" y="1930">AFTER MOVEMENTS STOP: CHECK RESPONSE + BREATHING</text>
+
+  <rect class="warn" x="58" y="1960" width="884" height="92" rx="8"/>
+  <text class="small red" x="78" y="1998">UNRESPONSIVE + ABNORMAL, GASPING OR UNSURE BREATHING</text>
+  <text class="small" x="78" y="2033">Call 000. Firm surface. Start CPR. Use the CPR/AED cards.</text>
+
+  <rect class="blue" x="58" y="2065" width="884" height="92" rx="8"/>
+  <text class="small" x="78" y="2103">UNRESPONSIVE + BREATHING NORMALLY</text>
+  <text class="small" x="78" y="2138">Use the recovery-position card. Keep watching breathing.</text>
+
+  <rect class="white" x="58" y="2170" width="884" height="92" rx="8"/>
+  <text class="small" x="78" y="2208">RESPONSIVE</text>
+  <text class="small" x="78" y="2243">Rest, reassure, check for injury and keep watching.</text>
+
+  <rect class="amberBox" x="34" y="2305" width="932" height="110" rx="10"/>
+  <text class="tiny amber" x="58" y="2338">000 will not connect? Keep care going. Use Chapter 3’s</text>
+  <text class="tiny amber" x="58" y="2370">life-threatening-emergency contact path.</text>
+  <text class="tiny amber" x="58" y="2402">Do not leave the person merely to seek signal.</text>
+
+  <rect class="box" x="34" y="2430" width="448" height="225" rx="10"/>
+  <text class="head" x="58" y="2475">WITH A KIT</text>
+  <text class="small" x="58" y="2518">• use a timer and the current plan</text>
+  <text class="small" x="58" y="2558">• use soft, flat head padding</text>
+  <text class="tiny" x="58" y="2598">• rescue medicine: trained carer only</text>
+  <text class="tiny" x="78" y="2630">follow the plan + product instructions</text>
+
+  <rect class="box" x="518" y="2430" width="448" height="225" rx="10"/>
+  <text class="head" x="542" y="2475">WITHOUT A KIT</text>
+  <text class="small" x="542" y="2518">• use a phone or watch to time</text>
+  <text class="small" x="542" y="2558">• use folded clothing for the head</text>
+  <text class="tiny" x="542" y="2598">• same safety, call and breathing steps</text>
+  <text class="small red" x="542" y="2638">• no improvised rescue medicine</text>
+
+  <rect class="warn" x="34" y="2672" width="932" height="84" rx="10"/>
+  <text class="tiny red" x="500" y="2707" text-anchor="middle">Nothing by mouth until fully awake and alert.</text>
+  <text class="tiny red" x="500" y="2739" text-anchor="middle">There is no fixed “all clear” time.</text>
+
+  <rect x="0" y="2765" width="1000" height="35" fill="#fff7e6"/>
+  <text x="964" y="2789" text-anchor="end" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#77551c">WORKING DRAFT — follow 000 and the person’s current seizure plan</text>
+</svg>

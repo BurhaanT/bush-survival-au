@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2700" viewBox="0 0 1000 2700" role="img" aria-labelledby="title desc">
+  <title id="title">First actions for a Victorian bush emergency</title>
+  <desc id="desc">Working three-part bush-emergency routing card. Part one says that immediate danger, obvious life-threatening bleeding, an unresponsive person who is not breathing normally, or another serious illness or injury overrides the overview and routes immediately to Triple Zero and the matching Chapter 6 action. Gasping or uncertain breathing counts as not breathing normally. The card does not resolve simultaneous life threats for a lone rescuer. Part two says to stop unnecessary movement, keep the group together when safe, call Triple Zero without waiting for perfect coordinates or complete notes, and continue urgent care and protection while using Chapter 3 if the call fails. It does not authorise climbing or wandering for signal. Part three says to stay near the reported place unless it becomes unsafe or responders direct movement, improve protection near the safe waiting place, record known and unknown facts, stay findable and recheck whenever something changes. Rescue delay is not permission for an unplanned walkout. The card teaches no CPR, bleeding-control, device-operation, location-fixing, movement, shelter or signalling technique.</desc>
+  <defs>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.blue{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.amberBox{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.white{fill:#fff;stroke:#244a3c;stroke-width:2}
+      .title{font:700 40px Arial,sans-serif;fill:#173f35}.subtitle{font:700 22px Arial,sans-serif;fill:#77551c}.head{font:700 30px Arial,sans-serif;fill:#173f35}.midhead{font:700 25px Arial,sans-serif;fill:#173f35}.body{font:27px Arial,sans-serif;fill:#344c41}.small{font:23px Arial,sans-serif;fill:#344c41}.tiny{font:20px Arial,sans-serif;fill:#344c41}.red{fill:#7a2926}.amber{fill:#7b5114}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="2700"/>
+
+  <text class="title" x="34" y="58">FIRST ACTIONS — DANGER + LIFE THREATS</text>
+  <text class="subtitle" x="966" y="92" text-anchor="end">WORKING CARD · PART 1 OF 3</text>
+
+  <rect class="amberBox" x="34" y="115" width="932" height="185" rx="10"/>
+  <text class="midhead amber" x="58" y="155">WARNING — ROUTING CARD; SPECIALIST REVIEW NEEDED</text>
+  <text class="small" x="58" y="194">Estimates: core wording 95%; combined ordering 75%; new layout 60%.</text>
+  <text class="small" x="58" y="229">These do not estimate safety, contact, rescue, treatment or survival.</text>
+  <text class="small" x="58" y="264">No fixed order overrides immediate danger or a critical injury.</text>
+  <text class="tiny red" x="58" y="289">Do not finish this card before urgent care. Follow 000 and the matching card.</text>
+
+  <rect class="warn" x="34" y="320" width="932" height="165" rx="10"/>
+  <circle cx="82" cy="378" r="28" fill="#8c2f2b"/>
+  <text x="82" y="389" text-anchor="middle" font-family="Arial,sans-serif" font-size="33" font-weight="700" fill="#fff">!</text>
+  <text class="head red" x="130" y="364">IMMEDIATE DANGER OR UNSURE?</text>
+  <text class="small" x="130" y="405">Do not enter or remain exposed to read this card.</text>
+  <text class="small" x="130" y="438">Move only as far as needed to reduce the threat. Call 000 from safety.</text>
+  <text class="tiny red" x="130" y="470">Every further movement decision belongs to Chapter 4.</text>
+
+  <text class="tiny red" x="500" y="514" text-anchor="middle">EITHER BOX IS AN IMMEDIATE EXIT — NOT A SEQUENCE</text>
+  <rect class="warn" x="34" y="530" width="448" height="225" rx="10"/>
+  <text class="midhead red" x="58" y="574">OBVIOUS LIFE-THREATENING</text>
+  <text class="midhead red" x="58" y="607">BLEEDING?</text>
+  <text class="small" x="58" y="654">Call 000. Use the Chapter 6</text>
+  <text class="small" x="58" y="688">severe-bleeding card now.</text>
+  <text class="tiny red" x="58" y="730">Do not finish this overview first.</text>
+
+  <rect class="warn" x="518" y="530" width="448" height="225" rx="10"/>
+  <text class="midhead red" x="542" y="574">UNRESPONSIVE + NOT</text>
+  <text class="midhead red" x="542" y="607">BREATHING NORMALLY?</text>
+  <text class="small" x="542" y="654">Gasping or unsure counts. Call 000.</text>
+  <text class="small" x="542" y="688">Use the Chapter 6 CPR/AED cards.</text>
+  <text class="tiny red" x="542" y="730">Do not finish this overview first.</text>
+
+  <rect class="blue" x="34" y="765" width="932" height="95" rx="10"/>
+  <text class="tiny" x="500" y="790" text-anchor="middle">OTHER SERIOUS ILLNESS OR INJURY? Call 000; use the matching Chapter 6 action.</text>
+  <text class="tiny" x="500" y="819" text-anchor="middle">Competing tasks? Capable helpers act in parallel; no lone-rescuer priority is set here.</text>
+  <text class="tiny red" x="500" y="848" text-anchor="middle">With or without a kit, do not delay urgent care while searching for equipment.</text>
+
+  <rect x="0" y="865" width="1000" height="35" fill="#fff7e6"/>
+  <text x="964" y="889" text-anchor="end" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#77551c">NO IMMEDIATE OVERRIDE? CONTINUE TO PART 2</text>
+
+  <text class="title" x="34" y="958">STOP — KEEP TOGETHER — GET HELP</text>
+  <text class="subtitle" x="966" y="992" text-anchor="end">WORKING CARD · PART 2 OF 3</text>
+
+  <rect class="amberBox" x="34" y="1015" width="932" height="125" rx="10"/>
+  <text class="midhead amber" x="58" y="1057">PART 1 STILL CONTROLS</text>
+  <text class="small" x="58" y="1098">Urgent care and the 000 call can happen together when a capable helper is</text>
+  <text class="small" x="58" y="1128">available. Never pause the matching emergency card to finish this overview.</text>
+
+  <rect class="box" x="34" y="1165" width="932" height="180" rx="10"/>
+  <text class="head" x="58" y="1210">STOP UNNECESSARY MOVEMENT</text>
+  <text class="small" x="58" y="1253">Stop and bring the group within speaking distance only when safe.</text>
+  <text class="small" x="58" y="1288">Keep the group together. Do not split up or send a messenger.</text>
+  <text class="tiny red" x="58" y="1325">Use Chapter 4 for every stay, move, retrace or missing-person decision.</text>
+
+  <rect class="blue" x="34" y="1370" width="932" height="215" rx="10"/>
+  <text class="head" x="58" y="1415">URGENT RESCUE OR MEDICAL EMERGENCY? CALL 000</text>
+  <text class="small" x="58" y="1455">Unable to find your way back and need rescue help? Ask for Police.</text>
+  <text class="small" x="58" y="1489">Serious illness or injury? Ask for Ambulance. Describe every problem that applies.</text>
+  <text class="small" x="58" y="1523">Do not wait for perfect coordinates, a complete note or a full inventory.</text>
+  <text class="small" x="58" y="1557">State what is known and uncertain. Use Chapter 3 now.</text>
+
+  <rect class="warn" x="34" y="1610" width="932" height="150" rx="10"/>
+  <text class="head red" x="58" y="1651">000 DID NOT CONNECT?</text>
+  <text class="small" x="58" y="1688">Keep urgent care and protection going. Use Chapter 3's failed-contact branches.</text>
+  <text class="small" x="58" y="1721">Do not climb, wander or leave the person merely to seek signal.</text>
+  <text class="tiny red" x="58" y="1748">If the site becomes unsafe, move only the minimum needed; then report the change.</text>
+
+  <rect x="0" y="1765" width="1000" height="35" fill="#fff7e6"/>
+  <text x="964" y="1789" text-anchor="end" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#77551c">WORKING DRAFT — CONTINUE TO PART 3</text>
+
+  <text class="title" x="34" y="1858">PROTECT — RECORD — RECHECK</text>
+  <text class="subtitle" x="966" y="1892" text-anchor="end">WORKING CARD · PART 3 OF 3</text>
+
+  <rect class="amberBox" x="34" y="1915" width="932" height="120" rx="10"/>
+  <text class="midhead amber" x="58" y="1957">URGENT CARE + FIRST HELP ATTEMPT UNDERWAY?</text>
+  <text class="small" x="58" y="1998">If no, return to Parts 1–2. Keep essential care and contact going.</text>
+  <text class="tiny red" x="58" y="2025">Follow live responder directions over this card. Never use this part alone.</text>
+
+  <rect class="box" x="34" y="2060" width="932" height="190" rx="10"/>
+  <text class="head" x="58" y="2105">PROTECT PEOPLE · STAY FINDABLE</text>
+  <text class="small" x="58" y="2147">Stay near the reported place unless it becomes unsafe or responders direct a move.</text>
+  <text class="small" x="58" y="2181">Keep the group together. Improve protection from weather and cold ground nearby.</text>
+  <text class="small" x="58" y="2215">Make the position visible only without entering danger or abandoning care.</text>
+  <text class="tiny red" x="58" y="2242">Use Chapters 4 and 5. This card gives no movement, shelter or signalling method.</text>
+
+  <rect class="blue" x="34" y="2275" width="932" height="180" rx="10"/>
+  <text class="head" x="58" y="2318">WRITE WHAT IS KNOWN — MARK WHAT IS UNKNOWN</text>
+  <text class="small" x="58" y="2360">PEOPLE · POSITION + UNCERTAINTY · TIME · PROTECTION</text>
+  <text class="small" x="58" y="2395">SUPPLIES · CONTACT ATTEMPTS / REPLIES · CHANGES</text>
+  <text class="tiny" x="58" y="2427">Do not guess. Unknown never means safe. Use Chapter 9 for position details.</text>
+  <text class="tiny red" x="58" y="2450">Urgent care and the first help attempt always come before notes.</text>
+
+  <rect class="warn" x="34" y="2480" width="932" height="155" rx="10"/>
+  <text class="head red" x="58" y="2520">RECHECK WHENEVER SOMETHING CHANGES</text>
+  <text class="small" x="58" y="2560">People: response, normal breathing, bleeding, temperature, other deterioration.</text>
+  <text class="small" x="58" y="2594">Situation: danger, weather, protection, contact and responder directions.</text>
+  <text class="tiny red" x="58" y="2621">Change? Return to Part 1 or the matching card. No rescue deadline or walkout.</text>
+
+  <rect x="0" y="2665" width="1000" height="35" fill="#fff0ed"/>
+  <text x="500" y="2689" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#7a2926">NOT FIELD-APPROVED · USE ALL PARTS WITH THE CHAPTER WARNING</text>
+</svg>

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1780" viewBox="0 0 1000 1780" role="img" aria-labelledby="title desc">
+  <title id="title">Retrace or wait: final check</title>
+  <desc id="desc">A working Victorian final retrace check. Every route, cross-check, hazard and group condition must be positive before following only a genuinely recognised route to the last certain point. Otherwise stop, seek help and wait actively. It also warns that a vehicle is not automatically safe and warns against an improvised missing-person search.</desc>
+  <defs>
+    <marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto"><path d="M0 0 L18 9 L0 18 Z" fill="#244a3c"/></marker>
+    <marker id="arrowRed" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto"><path d="M0 0 L18 9 L0 18 Z" fill="#8c2f2b"/></marker>
+    <style>
+      .bg{fill:#fffefa}.decision{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.warning{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.path{fill:none;stroke:#244a3c;stroke-width:4;marker-end:url(#arrow)}.stopPath{fill:none;stroke:#8c2f2b;stroke-width:4;marker-end:url(#arrowRed)}.join{fill:none;stroke:#244a3c;stroke-width:4}.title{font:700 46px Arial,sans-serif;fill:#173f35}.head{font:700 31px Arial,sans-serif;fill:#173f35}.branch{font:700 28px Arial,sans-serif;fill:#173f35}.small{font:28px Arial,sans-serif;fill:#344c41}.red{fill:#7a2926}.amber{fill:#7b5114}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="1780"/>
+  <text class="title" x="36" y="57">Retrace or wait? Final check</text>
+
+  <rect class="warning" x="34" y="80" width="932" height="177" rx="10"/>
+  <text class="head red" x="58" y="121">WARNING — SEARCH-AND-RESCUE REVIEW OUTSTANDING</text>
+  <text class="small" x="58" y="162">Editorial estimate: stay wording 90%; safe retrace judgement 65%.</text>
+  <text class="small" x="58" y="199">Use only after the first tree. Unknown = NO; no time or distance is safe.</text>
+  <text class="small" x="58" y="236">No river, steep descent, fire-front escape or injured self-evacuation.</text>
+
+  <rect class="decision" x="66" y="284" width="868" height="332" rx="10"/>
+  <text class="head" x="92" y="326">CAN YOU ESTABLISH A DEPENDABLE ROUTE</text>
+  <text class="head" x="92" y="363">BACK TO THE LAST CERTAIN POINT?</text>
+  <text class="small" x="92" y="407">Every applicable item must be YES:</text>
+  <text class="small" x="92" y="449">• You genuinely recognise the same route.</text>
+  <text class="small" x="92" y="487">• The map, signs and surroundings agree.</text>
+  <text class="small" x="92" y="525">• Another person checks your interpretation, if available.</text>
+  <text class="small" x="92" y="563">• No rising water, steep ground, fire or unsafe darkness.</text>
+  <text class="small" x="92" y="601">• Conditions suit the whole group, and everyone remains together.</text>
+
+  <path class="join" d="M500 616 V642 M330 642 H670"/>
+  <path class="stopPath" d="M330 642 V676"/>
+  <text class="branch red" x="300" y="668" text-anchor="end">ANY NO / UNKNOWN</text>
+  <path class="path" d="M670 642 V676"/>
+  <text class="branch" x="700" y="668">ALL YES</text>
+
+  <rect class="warning" x="34" y="689" width="448" height="197" rx="10"/>
+  <text class="head red" x="58" y="730">STOP — DO NOT RETRACE</text>
+  <text class="small" x="58" y="772">Seek help and remain findable.</text>
+  <text class="small" x="58" y="808">Make nearby shelter and signals.</text>
+  <text class="small" x="58" y="844">Do not set a rescue deadline or</text>
+  <text class="small" x="58" y="879">leave when it expires.</text>
+  <rect class="caution" x="518" y="689" width="448" height="197" rx="10"/>
+  <text class="head amber" x="542" y="730">FOLLOW ONLY THAT ROUTE</text>
+  <text class="small" x="542" y="772">Keep the group together.</text>
+  <text class="small" x="542" y="808">Stop and seek help if certainty is</text>
+  <text class="small" x="542" y="844">lost or conditions worsen.</text>
+  <text class="small" x="542" y="879">No universal limit applies.</text>
+
+  <rect class="box" x="66" y="914" width="868" height="184" rx="10"/>
+  <text class="head" x="92" y="956">IF YOU WAIT: WAITING IS ACTIVE WORK</text>
+  <text class="small" x="92" y="998">• Improve shelter and insulation without moving far.</text>
+  <text class="small" x="92" y="1036">• Protect clean water. Make your position visible.</text>
+  <text class="small" x="92" y="1074">• Listen and answer signals. Record care; keep contact ready.</text>
+
+  <rect class="caution" x="66" y="1126" width="868" height="215" rx="10"/>
+  <text class="head amber" x="92" y="1168">A VEHICLE IS NOT AUTOMATICALLY SAFE</text>
+  <text class="small" x="92" y="1210">Flood, falling trees, heat or bushfire can make it unsafe.</text>
+  <text class="small" x="92" y="1246">Tell responders whether you are with the vehicle.</text>
+  <text class="small" x="92" y="1282">Never run an engine or combustion appliance in</text>
+  <text class="small" x="92" y="1318">an enclosed or poorly ventilated shelter.</text>
+
+  <rect class="warning" x="66" y="1369" width="868" height="344" rx="10"/>
+  <text class="head red" x="92" y="1411">SOMEONE ELSE IS MISSING?</text>
+  <text class="small" x="92" y="1453">Stop the remaining group spreading out. Account for everyone.</text>
+  <text class="small" x="92" y="1491">Call 000 and ask for Police. Give the last definite place and time,</text>
+  <text class="small" x="92" y="1529">clothing, age, medical needs, destination and carried equipment.</text>
+  <text class="small" x="92" y="1567">Do not start an off-track search; it may lose more people.</text>
+  <text class="small red" x="92" y="1611">No universal messenger or group-splitting rule is supplied.</text>
+  <text class="small red" x="92" y="1649">Follow Police when contact is available.</text>
+  <text class="small red" x="92" y="1687">Do not leave an injured person on the strength of this card.</text>
+
+  <rect x="0" y="1744" width="1000" height="36" fill="#fff7e6"/>
+  <text x="964" y="1769" text-anchor="end" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#77551c">WORKING DRAFT — specialist and stressed-reader review outstanding</text>
+</svg>

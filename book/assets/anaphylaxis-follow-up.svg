@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1750" viewBox="0 0 1000 1750" role="img" aria-labelledby="title desc">
+  <title id="title">Possible anaphylaxis five-minute and follow-up action card</title>
+  <desc id="desc">Anaphylaxis follow-up card. Five minutes after the first adrenaline device, if severe signs have not improved, are still present or have returned, use the person's next adrenaline device, following their current action plan and that device's own instructions. Follow any directions from Triple Zero and record the device and time. If no device is available, call Triple Zero immediately, use the correct position and watch breathing; there is no first-aid substitute. Prevent further contact only when safe and without delaying care. For known asthma and known severe allergy, give adrenaline first after possible contact with that severe allergen, then follow the asthma plan. Keep watching response and breathing, start CPR if unresponsive and not breathing normally, and continue ambulance and hospital care even after improvement.</desc>
+  <defs>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.blue{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.amberBox{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}
+      .title{font:700 42px Arial,sans-serif;fill:#173f35}.head{font:700 32px Arial,sans-serif;fill:#173f35}.body{font:30px Arial,sans-serif;fill:#344c41}.small{font:27px Arial,sans-serif;fill:#344c41}.red{fill:#7a2926}.amber{fill:#7b5114}.clock{fill:none;stroke:#244a3c;stroke-width:8;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="1750"/>
+  <text class="title" x="36" y="58">ANAPHYLAXIS — KEEP GOING</text>
+  <text class="title" x="36" y="108">Five-minute check and continued care</text>
+
+  <rect class="warn" x="34" y="138" width="932" height="274" rx="10"/>
+  <text class="head red" x="58" y="182">WARNING — WORKING CARDS; NOT DEVICE TRAINING</text>
+  <text class="body" x="58" y="226">Subjective estimates: core source match 95%; new layout 60%.</text>
+  <text class="body" x="58" y="268">These are not safety, treatment-success or survival probabilities.</text>
+  <text class="body" x="58" y="310">This card does not choose a device or dose. Follow the person’s</text>
+  <text class="body" x="58" y="352">current plan, exact device instructions and 000. Allergy-clinical,</text>
+  <text class="body" x="58" y="394">device, practical and stressed-reader review is outstanding.</text>
+
+  <rect class="blue" x="34" y="440" width="932" height="304" rx="10"/>
+  <circle class="clock" cx="118" cy="556" r="62"/>
+  <path class="clock" d="M118 556 V512 M118 556 L150 580"/>
+  <text class="head" x="214" y="492">FIVE MINUTES AFTER FIRST DEVICE</text>
+  <text class="body" x="214" y="538">Severe signs not better, still there or back?</text>
+  <text class="small" x="214" y="594">Use the person’s next adrenaline device.</text>
+  <text class="small" x="214" y="636">Follow their current plan and that device’s</text>
+  <text class="small" x="214" y="678">own instructions. Follow any directions from 000.</text>
+  <text class="small" x="214" y="720">Record the device and time.</text>
+
+  <rect class="warn" x="34" y="772" width="932" height="192" rx="10"/>
+  <text class="head red" x="58" y="816">NO ADRENALINE DEVICE?</text>
+  <text class="body" x="58" y="860">Call 000 immediately. Keep the person safely positioned, watch</text>
+  <text class="body" x="58" y="902">breathing and follow the call-taker. There is no first-aid substitute.</text>
+  <text class="small" x="58" y="944">Prevent further contact only if safe; never delay care.</text>
+
+  <rect class="amberBox" x="34" y="992" width="932" height="236" rx="10"/>
+  <text class="head amber" x="58" y="1036">ASTHMA + KNOWN SEVERE ALLERGY</text>
+  <text class="body" x="58" y="1080">Sudden severe breathing trouble after possible contact</text>
+  <text class="body" x="58" y="1122">with something they are severely allergic to?</text>
+  <text class="body" x="58" y="1164">Give adrenaline first, then follow the asthma plan.</text>
+  <text class="small" x="58" y="1206">Reliever, antihistamine or plant remedy does not replace it.</text>
+
+  <rect class="box" x="34" y="1256" width="932" height="292" rx="10"/>
+  <text class="head" x="58" y="1300">KEEP STILL AND KEEP WATCHING</text>
+  <text class="body" x="58" y="1344">• recheck response and normal breathing continuously</text>
+  <text class="body" x="58" y="1386">• unresponsive AND not breathing normally: start CPR</text>
+  <text class="body" x="58" y="1428">• unresponsive but breathing normally: use Card 2</text>
+  <text class="body" x="58" y="1470">• do not cancel help or allow walking after improvement</text>
+  <text class="body" x="58" y="1512">• ambulance and hospital care are still required</text>
+
+  <rect class="warn" x="34" y="1576" width="932" height="132" rx="10"/>
+  <text class="head red" x="58" y="1618">CARE COMES FIRST</text>
+  <text class="body" x="58" y="1658">Reading, recording and supplies must not delay</text>
+  <text class="body" x="58" y="1698">adrenaline, 000 or CPR.</text>
+
+  <rect x="0" y="1718" width="1000" height="32" fill="#fff7e6"/>
+  <text x="964" y="1742" text-anchor="end" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#77551c">WORKING DRAFT — use with Cards 1 and 2; follow 000</text>
+</svg>

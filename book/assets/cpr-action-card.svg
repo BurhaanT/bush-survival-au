@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1635" viewBox="0 0 1000 1635" role="img" aria-labelledby="title desc">
+  <title id="title">CPR action card — Part 1: chest compressions</title>
+  <desc id="desc">Part one of a working Australian CPR card. For a person who is unresponsive and not breathing normally, begin thirty chest compressions, choose the correct adult, child or infant technique, then either continue compression-only CPR or go to the separate rescue-breath card. Use an AED as soon as it arrives and stop only under the stated conditions.</desc>
+  <defs>
+    <marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto"><path d="M0 0 L18 9 L0 18 Z" fill="#244a3c"/></marker>
+    <marker id="arrowAmber" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto"><path d="M0 0 L18 9 L0 18 Z" fill="#8a5a10"/></marker>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.warning{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.decision{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.path{fill:none;stroke:#244a3c;stroke-width:4;marker-end:url(#arrow)}.loop{fill:none;stroke:#8a5a10;stroke-width:5;marker-end:url(#arrowAmber)}.title{font:700 45px Arial,sans-serif;fill:#173f35}.head{font:700 30px Arial,sans-serif;fill:#173f35}.age{font:700 29px Arial,sans-serif;fill:#173f35}.small{font:28px Arial,sans-serif;fill:#344c41}.branch{font:700 28px Arial,sans-serif;fill:#173f35}.big{font:700 37px Arial,sans-serif;fill:#7a2926}.red{fill:#7a2926}.amber{fill:#7b5114}.join{fill:none;stroke:#244a3c;stroke-width:4}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="1635"/>
+  <text class="title" x="36" y="56">CPR — Part 1: chest compressions</text>
+
+  <rect class="warning" x="34" y="79" width="932" height="170" rx="10"/>
+  <text class="head red" x="58" y="120">WARNING — CLINICAL REVIEW OUTSTANDING</text>
+  <text class="small" x="58" y="161">Editorial estimate: wording 95%; stressed-reader use 70%.</text>
+  <text class="small" x="58" y="199">Use only when unresponsive and not breathing normally. Follow 000.</text>
+  <text class="small" x="58" y="236">Do not delay CPR to study this card. Not for a newborn just after birth.</text>
+
+  <rect class="warning" x="66" y="274" width="868" height="162" rx="10"/>
+  <text class="big" x="92" y="318">START NOW: 30 COMPRESSIONS</text>
+  <text class="small" x="92" y="360">Put the person on their back on a firm surface. Press the lower half</text>
+  <text class="small" x="92" y="396">of the breastbone at <tspan font-weight="700">100–120 per minute</tspan>. Let chest return fully.</text>
+  <text class="small" x="92" y="426">Minimise every pause.</text>
+
+  <text class="head" x="500" y="481" text-anchor="middle">CHOOSE THE CORRECT AGE GROUP</text>
+  <path class="join" d="M500 495 V516 M180 516 H820 M180 516 V528 M500 516 V528 M820 516 V528"/>
+
+  <rect class="box" x="34" y="540" width="292" height="372" rx="10"/>
+  <text class="age" x="58" y="580">ADULT</text>
+  <text class="small" x="58" y="620">Heel of one hand</text>
+  <text class="small" x="58" y="654">in centre of chest,</text>
+  <text class="small" x="58" y="688">on lower half of</text>
+  <text class="small" x="58" y="722">breastbone; other</text>
+  <text class="small" x="58" y="756">hand on top.</text>
+  <text class="small" x="58" y="800">Shoulders above</text>
+  <text class="small" x="58" y="834">hands. Arms straight.</text>
+  <text class="small red" x="58" y="878">About ⅓: &gt;5 cm.</text>
+
+  <rect class="box" x="354" y="540" width="292" height="372" rx="10"/>
+  <text class="age" x="378" y="580">CHILD</text>
+  <text class="small" x="378" y="620">1 to under 18.</text>
+  <text class="small" x="378" y="654">If age is unknown:</text>
+  <text class="small" x="378" y="688">up to puberty.</text>
+  <text class="small" x="378" y="732">Use one or two</text>
+  <text class="small" x="378" y="766">hands for body size.</text>
+  <text class="small" x="378" y="810">Press about ⅓</text>
+  <text class="small red" x="378" y="854">depth: about 5 cm.</text>
+
+  <rect class="box" x="674" y="540" width="292" height="372" rx="10"/>
+  <text class="age" x="698" y="580">INFANT</text>
+  <text class="small" x="698" y="620">Under 1 year.</text>
+  <text class="small" x="698" y="664">Use two fingers at</text>
+  <text class="small" x="698" y="698">the same lower-half</text>
+  <text class="small" x="698" y="732">point.</text>
+  <text class="small" x="698" y="776">Press about ⅓</text>
+  <text class="small" x="698" y="810">of chest depth:</text>
+  <text class="small red" x="698" y="854">about 4 cm.</text>
+
+  <path class="path" d="M500 912 V940"/>
+  <rect class="decision" x="66" y="952" width="868" height="105" rx="10"/>
+  <text class="head" x="92" y="994">AFTER 30: TRAINED AND WILLING TO GIVE BREATHS?</text>
+  <text class="small" x="92" y="1037">If unsure or unwilling, choose NO. Do not stop to find a barrier.</text>
+  <path class="path" d="M330 1057 V1091"/>
+  <text class="branch" x="300" y="1083" text-anchor="end">YES</text>
+  <path class="path" d="M670 1057 V1091"/>
+  <text class="branch" x="700" y="1083">NO</text>
+
+  <rect class="box" x="34" y="1104" width="448" height="132" rx="10"/>
+  <text class="head" x="58" y="1145">GO TO CPR — PART 2</text>
+  <text class="small" x="58" y="1187">Give 2 breaths. Return at once</text>
+  <text class="small" x="58" y="1222">to 30 compressions here.</text>
+  <rect class="caution" x="518" y="1104" width="448" height="132" rx="10"/>
+  <text class="head amber" x="542" y="1145">KEEP COMPRESSING</text>
+  <text class="small" x="542" y="1187">Keep giving 30 compressions</text>
+  <text class="small" x="542" y="1222">without stopping.</text>
+  <path class="loop" d="M934 1170 H958 V352 H934"/>
+
+  <rect class="caution" x="66" y="1262" width="868" height="92" rx="10"/>
+  <text class="head amber" x="92" y="1297">AED ARRIVES AT ANY TIME?</text>
+  <text class="small" x="92" y="1337">Use it at once. Resume CPR when told; see the AED card.</text>
+
+  <rect class="warning" x="66" y="1378" width="868" height="200" rx="10"/>
+  <text class="head red" x="92" y="1418">STOP ONLY WHEN:</text>
+  <text class="small" x="92" y="1460">• Normal breathing or a clear response returns.</text>
+  <text class="small" x="92" y="1495">• A health professional takes over or tells you to stop.</text>
+  <text class="small" x="92" y="1530">• Danger or exhaustion makes continuing impossible.</text>
+  <text class="small red" x="92" y="1558">Never stop merely because a set time has passed.</text>
+
+  <rect x="0" y="1599" width="1000" height="36" fill="#fff7e6"/>
+  <text x="964" y="1624" text-anchor="end" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#77551c">WORKING DRAFT — Part 1 of 2; clinical and stressed-reader review outstanding</text>
+</svg>

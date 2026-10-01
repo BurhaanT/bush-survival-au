@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1750" viewBox="0 0 1000 1750" role="img" aria-labelledby="title desc">
+  <title id="title">Possible anaphylaxis recognition and immediate-action card</title>
+  <desc id="desc">Working anaphylaxis action card. Any one severe breathing, throat, voice, collapse or pale-and-floppy-child sign can be enough, and a rash is not required. If the person is unresponsive and not breathing normally, including gasping or uncertain breathing, call Triple Zero, put them on a firm surface and start CPR; a helper follows the person's adrenaline plan. Otherwise keep them correctly positioned, give their adrenaline device exactly as their current plan or label shows, start a five-minute timer and call Triple Zero. If no device is available, call Triple Zero immediately, keep the correct position and watch breathing. If the call will not connect, keep care going, use Chapter 3 and do not leave the person merely to seek reception. No device mechanics are shown.</desc>
+  <defs>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.blue{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.amberBox{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}
+      .title{font:700 42px Arial,sans-serif;fill:#173f35}.head{font:700 32px Arial,sans-serif;fill:#173f35}.body{font:30px Arial,sans-serif;fill:#344c41}.small{font:27px Arial,sans-serif;fill:#344c41}.red{fill:#7a2926}.amber{fill:#7b5114}.num{fill:#244a3c}.numText{font:700 34px Arial,sans-serif;fill:#fff}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="1750"/>
+  <text class="title" x="36" y="58">ANAPHYLAXIS — ACT NOW</text>
+  <text class="title" x="36" y="108">Adrenaline first. Call 000. Never stand or walk.</text>
+
+  <rect class="warn" x="34" y="138" width="932" height="274" rx="10"/>
+  <text class="head red" x="58" y="182">WARNING — WORKING CARDS; NOT DEVICE TRAINING</text>
+  <text class="body" x="58" y="226">Subjective estimates: core source match 95%; new layout 60%.</text>
+  <text class="body" x="58" y="268">These are not safety, treatment-success or survival probabilities.</text>
+  <text class="body" x="58" y="310">Injection and nasal devices differ. Follow the person’s current</text>
+  <text class="body" x="58" y="352">ASCIA plan, exact device instructions and 000. Allergy-clinical,</text>
+  <text class="body" x="58" y="394">device, practical and stressed-reader review is outstanding.</text>
+
+  <rect class="blue" x="34" y="440" width="932" height="508" rx="10"/>
+  <text class="head" x="58" y="484">ANY ONE SEVERE SIGN CAN BE ENOUGH</text>
+  <text class="body" x="58" y="532">• difficult or noisy breathing</text>
+  <text class="body" x="510" y="532">• swollen tongue</text>
+  <text class="body" x="58" y="576">• throat swelling or tightness</text>
+  <text class="body" x="510" y="576">• trouble talking or hoarse voice</text>
+  <text class="body" x="58" y="620">• wheeze or sudden persistent cough</text>
+  <text class="body" x="58" y="664">• persistent dizziness, collapse or loss of consciousness</text>
+  <text class="body" x="58" y="708">• a young child becomes pale and floppy</text>
+  <text class="body" x="58" y="752">• abdominal pain or vomiting after an insect sting</text>
+  <rect class="warn" x="58" y="788" width="884" height="82" rx="8"/>
+  <text class="head red" x="78" y="839">NO RASH? IT CAN STILL BE ANAPHYLAXIS</text>
+  <text class="small amber" x="58" y="914">Other severe stomach symptoms need 000/current-plan advice.</text>
+
+  <rect class="warn" x="34" y="980" width="932" height="146" rx="10"/>
+  <text class="head red" x="58" y="1024">UNRESPONSIVE AND NOT BREATHING NORMALLY?</text>
+  <text class="body" x="58" y="1068">Gasping or unsure counts. Call 000 and use a firm surface.</text>
+  <text class="body" x="58" y="1110">Start CPR now. A helper follows the person’s adrenaline plan.</text>
+
+  <rect class="box" x="34" y="1156" width="932" height="510" rx="10"/>
+  <circle class="num" cx="78" cy="1208" r="26"/><text class="numText" x="78" y="1220" text-anchor="middle">1</text>
+  <text class="head" x="120" y="1220">POSITION NOW</text>
+  <text class="body" x="120" y="1262">Usually lay flat. Card 2 shows the position exceptions.</text>
+  <text class="body red" x="120" y="1304">Never let the person stand or walk.</text>
+
+  <circle class="num" cx="78" cy="1360" r="26"/><text class="numText" x="78" y="1372" text-anchor="middle">2</text>
+  <text class="head" x="120" y="1372">GIVE THEIR ADRENALINE DEVICE NOW</text>
+  <text class="body" x="120" y="1414">Use its own label or personal ASCIA plan.</text>
+  <text class="body" x="120" y="1456">Start a five-minute timer. Record the time.</text>
+
+  <circle class="num" cx="78" cy="1510" r="26"/><text class="numText" x="78" y="1522" text-anchor="middle">3</text>
+  <text class="head" x="120" y="1522">CALL 000</text>
+  <text class="body" x="300" y="1522">A helper calls while the device is given.</text>
+  <text class="body" x="120" y="1564">If alone, give adrenaline first, then call.</text>
+  <text class="small red" x="120" y="1606">No device? Call 000 now; use Card 3.</text>
+  <text class="small" x="120" y="1648">No contact? Keep caring; use Chapter 3. Don't leave just for signal.</text>
+
+  <rect x="0" y="1700" width="1000" height="50" fill="#fff7e6"/>
+  <text x="964" y="1732" text-anchor="end" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#77551c">WORKING DRAFT — exact plan, device instructions and 000 control</text>
+</svg>

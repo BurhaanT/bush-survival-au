@@ -1,0 +1,21 @@
+export type BookDocument = { id: string; title: string; markdown: string; modified: string };
+export type BookImageViewBox = { x: number; y: number; width: number; height: number };
+export type BookImage = {
+  id: string;
+  registerId: string;
+  url: string;
+  filename: string;
+  caption: string;
+  credit: string;
+  source: string;
+  licence: string;
+  licenceUrl?: string;
+  limit: string;
+  status: 'working-draft' | 'approved';
+  viewBox?: BookImageViewBox;
+  pageSlices?: number[];
+  pageSliceNotes?: string[];
+  pageLayoutRequired?: boolean;
+};
+export type BookLibrary = { title: string; chapterIds: string[]; prototypeId: string; documents: Record<string, BookDocument>; images: Record<string, BookImage>; revision: string; updated: string };
+export type PrintBookData = { title: string; chapters: BookDocument[]; images: Record<string, BookImage>; revision: string; updated: string; editionStatus: 'working-draft'; releaseGate: 'FIELD_READY_BUILD=NO'; warning: string };

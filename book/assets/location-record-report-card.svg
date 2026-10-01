@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2700" viewBox="0 0 1000 2700" role="img" aria-labelledby="title desc">
+  <title id="title">Locate, record and report without leaving the safe reference point</title>
+  <desc id="desc">A stationary Victorian emergency location card. First stop at a safe reference point, keep the group together and record the time. With a phone or GNSS display, copy every displayed character, name the app or device and format, add datum, MGA zone and accuracy only if shown or known, and compare a repeated reading with the map and ground. With a paper map, record its title or sheet and date, and mark a possible position only when several map and ground features agree. Without a map or device position, record the last place and time known with confidence, the route already taken, visible features, hazards and group condition, marking uncertainty honestly. Read from one written report and ask the responder to read back important details. If any source disagrees or a field is unknown, write position uncertain and do not guess, round, swap or convert information. The card gives no route recommendation, route to follow, bearing, movement instruction, coordinate example or accuracy guarantee. Its subjective wording-confidence estimates are 90 percent for the core sequence and 70 percent for completeness.</desc>
+  <defs>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.equipment{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warning{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.title{font:700 40px Arial,sans-serif;fill:#173f35}.head{font:700 30px Arial,sans-serif;fill:#173f35}.body{font:27px Arial,sans-serif;fill:#22382d}.small{font:24px Arial,sans-serif;fill:#344c41}.column{font:23px Arial,sans-serif;fill:#22382d}.red{fill:#7a2926}.amber{fill:#7b5114}.green{fill:#173f35}
+    </style>
+  </defs>
+
+  <rect class="bg" width="1000" height="2700"/>
+  <text class="title" x="36" y="60">Locate, record and report — stay put</text>
+
+  <rect class="warning" x="34" y="86" width="932" height="360" rx="10"/>
+  <text class="head red" x="58" y="130">WARNING — THIS CARD DOES NOT PROVE A POSITION</text>
+  <text class="body" x="58" y="176">Use it while stationary at the safe reference point.</text>
+  <text class="body red" x="58" y="218">If sources disagree or a detail is unknown: POSITION UNCERTAIN.</text>
+  <text class="small" x="58" y="262">Subjective wording-confidence estimate: 90% for the core sequence;</text>
+  <text class="small" x="58" y="298">70% for completeness before specialist and reader review.</text>
+  <text class="small" x="58" y="338">These rate wording—not position accuracy, contact, rescue or travel safety.</text>
+  <text class="small" x="58" y="374">No route to follow, bearing, conversion or movement instruction is given.</text>
+  <text class="small red" x="58" y="416">Immediate danger and responder directions are controlled by Chapter 4.</text>
+
+  <rect class="box" x="66" y="486" width="868" height="330" rx="10"/>
+  <text class="head" x="92" y="532">1  MAKE ONE SAFE REFERENCE POINT</text>
+  <text class="body" x="92" y="580">• Stop. Keep the group together.</text>
+  <text class="body" x="92" y="624">• Record the date and time before checking the position.</text>
+  <text class="body" x="92" y="668">• Record the last place and time known with confidence.</text>
+  <text class="body" x="92" y="712">• Keep this written record with the communication device.</text>
+  <text class="small red" x="92" y="764">Do not leave a safe reported point merely to improve a reading.</text>
+  <text class="small" x="92" y="800">Choose the column below that matches what you actually have.</text>
+
+  <rect class="equipment" x="66" y="856" width="416" height="690" rx="10"/>
+  <text class="head" x="92" y="902">2A  WITH EQUIPMENT</text>
+  <text class="column" x="92" y="948">PHONE OR GNSS DISPLAY</text>
+  <text class="column" x="92" y="992">• Copy displayed characters exactly.</text>
+  <text class="column" x="92" y="1028">• Write app/device and position</text>
+  <text class="column" x="112" y="1072">format only if shown or known.</text>
+  <text class="column" x="92" y="1116">• Add displayed datum, MGA zone</text>
+  <text class="column" x="112" y="1152">and accuracy only when shown.</text>
+  <text class="column" x="92" y="1196">• Repeat without leaving the point.</text>
+  <text class="column" x="92" y="1232">• Check repeat with map and ground.</text>
+  <text class="column" x="92" y="1276">PAPER MAP</text>
+  <text class="column" x="92" y="1312">• Record map title or sheet and date.</text>
+  <text class="column" x="92" y="1356">• Mark a point only when several</text>
+  <text class="column" x="112" y="1392">map and ground features agree.</text>
+  <text class="column red" x="92" y="1440">• A map does not prove a track,</text>
+  <text class="column red" x="112" y="1476">crossing or access is open or safe.</text>
+  <text class="column" x="92" y="1524">Unknown means write “unknown”.</text>
+
+  <rect class="caution" x="518" y="856" width="416" height="690" rx="10"/>
+  <text class="head amber" x="544" y="902" font-size="28">2B  WITHOUT EQUIPMENT</text>
+  <text class="column" x="544" y="948">NO MAP OR DEVICE POSITION</text>
+  <text class="column" x="544" y="992">• Write the last place and time</text>
+  <text class="column" x="564" y="1028">known with confidence.</text>
+  <text class="column" x="544" y="1072">• Write the route already taken</text>
+  <text class="column" x="564" y="1108">since that certain point.</text>
+  <text class="column" x="544" y="1152">• List visible signs, track names,</text>
+  <text class="column" x="564" y="1188">structures and terrain features.</text>
+  <text class="column" x="544" y="1232">• Record current hazards, injuries</text>
+  <text class="column" x="564" y="1268">and the condition of the group.</text>
+  <text class="column" x="544" y="1312">• Mark every uncertain detail as</text>
+  <text class="column" x="564" y="1348">an estimate or “unknown”.</text>
+  <text class="column red" x="544" y="1396">Do not use moss, sun, drainage,</text>
+  <text class="column red" x="544" y="1432">animal paths or guesswork as a</text>
+  <text class="column red" x="544" y="1468">direction command.</text>
+  <text class="column" x="544" y="1524">Describe honestly; do not invent.</text>
+
+  <rect class="box" x="66" y="1586" width="868" height="380" rx="10"/>
+  <text class="head" x="92" y="1632">3  MAKE ONE WRITTEN LOCATION REPORT</text>
+  <text class="body" x="92" y="1680">Include what is available:</text>
+  <text class="body" x="92" y="1724">• current time and displayed position details;</text>
+  <text class="body" x="92" y="1768">• app, device and format; datum, zone and accuracy if known;</text>
+  <text class="body" x="92" y="1812">• last certain place and time, and the route already taken;</text>
+  <text class="body" x="92" y="1856">• landmarks, hazards, people and urgent medical needs; and</text>
+  <text class="body" x="92" y="1900">• every field that is an estimate, uncertain or unknown.</text>
+  <text class="small red" x="92" y="1948">Never round, swap, guess or mentally convert the information.</text>
+
+  <rect class="equipment" x="66" y="2006" width="868" height="300" rx="10"/>
+  <text class="head" x="92" y="2052">4  REPORT, READ BACK AND KEEP THE RECORD</text>
+  <text class="body" x="92" y="2100">• Read from the written record slowly.</text>
+  <text class="body" x="92" y="2144">• Say which details are estimates, uncertain or unknown.</text>
+  <text class="body" x="92" y="2188">• Ask the responder to read back important location details.</text>
+  <text class="body" x="92" y="2232">• Write down direct instructions and any communication status.</text>
+  <text class="small" x="92" y="2280">Use Chapter 3 for 000, satellite SOS, PLB and message status.</text>
+
+  <rect class="warning" x="66" y="2346" width="868" height="245" rx="10"/>
+  <text class="head red" x="92" y="2392">IF INFORMATION DISAGREES: STOP</text>
+  <text class="body red" x="92" y="2440">Write POSITION UNCERTAIN. Do not force the sources to match.</text>
+  <text class="body" x="92" y="2484">Do not choose a route from this card or wander to test a guess.</text>
+  <text class="body" x="92" y="2528">Stay at the safe reference point unless it becomes immediately</text>
+  <text class="body" x="92" y="2570">dangerous or a responsible responder directs otherwise.</text>
+
+  <text x="500" y="2640" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" fill="#344c41">Basis: EP-013, S-046, S-047, S-171 and S-241–S-244</text>
+  <text x="500" y="2680" text-anchor="middle" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#77551c">WORKING DRAFT — SAR, geospatial and reader review outstanding</text>
+</svg>

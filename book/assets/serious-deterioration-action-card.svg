@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2700" viewBox="0 0 1000 2700" role="img" aria-labelledby="title desc">
+  <title id="title">Someone is seriously unwell or getting worse</title>
+  <desc id="desc">Working three-part action card for a person who seems seriously unwell or is getting worse when the cause is unclear. Part one says to call Triple Zero if serious illness may be present or anyone thinks something is wrong, without waiting for a diagnosis, a severe sign or every listed sign. It gives immediate exits for abnormal or uncertain breathing and life-threatening bleeding. It shows observable breathing, response, skin, whole-body and concern cues without creating an all-clear when none is noticed. Part two routes immediate danger, life-threatening bleeding, abnormal or uncertain breathing, normal breathing while unresponsive, seizure and known causes to existing Chapter 6 actions. The recovery-position route is limited to an adult or child aged one year or older; infant side-position mechanics are not shown. Part three repeats the Triple Zero and breathing exits, gives a comfortable lying-or-chair choice for a conscious person with no matching condition-specific position, uses the matching condition card for supplies and medicines, prevents a generic food or drink instruction, protects against heat or cold according to what is found, and requires continuous observation and reporting of change. It does not diagnose shock or sepsis, set a lone-rescuer priority between simultaneous life threats, teach physical handling, or replace Triple Zero or a condition-specific card.</desc>
+  <defs>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.blue{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.amberBox{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.white{fill:#fff;stroke:#244a3c;stroke-width:2}
+      .title{font:700 39px Arial,sans-serif;fill:#173f35}.subtitle{font:700 22px Arial,sans-serif;fill:#77551c}.head{font:700 29px Arial,sans-serif;fill:#173f35}.midhead{font:700 24px Arial,sans-serif;fill:#173f35}.body{font:26px Arial,sans-serif;fill:#344c41}.small{font:22px Arial,sans-serif;fill:#344c41}.tiny{font:19px Arial,sans-serif;fill:#344c41}.red{fill:#7a2926}.amber{fill:#7b5114}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="2700"/>
+
+  <text class="title" x="34" y="58">SERIOUSLY UNWELL — CAUSE UNCLEAR</text>
+  <text class="subtitle" x="966" y="92" text-anchor="end">WORKING CARD · PART 1 OF 3</text>
+
+  <rect class="amberBox" x="34" y="115" width="932" height="185" rx="10"/>
+  <text class="midhead amber" x="58" y="155">WARNING — CLINICAL + PRACTICAL REVIEW NEEDED</text>
+  <text class="small" x="58" y="194">Estimates: source wording 95%; cross-condition limits 75%; layout 60%.</text>
+  <text class="small" x="58" y="229">These do not estimate safety, diagnosis, treatment, recovery or survival.</text>
+  <text class="small" x="58" y="264">Do not delay 000 while trying to name the illness or count every sign.</text>
+  <text class="tiny red" x="58" y="290">Suspect serious illness—or think “something is wrong”? Call 000. Follow the call-taker.</text>
+
+  <rect class="warn" x="34" y="320" width="932" height="130" rx="10"/>
+  <circle cx="82" cy="377" r="27" fill="#8c2f2b"/>
+  <text x="82" y="388" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="700" fill="#fff">!</text>
+  <text class="head red" x="128" y="363">CALL 000 IF SERIOUS ILLNESS MAY BE PRESENT</text>
+  <text class="small" x="128" y="404">Or if the person, a parent, a carer or you think “something is wrong”.</text>
+  <text class="tiny red" x="128" y="435">Signs are examples, not a checklist. None can prove the person is safe.</text>
+
+  <rect class="white" x="34" y="475" width="448" height="165" rx="10"/>
+  <text class="midhead" x="58" y="515">BREATHING</text>
+  <text class="small" x="58" y="553">Struggling, fast, noisy or gasping; cannot</text>
+  <text class="small" x="58" y="584">speak normally; lips or skin look blue</text>
+  <text class="small" x="58" y="615">or grey.</text>
+
+  <rect class="white" x="518" y="475" width="448" height="165" rx="10"/>
+  <text class="midhead" x="542" y="515">RESPONSE</text>
+  <text class="small" x="542" y="553">Hard to wake; unusually sleepy or floppy;</text>
+  <text class="small" x="542" y="584">new confusion; collapse; seizure; getting</text>
+  <text class="small" x="542" y="615">less responsive.</text>
+
+  <rect class="white" x="34" y="660" width="448" height="165" rx="10"/>
+  <text class="midhead" x="58" y="700">SKIN + CIRCULATION</text>
+  <text class="small" x="58" y="738">Very pale, cool, sweaty, blotchy or newly</text>
+  <text class="small" x="58" y="769">discoloured; a new widespread rash, or a</text>
+  <text class="small" x="58" y="800">new rash with rapidly worsening illness.</text>
+
+  <rect class="white" x="518" y="660" width="448" height="165" rx="10"/>
+  <text class="midhead" x="542" y="700">WHOLE BODY + CONCERN</text>
+  <text class="small" x="542" y="738">Very hot or very cold; shaking chills;</text>
+  <text class="small" x="542" y="769">repeated vomiting; little or no urine;</text>
+  <text class="small" x="542" y="800">“I do not feel right” or “I may die.”</text>
+
+  <rect x="0" y="850" width="1000" height="50" fill="#fff0ed"/>
+  <text x="500" y="870" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#7a2926">NOT FIELD-APPROVED · USE ALL 3 PARTS</text>
+  <text x="500" y="890" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#7a2926">ABNORMAL OR UNCERTAIN BREATHING → CPR/AED NOW · LIFE-THREATENING BLEEDING → BLEEDING CARD</text>
+
+  <text class="title" x="34" y="958">CALL — CHECK — USE THE RIGHT CARD</text>
+  <text class="subtitle" x="966" y="992" text-anchor="end">WORKING CARD · PART 2 OF 3</text>
+
+  <rect class="warn" x="34" y="1015" width="932" height="125" rx="10"/>
+  <text class="midhead red" x="58" y="1057">DANGER OR A LIFE THREAT OVERRIDES THIS CARD</text>
+  <text class="small" x="58" y="1096">Move only the minimum needed for current danger or lifesaving care.</text>
+  <text class="tiny red" x="58" y="1127">Start CPR or bleeding care now. If both apply and you are alone, follow 000.</text>
+
+  <rect class="blue" x="34" y="1165" width="932" height="155" rx="10"/>
+  <text class="head" x="58" y="1208">1 · CALL 000 NOW — ASK FOR AMBULANCE</text>
+  <text class="small" x="58" y="1248">Say that the person is seriously unwell and what you can see.</text>
+  <text class="small" x="58" y="1282">A capable helper calls while urgent care continues. Report every change.</text>
+  <text class="tiny red" x="58" y="1310">No connection? Keep care going and use Chapter 3. Do not leave merely for signal.</text>
+
+  <rect class="box" x="34" y="1345" width="932" height="265" rx="10"/>
+  <text class="head" x="58" y="1388">2 · CHECK RESPONSE + NORMAL BREATHING</text>
+  <text class="small" x="58" y="1430">UNRESPONSIVE + not breathing normally, gasping or unsure:</text>
+  <text class="small red" x="82" y="1463">Use the Chapter 6 CPR/AED cards now.</text>
+  <text class="small" x="58" y="1503">UNRESPONSIVE + breathing normally:</text>
+  <text class="small red" x="82" y="1536">Use the age-one-plus recovery card; infant handling is not shown.</text>
+  <text class="small" x="58" y="1573">OBVIOUS LIFE-THREATENING BLEEDING:</text>
+  <text class="small red" x="82" y="1600">Use the severe-bleeding card now while help is called.</text>
+
+  <rect class="white" x="34" y="1625" width="932" height="135" rx="10"/>
+  <text class="head" x="58" y="1667">3 · KNOWN CAUSE? USE ITS CHAPTER 6 CARD</text>
+  <text class="small" x="58" y="1707">Examples: anaphylaxis, asthma, seizure, stroke, heart problem, low glucose,</text>
+  <text class="small" x="58" y="1741">poisoning, burn, severe bleeding, heat or cold illness. Keep following 000.</text>
+
+  <rect x="0" y="1765" width="1000" height="35" fill="#fff7e6"/>
+  <text x="500" y="1789" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#77551c">NOT FIELD-APPROVED · USE ALL 3 PARTS · CAUSE UNCLEAR? CONTINUE TO PART 3</text>
+
+  <text class="title" x="34" y="1858">CALL 000 — CHECK BREATHING — PROTECT</text>
+  <text class="subtitle" x="966" y="1892" text-anchor="end">WORKING CARD · PART 3 OF 3</text>
+
+  <rect class="amberBox" x="34" y="1915" width="932" height="145" rx="10"/>
+  <text class="midhead amber" x="58" y="1957">ABNORMAL OR UNCERTAIN BREATHING → CPR/AED CARDS NOW</text>
+  <text class="small" x="58" y="1997">If conscious: lie down if comfortable; otherwise bring a chair to them.</text>
+  <text class="small" x="58" y="2031">Do not make them walk or routinely raise their legs.</text>
+  <text class="tiny red" x="58" y="2053">The condition card/000 overrides. This is not an infant-handling method.</text>
+
+  <rect class="box" x="34" y="2085" width="932" height="205" rx="10"/>
+  <text class="head" x="58" y="2127">PROTECT BODY TEMPERATURE — MATCH WHAT YOU FIND</text>
+  <text class="small" x="58" y="2168">Feels very hot: do not add a blanket; remove excess clothing and use Chapter 5.</text>
+  <text class="small" x="58" y="2203">Cold or losing heat: insulate from the ground and add dry layers or a blanket.</text>
+  <text class="small" x="58" y="2238">Do not apply direct heat. Keep face and breathing visible.</text>
+  <text class="tiny red" x="58" y="2275">Temperature care never replaces 000 or the known-cause treatment.</text>
+
+  <rect class="blue" x="34" y="2315" width="932" height="180" rx="10"/>
+  <text class="head" x="58" y="2357">WITH A KIT / WITHOUT A KIT</text>
+  <text class="small" x="58" y="2397">With a kit: use only supplies named by the matching condition card or 000.</text>
+  <text class="small" x="58" y="2432">Without one: the same call, position, protection and breathing checks apply.</text>
+  <text class="tiny red" x="58" y="2466">This generic card gives no food, drink, medicine, oxygen, stimulant or bush remedy.</text>
+
+  <rect class="warn" x="34" y="2520" width="932" height="115" rx="10"/>
+  <text class="head red" x="58" y="2561">KEEP WATCHING — REPORT CHANGE</text>
+  <text class="small" x="58" y="2600">Recheck response, normal breathing, bleeding, temperature and other change.</text>
+  <text class="tiny red" x="58" y="2626">Abnormal or uncertain breathing goes to CPR. No fixed wait means “all clear.”</text>
+
+  <rect x="0" y="2665" width="1000" height="35" fill="#fff0ed"/>
+  <text x="500" y="2689" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#7a2926">NOT FIELD-APPROVED · USE ALL 3 PARTS WITH THE CHAPTER WARNING</text>
+</svg>

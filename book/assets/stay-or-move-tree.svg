@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1715" viewBox="0 0 1000 1715" role="img" aria-labelledby="title desc">
+  <title id="title">Stay or move: first decision tree</title>
+  <desc id="desc">A working Victorian bush-emergency decision tree. Immediate danger and responder directions come first. After help or a position is reported, stay at the known or reported position. Only a newly uncertain person reaches the separate retrace check.</desc>
+  <defs>
+    <marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto"><path d="M0 0 L18 9 L0 18 Z" fill="#244a3c"/></marker>
+    <marker id="arrowRed" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto"><path d="M0 0 L18 9 L0 18 Z" fill="#8c2f2b"/></marker>
+    <style>
+      .bg{fill:#fffefa}.decision{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.warning{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.path{fill:none;stroke:#244a3c;stroke-width:4;marker-end:url(#arrow)}.stopPath{fill:none;stroke:#8c2f2b;stroke-width:4;marker-end:url(#arrowRed)}.title{font:700 46px Arial,sans-serif;fill:#173f35}.head{font:700 30px Arial,sans-serif;fill:#173f35}.branch{font:700 28px Arial,sans-serif;fill:#173f35}.small{font:28px Arial,sans-serif;fill:#344c41}.red{fill:#7a2926}.amber{fill:#7b5114}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="1715"/>
+  <text class="title" x="36" y="57">Stay or move? Use this order</text>
+
+  <rect class="warning" x="34" y="80" width="932" height="176" rx="10"/>
+  <text class="head red" x="58" y="121">WARNING — SEARCH-AND-RESCUE REVIEW OUTSTANDING</text>
+  <text class="small" x="58" y="162">Editorial estimate: core stay wording 90%; novice judgement 65%.</text>
+  <text class="small" x="58" y="199">Immediate danger: YES / POSSIBLY. Later doubt: NO / UNKNOWN.</text>
+  <text class="small" x="58" y="236">No safe distance. No river/fire-front escape or injured self-evacuation.</text>
+
+  <rect class="decision" x="66" y="280" width="868" height="108" rx="10"/>
+  <text class="head" x="92" y="321">1  IS THIS PLACE IMMEDIATELY DANGEROUS?</text>
+  <text class="small" x="92" y="365">Fire, rising water, traffic, unstable ground or falling branches?</text>
+  <path class="stopPath" d="M330 388 V422"/>
+  <text class="branch red" x="300" y="414" text-anchor="end">YES / POSSIBLY</text>
+  <path class="path" d="M670 388 V422"/>
+  <text class="branch" x="700" y="414">NO</text>
+
+  <rect class="warning" x="34" y="435" width="448" height="148" rx="10"/>
+  <text class="head red" x="58" y="476">LEAVE ONLY THAT DANGER</text>
+  <text class="small" x="58" y="518">Move only far enough; stay together.</text>
+  <text class="small" x="58" y="553">Do not delay for gear. Report when safe.</text>
+  <rect class="box" x="518" y="435" width="448" height="148" rx="10"/>
+  <text class="head" x="542" y="476">NO — CONTINUE</text>
+  <text class="small" x="542" y="518">Waiting discomfort alone is not a</text>
+  <text class="small" x="542" y="553">reason to move.</text>
+  <path class="path" d="M670 583 V603 H500 V617"/>
+
+  <rect class="decision" x="66" y="629" width="868" height="99" rx="10"/>
+  <text class="head" x="92" y="670">2  HAVE RESPONDERS TOLD YOU TO MOVE?</text>
+  <text class="small" x="92" y="709">A friend or device icon is not a responder direction.</text>
+  <path class="path" d="M330 728 V762"/>
+  <text class="branch" x="300" y="754" text-anchor="end">YES</text>
+  <path class="path" d="M670 728 V762"/>
+  <text class="branch" x="700" y="754">NO</text>
+
+  <rect class="box" x="34" y="775" width="448" height="126" rx="10"/>
+  <text class="head" x="58" y="816">FOLLOW AGREED ROUTE</text>
+  <text class="small" x="58" y="858">Keep communication ready.</text>
+  <text class="small" x="58" y="891">Report changes or obstacles.</text>
+  <rect class="box" x="518" y="775" width="448" height="126" rx="10"/>
+  <text class="head" x="542" y="816">NO — CONTINUE</text>
+  <text class="small" x="542" y="858">Work through the next question.</text>
+  <path class="path" d="M670 901 V921 H500 V935"/>
+
+  <rect class="decision" x="66" y="947" width="868" height="128" rx="10"/>
+  <text class="head" x="92" y="988">3  HAVE YOU ASKED FOR HELP, ACTIVATED A BEACON</text>
+  <text class="head" x="92" y="1024">OR REPORTED A POSITION?</text>
+  <text class="small" x="92" y="1060">A sent message is not proof that rescuers received it.</text>
+  <path class="path" d="M330 1075 V1109"/>
+  <text class="branch" x="300" y="1101" text-anchor="end">YES</text>
+  <path class="path" d="M670 1075 V1109"/>
+  <text class="branch" x="700" y="1101">NO</text>
+
+  <rect class="box" x="34" y="1122" width="448" height="177" rx="10"/>
+  <text class="head" x="58" y="1163">STAY AT THE KNOWN OR</text>
+  <text class="head" x="58" y="1199">REPORTED POSITION</text>
+  <text class="small" x="58" y="1241">Stay unless danger develops or</text>
+  <text class="small" x="58" y="1276">responders direct otherwise.</text>
+  <rect class="box" x="518" y="1122" width="448" height="177" rx="10"/>
+  <text class="head" x="542" y="1163">NO — CONTINUE</text>
+  <text class="small" x="542" y="1205">Try emergency contact.</text>
+  <text class="small" x="542" y="1240">If unavailable, continue only</text>
+  <text class="small" x="542" y="1275">this tree.</text>
+  <path class="path" d="M670 1299 V1319 H500 V1333"/>
+
+  <rect class="decision" x="66" y="1345" width="868" height="112" rx="10"/>
+  <text class="head" x="92" y="1386">4  DID YOU JUST BECOME UNSURE OF THE ROUTE?</text>
+  <text class="small" x="92" y="1430">Already wandered or cannot name last certain point? Answer NO.</text>
+  <path class="stopPath" d="M330 1457 V1491"/>
+  <text class="branch red" x="300" y="1483" text-anchor="end">NO / UNKNOWN</text>
+  <path class="path" d="M670 1457 V1491"/>
+  <text class="branch" x="700" y="1483">YES</text>
+
+  <rect class="warning" x="34" y="1504" width="448" height="150" rx="10"/>
+  <text class="head red" x="58" y="1545">STOP MOVING</text>
+  <text class="small" x="58" y="1587">Seek help. Make shelter.</text>
+  <text class="small" x="58" y="1622">Make signals and stay findable.</text>
+  <rect class="caution" x="518" y="1504" width="448" height="150" rx="10"/>
+  <text class="head amber" x="542" y="1545">USE THE RETRACE CHECK</text>
+  <text class="small" x="542" y="1587">Short retrace is only a candidate.</text>
+  <text class="small" x="542" y="1622">Every item on next card: YES.</text>
+
+  <rect x="0" y="1679" width="1000" height="36" fill="#fff7e6"/>
+  <text x="964" y="1704" text-anchor="end" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#77551c">WORKING DRAFT — specialist and stressed-reader review outstanding</text>
+</svg>

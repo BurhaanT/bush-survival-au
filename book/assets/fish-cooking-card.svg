@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2700" viewBox="0 0 1000 2700" role="img" aria-labelledby="title desc">
+  <title id="title">Cook an already-cleaned ordinary finfish portion</title>
+  <desc id="desc">A bounded working cooking card only for an already-cleaned, lawful, positively identified ordinary finfish portion. Reject unidentified, poisonous, spoiled or chemically contaminated fish, and do not use the card for shellfish, organs or roe. Keep raw fish and its plate or utensils separate from cooked fish. With a clean and sanitised food thermometer, put the probe in the centre of the thickest flesh, cook to the working target of 75 degrees Celsius and wait for the reading to stop changing. Australian source temperatures conflict and specialist approval remains open. Without a thermometer, the lower-assurance route is to cook until the thickest flesh is opaque rather than translucent and separates easily with a fork. Neither route removes toxins, histamine, chemical contamination or spoilage. The subjective wording-confidence estimate is 82 percent and is not an outcome probability.</desc>
+  <defs>
+    <marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto"><path d="M0 0 L15 8 L0 16 Z" fill="#244a3c"/></marker>
+    <marker id="arrowRed" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto"><path d="M0 0 L15 8 L0 16 Z" fill="#8c2f2b"/></marker>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.decision{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warning{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.out{fill:#e5f3e9;stroke:#244a3c;stroke-width:4}.raw{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.cooked{fill:#e5f3e9;stroke:#244a3c;stroke-width:3}.path{fill:none;stroke:#244a3c;stroke-width:4;marker-end:url(#arrow)}.stopPath{fill:none;stroke:#8c2f2b;stroke-width:4;marker-end:url(#arrowRed)}.title{font:700 40px Arial,sans-serif;fill:#173f35}.head{font:700 30px Arial,sans-serif;fill:#173f35}.body{font:27px Arial,sans-serif;fill:#22382d}.small{font:23px Arial,sans-serif;fill:#344c41}.tiny{font:21px Arial,sans-serif;fill:#344c41}.branch{font:700 24px Arial,sans-serif;fill:#22382d}.red{fill:#7a2926}.amber{fill:#7b5114}.green{fill:#173f35}
+    </style>
+  </defs>
+
+  <rect class="bg" width="1000" height="2700"/>
+  <text class="title" x="36" y="60">Cook an already-cleaned finfish portion</text>
+
+  <rect class="warning" x="34" y="86" width="932" height="290" rx="10"/>
+  <text class="head red" x="58" y="130">WARNING — BOUNDED WORKING ADVICE</text>
+  <text class="body" x="58" y="174">Australian sources use different fish/food temperatures:</text>
+  <text class="body red" x="58" y="214">63°C, 69°C, 70°C and 75°C appear in different contexts.</text>
+  <text class="body" x="58" y="254">This card uses 75°C as a conservative working target.</text>
+  <text class="small red" x="58" y="294">A Victorian seafood/food-safety specialist must still approve it.</text>
+  <text class="small" x="58" y="332">Wording confidence: 82%—not the chance of a safe outcome.</text>
+  <text class="tiny" x="58" y="362">No hold time at 75°C is invented; wait only for the reading to settle.</text>
+
+  <rect class="decision" x="66" y="420" width="868" height="260" rx="10"/>
+  <text class="head" x="92" y="464">1  DOES THE PORTION PASS EVERY ENTRY GATE?</text>
+  <text class="body" x="92" y="508">✓ Positively identified ordinary finfish</text>
+  <text class="body" x="92" y="548">✓ Lawfully retained and lawfully prepared here</text>
+  <text class="body" x="92" y="588">✓ Already cleaned competently; ordinary flesh only</text>
+  <text class="body" x="92" y="628">✓ No spoilage, toxin, algal-warning or chemical concern</text>
+  <text class="small red" x="92" y="662">Not for an unknown fish, shellfish, organs, roe or cleaning a catch.</text>
+
+  <path class="stopPath" d="M300 680 V724"/>
+  <text class="branch red" x="270" y="714" text-anchor="end">NO / UNSURE</text>
+  <path class="path" d="M700 680 V724"/>
+  <text class="branch" x="730" y="714">YES</text>
+
+  <rect class="warning" x="34" y="736" width="448" height="200" rx="10"/>
+  <text class="head red" x="58" y="780">DO NOT EAT IT</text>
+  <text class="body" x="58" y="824">Cooking cannot identify fish</text>
+  <text class="body" x="58" y="862">or repair these hazards.</text>
+  <text class="small red" x="58" y="904">Use carried food.</text>
+
+  <rect class="box" x="518" y="736" width="448" height="200" rx="10"/>
+  <text class="head" x="542" y="780">CONTINUE</text>
+  <text class="body" x="542" y="824">Use a clean pot or pan on a</text>
+  <text class="body" x="542" y="862">stable, lawful cooking setup.</text>
+  <text class="small" x="542" y="904">Follow the Fire chapter.</text>
+  <path class="path" d="M742 936 V980 H500 V1002"/>
+
+  <rect class="caution" x="66" y="1014" width="868" height="230" rx="10"/>
+  <text class="head amber" x="92" y="1058">2  KEEP RAW AND COOKED SIDES SEPARATE</text>
+  <rect class="raw" x="92" y="1082" width="376" height="125" rx="8"/>
+  <text class="head red" style="font-size:27px" x="280" y="1122" text-anchor="middle">RAW SIDE</text>
+  <text class="small" style="font-size:20px" x="280" y="1162" text-anchor="middle">Raw fish • raw plate • raw utensils</text>
+  <text class="tiny red" x="280" y="1192" text-anchor="middle">Never receive cooked fish</text>
+  <rect class="cooked" x="532" y="1082" width="376" height="125" rx="8"/>
+  <text class="head green" style="font-size:27px" x="720" y="1122" text-anchor="middle">CLEAN COOKED SIDE</text>
+  <text class="small" style="font-size:20px" x="720" y="1162" text-anchor="middle">Clean surface • clean utensils</text>
+  <text class="tiny" x="720" y="1192" text-anchor="middle">Protected from raw contact</text>
+  <path class="path" d="M500 1244 V1288"/>
+
+  <rect class="decision" x="100" y="1300" width="800" height="135" rx="10"/>
+  <text class="head" x="500" y="1346" text-anchor="middle">3  CLEAN, SANITISED FOOD THERMOMETER?</text>
+  <text class="small" x="500" y="1386" text-anchor="middle">Suitable for food; prepared as its instructions require</text>
+  <text class="small red" x="500" y="1418" text-anchor="middle">Do not use an unclean probe.</text>
+
+  <path class="path" d="M300 1435 V1480"/>
+  <text class="branch" x="270" y="1470" text-anchor="end">YES</text>
+  <path class="path" d="M700 1435 V1480"/>
+  <text class="branch" x="730" y="1470">NO</text>
+
+  <rect class="box" x="34" y="1492" width="448" height="490" rx="10"/>
+  <text class="head" x="58" y="1536">HIGHER-ASSURANCE CHECK</text>
+  <text class="small" x="58" y="1580">1. Put the probe tip into the</text>
+  <text class="small" x="78" y="1616">centre of the thickest flesh.</text>
+  <text class="small" x="58" y="1660">2. Keep cooking until it reads</text>
+  <text class="head green" x="258" y="1710" text-anchor="middle">75°C</text>
+  <text class="small" x="58" y="1752">3. Wait for the reading to stop</text>
+  <text class="small" x="78" y="1788">changing. No extra hold time</text>
+  <text class="small" x="78" y="1824">is claimed in this draft.</text>
+  <text class="small red" x="58" y="1870">If below 75°C, keep cooking.</text>
+  <text class="tiny" x="58" y="1912">Re-clean/sanitise the probe before</text>
+  <text class="tiny" x="58" y="1944">another food-contact use.</text>
+
+  <rect class="caution" x="518" y="1492" width="448" height="490" rx="10"/>
+  <text class="head amber" x="542" y="1536">LOWER-ASSURANCE CHECK</text>
+  <text class="small" x="542" y="1580">With no suitable thermometer:</text>
+  <text class="small" x="542" y="1624">1. Check the thickest flesh.</text>
+  <text class="small" x="542" y="1668">2. It must be opaque—not</text>
+  <text class="small" x="562" y="1704">translucent.</text>
+  <text class="small" x="542" y="1748">3. It must separate easily</text>
+  <text class="small" x="562" y="1784">with a clean fork.</text>
+  <text class="small red" x="542" y="1830">If either check fails, keep cooking.</text>
+  <text class="small red" x="542" y="1876">This visual check is less reliable</text>
+  <text class="small red" x="562" y="1912">than a temperature reading.</text>
+  <text class="tiny" x="542" y="1950">Do not taste-test undercooked fish.</text>
+
+  <line x1="258" y1="1982" x2="258" y2="2020" stroke="#244a3c" stroke-width="4"/>
+  <line x1="742" y1="1982" x2="742" y2="2020" stroke="#244a3c" stroke-width="4"/>
+  <line x1="258" y1="2020" x2="742" y2="2020" stroke="#244a3c" stroke-width="4"/>
+  <path class="path" d="M500 2020 V2064"/>
+
+  <rect class="warning" x="66" y="2076" width="868" height="225" rx="10"/>
+  <text class="head red" x="92" y="2120">NEITHER ROUTE FIXES EVERY HAZARD</text>
+  <text class="body" x="92" y="2164">Cooking does not remove seafood toxins or histamine.</text>
+  <text class="body" x="92" y="2204">It does not fix chemical contamination or spoilage.</text>
+  <text class="body" x="92" y="2244">It cannot correct a wrong or uncertain identification.</text>
+  <text class="small red" x="92" y="2282">Any concern about these hazards: do not eat the fish.</text>
+  <path class="path" d="M500 2301 V2344"/>
+
+  <rect class="out" x="66" y="2356" width="868" height="220" rx="10"/>
+  <text class="head green" x="92" y="2400">4  MOVE TO THE CLEAN COOKED SIDE</text>
+  <text class="body" x="92" y="2444">Use a clean utensil and clean surface—not the raw-fish plate.</text>
+  <text class="body" x="92" y="2484">Remove bones carefully. Eat promptly.</text>
+  <text class="small" x="92" y="2524">Do not feed a person who is drowsy or has trouble swallowing.</text>
+  <text class="small red" x="92" y="2558">This cooking card is not a cleaning or preservation method.</text>
+
+  <text x="500" y="2652" text-anchor="middle" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#77551c">WORKING DRAFT — NOT FIELD-APPROVED</text>
+</svg>

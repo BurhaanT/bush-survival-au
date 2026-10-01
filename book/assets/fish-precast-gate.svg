@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2800" viewBox="0 0 1000 2800" role="img" aria-labelledby="title desc">
+  <title id="title">Before casting: a conservative fishing decision gate</title>
+  <desc id="desc">A plain-language decision gate for deciding whether to fish in a Victorian bush emergency. First protect rescue, first aid, body temperature, shelter and drinking water. Then confirm the current licence or exemption, exact water and time, closures and notices, method, equipment, bait and species rules. Do not fish unless every likely catch can be positively identified and lawfully dealt with, and the bank, gear, weather, light and available time are safe. No or unknown at any gate means do not fish. The card supplies no traps, unattended lines, poison, electricity or other destructive method. Its subjective wording-confidence estimate is 90 percent and is not a probability of legal permission, safe catch, success or survival.</desc>
+  <defs>
+    <marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto"><path d="M0 0 L15 8 L0 16 Z" fill="#244a3c"/></marker>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.decision{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warning{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.go{fill:#e5f3e9;stroke:#244a3c;stroke-width:4}.path{fill:none;stroke:#244a3c;stroke-width:4;marker-end:url(#arrow)}.title{font:700 40px Arial,sans-serif;fill:#173f35}.head{font:700 30px Arial,sans-serif;fill:#173f35}.body{font:27px Arial,sans-serif;fill:#22382d}.small{font:24px Arial,sans-serif;fill:#344c41}.branch{font:700 25px Arial,sans-serif;fill:#22382d}.red{fill:#7a2926}.amber{fill:#7b5114}.green{fill:#173f35}
+    </style>
+  </defs>
+
+  <rect class="bg" width="1000" height="2800"/>
+  <text class="title" x="36" y="60">Before casting: should you fish?</text>
+
+  <rect class="warning" x="34" y="86" width="932" height="290" rx="10"/>
+  <text class="head red" x="58" y="130">WARNING — EVERY GATE MUST PASS</text>
+  <text class="body" x="58" y="174">Food is usually later than rescue, first aid, warmth and water.</text>
+  <text class="body red" x="58" y="216">A NO or UNKNOWN answer means DO NOT FISH.</text>
+  <text class="small" x="58" y="258">Rules, closures, signs and health warnings can change.</text>
+  <text class="small" x="58" y="298">Subjective wording-confidence estimate: 90%.</text>
+  <text class="small" x="58" y="336">This rates the wording—not legal permission, catch safety,</text>
+  <text class="small" x="58" y="366">success or survival.</text>
+
+  <rect class="decision" x="66" y="420" width="868" height="340" rx="10"/>
+  <text class="head" x="92" y="466">1  IS SOMETHING MORE URGENT?</text>
+  <text class="body" x="92" y="512">• Call for help, send your location or improve signalling</text>
+  <text class="body" x="92" y="554">• Give first aid or manage an immediate threat</text>
+  <text class="body" x="92" y="596">• Protect body temperature; improve shelter or clothing</text>
+  <text class="body" x="92" y="638">• Secure enough safe drinking water</text>
+  <text class="branch red" x="92" y="694">YES / UNKNOWN → DO NOT FISH. DO THAT TASK FIRST.</text>
+  <text class="branch green" x="92" y="736">NO → CONTINUE TO GATE 2</text>
+
+  <path class="path" d="M500 760 V812"/>
+  <text class="branch" x="526" y="798">NO — NEXT CHECK</text>
+
+  <rect class="decision" x="66" y="824" width="868" height="430" rx="10"/>
+  <text class="head" x="92" y="870">2  CAN YOU CONFIRM THE CURRENT EXACT RULE?</text>
+  <text class="body" x="92" y="916">Check the current VFA Guide, Fisheries Notices and signs:</text>
+  <text class="small" x="112" y="958">• your licence or exact exemption;</text>
+  <text class="small" x="112" y="998">• this water, date and time; every closure or restriction;</text>
+  <text class="small" x="112" y="1038">• method, equipment and bait;</text>
+  <text class="small" x="112" y="1078">• likely species, season, size, bag and possession limits; and</text>
+  <text class="small" x="112" y="1118">• any required catch form before cutting at the water.</text>
+  <text class="branch red" x="92" y="1172">NO / SAVED OLD RULE / UNKNOWN → DO NOT FISH</text>
+  <text class="branch green" x="92" y="1224">ALL CURRENT AND CONFIRMED → CONTINUE</text>
+
+  <path class="path" d="M500 1254 V1306"/>
+  <text class="branch" x="526" y="1292">YES — NEXT CHECK</text>
+
+  <rect class="decision" x="66" y="1318" width="868" height="365" rx="10"/>
+  <text class="head" x="92" y="1364">3  CAN YOU DEAL WITH EVERY LIKELY CATCH?</text>
+  <text class="body" x="92" y="1410">For every fish you are reasonably likely to catch here:</text>
+  <text class="small" x="112" y="1452">• can you positively identify it—not merely guess?</text>
+  <text class="small" x="112" y="1492">• do you know the current required immediate action?</text>
+  <text class="small" x="112" y="1532">• can you measure, release or lawfully retain it as required?</text>
+  <text class="small red" x="112" y="1572">Identity, legal action and food safety are separate checks.</text>
+  <text class="branch red" x="92" y="1624">NO / UNKNOWN FOR ANY LIKELY CATCH → DO NOT FISH</text>
+  <text class="branch green" x="92" y="1660">YES FOR EVERY LIKELY CATCH → CONTINUE</text>
+
+  <path class="path" d="M500 1683 V1735"/>
+  <text class="branch" x="526" y="1721">YES — FINAL CHECK</text>
+
+  <rect class="decision" x="66" y="1747" width="868" height="475" rx="10"/>
+  <text class="head" x="92" y="1793">4  ARE THE PLACE, GEAR AND TIME SAFE?</text>
+  <text class="small" x="112" y="1838">• Firm, reachable bank; no wading, climbing, flooded bank,</text>
+  <text class="small" x="132" y="1878">surf-rock ledge or current exposure</text>
+  <text class="small" x="112" y="1918">• Lawful, suitable gear and a manufactured hook you can handle</text>
+  <text class="small" x="112" y="1958">• Enough light, stable weather, warmth, energy and attention</text>
+  <text class="small" x="112" y="1998">• You can keep an attended line in sight and stay within 50 m</text>
+  <text class="small" x="112" y="2038">• Rescue, first aid, shelter and water will not be neglected</text>
+  <text class="branch red" x="92" y="2094">NO / CONDITIONS MAY DETERIORATE / UNKNOWN → DO NOT FISH</text>
+  <text class="branch green" x="92" y="2146">YES TO EVERY ITEM → CONDITIONAL FISHING MAY BEGIN</text>
+  <text class="small red" x="92" y="2194">Retrieve the line and stop as soon as any answer changes.</text>
+
+  <path class="path" d="M500 2222 V2270"/>
+  <text class="branch" x="526" y="2258">ALL YES</text>
+
+  <rect class="go" x="100" y="2282" width="800" height="185" rx="10"/>
+  <text class="head green" x="500" y="2332" text-anchor="middle">FISH — ONLY WHILE EVERY GATE STAYS YES</text>
+  <text class="body" x="500" y="2378" text-anchor="middle">Use only the current lawful, attended method.</text>
+  <text class="small" x="500" y="2420" text-anchor="middle">Stop if the attempt costs warmth, safety, rescue time or water.</text>
+  <text class="small" x="500" y="2452" text-anchor="middle">A catch still needs identity, legal-action and food-safety checks.</text>
+
+  <rect class="caution" x="66" y="2510" width="868" height="190" rx="10"/>
+  <text class="head amber" x="92" y="2556">METHODS NOT SUPPLIED OR AUTHORISED</text>
+  <text class="body" x="92" y="2602">No trap, unattended or set line, poison, electricity,</text>
+  <text class="body" x="92" y="2642">indiscriminate capture, improvised raft or destructive method.</text>
+  <text class="small red" x="92" y="2680">UNKNOWN AT ANY POINT = STOP / DO NOT FISH.</text>
+
+  <text x="500" y="2740" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" fill="#344c41">Basis: S-459 and Chapter 12 • Recheck current VFA rules and signs</text>
+  <text x="500" y="2776" text-anchor="middle" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#77551c">WORKING DRAFT — NOT FIELD-APPROVED</text>
+</svg>

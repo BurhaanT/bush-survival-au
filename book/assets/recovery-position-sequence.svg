@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="3030" viewBox="0 0 1000 3030" role="img" aria-labelledby="title desc">
+  <title id="title">Recovery position for an unresponsive adult or child aged one year or older who is breathing normally</title>
+  <desc id="desc">Six-part working recovery-position sequence for an unresponsive adult or child aged one year or older who is breathing normally. Put the far arm out, bring the near arm across the chest, bend the near knee with the foot down, support the head and neck, roll the person away onto the side, stabilise with the bent knee, keep the airway and face clear, and continuously watch breathing. If breathing becomes abnormal or uncertain, roll onto the back and start CPR. Infant handling is not shown.</desc>
+  <defs>
+    <marker id="greenArrow" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto">
+      <path d="M0 0 L18 9 L0 18 Z" fill="#244a3c"/>
+    </marker>
+    <marker id="redArrow" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" refX="16" refY="9" orient="auto">
+      <path d="M0 0 L18 9 L0 18 Z" fill="#8c2f2b"/>
+    </marker>
+    <style>
+      .bg{fill:#fffefa}
+      .box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}
+      .blue{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}
+      .caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}
+      .warning{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}
+      .title{font:700 39px Arial,sans-serif;fill:#173f35}
+      .head{font:700 29px Arial,sans-serif;fill:#173f35}
+      .small{font:26px Arial,sans-serif;fill:#344c41}
+      .tiny{font:23px Arial,sans-serif;fill:#344c41}
+      .micro{font:20px Arial,sans-serif;fill:#344c41}
+      .label{font:700 21px Arial,sans-serif;fill:#173f35;letter-spacing:.4px}
+      .bottomHead{font:700 25px Arial,sans-serif;fill:#7a2926}
+      .red{fill:#7a2926}
+      .amber{fill:#7b5114}
+      .person{fill:none;stroke:#244a3c;stroke-width:12;stroke-linecap:round;stroke-linejoin:round}
+      .near{fill:none;stroke:#a75b18;stroke-width:14;stroke-linecap:round;stroke-linejoin:round}
+      .far{fill:none;stroke:#2b6684;stroke-width:14;stroke-linecap:round;stroke-linejoin:round}
+      .support{fill:none;stroke:#8a5a10;stroke-width:8;stroke-linecap:round;stroke-dasharray:12 10}
+      .flow{fill:none;stroke:#244a3c;stroke-width:5;marker-end:url(#greenArrow)}
+      .dangerFlow{fill:none;stroke:#8c2f2b;stroke-width:5;marker-end:url(#redArrow)}
+    </style>
+  </defs>
+
+  <rect class="bg" width="1000" height="3000"/>
+  <text class="title" x="36" y="46">Unresponsive but breathing normally:</text>
+  <text class="title" x="36" y="86">place on the side</text>
+
+  <g transform="translate(0 28)">
+  <rect class="warning" x="34" y="82" width="932" height="224" rx="10"/>
+  <text class="head red" x="58" y="124">WARNING — WORKING CARD; PRACTICAL REVIEW NEEDED</text>
+  <text class="small" x="58" y="166">Wording estimate 93%; untested layout completeness 65%.</text>
+  <text class="small" x="58" y="207">These are not safety, success or survival probabilities.</text>
+  <text class="small" x="58" y="248">Adult or child aged 1+ only. This card cannot prove hands-on skill.</text>
+  <text class="small" x="58" y="287">Follow the 000 call-taker. Infant handling is not shown.</text>
+
+  <rect class="blue" x="34" y="334" width="932" height="178" rx="10"/>
+  <text class="head" x="58" y="376">USE THIS CARD ONLY WHEN ALL FOUR ARE TRUE</text>
+  <text class="small" x="58" y="420">✓ no response</text>
+  <text class="small" x="510" y="420">✓ breathing is normal</text>
+  <text class="small" x="58" y="466">✓ adult or child aged 1+</text>
+  <text class="small" x="510" y="466">✓ 000/help activated or attempted</text>
+
+  <rect class="warning" x="34" y="536" width="932" height="140" rx="10"/>
+  <text class="head red" x="58" y="580">GASPS, ABNORMAL BREATHING, NO BREATHING OR UNSURE?</text>
+  <text class="small" x="58" y="625">Put the person on their back on a firm surface. Start CPR now.</text>
+  <text class="small" x="58" y="660">Use the CPR card and an AED if available. Do not use this sequence.</text>
+
+  <rect class="caution" x="34" y="700" width="932" height="112" rx="10"/>
+  <text class="head amber" x="58" y="743">KEEP ONE ORIENTATION</text>
+  <text class="tiny" x="58" y="775">You kneel on the LEFT. Head stays at the TOP.</text>
+  <text class="tiny" x="58" y="804">Roll LEFT → RIGHT, away from you.</text>
+
+  <rect class="box" x="34" y="840" width="932" height="322" rx="10"/>
+  <text class="head" x="58" y="883">1  PREPARE THE ARMS</text>
+  <text class="label amber" x="70" y="922">NEAR YOU</text>
+  <text class="label" x="332" y="922" fill="#2b6684">FAR FROM YOU</text>
+  <circle cx="250" cy="958" r="32" fill="#eaf1f6" stroke="#244a3c" stroke-width="7"/>
+  <path class="person" d="M250 991 L250 1073 M250 1073 L220 1132 M250 1073 L280 1132"/>
+  <path class="far" d="M262 1017 L365 1017"/>
+  <path class="near" d="M238 1017 L190 1042 L284 1058"/>
+  <text class="tiny amber" x="58" y="1088">NEAR arm</text>
+  <text class="tiny amber" x="58" y="1118">across chest</text>
+  <text class="tiny" x="302" y="1088" fill="#2b6684">FAR arm</text>
+  <text class="tiny" x="302" y="1118" fill="#2b6684">out</text>
+  <text class="small" x="500" y="942">• Person starts on their back.</text>
+  <text class="small" x="500" y="990">• Kneel beside them.</text>
+  <text class="small" x="500" y="1038">• Put the FAR arm out from the body.</text>
+  <text class="small" x="500" y="1086">• Bring the NEAR arm across the chest.</text>
+  <text class="tiny" x="500" y="1132">Do not swap in a different roll-toward method.</text>
+
+  <rect class="box" x="34" y="1186" width="932" height="322" rx="10"/>
+  <text class="head" x="58" y="1229">2  PREPARE THE NEAR LEG</text>
+  <text class="label amber" x="70" y="1268">NEAR YOU</text>
+  <text class="label" x="332" y="1268" fill="#2b6684">FAR FROM YOU</text>
+  <circle cx="250" cy="1304" r="32" fill="#eaf1f6" stroke="#244a3c" stroke-width="7"/>
+  <path class="person" d="M250 1337 L250 1404"/>
+  <path class="far" d="M260 1404 L290 1474"/>
+  <path class="near" d="M240 1404 L180 1442 L238 1480"/>
+  <line x1="220" y1="1480" x2="258" y2="1480" stroke="#a75b18" stroke-width="12" stroke-linecap="round"/>
+  <path class="far" d="M262 1360 L365 1360"/>
+  <path class="near" d="M238 1360 L190 1382 L284 1396"/>
+  <text class="tiny amber" x="58" y="1476">NEAR knee bends</text>
+  <text class="small" x="500" y="1300">• Bend the NEAR knee.</text>
+  <text class="small" x="500" y="1350">• Put that foot on the ground.</text>
+  <text class="tiny" x="500" y="1406">The labels—not colour—identify</text>
+  <text class="tiny" x="500" y="1438">the selected limbs.</text>
+
+  <rect class="box" x="34" y="1532" width="932" height="322" rx="10"/>
+  <text class="head" x="58" y="1575">3  SUPPORT, THEN ROLL AWAY FROM YOU</text>
+  <circle cx="220" cy="1637" r="34" fill="#eaf1f6" stroke="#244a3c" stroke-width="7"/>
+  <path class="support" d="M169 1608 Q220 1568 271 1608 M169 1666 Q220 1706 271 1666"/>
+  <path class="person" d="M220 1672 L220 1765 M220 1765 L186 1820 M220 1765 L254 1820 M220 1705 L150 1730 M220 1705 L295 1725"/>
+  <path class="flow" d="M300 1648 Q385 1680 406 1762"/>
+  <text class="label" x="310" y="1622">ROLL AWAY</text>
+  <text class="tiny" x="310" y="1651">LEFT → RIGHT</text>
+  <text class="small" x="500" y="1643">• Support the head and neck.</text>
+  <text class="small" x="500" y="1693">• Move gently.</text>
+  <text class="small" x="500" y="1743">• Roll the person AWAY from you</text>
+  <text class="small" x="525" y="1780">onto their side.</text>
+  <text class="tiny" x="500" y="1808">Keep head, neck and body aligned.</text>
+  <text class="tiny" x="500" y="1838">Avoid twisting.</text>
+
+  <rect class="box" x="34" y="1878" width="932" height="350" rx="10"/>
+  <text class="head" x="58" y="1921">4  SET A STABLE SIDE POSITION</text>
+  <ellipse cx="248" cy="1990" rx="31" ry="38" fill="#eaf1f6" stroke="#244a3c" stroke-width="7"/>
+  <path class="person" d="M248 2028 L250 2112 M250 2112 L210 2182 M250 2112 L335 2152 L288 2195"/>
+  <path class="person" d="M250 2055 L205 2084 M250 2055 L291 2025"/>
+  <path class="support" d="M199 1958 Q248 1925 297 1958 M199 2024 Q248 2057 297 2024"/>
+  <path class="flow" d="M294 1992 H394"/>
+  <text class="micro" x="305" y="1967">FACE CLEAR</text>
+  <text class="micro" x="305" y="2020">MOUTH CAN</text>
+  <text class="micro" x="305" y="2046">DRAIN</text>
+  <text class="tiny" x="500" y="1970">• Keep the bent knee on the ground.</text>
+  <text class="tiny" x="500" y="2010">• Hand under chin: support head, open airway.</text>
+  <text class="tiny" x="500" y="2050">• Leave the face clear and uncovered.</text>
+  <text class="tiny" x="500" y="2090">• Let the mouth face so fluid can drain.</text>
+  <text class="tiny" x="500" y="2142">Possible spine injury? Airway comes first.</text>
+  <text class="tiny" x="500" y="2172">Move gently, avoid twisting and keep aligned.</text>
+  <text class="tiny" x="500" y="2202">Injury is not ruled out.</text>
+
+  <rect class="blue" x="34" y="2252" width="932" height="250" rx="10"/>
+  <text class="head" x="58" y="2295">5  STAY BESIDE THEM AND WATCH BREATHING</text>
+  <text class="small" x="58" y="2341">Watch continuously. If they vomit, allow drainage. Remove only material</text>
+  <text class="small" x="58" y="2380">you can clearly see. Never sweep a finger blindly into the mouth.</text>
+  <path class="dangerFlow" d="M58 2421 H118"/>
+  <text class="small red" x="140" y="2431">Breathing becomes abnormal, stops, or you are unsure?</text>
+  <text class="small red" x="140" y="2473">Roll onto the back on a firm surface and start CPR.</text>
+
+  <text class="head" x="500" y="2550" text-anchor="middle">EQUIPMENT DOES NOT CHANGE THE CORE ACTION</text>
+  <rect class="box" x="34" y="2570" width="452" height="220" rx="10"/>
+  <text class="head" x="58" y="2613">WITH A FIRST-AID KIT</text>
+  <text class="tiny" x="58" y="2657">Add insulation and a blanket if available.</text>
+  <text class="tiny" x="58" y="2693">Do not lift them just to do this.</text>
+  <text class="tiny" x="58" y="2729">Keep the face clear and breathing visible.</text>
+  <text class="tiny" x="58" y="2765">Do not leave them to fetch equipment.</text>
+
+  <rect class="box" x="514" y="2570" width="452" height="220" rx="10"/>
+  <text class="head" x="538" y="2613">WITHOUT A FIRST-AID KIT</text>
+  <text class="tiny" x="538" y="2657">The side position itself needs no kit.</text>
+  <text class="tiny" x="538" y="2693">Use folded dry clothing for support or</text>
+  <text class="tiny" x="538" y="2729">warmth. Keep the face clear.</text>
+  <text class="tiny" x="538" y="2765">Stay beside the person.</text>
+
+  <rect class="warning" x="34" y="2814" width="932" height="146" rx="10"/>
+  <text class="bottomHead" x="58" y="2857">NOT SHOWN — FOLLOW 000 AND THE RELEVANT CONDITION PAGE</text>
+  <text class="tiny" x="58" y="2901">Infant handling; active convulsions; pregnancy- or anaphylaxis-specific positioning;</text>
+  <text class="tiny" x="58" y="2936">a face-down start; spinal transfer or clearance; carrying; steep or unstable ground.</text>
+
+  <rect x="0" y="2968" width="1000" height="32" fill="#fff7e6"/>
+  <text x="964" y="2991" text-anchor="end" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#77551c">WORKING DRAFT — clinical, instructor, practical and stressed-reader review outstanding</text>
+  </g>
+</svg>
