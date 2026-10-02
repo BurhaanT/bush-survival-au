@@ -42,7 +42,7 @@ These records document research. They do **not** document approval.
 - Stressed-reader testing, final pagination, greyscale checks and a physical proof.
 - Safe answers for every no-communication, no-water or inescapable-fire situation; no book can promise these.
 
-These are limits, not invitations to improvise. Use the safer fallback stated in the relevant chapter.
+These limits do not tell you to withhold the only reasonable action needed to prevent immediate death or really serious injury. In that narrow situation, [human life comes first](01-how-to-use-this-guide.md#when-a-rule-conflicts-with-saving-a-life): use the least harmful effective action, take no more than necessary, and stop when the danger is controlled. This does not validate a missing technique, make unknown food safe or create blanket permission to ignore law, welfare or safety. In every other situation, use the safer fallback stated in the relevant chapter.
 
 ## How to review a page
 
@@ -66,4 +66,4 @@ A source, dose, timing, medical sequence, plant identification, map, legal rule 
 
 The browser print view is a review proof, not an approved field edition. Every page, split diagram, link, greyscale result and physical proof still needs inspection.
 
-**Edition:** 0.14, updated 2 October 2026. The plant plates, fish atlas and rabbit capture-to-food chain remain incomplete. Specialist review, reader testing and final PDF approval remain **NO**. `FIELD_READY_BUILD=NO`.
+**Edition:** 0.15, updated 2 October 2026. The plant plates, fish atlas and rabbit capture-to-food chain remain incomplete. Specialist review, reader testing and final PDF approval remain **NO**. `FIELD_READY_BUILD=NO`.

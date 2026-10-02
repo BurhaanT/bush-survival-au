@@ -20,6 +20,7 @@ Markdown chapter files are the editable source of truth. A combined Markdown edi
 
 - Teach priorities and decisions before techniques.
 - Design for an untrained, stressed reader in a real emergency.
+- Put preservation of human life before ordinary activity rules when a person faces an immediate risk of death or really serious injury and an otherwise prohibited act is the only reasonable response. Keep this narrow, proportionate and fact-dependent; it is not permission for convenience, routine food gathering or planned non-compliance.
 - Follow the [plain-language writing rules](EDITORIAL_STYLE_GUIDE.md): familiar words, short clear sentences, explained technical terms, ordered actions and reader checks. Preserve every essential safety condition when simplifying.
 - Organise guidance by situation rather than hiking, camping, 4WD, fishing or another activity; mention an activity only when it changes the safest action.
 - Be specific to Victorian environments, services, laws and seasons.

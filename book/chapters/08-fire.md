@@ -6,10 +6,12 @@
 >
 > Fire can remove every other survival option. This chapter separates **escaping a bushfire** from **choosing to light a small fire**. Permission to camp is not permission to light a fire, and a book cannot confirm today's conditions.
 
+The rules below govern a **chosen** fire for warmth, cooking, water treatment or signalling. They do not tell you to let a person die to preserve ordinary compliance. If someone faces an immediate risk of death or really serious injury, no safer effective option can work in time, and an otherwise prohibited action is the only reasonable response, protect life first. Use the smallest, least harmful effective action; call **000** or activate rescue if possible; stop when the danger is controlled. This is not blanket permission and does not make an unsafe fire safe. See [When a rule conflicts with saving a life](01-how-to-use-this-guide.md#when-a-rule-conflicts-with-saving-a-life).
+
 ## Do this now
 
 1. **Can you see or smell smoke, see fire, or receive a fire warning for this area?** If yes or unknown, do **not** light anything. Check the current warning if possible, call 000 for immediate danger and follow emergency-service instructions. Use [Smoke or an unexpected fire](#smoke-or-an-unexpected-fire).
-2. **Is there no fire threat, and are you considering lighting a stove or campfire?** Every live rule, site, weather, equipment, water, supervision and exit gate in this chapter must be **yes**. One **no or unknown** means no fire.
+2. **Is there no fire threat, and are you considering an ordinary stove or campfire?** Every live rule, site, weather, equipment, water, supervision and exit gate in this chapter must be **yes**. One **no or unknown** means that ordinary fire route is unavailable.
 3. **If fire is unavailable, change systems:**
    - communicate with 000, satellite SOS or a PLB as appropriate;
    - signal with a whistle, torch, mirror or bright material—not a signal fire;
@@ -77,13 +79,13 @@ CFA lists a beach, swimming pool, dam or river as a possible last resort only wh
 
 ## Before lighting anything
 
-Go straight to the [conservative go/no-go rule](#the-books-conservative-gono-go-rule). Every gate must be **yes** before ignition. If permission, place, weather, control or need is unknown, use the no-fire actions at the start of this chapter.
+For an ordinary chosen ignition, go straight to the [conservative go/no-go rule](#the-books-conservative-gono-go-rule). Every gate must be **yes**. If permission, place, weather, control or need is unknown, use the no-fire actions at the start of this chapter.
 
 Use your exact location to identify the responsible organisation—such as Parks Victoria, Forest Fire Management Victoria, a council or a private owner—and the fire district. Check the current Total Fire Ban, municipal Fire Danger Period, any separately declared period when fires are prohibited on that public land, park or forest closure, local rule and every site sign. A remembered rule or yesterday's screenshot is not a current check.
 
 Catastrophic Fire Danger Rating days can trigger closures of parks and state forests in the affected district. Check the live closure for the exact place. If you are already stranded, contact 000 and follow current directions. Do not begin an unsafe dash merely because a closure applies.
 
-On a Total Fire Ban day: **NO FIRE IN THIS GUIDE.** Put out any existing fire before the ban begins. Do not light a campfire or use a solid-fuel or liquid-fuel cooking fire.
+On a Total Fire Ban day, this guide supplies **NO ORDINARY CHOSEN-FIRE ROUTE.** Put out any existing fire before the ban begins. Do not light a campfire or use a solid-fuel or liquid-fuel cooking fire as an ordinary choice. A true immediate threat to human life uses the Chapter 1 test; this chapter supplies no Total Fire Ban emergency operating method and does not make an unsafe fire safe.
 
 Victorian law contains a narrow exception for some gas or electric appliances used solely to prepare a meal. This personal guide does not tell the reader to use that exception. It does not treat water treatment, warming, drying or signalling as meal preparation. The authorised CFA Act and a current CFA page use a **3 m** clearance for the exception, measured from the appliance's outer perimeter, while a 2026 Conservation Regulator brochure says **1.5 m**. That conflict is recorded for specialist review; it is not a reason to light an appliance on a Total Fire Ban day from this guide.
 
@@ -95,9 +97,9 @@ Victorian law contains a narrow exception for some gas or electric appliances us
 >
 > **Estimated confidence in the accuracy of these checks: 90% for the fail-closed safety principles; 70% for completeness across unknown stove designs and land rules.** These are editorial estimates, not a probability of safe use. The exact current manual, current fire rules and an undamaged compatible stove control. This edition has not selected or tested a stove.
 >
-> The 10 L step below is this guide's **conservative provisional rule**, not a claim that one statewide law imposes 10 L on every non-Total-Fire-Ban stove use. The current State-forest page tells stove users to follow regular campfire safety rules; some park and site rules expressly require 10 L; and the Total Fire Ban meal-appliance exception expressly requires 10 L or a connected hose. Written CFA/Parks Victoria/DEECA clarification for treatment-only boiling is still needed. On a Total Fire Ban day this guide allows no stove use.
+> The 10 L step below is this guide's **conservative provisional rule**, not a claim that one statewide law imposes 10 L on every non-Total-Fire-Ban stove use. The current State-forest page tells stove users to follow regular campfire safety rules; some park and site rules expressly require 10 L; and the Total Fire Ban meal-appliance exception expressly requires 10 L or a connected hose. Written CFA/Parks Victoria/DEECA clarification for treatment-only boiling is still needed. On a Total Fire Ban day, this ordinary stove route is unavailable; a true immediate threat uses Chapter 1 and this section supplies no emergency stove method.
 
-Use a carried stove for the water chapter only when **every** item below is yes:
+For the ordinary water-boiling route, use a carried stove only when **every** item below is yes:
 
 1. It is not a Total Fire Ban day, and current rules, closures and signs permit that exact stove and purpose at that exact place.
 2. You can identify the stove and correct fuel, have its current instructions, and know that neither is damaged, leaking, recalled or incorrectly connected.
@@ -108,7 +110,7 @@ Use a carried stove for the water chapter only when **every** item below is yes:
 7. A capable adult can watch it continuously, and a safe exit remains usable.
 8. You can light, operate, shut down and let the exact stove cool by following its instructions without improvising.
 
-Any **no or unknown** answer means the stove route is unavailable. This book does not give fuel-connection or ignition steps for an unnamed stove. Never improvise a windscreen around a fuel canister, change fuel, repair a leak in use or bring the stove into shelter.
+Any **no or unknown** answer means the ordinary stove route is unavailable. This book does not give fuel-connection or ignition steps for an unnamed stove. Never improvise a windscreen around a fuel canister, change fuel, repair a leak in use or bring the stove into shelter.
 
 **Review record:** S-215–S-221, S-288–S-290 and the [potable-water and boiling assessment](../../research/equipment/POTABLE_WATER_CARRIAGE_AND_BOILING_ASSESSMENT.md). These fail-closed checks still require Victorian fire/legal, gas-product and controlled-use review.
 
@@ -135,7 +137,7 @@ Some general state-forest rules allow other arrangements. This personal guide us
 
 If the fire spreads or the exit becomes threatened, move away from danger first. Call **000** as soon as you can. If there is no phone connection, activate satellite SOS or a PLB as its instructions direct. Do not delay escape to complete the extinguishment sequence. If any other gate becomes no or unknown while the fire remains contained and the exit remains safe, stop adding fuel and put the fire out immediately.
 
-![Conservative Victorian fire go-or-no-go card requiring no nearby smoke or warning, a genuine need, an available safe exit, and every current Fire Danger Rating, ban, restriction, closure, land rule, fireplace, wind, clearance, extinguishing-water, turning-tool and supervision condition to be yes; the 10 litres or connected hose must not consume drinking water the group needs; if fire spreads or the exit is threatened, move first, then use 000, satellite SOS or a PLB.](../assets/fire-go-no-go.svg)
+![Conservative Victorian chosen-fire go-or-no-go card: a true immediate threat to human life routes to the Chapter 1 life-first test but the card supplies no emergency fire method; for the ordinary fire route, no nearby threat, a genuine need, an exit and every current rating, ban, restriction, closure, land rule, fireplace, wind, clearance, extinguishing-water, turning-tool and supervision condition must be yes.](../assets/fire-go-no-go.svg)
 
 *IM-167. Original working decision card based on S-451–S-452 and the linked CFA and Victorian Government rules. It deliberately uses a narrow personal-book rule and cannot confirm the reader's live district, type of land, closure or weather. Any no or unknown answer means no fire.*
 
@@ -169,7 +171,7 @@ Hand-drill and bow-drill fire are sometimes described as “no-equipment” tech
 >
 > **Estimated confidence in the accuracy of the diagram: 95% for the preparation and water-not-soil principles; 80% that the size progression reflects the cross-checked sources; 75% for the untested pictured build sequence; 80% for the untested extinguishment wording.** These are editorial estimates, not probabilities of ignition, control or extinction. No Victorian fire authority or outdoor-fire instructor has approved the diagram, and it has not passed a controlled live-fire test.
 
-![Small-fire card, part 1: after every go-or-no-go answer is yes, prepare at least 10 litres of deliverable extinguishing water that is separate from drinking water the group needs, a turning tool, a currently authorised fireplace, a labelled solid campfire firelighter and permitted dry kindling in match-thin, pencil-thick and thumb-thick piles kept outside the three-metre clear area until needed; use the pictured base position, loose over-and-around kindling layout and carried lighter or waterproof match only if the exact firelighter label permits every one of those details, otherwise stop; light only as the label directs, then add each larger stage only after the smaller one burns on its own.](../assets/small-fire-sequence.svg)
+![Ordinary-route small-fire card, part 1: a true immediate threat to human life routes to Chapter 1 but the card supplies no emergency fire method; otherwise, after every go-or-no-go answer is yes, prepare separate extinguishing water, a turning tool, an authorised fireplace, a labelled solid campfire firelighter and permitted dry kindling, then use the pictured arrangement and ignition tool only when the exact firelighter label permits every detail.](../assets/small-fire-sequence.svg)
 
 *IM-168. Original working conditional-small-fire card, part 1, based on S-451–S-452, S-455 and the full chapter. The sketch is not a fireplace design, clearance scale or permission to light. The labelled firelighter's current directions control its amount and arrangement. The three-size sequence has not been approved by a Victorian fire authority or live-fire tested for this book. Use it only after every IM-167 condition is yes, then continue to the extinguishment card.*
 

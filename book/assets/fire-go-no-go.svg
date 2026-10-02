@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2020" viewBox="0 0 1000 2020" role="img" aria-labelledby="title desc">
-  <title id="title">Conservative Victorian fire go or no-go check</title>
-  <desc id="desc">A ten-gate Victorian fire decision card. A fire may be considered only when there is no nearby fire threat; the rating is Moderate and every live ban, restriction, closure, land rule and sign permits this exact fire; a supplied public or specifically and currently authorised fireplace is available; wind is below ten kilometres per hour and not rising; the site and three-metre clear area are safe; at least ten litres of extinguishing water is already beside the fire in usable vessels or an immediately usable hose is connected, and that extinguishing water is separate from drinking water the group needs; a turning tool is ready; a capable adult will supervise continuously; a fire is genuinely needed; and a safe exit remains available. Any no or unknown answer means no fire.</desc>
+  <title id="title">Conservative Victorian chosen-fire go or no-go check</title>
+  <desc id="desc">A ten-gate Victorian card for an ordinary chosen fire. It says human life comes first in a true immediate emergency but supplies no emergency fire method or legal permission. For the ordinary route, a fire may be considered only when there is no nearby fire threat; the rating is Moderate and every live ban, restriction, closure, land rule and sign permits this exact fire; a supplied public or specifically authorised fireplace is available; wind is below ten kilometres per hour and not rising; the site and three-metre clear area are safe; at least ten litres of separate extinguishing water or an immediately usable hose is ready; a turning tool is ready; a capable adult will supervise; a fire is needed; and a safe exit remains available. Any no or unknown answer makes the ordinary route unavailable.</desc>
   <defs>
     <marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto"><path d="M0 0 L15 8 L0 16 Z" fill="#244a3c"/></marker>
     <marker id="arrowRed" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto"><path d="M0 0 L15 8 L0 16 Z" fill="#8c2f2b"/></marker>
@@ -9,13 +9,13 @@
     </style>
   </defs>
   <rect class="bg" width="1000" height="2020"/>
-  <text class="title" x="36" y="58">Fire: every answer must be YES</text>
+  <text class="title" x="36" y="58">Chosen fire: every answer must be YES</text>
 
   <rect class="warning" x="34" y="82" width="932" height="195" rx="10"/>
-  <text class="head red" x="58" y="124">CURRENT RULES AND CONDITIONS CONTROL</text>
-  <text class="small" x="58" y="165">Estimated wording accuracy: 95% for the cited limits; screen untested.</text>
-  <text class="small" x="58" y="202">This is a subjective estimate, not a probability of safety.</text>
-  <text class="small" x="58" y="239">Check the exact location now. Any NO or UNKNOWN means NO FIRE.</text>
+  <text class="head red" x="58" y="124">ORDINARY / CHOSEN-FIRE ROUTE</text>
+  <text class="small" x="58" y="165">True immediate threat to human life: use Chapter 1's life-first test.</text>
+  <text class="small" x="58" y="202">This card gives no emergency fire method or legal permission.</text>
+  <text class="small" x="58" y="239">Otherwise check the exact place. Any NO or UNKNOWN means NO FIRE.</text>
 
   <rect class="decision" x="50" y="305" width="900" height="1250" rx="10"/>
   <text class="head" x="78" y="348">BEFORE MAKING A FLAME, CONFIRM ALL TEN IN ORDER</text>
@@ -74,7 +74,7 @@
   <text class="branch" x="670" y="1600">ALL YES</text>
 
   <rect class="warning" x="34" y="1622" width="448" height="305" rx="10"/>
-  <text class="head red" x="58" y="1665">NO FIRE</text>
+  <text class="head red" x="58" y="1665">ORDINARY ROUTE: NO FIRE</text>
   <text class="small" x="58" y="1708">Use shelter and insulation.</text>
   <text class="small" x="58" y="1746">Eat ready-to-eat carried food.</text>
   <text class="small" x="58" y="1784">Use 000, satellite SOS or a PLB.</text>

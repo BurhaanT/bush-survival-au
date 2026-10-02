@@ -43,6 +43,10 @@ Every chapter is Victoria-specific. National guidance may be used when applicabl
 
 The reader enters through the emergency, not through an activity category. Hiking, camping, 4WD, fishing, hunting, prospecting, paddling, working and other contexts are mentioned only when they change hazards, available shelter/equipment, legal conditions or the safest decision.
 
+## Life-first rule
+
+In a true emergency involving an immediate risk of death or really serious injury, the guide must not tell a reader to withhold the only reasonable lifesaving action merely to preserve ordinary activity compliance. The exceptional action must be necessary, proportionate and the least harmful workable option; emergency contact is attempted where possible; the action stops when the danger is controlled; and the ordinary rule remains visible. This is not blanket legal permission and does not validate a missing method or make an unsafe food, water source, fire or tool safe.
+
 ## Medical presentation rule
 
 Every practical first-aid entry must show two sections checked by a medical reviewer:

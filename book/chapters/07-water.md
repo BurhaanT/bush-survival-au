@@ -49,21 +49,23 @@ Prefer carried drinking water or a supply explicitly identified as safe. For a n
 
 ## Decide the treatment route before collecting
 
+The boiling and fire-permission checks below are the ordinary route. If lack of water creates an immediate risk of death or really serious injury and no safer effective option can work in time, protect life first and use only the necessary, proportionate and least harmful response. Call **000** or activate rescue if possible. This is not blanket permission, does not supply a missing heat or treatment method, and does not make untreated or chemically contaminated water safe. See [When a rule conflicts with saving a life](01-how-to-use-this-guide.md#when-a-rule-conflicts-with-saving-a-life).
+
 > **WARNING — GERMS ONLY; FIELD HANDLING REVIEW OUTSTANDING**
 >
 > **Estimated confidence in the accuracy of this wording: 95% for the rolling-boil rule and the limits of boiling; 80% for this plain-language field handling sequence.** These are subjective editorial estimates, not the probability that a source or treated batch is safe. Parks Victoria directly tells visitors to bring natural-source water to a rolling boil, cool it and then use it for drinking. A Victorian water-health specialist and controlled usability test have not approved this adaptation.
 
-The simplest boiling route needs:
+The simplest ordinary boiling route needs:
 
 - a source that has passed the red-flag screen above but is still treated as suspect;
 - an intact, unsealed heat-safe cooking pot intended for the heat source;
-- a lawful heat source that you can operate exactly as its current instructions require;
+- for the ordinary route, a lawful heat source that you can operate exactly as its current instructions require;
 - a stable, non-combustible place where the pot can cool without being knocked over; and
 - a clean drinking cup or clean closable drinking-water container if you need to serve or store the water.
 
 The water-treatment steps do **not** require a thermometer, a transfer ladle, a specially preserved dry rim or a separate cup for every person. Those were project-added controls in an earlier draft and made the only route impractical without being validated by an authority. They have been withdrawn.
 
-The heat source remains a separate safety and legal decision. For a carried stove, every current check in [Fire](08-fire.md#before-using-a-carried-stove-to-boil-water) must pass. The 10 L control in that section is a conservative provisional fire rule, not part of the microbiological treatment method. This guide still supplies no Total Fire Ban exception and no campfire pot-support design.
+The heat source remains a separate safety and legal decision. For the ordinary route with a carried stove, every current check in [Fire](08-fire.md#before-using-a-carried-stove-to-boil-water) must pass. The 10 L control in that section is a conservative provisional fire rule, not part of the microbiological treatment method. A true immediate threat uses Chapter 1's narrow test; that test supplies no missing vessel, heat-source or treatment method and does not make contaminated water safe.
 
 For boiling, do not use a sealed vessel, plastic bag, plastic drink bottle, unknown or galvanised metal container, painted or coated can, bark vessel or hot-rock method on the strength of this guide. Never use a pot, collector, cup or storage container that has held fuel, coolant, pesticide, detergent or another chemical.
 
@@ -76,7 +78,7 @@ A separate untreated collector is useful but not mandatory for the boiling rule.
 
 ### Rolling-boil method
 
-Use this method only when the source passed the red-flag screen and every item listed above is available.
+For the ordinary route, use this method only when the source passed the red-flag screen and every item listed above is available.
 
 1. **Fill safely.** Use the intact, unsealed cooking pot. Do not overfill it. Keep dirty hands and raw-water gear away from the inside and opening of every clean cup or storage container.
 2. **Heat exactly as instructed.** Keep the pot stable and stay with it. Do not improvise a windscreen, fuel connection, pot support or indoor shelter.
@@ -93,11 +95,11 @@ If untreated water or a dirty object enters the cooled batch, treat it as untrea
 |---|---|---|
 | Protect water already safe to drink | Its intact clean container | Best first option; creates no new water |
 | Catch falling rain directly | A suitable collector or heat-safe pot | Collects water only; rain is not automatically safe and still needs treatment |
-| Rolling-boil route | Suitable unsealed pot; lawful and safely operable heat source; stable cooling place; clean cup or clean storage if serving or storing | Treats most microbial hazards when the full rolling-boil/cool/use route passes; does not remove salt, algal toxins, chemicals or metals |
+| Ordinary rolling-boil route | Suitable unsealed pot; lawful and safely operable heat source; stable cooling place; clean cup or clean storage if serving or storing | Treats most microbial hazards when the full rolling-boil/cool/use route passes; does not remove salt, algal toxins, chemicals or metals |
 | Filter, tablet, UV or combined route | Exact product, exact current instructions, required power/supplies and dirty/clean separation | No named product route is approved in this edition yet; do not guess dose, wait time or organism coverage |
-| No suitable pot, lawful heat or reviewed product | No dependable treatment route | Use the no-treatment emergency section; do not relabel untreated water as safe |
+| No suitable pot, ordinary lawful heat or reviewed product | No dependable ordinary treatment route | Use the no-treatment emergency section; do not relabel untreated water as safe |
 
-There is no dependable **zero-equipment** treatment method in this guide. Cloth, settling, a homemade filter, a clear stream, dew and rain do not disinfect water. The rolling-boil method is the lowest-equipment treatment described here, but the heat source must still be lawful and safely controllable.
+There is no dependable **zero-equipment** treatment method in this guide. Cloth, settling, a homemade filter, a clear stream, dew and rain do not disinfect water. The rolling-boil method is the lowest-equipment treatment described here. For the ordinary route, its heat source must be lawful and safely controllable. A true immediate threat uses Chapter 1's narrow test; that test supplies no missing vessel, heat-source or treatment method and does not make contaminated water safe.
 
 ## Catch rain when it is already falling
 
@@ -153,17 +155,17 @@ Do not count eating snow or ice as the water method in this guide. If the comple
 >
 > **Estimated confidence in the accuracy of the card: 95% for the treatment limits; 80% for the untested order of actions.** These are editorial estimates, not water-health approval or a probability of safe water. The card cannot identify an invisible contaminant or decide the untreated-water-versus-dehydration trade-off for a particular person. Follow a current site warning and emergency medical advice.
 
-![Water-when-supplies-are-limited card, part 1: protect reachable safe drinking water; stop searching when no more is needed; reject salt, algae, flood, warnings, sewage and chemical red flags; collect without climbing, wading or contaminating clean equipment; and confirm a suitable unsealed pot, lawful safely operable heat source, stable cooling place and clean cup or storage container before using the treatment card.](../assets/low-equipment-water-card.svg)
+![Water-when-supplies-are-limited card, part 1: protect reachable safe drinking water; stop searching when no more is needed; reject salt, algae, flood, warnings, sewage and chemical red flags; collect without climbing, wading or contaminating clean equipment; and, for the ordinary route, confirm a suitable unsealed pot, lawful safely operable heat source, stable cooling place and clean cup or storage container. A true immediate threat to life routes to Chapter 1 without making contaminated water safe or supplying a missing treatment method.](../assets/low-equipment-water-card.svg)
 
 *IM-166. Original working limited-supplies water card, part 1, based on Parks Victoria, Victorian Health, WHO and S-203–S-214/S-454/S-487. Settling, cloth and clear appearance are explicitly not treatment. Continue only when the simple boiling equipment is ready and the source has not been rejected; specialist and controlled field review remain outstanding.*
 
-![Rolling-boil water-treatment card, part 2: use a suitable unsealed pot and only a lawful safely operable heat source; bring the whole surface to a vigorous rolling boil; turn the heat off as its instructions require; let the pot cool on a stable non-combustible heat-safe surface protected from new contamination; then use promptly or pour into a clean closed drinking-water container without touching its inside or opening. Boiling treats most microbial hazards, not salt, algal toxins, chemicals or metals.](../assets/low-equipment-water-treatment-card.svg)
+![Rolling-boil water-treatment card, part 2: the ordinary route requires a suitable unsealed pot and a lawful safely operable heat source, while a true immediate threat to human life routes to Chapter 1 without creating a missing treatment method; bring the whole surface to a vigorous rolling boil, shut down, cool protected from contamination, and use promptly or pour into clean closed storage. Boiling treats most microbial hazards, not salt, algal toxins, chemicals or metals.](../assets/low-equipment-water-treatment-card.svg)
 
 *IM-171. Original working card based on Parks Victoria, Victorian Health, NHMRC, WHO, S-203–S-214, S-450, S-454 and S-487. It follows the official rolling-boil, cool and use principle, adds only basic scald and recontamination controls, and is not a guarantee. Specialist and controlled review of the exact field handling sequence remain outstanding.*
 
 ## Keep treated water from being contaminated again
 
-![Three-stage rolling-boil workflow: reject a source with salt, algae, flood, warning, sewage or chemical red flags; use a suitable unsealed pot and a lawful safely operable heat source to bring the whole water surface to a vigorous rolling boil; turn off the heat, cool the pot on a stable heat-safe surface protected from new contamination, and use promptly or pour into a clean closed drinking-water container without touching its inside or opening.](../assets/water-workflow.svg)
+![Three-stage ordinary-route rolling-boil workflow: an immediate threat to human life routes to Chapter 1 without making contaminated water safe; otherwise reject salt, algae, flood, warning, sewage or chemical red flags, then use a suitable unsealed pot and a lawful safely operable heat source to bring the whole surface to a vigorous rolling boil, cool protected from contamination, and use promptly or pour into clean closed storage.](../assets/water-workflow.svg)
 
 *IM-066. Original working diagram based on the water sources below and S-487. It does not establish that a source is safe, that a heat source is lawful, or that a particular filter is enough. Chemical, algal, salt and metal hazards are excluded, not removed by this workflow.*
 
@@ -226,6 +228,6 @@ Reject water that may contain ash, dark post-fire runoff, firefighting foam or r
 
 Use every available emergency method to report the water shortage: call 000 if a phone connection is available, or activate a PLB or satellite SOS according to its instructions. Keep using non-fire signals. Reduce avoidable exertion and heat exposure, protect the safe drinking water left from spills and contamination, and look for a currently designated drinking supply only within the existing [stay-or-move plan](04-stay-or-move.md). This section cannot promise a zero-risk solution when neither safe water nor rescue contact is available.
 
-There is no reliable **zero-equipment** method in this guide that turns suspect Victorian water into safe drinking water. Direct rain, dew, a clear stream, settling or a homemade filter cannot be counted as treatment. Candidate treatment routes still require a suitable vessel and lawful heat, or an exact product or combination whose evidence, instructions and limits have been reviewed. This edition has not yet approved an exact system.
+There is no reliable **zero-equipment** method in this guide that turns suspect Victorian water into safe drinking water. Direct rain, dew, a clear stream, settling or a homemade filter cannot be counted as treatment. Ordinary candidate routes still require a suitable vessel and lawful heat, or an exact product or combination whose evidence, instructions and limits have been reviewed. A true immediate threat uses Chapter 1's narrow test; that test supplies no missing vessel, heat-source or treatment method and does not make contaminated water safe. This edition has not yet approved an exact system.
 
 **Review record:** WATER claims in EP-011; exact-system research remains separate. Public-health evidence and the final working route were reconciled on 28 September 2026; no specialist approval, exact-equipment trial or water-drinking trial has occurred.

@@ -19,6 +19,8 @@
 
 ## If someone may die soon
 
+**Protect life first.** If an ordinary activity rule conflicts with the only reasonable action that can prevent immediate death or really serious injury, take the necessary lifesaving action and no more. Call 000 or activate rescue if possible. This narrow rule does not turn hunger, inconvenience or a long wait into a general exemption; see [When a rule conflicts with saving a life](01-how-to-use-this-guide.md#when-a-rule-conflicts-with-saving-a-life).
+
 - **Obvious life-threatening bleeding:** press firmly on the wound now. If another person is available, have them call 000 while you control it.
 - **Unresponsive and not breathing normally:** call 000 on speaker and start [CPR](06-first-aid-and-evacuation.md#unresponsive-or-not-breathing-normally). Gasping is not normal breathing.
 - **Other serious illness, injury or breathing trouble:** call 000 and use the matching [first-aid action](06-first-aid-and-evacuation.md).

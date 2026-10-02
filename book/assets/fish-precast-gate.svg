@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2800" viewBox="0 0 1000 2800" role="img" aria-labelledby="title desc">
-  <title id="title">Before casting: a conservative fishing decision gate</title>
-  <desc id="desc">A plain-language decision gate for deciding whether to fish in a Victorian bush emergency. First protect rescue, first aid, body temperature, shelter and drinking water. Then confirm the current licence or exemption, exact water and time, closures and notices, method, equipment, bait and species rules. Do not fish unless every likely catch can be positively identified and lawfully dealt with, and the bank, gear, weather, light and available time are safe. No or unknown at any gate means do not fish. The card supplies no traps, unattended lines, poison, electricity or other destructive method. Its subjective wording-confidence estimate is 90 percent and is not a probability of legal permission, safe catch, success or survival.</desc>
+  <title id="title">Before ordinary fishing for food: a conservative decision gate</title>
+  <desc id="desc">A plain-language ordinary-food decision gate for fishing in a Victorian bush emergency. Human life and more urgent rescue, first aid, body-temperature, shelter and drinking-water work come first. Fishing is too slow and uncertain to solve most immediate threats. For the ordinary food route, confirm the current licence or exemption, exact water and time, closures, method, equipment, bait and species rules. Do not fish unless every likely catch can be identified and dealt with and the bank, gear, weather, light and time are safe. The card supplies no emergency legal permission, trap, unattended line, poison, electricity or destructive method. Its 90 percent figure estimates wording, not permission, catch safety, success or survival.</desc>
   <defs>
     <marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto"><path d="M0 0 L15 8 L0 16 Z" fill="#244a3c"/></marker>
     <style>
@@ -9,16 +9,16 @@
   </defs>
 
   <rect class="bg" width="1000" height="2800"/>
-  <text class="title" x="36" y="60">Before casting: should you fish?</text>
+  <text class="title" x="36" y="60">Ordinary food route: should you fish?</text>
 
   <rect class="warning" x="34" y="86" width="932" height="290" rx="10"/>
-  <text class="head red" x="58" y="130">WARNING — EVERY GATE MUST PASS</text>
+  <text class="head red" x="58" y="130">WARNING — HUMAN LIFE FIRST; ORDINARY ROUTE ONLY</text>
   <text class="body" x="58" y="174">Food is usually later than rescue, first aid, warmth and water.</text>
-  <text class="body red" x="58" y="216">A NO or UNKNOWN answer means DO NOT FISH.</text>
-  <text class="small" x="58" y="258">Rules, closures, signs and health warnings can change.</text>
-  <text class="small" x="58" y="298">Subjective wording-confidence estimate: 90%.</text>
-  <text class="small" x="58" y="336">This rates the wording—not legal permission, catch safety,</text>
-  <text class="small" x="58" y="366">success or survival.</text>
+  <text class="body red" x="58" y="216">For this ordinary food route, NO or UNKNOWN means DO NOT FISH.</text>
+  <text class="small" x="58" y="258">Immediate risk of death or really serious injury? Use Chapter 1.</text>
+  <text class="small" x="58" y="298">It requires the only reasonable, least-harmful effective response.</text>
+  <text class="small" x="58" y="336">No emergency method or blanket permission is supplied here.</text>
+  <text class="small" x="58" y="366">Wording confidence: 90%—not permission, success or survival.</text>
 
   <rect class="decision" x="66" y="420" width="868" height="340" rx="10"/>
   <text class="head" x="92" y="466">1  IS SOMETHING MORE URGENT?</text>
@@ -69,13 +69,13 @@
   <text class="small" x="112" y="2038">• Rescue, first aid, shelter and water will not be neglected</text>
   <text class="branch red" x="92" y="2094">NO / CONDITIONS MAY DETERIORATE / UNKNOWN → DO NOT FISH</text>
   <text class="branch green" x="92" y="2146">YES TO EVERY ITEM → CONDITIONAL FISHING MAY BEGIN</text>
-  <text class="small red" x="92" y="2194">Retrieve the line and stop as soon as any answer changes.</text>
+  <text class="small red" x="92" y="2194">Life threat: give care first. Otherwise retrieve line and stop if a gate changes.</text>
 
   <path class="path" d="M500 2222 V2270"/>
   <text class="branch" x="526" y="2258">ALL YES</text>
 
   <rect class="go" x="100" y="2282" width="800" height="185" rx="10"/>
-  <text class="head green" x="500" y="2332" text-anchor="middle">FISH — ONLY WHILE EVERY GATE STAYS YES</text>
+  <text class="head green" x="500" y="2332" text-anchor="middle">ORDINARY ROUTE — ALL GATES MUST STAY YES</text>
   <text class="body" x="500" y="2378" text-anchor="middle">Use only the current lawful, attended method.</text>
   <text class="small" x="500" y="2420" text-anchor="middle">Stop if the attempt costs warmth, safety, rescue time or water.</text>
   <text class="small" x="500" y="2452" text-anchor="middle">A catch still needs identity, legal-action and food-safety checks.</text>

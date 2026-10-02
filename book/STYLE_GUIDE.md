@@ -60,6 +60,14 @@ If there is no safe replacement for a missing item, say so. Do not invent a subs
 - Do not hide a stop condition in a footnote.
 - When evidence cannot support a safe novice decision, say “do not attempt/use/consume.”
 
+## Human life and ordinary rules
+
+- In a true immediate threat of death or really serious injury, human life comes before ordinary activity rules.
+- Require the only reasonable response, the least harmful workable option, no more action than needed, emergency contact where possible and a clear stop when the danger is controlled.
+- State that this is not blanket permission and that exact legality remains fact-dependent.
+- Do not let this boundary invent a missing method, make unknown food or contaminated water safe, or weaken a safety prohibition whose purpose is preventing another lethal hazard.
+- Repeat the short boundary on any detached card that could otherwise make a routine legal or permission gate look absolute.
+
 ## Evidence language
 
 - Distinguish “is,” “may,” “often,” “reported,” “historically documented” and “unknown.”

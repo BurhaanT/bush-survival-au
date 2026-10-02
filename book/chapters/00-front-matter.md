@@ -2,7 +2,7 @@
 
 ## What to do when you are lost, injured or stranded
 
-**Personal illustrated working edition 0.14 · Victoria, Australia · updated 2 October 2026**
+**Personal illustrated working edition 0.15 · Victoria, Australia · updated 2 October 2026**
 
 This guide starts where an ordinary trip becomes an emergency. You may have arrived by foot, vehicle or boat. What matters now is the danger, the people, the equipment you can reach and the help you can obtain.
 
@@ -11,6 +11,14 @@ This guide starts where an ordinary trip becomes an emergency. You may have arri
 > This edition contains practical instructions, not just a plan for a future book. Its emergency advice has been checked against published sources, but the manuscript has not been independently approved or tested with readers. Some situations remain outside its supported scope. Do not treat this book as proof that a particular action is safe.
 >
 > In an emergency, contact **000** where possible and follow the responding service's directions. A warning or a confidence label does not replace training, a personal medical plan or the instructions for your actual equipment.
+
+> **HUMAN LIFE COMES FIRST**
+>
+> If someone faces an immediate risk of death or really serious injury, do not delay the **only reasonable lifesaving action** merely because it would normally break an activity rule. Use the least harmful reasonable action, take no more than the emergency requires, call **000** or activate rescue if possible, and return to ordinary rules as soon as the danger is controlled.
+>
+> This is a narrow emergency rule—not permission for convenience, property protection, routine food gathering or avoiding a long wait. Hunger by itself is rarely the danger that will kill first. Rescue, urgent care, body temperature, shelter and water usually remain ahead of food.
+>
+> Victorian law does not make every emergency action automatically lawful. Section 322R of the *Crimes Act 1958* provides a fact-dependent defence for conduct during a sudden or extraordinary emergency when the person reasonably believes the conduct is the only reasonable way to deal with it and the conduct is a reasonable response. **Evidence confidence: High** for that statutory test; **Moderate** for this short field summary. **Estimated wording accuracy: 95% (subjective).** This is not a prediction of a legal outcome or survival.
 
 ## Start with the problem you face
 
@@ -40,6 +48,6 @@ Victoria includes the Countries of many Aboriginal peoples. Knowledge belongs to
 - Some plant comparisons, medical movement diagrams and natural-material techniques are still missing or awaiting review.
 - The guide does not teach mushroom foraging, toxin removal, climbing rescue or swift-water rescue.
 
-These are limits, not permission to improvise. Medical, plant, shelter, fire, water and fishing pages remain working teaching material until the stated reviews and practical tests are complete.
+These are limits, not permission to improvise in an ordinary situation. In the narrow life-threatening situation described above, protect life—but a warning does not create a missing method, identify unknown food or make a hazardous action safe. Medical, plant, shelter, fire, water and fishing pages remain working teaching material until the stated reviews and practical tests are complete.
 
 See [How to use this guide](01-how-to-use-this-guide.md) for warning labels, and [Sources and limitations](14-sources-reviewers-and-limitations.md) for the review record.

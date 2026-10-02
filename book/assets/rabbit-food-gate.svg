@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1800" viewBox="0 0 1000 1800" role="img" aria-labelledby="title desc">
-  <title id="title">Victoria rabbit trapping and food decision gate</title>
-  <desc id="desc">A working two-panel decision card. Panel A says not to make or set an improvised snare, deadfall or leg-hold trap in Victoria and summarises the permission boundary for compliant rabbit leg-hold and confinement traps. Panel B requires positive rabbit identity, lawful permission, a compliant familiar trap, regular inspection and non-target care, humane dispatch competence, positively known site baiting and poison-treatment history, disease checks, hygienic processing and no loss of higher survival priorities. Any no or unknown answer means do not trap or eat. The card includes farmed-rabbit food-composition values only as a comparison and gives no trap construction, bait, placement, dispatch, cutting or cooking method.</desc>
+  <title id="title">Victoria rabbit food, ordinary rules and true emergency gate</title>
+  <desc id="desc">A working two-panel decision card. Panel A puts human life first when a person faces an immediate risk of death or really serious injury and an otherwise prohibited act is the only reasonable response. It says this is not blanket permission and that hunger or low food alone is not the threshold. It then summarises ordinary Victorian trapping boundaries and states that the card gives no emergency trapping method. Panel B labels the complete checklist as the ordinary food route, repeats the separate immediate-life-danger boundary, and retains identity, effectiveness, non-target, humane-treatment, poison-history and food-safety limits. The card gives no trap construction, bait, placement, dispatch, cutting or cooking method.</desc>
   <defs>
     <style>
       .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.blue{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.amberBox{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.footer{fill:#fff0ed}
@@ -10,49 +10,49 @@
   <rect class="bg" width="1000" height="1800"/>
 
   <!-- PANEL A: 0–900 -->
-  <text class="title" x="34" y="58">RABBIT FOOD — NO SNARE SHORTCUT</text>
+  <text class="title" x="34" y="58">RABBIT FOOD — LIFE FIRST, NO SHORTCUT</text>
   <text class="status" x="966" y="94" text-anchor="end">WORKING CARD · PANEL A OF 2 · VICTORIA</text>
 
   <rect class="warn" x="34" y="118" width="932" height="164" rx="10"/>
-  <text class="midhead red" x="58" y="158">STOP — DO NOT IMPROVISE A SNARE OR DEADFALL</text>
-  <text class="body" x="58" y="198">Non-kill snares and kill traps require prior Victorian approval.</text>
-  <text class="body" x="58" y="233">A rabbit leg-hold or cage trap still needs lawful equipment, permission,</text>
-  <text class="limit" x="58" y="268">checking, non-target care and humane dispatch. Hunger is not a blanket exception.</text>
+  <text class="midhead red" x="58" y="158">TRUE IMMEDIATE THREAT TO HUMAN LIFE: LIFE FIRST</text>
+  <text class="body" x="58" y="198">If an otherwise prohibited act is the only reasonable lifesaving response,</text>
+  <text class="small" x="58" y="233">Use the least harmful effective action. Try 000 or SOS only if this will not delay action.</text>
+  <text class="limit" x="58" y="268">Not blanket permission. Hunger or low food alone is not this threshold.</text>
 
   <rect class="amberBox" x="34" y="304" width="932" height="122" rx="10"/>
   <text class="midhead amber" x="58" y="344">CONFIDENCE + LIMIT</text>
-  <text class="small" x="58" y="380">High evidence confidence for trap categories; Moderate for this short legal summary.</text>
-  <text class="small" x="58" y="410">94% wording estimate only — not legal advice, food safety or survival odds.</text>
+  <text class="small" x="58" y="380">High for the statutory test and trap categories; Moderate for this short summary.</text>
+  <text class="small" x="58" y="410">95% wording estimate only — not legal advice, food safety or survival odds.</text>
 
   <rect class="blue" x="34" y="450" width="932" height="108" rx="10"/>
-  <text class="head" x="58" y="490">IMPROVISED WIRE / CORD SNARE OR DEADFALL</text>
-  <text class="limit" x="58" y="530">DO NOT MAKE OR SET ONE. No bait or placement method is supplied.</text>
+  <text class="head" x="58" y="490">THIS CARD GIVES NO EMERGENCY TRAP METHOD</text>
+  <text class="limit" x="58" y="530">No construction, bait, placement, dispatch, dressing or cooking steps.</text>
 
   <rect class="box" x="34" y="580" width="932" height="118" rx="10"/>
-  <text class="head" x="58" y="620">COMPLIANT SMALL LEG-HOLD TRAP</text>
-  <text class="body" x="58" y="657">Rabbits only · private land with owner/occupier approval · never possess or</text>
-  <text class="limit" x="58" y="688">use on Crown land · urban use also needs Ministerial approval.</text>
+  <text class="head" x="58" y="620">ORDINARY RULES — SNARES, DEADFALLS + LEG-HOLDS</text>
+  <text class="body" x="58" y="657">Non-kill snares and kill traps need prior approval. A compliant small leg-hold</text>
+  <text class="limit" x="58" y="688">is rabbit-only, private-land/consent controlled and barred from Crown land.</text>
 
   <rect class="box" x="34" y="710" width="932" height="132" rx="10"/>
-  <text class="head" x="58" y="748">COMPLIANT CONFINEMENT / CAGE TRAP</text>
+  <text class="head" x="58" y="748">ORDINARY RULES — CONFINEMENT / CAGE TRAP</text>
   <text class="small" x="58" y="787">Prior land consent · minimise injury and non-target capture · inspect as often as possible.</text>
-  <text class="limit" x="58" y="824">The legal maximum is not a target · humane killing as soon as reasonably possible.</text>
+  <text class="limit" x="58" y="824">A legal maximum is not a target · humane killing as soon as reasonably possible.</text>
 
   <rect class="footer" x="0" y="852" width="1000" height="48"/>
-  <text class="footText" x="500" y="883" text-anchor="middle">PRE-PLANNED SYSTEMS ONLY · READ PANEL B · NEVER USE THIS PANEL DETACHED</text>
+  <text class="footText" x="500" y="883" text-anchor="middle">LIFE-FIRST BOUNDARY ≠ TRAP METHOD · READ PANEL B · NEVER USE DETACHED</text>
 
   <!-- PANEL B: 900–1800 -->
   <text class="title" x="34" y="958">CAPTURE IS NOT YET FOOD</text>
   <text class="status" x="966" y="994" text-anchor="end">WORKING CARD · PANEL B OF 2 · PANEL A CONTROLS</text>
 
   <rect class="amberBox" x="34" y="1018" width="932" height="102" rx="10"/>
-  <text class="midhead amber" x="58" y="1057">EVERY CHECK MUST BE YES BEFORE A TRAP IS SET</text>
-  <text class="limit" x="58" y="1095">One NO or UNKNOWN = DO NOT TRAP. Keep rescue, warmth, shelter and water first.</text>
+  <text class="midhead amber" x="58" y="1057">ORDINARY FOOD ROUTE — EVERY CHECK MUST BE YES</text>
+  <text class="limit" x="58" y="1095">One NO or UNKNOWN = DO NOT TRAP USING THIS GUIDE. Not an emergency test.</text>
 
   <rect class="yes" x="34" y="1142" width="932" height="356" rx="10"/>
   <text class="body" x="58" y="1180">□ Positive European-rabbit identity — not hare, native animal or pet</text>
-  <text class="body" x="58" y="1220">□ Exact method lawful here today; required permission or approval held</text>
-  <text class="body" x="58" y="1260">□ Purpose-made compliant trap; already trained to use and inspect it</text>
+  <text class="body" x="58" y="1220">□ Ordinary route: exact method lawful; permission or approval held</text>
+  <text class="body" x="58" y="1260">□ Exact method familiar, dependable, inspectable and safely controlled</text>
   <text class="body" x="58" y="1300">□ Safe plan for weather, non-target capture and an injured animal</text>
   <text class="body" x="58" y="1340">□ Reviewed humane-dispatch skill and suitable equipment</text>
   <text class="body" x="58" y="1380">□ Site baiting and poison-treatment history positively known — unknown = STOP</text>
@@ -61,11 +61,11 @@
   <text class="limit" x="58" y="1490">This card supplies none of the missing capture, dispatch or processing methods.</text>
 
   <rect class="blue" x="34" y="1512" width="932" height="190" rx="10"/>
-  <text class="head" x="58" y="1548">FOOD VALUE — COMPARISON ONLY</text>
-  <text class="body" x="58" y="1584">Farmed rabbit, raw meat: 472 kJ / about 113 kcal per 100 g.</text>
-  <text class="body" x="58" y="1620">Casseroled rabbit flesh, no added fat: 712 kJ / about 170 kcal per 100 g.</text>
-  <text class="small" x="58" y="1656">FSANZ records F007601 and F007602. Not wild-rabbit values or carcass yield.</text>
-  <text class="limit" x="58" y="1688">Do not budget calories until matching edible cooked flesh is weighed.</text>
+  <text class="head" x="58" y="1548">SEPARATE IMMEDIATE LIFE-DANGER CHECK</text>
+  <text class="body" x="58" y="1584">Only immediate risk of death or really serious injury reaches this branch.</text>
+  <text class="small" x="58" y="1620">Without delaying action, try 000 or SOS. Use a lawful option that can work in time.</text>
+  <text class="small" x="58" y="1656">Otherwise: only reasonable, least-harmful action; stop when danger ends.</text>
+  <text class="limit" x="58" y="1688">Not legal permission. This does not unlock a missing trap or food method.</text>
 
   <rect class="warn" x="34" y="1712" width="932" height="58" rx="10"/>
   <text class="midhead red" x="58" y="1738">SIGNS ARE NOT PERMISSION OR PLACEMENT</text>

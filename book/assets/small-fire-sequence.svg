@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1920" viewBox="0 0 1000 1920" role="img" aria-labelledby="title desc">
   <title id="title">Conditional small fire: prepare and control</title>
-  <desc id="desc">Working preparation and control card used only while all ten Victorian fire gates remain yes. Prepare at least ten litres of extinguishing water already beside the fire in usable vessels or an immediately usable connected hose; it must be separate from drinking water the group needs or there is no fire. Also prepare a non-combustible turning tool, a labelled solid campfire firelighter product and three piles of dry, untreated, expressly permitted kindling. Keep all prepared fuel outside the three-metre clear area until needed. Use only a supplied public fireplace or the exact fireplace the current site rule specifically authorises. Use the pictured build only when the firelighter's current label permits its amount, base placement, kindling layout and ignition tool. Light only as the label directs. This exact sequence has not been live-fire tested.</desc>
+  <desc id="desc">Working preparation and control card for the ordinary or chosen-fire route, used only while all ten Victorian fire gates remain yes. A true immediate threat to human life uses Chapter 1's life-first test; this card gives no emergency fire method or legal permission. Prepare at least ten litres of extinguishing water already beside the fire in usable vessels or an immediately usable connected hose; it must be separate from drinking water the group needs or there is no ordinary fire route. Also prepare a non-combustible turning tool, a labelled solid campfire firelighter product and three piles of dry, untreated, expressly permitted kindling. Keep all prepared fuel outside the three-metre clear area until needed. Use only a supplied public fireplace or the exact fireplace the current site rule specifically authorises. Use the pictured build only when the firelighter's current label permits its amount, base placement, kindling layout and ignition tool. Light only as the label directs. This exact sequence has not been live-fire tested.</desc>
   <defs>
     <marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto"><path d="M0 0 L15 8 L0 16 Z" fill="#244a3c"/></marker>
     <style>
@@ -11,9 +11,9 @@
   <text class="title" x="36" y="58">Conditional small fire — prepare and control</text>
 
   <rect class="warning" x="34" y="82" width="932" height="280" rx="10"/>
-  <text class="head red" x="58" y="124">ONLY WHILE ALL TEN GO/NO-GO GATES STAY YES</text>
+  <text class="head red" x="58" y="124">ORDINARY FIRE METHOD — ALL TEN GATES MUST BE YES</text>
   <text class="small" x="58" y="163">Estimated wording accuracy: 75% for this untested exact sequence.</text>
-  <text class="small" x="58" y="198">Live rules and conditions control. This card is not permission to light.</text>
+  <text class="small" x="58" y="198">Life threat: use Chapter 1. This untested card gives no emergency fire method.</text>
   <text class="small" x="58" y="233">Other gate fails, fire contained, exit safe: stop fuel and extinguish.</text>
   <text class="small red" x="58" y="268">Fire spreads or exit is threatened: move first; then 000, SOS or PLB.</text>
   <text class="small red" x="58" y="303">No phone: activate satellite SOS or a PLB as its instructions direct.</text>
@@ -35,7 +35,7 @@
   <text class="small red" x="92" y="900">Do not cut plants. No petrol, diesel, kerosene, methylated spirits,</text>
   <text class="small red" x="92" y="932">aerosol, gas, liquid firelighter or stove fuel on a campfire.</text>
   <text class="small" x="92" y="974">Size progression is cross-checked; this exact build is not live-tested.</text>
-  <text class="small" x="92" y="1006">Prepare only while every rating, rule, site, wind and exit gate passes.</text>
+  <text class="small" style="font-size:22px" x="92" y="1006">Ordinary route: every rating, rule, site, wind and exit gate must pass.</text>
   <path class="path" d="M500 1040 V1080"/>
 
   <rect class="caution" x="66" y="1092" width="868" height="295" rx="10"/>

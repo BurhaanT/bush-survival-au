@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2700" viewBox="0 0 1000 2700" role="img" aria-labelledby="title desc">
   <title id="title">Cook an already-cleaned ordinary finfish portion</title>
-  <desc id="desc">A bounded working cooking card only for an already-cleaned, lawful, positively identified ordinary finfish portion. Reject unidentified, poisonous, spoiled or chemically contaminated fish, and do not use the card for shellfish, organs or roe. Keep raw fish and its plate or utensils separate from cooked fish. With a clean and sanitised food thermometer, put the probe in the centre of the thickest flesh, cook to the working target of 75 degrees Celsius and wait for the reading to stop changing. Australian source temperatures conflict and specialist approval remains open. Without a thermometer, the lower-assurance route is to cook until the thickest flesh is opaque rather than translucent and separates easily with a fork. Neither route removes toxins, histamine, chemical contamination or spoilage. The subjective wording-confidence estimate is 82 percent and is not an outcome probability.</desc>
+  <desc id="desc">A bounded working ordinary-food cooking card only for an already-cleaned, ordinarily lawful, positively identified finfish portion. Human life and higher survival priorities come first. Reject unidentified, poisonous, spoiled or chemically contaminated fish; do not use this card for shellfish, organs or roe. Keep raw and cooked sides separate. With a clean sanitised thermometer, probe the thickest centre and cook to the working target of 75 degrees Celsius until the reading settles. Without one, the lower-assurance check is opaque flesh that separates easily with a fork. Neither route removes toxins, histamine, chemicals or spoilage. The 82 percent figure estimates wording, not outcome.</desc>
   <defs>
     <marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto"><path d="M0 0 L15 8 L0 16 Z" fill="#244a3c"/></marker>
     <marker id="arrowRed" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto"><path d="M0 0 L15 8 L0 16 Z" fill="#8c2f2b"/></marker>
@@ -22,9 +22,9 @@
   <text class="tiny" x="58" y="362">No hold time at 75°C is invented; wait only for the reading to settle.</text>
 
   <rect class="decision" x="66" y="420" width="868" height="260" rx="10"/>
-  <text class="head" x="92" y="464">1  DOES THE PORTION PASS EVERY ENTRY GATE?</text>
-  <text class="body" x="92" y="508">✓ Positively identified ordinary finfish</text>
-  <text class="body" x="92" y="548">✓ Lawfully retained and lawfully prepared here</text>
+  <text class="head" x="92" y="464">1  ORDINARY FOOD ROUTE — ENTRY GATES</text>
+  <text class="body" x="92" y="508">Immediate life threat? Use Chapter 1; this card is not that route.</text>
+  <text class="body" x="92" y="548">✓ Known ordinary finfish; lawfully retained and prepared</text>
   <text class="body" x="92" y="588">✓ Already cleaned competently; ordinary flesh only</text>
   <text class="body" x="92" y="628">✓ No spoilage, toxin, algal-warning or chemical concern</text>
   <text class="small red" x="92" y="662">Not for an unknown fish, shellfish, organs, roe or cleaning a catch.</text>
@@ -43,7 +43,7 @@
   <rect class="box" x="518" y="736" width="448" height="200" rx="10"/>
   <text class="head" x="542" y="780">CONTINUE</text>
   <text class="body" x="542" y="824">Use a clean pot or pan on a</text>
-  <text class="body" x="542" y="862">stable, lawful cooking setup.</text>
+  <text class="body" x="542" y="862">stable, ordinarily lawful setup.</text>
   <text class="small" x="542" y="904">Follow the Fire chapter.</text>
   <path class="path" d="M742 936 V980 H500 V1002"/>
 

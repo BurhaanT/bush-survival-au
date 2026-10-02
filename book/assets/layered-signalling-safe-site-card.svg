@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2700" viewBox="0 0 1000 2700" role="img" aria-labelledby="title desc">
   <title id="title">Layer signals at the safe waiting place</title>
-  <desc id="desc">A working three-panel card grouping five non-fire signalling modes at the safe waiting place. The modes are parallel, not steps: emergency contact or alert, continuous bright contrast, sound, a purpose-made daylight mirror in sunlight and a controlled night light. Each mode may be absent. The card says not to leave urgent care, shelter, warmth or the reported place merely to signal; a possible reply does not confirm contact; and fire, smoke, flares, pyrotechnics and lasers are excluded. It gives no detection range, exact timing, reply code, ground-air construction, product performance, device method or rescue guarantee. Proposed subjective editorial estimates are 90 percent for source-match of the five categories and principal cautions and 60 percent for completeness of the combined wording, order and layout.</desc>
+  <desc id="desc">A working three-panel card grouping five non-fire signalling modes at the safe waiting place. The modes are parallel, not steps: emergency contact or alert, continuous bright contrast, sound, a purpose-made daylight mirror in sunlight and a controlled night light. Each mode may be absent. The card says human life comes first in a true immediate emergency but that this card supplies no fire, flare, pyrotechnic or laser method. It says not to leave urgent care, shelter, warmth or the reported place merely to signal and that a possible reply does not confirm contact. It gives no detection range, exact timing, reply code, ground-air construction, product performance, device method or rescue guarantee. The 90 and 60 percent figures estimate source-match and completeness, not outcomes.</desc>
   <defs>
     <style>
       .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.blue{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.amberBox{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.footer{fill:#fff0ed}
@@ -17,8 +17,8 @@
   <text class="midhead red" x="58" y="158">WARNING — SIGNALS DO NOT PROVE CONTACT OR RESCUE</text>
   <text class="body" x="58" y="197">These five modes are a project grouping, not an official rescue sequence.</text>
   <text class="body" x="58" y="232">Use more than one safe mode when possible at the safe waiting place.</text>
-  <text class="body" x="58" y="267">Stay near the reported place. Move only if it becomes unsafe or a responsible</text>
-  <text class="limit" x="58" y="297">responder directs you. Never leave urgent care, shelter or warmth just to signal.</text>
+  <text class="body" x="58" y="267">True immediate threat to human life: use Chapter 1's life-first test.</text>
+  <text class="limit" x="58" y="297">No fire, flare, pyrotechnic or laser method is unlocked by this card.</text>
 
   <rect class="amberBox" x="34" y="330" width="932" height="185" rx="10"/>
   <text class="midhead amber" x="58" y="370">EVIDENCE + EDITORIAL CONFIDENCE</text>
@@ -106,7 +106,7 @@
   <rect class="blue" x="34" y="2432" width="932" height="162" rx="10"/>
   <text class="head" x="58" y="2470">CONTROLLED NIGHT LIGHT</text>
   <text class="body" x="58" y="2508">With a tested light: use Chapter 9. Preserve contact and care power.</text>
-  <text class="body" x="58" y="2541">Without one: mark it ABSENT. Do not improvise fire, smoke, a flare or a pyrotechnic.</text>
+  <text class="body" x="58" y="2541">Without one: mark it ABSENT. This card supplies no fire, flare or pyrotechnic method.</text>
   <text class="limit" x="58" y="2575">A generic strobe or “SOS mode” does not prove aviation or night-vision visibility.</text>
 
   <rect class="warn" x="34" y="2602" width="932" height="66" rx="10"/>
@@ -114,5 +114,5 @@
   <text class="body" x="58" y="2660">Continue the plan until a responsible responder gives direct instructions.</text>
 
   <rect class="footer" x="0" y="2676" width="1000" height="24"/>
-  <text class="footText" x="500" y="2692" text-anchor="middle">NOT FIELD-APPROVED · USE ALL 3 PANELS · NO FIRE, SMOKE, FLARE, PYROTECHNIC OR LASER</text>
+  <text class="footText" x="500" y="2692" text-anchor="middle">NOT FIELD-APPROVED · USE ALL 3 PANELS · LIFE-FIRST RULE CREATES NO MISSING METHOD</text>
 </svg>

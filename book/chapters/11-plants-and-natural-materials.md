@@ -15,11 +15,13 @@
 5. Do not eat plants beside roads or sprayed tracks, drains, mine or industrial land, flood contamination, treated grounds or anywhere chemical history is unknown. Rinsing does not remove that uncertainty.
 6. After possible poisoning, call **13 11 26**. Call **000** first for collapse, abnormal breathing or serious symptoms. Do not induce vomiting.
 
-> **STOP — PICKING MAY BE ILLEGAL**
+> **ORDINARY COLLECTION RULE — PICKING MAY BE ILLEGAL**
 >
-> Victorian parks, State forests and protected flora have collection controls. This book gives no permission and cannot decide whether an emergency changes the law. For planned learning, use cultivated plants or a place where both owner and land manager permit collection. Do not take from a threatened population or culturally sensitive place.
+> Victorian parks, State forests and protected flora have collection controls. For planned learning and ordinary food gathering, use cultivated plants or a place where both owner and land manager permit collection. Do not take from a threatened population or culturally sensitive place.
 >
-> **Evidence confidence: High** for the linked Victorian rules; **Insufficient** for a particular emergency defence. **Wording confidence: 94% (subjective).**
+> If someone instead faces an immediate risk of death or really serious injury, use the book-wide [life-first emergency test](01-how-to-use-this-guide.md#when-a-rule-conflicts-with-saving-a-life). This is not blanket permission, and it does not identify an unknown plant, make a contaminated plant safe, supply missing preparation steps or justify a slow food search when rescue, warmth, shelter or water can address the danger sooner.
+>
+> **Evidence confidence: High** for the linked ordinary Victorian rules and the statutory emergency test; **Moderate** for this condensed field distinction. **Wording confidence: 94% (subjective).**
 
 Current checks: [National Parks Regulations 2024](https://www.legislation.vic.gov.au/in-force/statutory-rules/national-parks-regulations-2024/001), [regulation 41](https://classic.austlii.edu.au/au/legis/vic/num_reg/npr2024n76o2024349/s41.html), [forest-produce licences](https://www.vic.gov.au/forest-produce-licence) and [protected flora](https://www.environment.vic.gov.au/conserving-threatened-species/protected-flora-and-listed-fish), checked 7 September 2026.
 
@@ -48,7 +50,7 @@ Use carried cord, straps, bottles, shelter and sleeping gear first. Unknown bark
 | Drinking-water storage | Intact food-grade bottle reserved for clean water | Previous contents are unknown, it leaks, or the opening cannot stay clean |
 | Small prop or handle | Sound material already available | Cracks, rot, hidden sharp points or any person-bearing use |
 
-A cooking pot is not automatically clean-water storage. Follow the clean/untreated separation in [Water](07-water.md). Use carried fuel; collect no firewood unless the current rule for the exact site permits it. [Parks Victoria firewood guidance](https://www.parks.vic.gov.au/things-to-do/Using-firewood).
+A cooking pot is not automatically clean-water storage. Follow the clean/untreated separation in [Water](07-water.md). Use carried fuel. For ordinary collection, take no firewood unless the current rule for the exact site permits it. A separate immediate threat to human life uses the [Fire](08-fire.md) life-first rule; it does not make unknown material safe fuel. [Parks Victoria firewood guidance](https://www.parks.vic.gov.au/things-to-do/Using-firewood).
 
 > **WARNING — NON-CRITICAL LOADS ONLY**
 >

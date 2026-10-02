@@ -13,8 +13,8 @@
 3. Keep prescribed emergency food or glucose available for the person whose plan requires it.
 4. Give no food, drink or gel to anyone who is drowsy, cannot swallow normally or is recovering poorly from a seizure.
 5. **Do not eat wild mushrooms, shellfish, an unknown fish or a plant first identified during the emergency.**
-6. Do not hunt, trap or take native mammals, birds, reptiles, frogs or eggs using this guide. Victorian native wildlife is protected; being stranded is not blanket legal permission.
-7. Do not improvise a snare, deadfall or leg-hold trap. The Victoria-specific rabbit gate below explains the controlled methods and why no bush-made trap is supplied.
+6. In ordinary circumstances, do not hunt, trap or take native mammals, birds, reptiles, frogs or eggs using this guide. Victorian native wildlife is protected.
+7. This edition does not yet supply a safe, reviewed improvised-snare, deadfall or leg-hold method. The [life-first emergency test](01-how-to-use-this-guide.md#when-a-rule-conflicts-with-saving-a-life) does not supply or validate that missing method. Do not invent one from this chapter.
 
 Do not budget calories from an unweighed wild food. A number for commercial fillet or fruit does not identify a species or describe a whole catch. Treat its energy as **unknown** unless the species, edible cooked part, preparation and weight all match a reliable value.
 
@@ -32,26 +32,33 @@ If anyone has breathing trouble, weakness or paralysis, collapse, a seizure, con
 
 Sources: [Victorian mushroom advice](https://www.health.vic.gov.au/health-advisories/poisonous-mushrooms-growing-victoria), [VFA food safety](https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/food-safety), [Gippsland Lakes advice](https://www.health.vic.gov.au/water/gippsland-lakes-seafood) and [FSANZ seafood toxins](https://www.foodstandards.gov.au/consumer/prevention-of-foodborne-illness/bacteria-foodborne-illness/toxins-in-seafood).
 
-## Rabbits and other small animals — no snare shortcut
+## Rabbits and other small animals — ordinary rules and true emergencies
 
-> **WARNING — VICTORIAN TRAPPING LAW AND FOOD-SAFETY REVIEW**
+> **WARNING — LIFE FIRST; CAPTURE AND FOOD-SAFETY REVIEW OUTSTANDING**
 >
-> **Do not make or set an improvised snare, deadfall or leg-hold trap.** In Victoria, non-kill snares and kill traps require prior approval. Rabbit leg-hold and confinement traps are also controlled by trap design, land permission, location, checking and animal-welfare rules. There is no blanket lost-person exemption in the trapping regulations.
+> **Normal circumstances:** follow Victorian trap, wildlife and animal-welfare rules. This guide does not supply an improvised trap method.
 >
-> **Evidence confidence: High** for the current Victorian trap categories and ordinary permission rules; **Moderate** for this condensed legal summary; **Insufficient** for novice capture, humane dispatch, carcass inspection, field dressing or rabbit-specific cooking. **Wording confidence: 94% (subjective).** This estimates how closely the warning matches the checked sources—not legality in every circumstance, capture success, food safety or survival.
+> **Genuine life-threatening emergency:** protect human life. This guide deliberately uses an immediate risk of death or really serious injury as its conservative trigger. Use an effective lawful option if one can work in time. Otherwise, act outside the ordinary rule only when it is the only reasonable way to deal with the emergency; choose the least harmful workable response and do no more than necessary.
+>
+> Separately, section 322R of Victoria's *Crimes Act 1958* may provide a complete defence when the person reasonably believes a sudden or extraordinary emergency exists, reasonably believes the conduct is the only reasonable way to deal with it, and the conduct is a reasonable response. The additional death-or-really-serious-injury condition in s 322R(3) concerns murder. This page cannot decide whether the defence applies.
+>
+> **Evidence confidence: High** for the current statutory test and ordinary trap categories; **Moderate** for this condensed field summary; **Insufficient** for novice capture, humane dispatch, carcass inspection, field dressing or rabbit-specific cooking. **Wording confidence: 95% (subjective).** This is not a prediction of legality, capture success, food safety or survival.
 
 ### Do this now
 
 - Use carried food first. Food remains below rescue, warmth, shelter and water.
 - Do not leave a known rescue position to follow tracks or search for a warren.
-- If you lack lawful equipment, permission, training or a humane plan, **do not trap**.
-- Do not trap native wildlife. Never eat an animal found dead or a rabbit from a site with positive or unknown baiting or poison-treatment history.
+- In an ordinary or planned food attempt, lack of lawful equipment, permission, training or a humane plan means **do not trap**.
+- In a true immediate threat to human life, call 000 or activate rescue if possible. Use an effective lawful option if it can work in time. Otherwise, act outside the ordinary rule only if it is the only reasonable way to deal with the emergency, and choose the least harmful workable response. Hunger, inconvenience or a long wait is not enough by itself.
+- In the ordinary food route, do not trap native wildlife. A true immediate threat to human life uses the life-first test above, but this edition supplies no native-animal capture or food-safety method. Never eat an animal found dead or a rabbit from a site with positive or unknown baiting or poison-treatment history.
 
-![Victoria rabbit-food gate: improvised snares and deadfalls stop; only a pre-planned lawful system can reach the species, permission, inspection, humane-dispatch and food-safety checks, and any no or unknown answer means do not trap or eat.](../assets/rabbit-food-gate.svg)
+![Victoria rabbit-food gate: human life comes first in a genuine immediate emergency, while ordinary food attempts follow Victorian rules; the card then separates legal status from the still-required identity, practical, welfare and food-safety checks and explains that this edition supplies no improvised trap or processing method.](../assets/rabbit-food-gate.svg)
 
 *IM-207. Original working decision card. It gives no trap construction, bait, placement, dispatch, cutting or cooking method. Victorian legal, animal-welfare, wild-game food-safety, practical and stressed-reader review remain outstanding.*
 
-### Which trap methods are usable here?
+### Ordinary or pre-planned trapping rules
+
+The table below describes ordinary or pre-planned use. It does not decide a sudden or extraordinary emergency.
 
 | Method | Victorian position | What this guide tells you |
 |---|---|---|
@@ -60,23 +67,25 @@ Sources: [Victorian mushroom advice](https://www.health.vic.gov.au/health-adviso
 | Small leg-hold trap | A compliant small trap is for **rabbits only**. It needs owner or occupier approval, cannot be used or possessed on Crown land, and needs extra approval in an urban area. | Pre-planned private-land pest control only. No setting method. |
 | Cage or confinement trap | It needs owner, occupier or Crown-land-manager consent, non-target controls and inspection. A captured pest must be humanely killed as soon as reasonably possible. | Exact compliant trap, prior permission and training only. No design or placement method. |
 
-The regulation titled **“Emergency use of traps”** concerns a Ministerial response to a new pest incursion, not a lost person. Do not plan around a possible after-the-event legal defence.
+The trapping regulation titled **“Emergency use of traps”** concerns a Ministerial response to a new pest incursion, not personal survival. The separate *Crimes Act* defence above is fact-specific and cannot be planned as permission to ignore ordinary rules. In a genuine immediate threat to human life, however, do not let an ordinary activity rule make you withhold the only reasonable lifesaving response. Where safe, record the danger, the alternatives tried, rescue calls and why the action was necessary.
 
-Sources: [in-force Victorian trap regulations](https://www.legislation.vic.gov.au/in-force/statutory-rules/prevention-cruelty-animals-regulations-2019/004), [leghold traps](https://agriculture.vic.gov.au/biosecurity/pest-animals/trapping-pest-animals/leghold-traps), [confinement traps](https://agriculture.vic.gov.au/biosecurity/pest-animals/trapping-pest-animals/confinement-traps), [animal-welfare approvals](https://agriculture.vic.gov.au/livestock-and-animals/animal-welfare-victoria/pocta-act-1986/animal-welfare-licences-and-approvals) and [Victorian hunting welfare code](https://agriculture.vic.gov.au/livestock-and-animals/animal-welfare-victoria/pocta-act-1986/victorian-codes-of-practice-for-animal-welfare/code-of-practice-for-the-welfare-of-animals-in-hunting-revision-no-1). Rules and approvals can change.
+Sources: [current *Crimes Act 1958*](https://www.legislation.vic.gov.au/in-force/acts/crimes-act-1958/323), [in-force Victorian trap regulations](https://www.legislation.vic.gov.au/in-force/statutory-rules/prevention-cruelty-animals-regulations-2019/004), [leghold traps](https://agriculture.vic.gov.au/biosecurity/pest-animals/trapping-pest-animals/leghold-traps), [confinement traps](https://agriculture.vic.gov.au/biosecurity/pest-animals/trapping-pest-animals/confinement-traps), [animal-welfare approvals](https://agriculture.vic.gov.au/livestock-and-animals/animal-welfare-victoria/pocta-act-1986/animal-welfare-licences-and-approvals) and [Victorian hunting welfare code](https://agriculture.vic.gov.au/livestock-and-animals/animal-welfare-victoria/pocta-act-1986/victorian-codes-of-practice-for-animal-welfare/code-of-practice-for-the-welfare-of-animals-in-hunting-revision-no-1). Rules and approvals can change.
 
 ### A rabbit trap is a complete system
 
-Every answer must be **yes** before a trap is set:
+For this guide to treat trapping as a complete method, every answer must be **yes**:
 
 1. Is it positively identified as a European rabbit—not a hare, native animal or pet?
-2. Is the exact method lawful here today, with every required permission or approval?
-3. Is the purpose-made trap compliant and familiar, and can you inspect it as regularly as possible rather than treating the legal maximum as a target interval?
+2. Which branch applies?
+   - **Ordinary or planned use:** is the exact method lawful here today, with every required permission or approval?
+   - **Immediate life threat:** is there a present risk of death or really serious injury, has rescue been attempted where possible, is this the only reasonable way to deal with the danger, and is the response reasonable and limited to what is needed?
+3. Is the exact capture method familiar, dependable enough for the emergency and able to be inspected as regularly as possible rather than treating a legal maximum as a target interval?
 4. Can you prevent and safely manage an injured or non-target capture?
 5. Can you humanely kill a captured rabbit as soon as reasonably possible, using a reviewed method and suitable equipment?
 6. Do you positively know the site's baiting and poison-treatment history, have no chemical concern, see no abnormal behaviour or disease sign, and have a safe way to dress, cool and cook the rabbit hygienically?
 7. Can you do this without weakening rescue, shelter, warmth or the water plan?
 
-Any **no** or **unknown** means **do not set the trap**. This edition deliberately withholds dispatch, field-dressing and rabbit-cooking steps until the exact methods have animal-welfare and wild-game food-safety review.
+An unknown legal permission does not by itself outrank an immediate threat to human life. The identity, effectiveness, non-target, humane-treatment and food-safety questions still determine whether trapping is a reasonable lifesaving response. This edition cannot support construction, placement, dispatch, field dressing or cooking by a reader who lacks an independently learned, dependable method. Do not treat the life-first rule as a method, safety clearance or endorsement of improvisation.
 
 ### Rabbit signs are for observation, not trap placement
 
@@ -105,7 +114,7 @@ Source: [FSANZ Australian Food Composition Database](https://www.foodstandards.g
 
 | Animal or source | Victoria-focused decision |
 |---|---|
-| Native mammals, birds, reptiles, frogs or eggs | **Do not take or trap them using this guide.** Native wildlife is protected unless a specific lawful authority applies. |
+| Native mammals, birds, reptiles, frogs or eggs | In ordinary circumstances, **do not take or trap them using this guide**. In a genuine immediate threat to human life, use the life-first test above; this edition still supplies no identification, capture, dispatch or food-safety method. |
 | Rats or mice | **Do not use as food.** Low return, native-rodent confusion, disease and poison risk outweigh possible energy. |
 | Roadkill or an animal found dead | **Do not eat it.** Time, temperature, injury, disease, poison and contamination are unknown. |
 | Rabbit where baiting or poison-treatment history is positive or unknown | **Do not eat it.** Do not assume cooking makes a possibly poisoned rabbit safe; this guide supplies no clearance method. |
@@ -124,6 +133,8 @@ Sources: [Victorian wildlife-control authority guide](https://www.vic.gov.au/aut
 >
 > **Evidence confidence:** High for official rules checked 29 September 2026; Moderate for this decision sequence; Insufficient for the missing species procedures. **Wording confidence: 90% (subjective).** Rules and closures can change.
 
+This is the ordinary food route. If someone faces an immediate risk of death or really serious injury, protect life before equipment or fishing rules. Fishing is usually too slow and uncertain to solve an immediate threat, and it must not delay 000, rescue, urgent care, warmth, shelter or water.
+
 Fish only if **every** answer is yes:
 
 - More urgent first aid, rescue, shelter, water and warmth work is complete.
@@ -136,7 +147,7 @@ Fish only if **every** answer is yes:
 
 Any **no** or **unknown** means **do not fish**. Clear water, no online alert, or the labels “noxious”, “protected” or “unwanted” do not establish food safety.
 
-![Before-casting decision gate: control urgent survival needs first, confirm the current exact rule and every likely catch, then check the bank, gear, weather, light and time; any no or unknown answer means do not fish.](../assets/fish-precast-gate.svg)
+![Ordinary fishing-for-food decision gate: protect human life and control urgent survival needs first, then confirm the current rule and every likely catch and check the bank, gear, weather, light and time; fishing is too slow and uncertain for most immediate threats, and any no or unknown answer closes this ordinary food route.](../assets/fish-precast-gate.svg)
 
 *IM-175. Working decision card, not a declaration that fishing is lawful or safe. Specialist and stressed-reader review remain outstanding.*
 
@@ -191,7 +202,7 @@ Use only bait permitted for the exact water and target species. Sweetcorn is use
 
 Put the bait on with the hook point directed away from hands. Keep people clear of the hook's path. For a short, reachable position, lower the rig under control; do not swing it around your head. Never wrap fishing line around a finger, hand or limb.
 
-Set lines are illegal. While a rod-and-line or handline is in the water, keep it in sight and remain within **50 metres**. If first aid, shelter or rescue work takes you away, retrieve the line first.
+Set lines are illegal. During ordinary fishing, keep a rod-and-line or handline in sight and remain within **50 metres**. If first aid, rescue or another immediate serious threat arises, protect human life first. Retrieve the line only if that does not delay necessary care or increase danger; recover it as soon as safely possible. This is not permission to leave a line unattended for convenience.
 
 Retrieve steadily when a fish is hooked; with a circle hook, use steady pressure rather than a violent strike. Use a suitable landing net if available. Do not climb down a bank, lean over deep water or try to recover a snagged hook from the water. A lost hook is preferable to a second emergency.
 
@@ -219,7 +230,7 @@ If the attempt supplies no food and is using warmth, energy or attention needed 
 
 Keep the fish in the water where possible while identifying it. Wet your hands, support it horizontally and minimise handling. Keep fingers clear of teeth, spines, eyes and gills. For scale fish, measure from the tip of the closed mouth to the end of the tail; other animals may use a different measurement.
 
-![Victorian scale-fish measurement method: measure from the forward tip of the closed-mouth snout to the end of the tail; the generic fish silhouette cannot identify a species and the drawn ruler is not to scale.](../assets/scale-fish-measurement-card.svg)
+![Victorian scale-fish measurement method: treat an immediate human life threat first, then minimise harm and apply the current positively identified species rule; measure from the forward tip of the closed-mouth snout to the tail end. The generic silhouette cannot identify a species and the drawn ruler is not to scale.](../assets/scale-fish-measurement-card.svg)
 
 *IM-176. Original working method card based on VFA's current fishing definitions. Its 96% figure estimates confidence in the wording only, never the probability of correct identification, legal compliance, safe handling, safe food or survival. Use a real accurate measuring board or ruler and the current positively identified species rule.*
 
@@ -229,7 +240,7 @@ Keep the fish in the water where possible while identifying it. Wet your hands, 
 - **A suspected aquatic pest other than confirmed European carp:** do not collect or remove it merely because it looks unfamiliar. Native species can be mistaken for pests. Photograph it if that is safe and report it to VFA.
 - **An unidentified fish:** do not keep or eat it. This guide cannot give one universal “kill or release” instruction because the legally required action depends on identity. Avoid fishing where you cannot identify likely catches. If an accidental unknown catch creates doubt, minimise handling and contact VFA on **136 186** when possible.
 
-For a fish that must be released, remove a mouth hook with suitable pliers where this can be done safely. If deeply hooked, do not dig through the animal; follow species-specific release guidance, generally cutting the line close to the mouth. Consider a positively identified, lawful food fish for eating only if you already have the separate, species-specific dispatch and cleaning competence that this guide does not supply.
+Treat any immediate human life threat first. Then, as soon as safely possible, minimise harm and apply the identified-species rule. For a fish that must be released, remove a mouth hook with suitable pliers where this can be done safely. If deeply hooked, do not dig through the animal; follow species-specific release guidance, generally cutting the line close to the mouth. Consider a positively identified, lawful food fish for eating only if you already have the separate, species-specific dispatch and cleaning competence that this guide does not supply.
 
 **Sources:** [VFA handling and release](https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/responsible-fishing-behaviours), [noxious aquatic species](https://vfa.vic.gov.au/operational-policy/pests-and-diseases/noxious-aquatic-species-in-victoria), [suspected aquatic pests](https://vfa.vic.gov.au/operational-policy/pests-and-diseases/noxious-aquatic-species-in-victoria/aquatic-pests), [European carp](https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/catch-limits-and-closed-seasons/types-of-fish/freshwater-scale-fish/european-carp), [toadfish and puffers](https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/catch-limits-and-closed-seasons/types-of-fish/marine-and-estuarine-scale-fish/toadfish-and-puffers) and [Fishcare](https://fishcare.org.au/fishright-with-fishcare/); S-331/S-333/S-443–S-445. These do not provide a complete recognition plate or one statewide disposal method for every fish.
 
@@ -416,9 +427,9 @@ The [fish-atlas content and test packet](../../research/FISH_ATLAS_CONTENT_DRAFT
 >
 > **This guide does not provide an actionable dispatch or bleeding method.** A generic direction such as striking “above the eyes” or cutting “the gills” can be anatomically wrong, prolong suffering and expose the handler to teeth, spines or a knife. Learn and practise the exact humane method for each likely species with a competent instructor before relying on fishing for food. If you cannot already identify, control and humanely dispatch that species with suitable equipment, do not use this page as authority to retain it for food.
 
-Before bleeding, cleaning, cutting or cooking a catch at the water, check its current species rule. Some catch must remain whole or in a prescribed carcass form until you are away from the water. If you cannot confirm that the intended preparation is lawful at that place, do not cut it there.
+On the ordinary processing route, before bleeding, cleaning, cutting or cooking a catch at the water, check its current species rule. Some catch must remain whole or in a prescribed carcass form until you are away from the water. If you cannot confirm that the intended preparation is lawful at that place, do not cut it there. If an immediate threat to human life exists, use the [life-first test](01-how-to-use-this-guide.md#when-a-rule-conflicts-with-saving-a-life); this section still supplies no missing dispatch or cutting method.
 
-Do not leave a live fish to suffocate, bleed it while conscious, or rely on an ice slurry to kill it humanely. Current species rules still apply, including the rule that positively identified European carp must not be returned alive. Check current VFA species guidance or call **136 186** when communication is available. The absence of a method here is a reason to learn before fishing, not permission to improvise after a catch.
+On that ordinary route, do not leave a live fish to suffocate, bleed it while conscious, or rely on an ice slurry to kill it humanely. Current species rules apply, including the rule that positively identified European carp must not be returned alive. Check current VFA species guidance or call **136 186** when communication is available. The absence of a method here is a reason to learn before fishing, not permission to improvise after a catch.
 
 **Cross-checks:** [RSPCA fish intended for eating](https://kb.rspca.org.au/categories/wild-animals/aquatic-animals/what-is-the-most-humane-way-to-kill-a-fish-intended-for-eating), [NSW catch-and-release handbook](https://www.dpi.nsw.gov.au/__data/assets/pdf_file/0010/1561744/nsw-recreational-fishing-catch-and-release-handbook.pdf) and VFA responsible-fishing guidance. They support the need for humane, species-appropriate handling; they do not turn this page into a reviewed Victorian dispatch method.
 
@@ -438,13 +449,13 @@ Keep fish cold on ice if it will not be cooked immediately. Shade is not refrige
 
 For portions that were already cleaned competently and lawfully:
 
-1. Use a clean pot or pan on a stable, lawful outdoor cooking setup. Follow [Fire](08-fire.md); a food need does not make a prohibited flame lawful.
+1. Use a clean pot or pan on a stable, ordinarily lawful outdoor cooking setup. Follow [Fire](08-fire.md). Food is normally below rescue, warmth, shelter and water and does not by itself justify a prohibited flame. A separate immediate threat to human life is governed by the fire chapter's life-first rule; it is not blanket permission.
 2. Put a clean food-thermometer probe into the centre of the thickest flesh. For this working edition, cook to **75°C** and wait for the reading to stop changing. This is a deliberately conservative choice from Victorian consumer guidance, not a species-specific law. The checked sources give no hold time at 75°C, so none is invented here.
 3. Without a thermometer, keep cooking until the thickest flesh is opaque—not translucent—and separates easily with a fork. This is less reliable than a temperature reading. If either check fails, keep cooking. Neither method removes seafood toxins, histamine, chemical contamination or spoilage.
 4. Move cooked fish to a clean surface using clean utensils, not the raw-fish plate.
 5. Remove bones carefully and eat promptly. Do not give fish to someone with impaired swallowing.
 
-![Fish-cooking card for a lawful, positively identified ordinary finfish portion that was already cleaned competently: reject any failed identity, legal, spoilage, toxin or contamination gate; keep raw and cooked sides separate; with a clean sanitised food thermometer, check the centre of the thickest flesh against the working 75-degree-Celsius target, or without a thermometer use the lower-assurance opaque-and-separates-with-a-fork check; neither route fixes toxins, chemicals, spoilage or mistaken identity.](../assets/fish-cooking-card.svg)
+![Ordinary-food fish-cooking card for a positively identified, ordinarily lawful finfish portion already cleaned competently: human life and higher survival priorities come first; reject any failed identity, spoilage, toxin or contamination gate; keep raw and cooked sides separate; use the working 75-degree-Celsius centre target with a clean thermometer or the lower-assurance opaque-and-separates check without one. Neither route fixes toxins, chemicals, spoilage or mistaken identity.](../assets/fish-cooking-card.svg)
 
 *IM-174. Original working cooking card based on VFA, Victorian Health, FSANZ and Healthdirect guidance. Australian source temperatures are not harmonised, so 75°C remains a conservative working choice awaiting Victorian seafood/food-safety review. Its 82% figure estimates confidence in the bounded wording only, not the probability that a fish is safe. The card is not a species-identification, dispatch, cleaning or preservation method.*
 

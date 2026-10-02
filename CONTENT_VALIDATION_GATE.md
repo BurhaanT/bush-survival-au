@@ -199,7 +199,10 @@ For every practical technique:
 
 - Record the jurisdiction, land-manager context and access date.
 - Link the reader to the current authoritative source where a rule can change.
-- Do not imply that an emergency automatically makes every fire, wildlife, fishing, plant-collection or access action lawful.
+- Separate **ordinary or pre-planned use** from a **true immediate threat to human life**. Do not let an ordinary activity rule read as an instruction to withhold the only reasonable action needed to prevent death or really serious injury.
+- For any life-first exception, state all of these controls: the threat is immediate and serious; 000 or rescue is attempted where possible; no effective lawful option can deal with it in time; the proposed act is the only reasonable response; the least harmful workable option is chosen; harm, amount and duration are kept to what is reasonably necessary; and ordinary rules resume once the danger is controlled.
+- Test the action's timing and likely effect. A slow, speculative, low-yield or more dangerous technique does not become lifesaving merely because the reader is stranded. Hunger, discomfort, delay, property protection and routine food gathering are not by themselves an immediate life threat.
+- Do not imply that an emergency automatically makes every fire, wildlife, fishing, plant-collection or access action lawful. Victorian *Crimes Act 1958* ss 322G and 322R provide a fact-dependent defence, not advance permission. Record the current authorised version and require Victorian legal review of the final wording.
 - Use visible date/version labels for volatile rules.
 - Recheck all legal content immediately before generating a field-ready PDF.
 

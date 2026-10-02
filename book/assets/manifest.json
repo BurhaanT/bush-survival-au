@@ -48,13 +48,13 @@
     {
       "registerId": "IM-066",
       "filename": "water-workflow.svg",
-      "caption": "Rolling-boil water treatment in three stages",
+      "caption": "Ordinary-route rolling-boil water treatment in three stages, with a life-first boundary",
       "credit": "Victorian Bush Survival project; original technical diagram",
       "source": "https://www.parks.vic.gov.au/get-into-nature/safety-in-nature/visitor-safety-tips-in-parks/drinking-water; https://guidelines.nhmrc.gov.au/australian-drinking-water-guidelines/part-4/statistics/3.6-guidance-for-issuing-and-lifting-boil-water-advisories; https://www.who.int/publications/i/item/WHO-FWC-WSH-15.02; https://www.cdc.gov/global-water-sanitation-hygiene/about/about-safe-water-storage.html; SOURCE_REGISTER S-457, S-458 and S-487",
       "licence": "Original project diagram; personal working edition",
-      "limit": "Use only with the full Chapter 7 warning. The diagram follows the official rolling-boil, cool and use principle and adds basic scald and recontamination controls. It cannot approve a source or heat source. Reject salt or brackish water, algae or scum, floodwater, current warnings, sewage, mine/farm/industrial runoff, fuel, ash and firefighting chemicals. Use a suitable unsealed pot and only a lawful heat source operated exactly as instructed. Protect cooling water from new contamination; use promptly or pour into clean closed storage without touching its inside or opening. No thermometer, transfer ladle, special dry rim or separate cup for every person is required. Completion addresses most microbial hazards only, never salt, algal toxins, chemicals or metals. Water-health, fire/legal, exact-equipment and controlled field review remain outstanding.",
+      "limit": "Use only with the full Chapter 7 warning. This is the ordinary boiling route. A true immediate threat to human life routes to Chapter 1's narrow life-first test, but that test is not blanket permission, supplies no missing heat or treatment method and does not make contaminated water safe. The diagram follows the official rolling-boil, cool and use principle and adds basic scald and recontamination controls. It cannot approve a source or heat source. Reject salt or brackish water, algae or scum, floodwater, current warnings, sewage, mine/farm/industrial runoff, fuel, ash and firefighting chemicals. For the ordinary route, use a suitable unsealed pot and only a lawful heat source operated exactly as instructed. Protect cooling water from new contamination; use promptly or pour into clean closed storage without touching its inside or opening. No thermometer, transfer ladle, special dry rim or separate cup for every person is required. Completion addresses most microbial hazards only, never salt, algal toxins, chemicals or metals. Water-health, fire/legal, exact-equipment and controlled field review remain outstanding.",
       "status": "working-draft",
-      "checked": "2026-09-29"
+      "checked": "2026-10-02"
     },
     {
       "registerId": "IM-067",
@@ -1269,51 +1269,51 @@
       "filename": "low-equipment-water-card.svg",
       "pageSlices": [0, 875, 1389, 1978, 2660],
       "pageSliceNotes": [
-        "Begin here. Protect water already safe to drink and search only within the existing stay-or-move plan.",
-        "Continue only when a suitable unsealed pot, lawful heat source, stable cooling place and clean serving or storage vessel are ready.",
+        "Begin the ordinary boiling route here. Protect water already safe to drink and search only within the existing stay-or-move plan. A true immediate threat to human life routes to Chapter 1's narrow life-first test.",
+        "Continue only when a suitable unsealed pot, lawful heat source, stable cooling place and clean serving or storage vessel are ready for the ordinary route. The life-first test supplies no missing vessel, heat or treatment method.",
         "Continue only after the equipment gate passes. Any listed red flag means reject or reselect; no visible flag does not make water safe.",
-        "Continue only after the earlier gates pass. Collect from stable ground; settling and cloth remove grit only. Water remains untreated."
+        "Continue only after the earlier gates pass. Collect from stable ground; settling and cloth remove grit only. Water remains untreated, and the life-first test does not make contamination safe."
       ],
-      "caption": "Water when supplies are limited: source and equipment screen",
+      "caption": "Limited-supplies water source and ordinary-equipment screen, with a life-first boundary",
       "credit": "Victorian Bush Survival project; original technical diagram",
       "source": "https://www.parks.vic.gov.au/get-into-nature/safety-in-nature/visitor-safety-tips-in-parks/drinking-water; https://www.health.vic.gov.au/water/surface-water; https://www.who.int/publications/i/item/WHO-FWC-WSH-15.02; SOURCE_REGISTER S-450, S-454, S-457 and S-458",
       "licence": "Original project diagram; personal working edition",
-      "limit": "Part 1 of a decision aid. The lowest-equipment boiling route needs a suitable unsealed heat-safe pot, a lawful heat source operated exactly as instructed, a stable non-combustible cooling place and a clean cup or closable drinking-water container when serving or storing. No thermometer, transfer ladle, special dry rim or separate cup for every person is required. The card cannot detect invisible contamination or approve a source. A present or reasonably suspected salt, algae, flood, warning, sewage, mine/farm/industrial, fuel, ash or firefighting-chemical red flag means reject or reselect; no identified red flag still leaves water suspect. Settling and cloth remove grit only. No dependable zero-equipment treatment is supplied. Water-health, fire/legal, exact-equipment and controlled field review remain outstanding.",
+      "limit": "Part 1 of the ordinary boiling-route decision aid. A true immediate threat to human life routes to Chapter 1's narrow life-first test, but that test is not blanket permission, supplies no missing vessel, heat or treatment method and does not make contaminated water safe. The ordinary lowest-equipment boiling route needs a suitable unsealed heat-safe pot, a lawful heat source operated exactly as instructed, a stable non-combustible cooling place and a clean cup or closable drinking-water container when serving or storing. No thermometer, transfer ladle, special dry rim or separate cup for every person is required. The card cannot detect invisible contamination or approve a source. A present or reasonably suspected salt, algae, flood, warning, sewage, mine/farm/industrial, fuel, ash or firefighting-chemical red flag means reject or reselect; no identified red flag still leaves water suspect. Settling and cloth remove grit only. No dependable zero-equipment treatment is supplied. Water-health, fire/legal, exact-equipment and controlled field review remain outstanding.",
       "status": "working-draft",
-      "checked": "2026-09-29"
+      "checked": "2026-10-02"
     },
     {
       "registerId": "IM-167",
       "filename": "fire-go-no-go.svg",
       "pageSlices": [0, 855, 1620, 2020],
       "pageSliceNotes": [
-        "Begin at gate 1. A fire is considered only at Moderate and only while every gate is yes; any no or unknown means no fire.",
+        "Begin at gate 1. This ordinary chosen-fire route applies only at Moderate and while every gate is yes. Any no or unknown stops this route. An immediate threat to life routes to Chapter 1's narrow life-first test.",
         "Continue the same ten-gate check from part 1. Earlier yes answers remain required and must still be true.",
-        "Use the outcome only after all ten gates were checked. This card is not a live legal, weather or site-permission check."
+        "Use the outcome only after all ten gates were checked. This card is not a live legal, weather or site-permission check. The life-first test is not blanket permission and supplies no emergency fire method."
       ],
-      "caption": "Conservative Victorian ten-gate fire go-or-no-go card",
+      "caption": "Conservative Victorian chosen-fire go-or-no-go card, with ordinary-route and life-first boundaries",
       "credit": "Victorian Bush Survival project; original technical diagram",
       "source": "https://www.cfa.vic.gov.au/plan-prepare/bushfire-basics/campfires",
       "licence": "Original project diagram; personal working edition",
-      "limit": "A deliberately conservative personal-book decision aid: it considers fire only at Moderate and only when all ten gates are yes. At least 10 L of extinguishing water must already be deliverable beside the fire, or an immediately usable hose connected; it must be separate from drinking water the group still needs. Prepared wood, firelighter and spare fuel stay outside the three-metre clear area until needed. It is not a live legal or site check or permission to light, and cannot establish district, land type, current rules or closure, actual wind, site safety or exit. Any no or unknown means no fire. If fire spreads, the exit is threatened or another danger develops, move away first, then use 000, satellite SOS or a PLB. Current directions and stricter rules control; Victorian fire/legal and stressed-reader review remain outstanding.",
+      "limit": "A deliberately conservative aid for an ordinary chosen fire: it considers fire only at Moderate and only when all ten gates are yes. At least 10 L of extinguishing water must already be deliverable beside the fire, or an immediately usable hose connected; it must be separate from drinking water the group still needs. Prepared wood, firelighter and spare fuel stay outside the three-metre clear area until needed. It is not a live legal or site check or permission to light, and cannot establish district, land type, current rules or closure, actual wind, site safety or exit. Any no or unknown makes the ordinary route unavailable. A true immediate threat to human life routes to Chapter 1's narrow life-first test, but that test is not blanket permission, supplies no emergency fire method and does not make an unsafe fire safe. If fire spreads, the exit is threatened or another danger develops, move away first, then use 000, satellite SOS or a PLB. For the ordinary chosen-fire route, current directions and stricter rules control; Victorian fire/legal and stressed-reader review remain outstanding.",
       "status": "working-draft",
-      "checked": "2026-09-28"
+      "checked": "2026-10-02"
     },
     {
       "registerId": "IM-168",
       "filename": "small-fire-sequence.svg",
       "pageSlices": [0, 1066, 1920],
       "pageSliceNotes": [
-        "Begin here only while every fire go/no-go condition remains yes and the full extinguishing supply and authorised setup are already beside you.",
-        "Continue only from the prepared, controlled setup on part 1. Use the exact firelighter label, keep the fire small and supervised, then use the separate extinguishment card."
+        "Use this ordinary chosen-fire method only while every go/no-go condition is yes and the authorised setup and full extinguishing supply are beside you. An immediate threat to life routes to Chapter 1, not an emergency method here.",
+        "Continue only from part 1's controlled setup. Follow the firelighter label, keep the fire small and supervised, then use the extinguishment card. Chapter 1 is not blanket permission; this card supplies no emergency fire method."
       ],
-      "caption": "Conditional small wood campfire card, part 1: prepare and control",
+      "caption": "Conditional ordinary-route small wood campfire card, part 1: prepare and control",
       "credit": "Victorian Bush Survival project; original technical diagram",
       "source": "https://www.cfa.vic.gov.au/plan-prepare/bushfire-basics/campfires",
       "licence": "Original project diagram; personal working edition",
-      "limit": "This is not a no-equipment method. Use only while all ten IM-167 gates remain yes, with at least 10 L of deliverable extinguishing water beside the fire or an immediately usable hose; it must be separate from drinking water still needed. Also require a turning tool, authorised fireplace and expressly permitted fuel kept outside the three-metre clear area until needed. The exact firelighter label must permit the amount, base placement, pictured loose match-thin kindling layout and ignition tool; any missing direction or mismatch stops the route. The three-size progression is a working method, not legal permission, a clearance scale or performance proof, and has not been live-fire tested. Continue every wood campfire to IM-172. Victorian fire, outdoor-instruction, live-fire and stressed-reader review remain outstanding.",
+      "limit": "This is an untested ordinary chosen-fire method, not a no-equipment or emergency fire method. Use only while all ten IM-167 ordinary-route gates remain yes, with at least 10 L of deliverable extinguishing water beside the fire or an immediately usable hose; it must be separate from drinking water still needed. Also require a turning tool, authorised fireplace and expressly permitted fuel kept outside the three-metre clear area until needed. A true immediate threat to human life routes to Chapter 1's narrow life-first test, but that test is not blanket permission, gives no legal clearance and does not make this sequence an emergency method. The exact firelighter label must permit the amount, base placement, pictured loose match-thin kindling layout and ignition tool; any missing direction or mismatch stops the ordinary route. The three-size progression is a working method, not legal permission, a clearance scale or performance proof, and has not been live-fire tested. Continue every wood campfire to IM-172. Victorian fire, outdoor-instruction, live-fire and stressed-reader review remain outstanding.",
       "status": "working-draft",
-      "checked": "2026-09-28"
+      "checked": "2026-10-02"
     },
     {
       "registerId": "IM-169",
@@ -1352,18 +1352,18 @@
       "filename": "low-equipment-water-treatment-card.svg",
       "pageSlices": [0, 540, 1030, 1415, 2020],
       "pageSliceNotes": [
-        "Begin only after the source card and simple equipment gate pass. This route addresses most microbial hazards only and is not a safety guarantee.",
-        "Continue from part 1. Fill a suitable unsealed pot, operate only a lawful heat source and reach a vigorous whole-surface rolling boil.",
+        "Begin only after the source card and simple equipment gate pass. This is the ordinary lawful boiling route; it addresses most microbial hazards only and is not a safety guarantee. A true immediate threat to human life routes to Chapter 1.",
+        "Continue from part 1. Fill a suitable unsealed pot, operate the heat source exactly as instructed and reach a vigorous whole-surface rolling boil. The life-first test does not supply a missing heat or treatment method.",
         "Continue only after the rolling boil. Turn off the heat as instructed, cool on a stable heat-safe base and protect from new contamination.",
-        "Use an outcome only after every earlier step. A failed or uncertain step means untreated; a passed route still does not remove salt, toxins, chemicals or metals."
+        "Use an outcome only after every earlier step. A failed or uncertain step means untreated; the life-first test does not make untreated water safe, and a passed route still does not remove salt, toxins, chemicals or metals."
       ],
-      "caption": "Rolling-boil water treatment, cooling and protected use",
+      "caption": "Ordinary-route rolling-boil water treatment, cooling and protected use, with a life-first boundary",
       "credit": "Victorian Bush Survival project; original technical diagram",
       "source": "https://www.parks.vic.gov.au/get-into-nature/safety-in-nature/visitor-safety-tips-in-parks/drinking-water; https://guidelines.nhmrc.gov.au/australian-drinking-water-guidelines/part-4/statistics/3.6-guidance-for-issuing-and-lifting-boil-water-advisories; https://www.who.int/publications/i/item/WHO-FWC-WSH-15.02; https://www.cdc.gov/global-water-sanitation-hygiene/about/about-safe-water-storage.html; SOURCE_REGISTER S-215–S-221, S-288–S-290, S-450, S-454, S-457 and S-458",
       "licence": "Original project diagram; personal working edition",
-      "limit": "Use only after the source card and Chapter 7 warning. Use an intact unsealed heat-safe pot and only a lawful heat source operated exactly as instructed. Keep the pot stable, bring the whole surface to a vigorous rolling boil, then turn off the heat as instructed. Cool naturally on a stable non-combustible heat-safe surface protected from new contamination. When cool enough to handle and drink without scalding, use promptly or pour into a clean closable drinking-water container without the openings touching; the maker must permit the actual water temperature. No thermometer, transfer ladle, special dry rim or separate cup for every person is required. A failed or uncertain step means untreated. Completion addresses most microbial hazards only, not salt, algal toxins, chemicals or metals. Campfire pot-support and exact-product treatment remain unavailable. Water-health, clinical, fire/legal, exact-equipment and controlled field review remain outstanding.",
+      "limit": "Use only after the source card and Chapter 7 warning. This is the ordinary lawful boiling route. A true immediate threat to human life routes to Chapter 1's narrow life-first test, but that test is not blanket permission, supplies no missing heat or treatment method and does not make untreated or chemically contaminated water safe. Use an intact unsealed heat-safe pot and a heat source operated exactly as instructed. Keep the pot stable, bring the whole surface to a vigorous rolling boil, then turn off the heat as instructed. Cool naturally on a stable non-combustible heat-safe surface protected from new contamination. When cool enough to handle and drink without scalding, use promptly or pour into a clean closable drinking-water container without the openings touching; the maker must permit the actual water temperature. No thermometer, transfer ladle, special dry rim or separate cup for every person is required. A failed or uncertain step means untreated. Completion addresses most microbial hazards only, not salt, algal toxins, chemicals or metals. Campfire pot-support and exact-product treatment remain unavailable. Water-health, clinical, fire/legal, exact-equipment and controlled field review remain outstanding.",
       "status": "working-draft",
-      "checked": "2026-09-29"
+      "checked": "2026-10-02"
     },
     {
       "registerId": "IM-172",
@@ -1379,7 +1379,7 @@
       "credit": "Victorian Bush Survival project; original technical diagram",
       "source": "https://www.parks.vic.gov.au/get-into-nature/safety-in-nature/visitor-safety-tips-in-parks/campfire-safety; SOURCE_REGISTER S-043, S-048, S-266–S-273 and S-452",
       "licence": "Original project diagram; personal working edition",
-      "limit": "A working aid only for the small permitted wood campfire in Chapter 8, not proof that it is cold or that 10 L will be enough. Never transfer its water/turn/near-hand/touch sequence to a leaking or burning stove, gas or pressurised canister, liquid fuel, electrical item or cooking fat; move away, warn others, call 000 and follow exact product or emergency-service directions only if safely available. For the wood fire, repeat water, turning, sight, sound and near-hand checks; insufficient extinguishing water does not lead to an out state. Remain only while safe: spread, a threatened exit or any other danger means move first, then call 000 or use satellite SOS or a PLB. If remaining is safe and no method connects, do not leave or cover the fire with soil; exclude people and burnable material and keep signalling. Only after no nearby heat is felt may wet ash and visibly unburnt wood be touched cautiously. Never touch coal, charred material or anything that may be hot. Current site rules control; Victorian fire-specialist, controlled live-fire and stressed-reader review remain outstanding.",
+      "limit": "A working aid only for the small permitted wood campfire in Chapter 8, not proof that it is cold or that 10 L will be enough. Never transfer its water/turn/near-hand/touch sequence to a leaking or burning stove, gas or pressurised canister, liquid fuel, electrical item or cooking fat; move away, warn others, call 000 and follow exact product or emergency-service directions only if safely available. For the wood fire, repeat water, turning, sight, sound and near-hand checks; insufficient extinguishing water does not lead to an out state. Remain only while safe: spread, a threatened exit or any other danger means move first, then call 000 or use satellite SOS or a PLB. If remaining is safe and no method connects, do not leave or cover the fire with soil; exclude people and burnable material and keep signalling. Only after no nearby heat is felt may wet ash and visibly unburnt wood be touched cautiously. Never touch coal, charred material or anything that may be hot. For the ordinary chosen-fire route, current site rules control; Victorian fire-specialist, controlled live-fire and stressed-reader review remain outstanding.",
       "status": "working-draft",
       "checked": "2026-09-28"
     },
@@ -1405,52 +1405,52 @@
       "filename": "fish-cooking-card.svg",
       "pageSlices": [0, 975, 2028, 2700],
       "pageSliceNotes": [
-        "Begin here only for a lawful, positively identified ordinary finfish portion already cleaned competently. Any failed gate means do not eat it.",
-        "Continue only after the entry gate passes. Keep raw and cooked sides separate and use the thermometer route when a suitable thermometer is available.",
-        "Continue only after the cooking checks on part 2. Cooking does not repair misidentification, toxins, chemicals, histamine or spoilage."
+        "Use this ordinary food route only for positively identified ordinary finfish already cleaned competently. Human life and higher priorities come first. If an ordinary-route gate fails, do not eat it using this guide.",
+        "Continue only after the entry gate passes. Keep raw and cooked sides separate and use the thermometer route when a suitable thermometer is available. Use only a stable, ordinarily lawful cooking setup.",
+        "Continue only after part 2's cooking checks. An immediate threat to life routes to Chapter 1. That test is not blanket permission and cannot fix misidentification, toxins, chemicals, histamine or spoilage."
       ],
-      "caption": "Bounded cooking card for already-cleaned ordinary finfish",
+      "caption": "Bounded ordinary-food cooking card for already-cleaned finfish, with life-first and unsafe-food limits",
       "credit": "Victorian Bush Survival project; original technical diagram",
       "source": "https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/food-safety; https://www.health.vic.gov.au/sites/default/files/2023-09/your-guide-to-food-safety.pdf; https://www.foodstandards.gov.au/business/food-safety/thermometers; https://www.healthdirect.gov.au/food-safety-infographic",
       "licence": "Original project diagram; personal working edition",
-      "limit": "Use only for a lawful, positively identified ordinary finfish portion that was already cleaned competently. It is not a species-identification, dispatch, cleaning or preservation method. Reject unknown identity, unlawful preparation, spoilage, toxins, algal warnings or chemical concern. Keep raw and cooked surfaces separate. The card uses 75°C in the centre of the thickest flesh as a conservative working target; Australian public sources use different fish or food temperatures and Victorian seafood/food-safety approval remains open. The no-thermometer opaque-and-separates-with-a-fork branch is lower assurance. Cooking does not repair misidentification, toxins, histamine, chemicals or spoilage. The 82% figure estimates wording accuracy only, never safety or cooking success.",
+      "limit": "Ordinary-food route only, for a positively identified ordinary finfish portion that was already cleaned competently and ordinarily lawfully retained and prepared. Human life, rescue, urgent care, warmth, shelter and water come first. A separate immediate threat to human life routes to Chapter 1's narrow life-first test; it is not blanket permission to fish, retain a catch or light a prohibited flame and does not make an unknown or unsafe fish edible. This card is not a species-identification, dispatch, cleaning or preservation method. Reject unknown identity, spoilage, toxins, algal warnings or chemical concern. Keep raw and cooked surfaces separate. The card uses 75°C in the centre of the thickest flesh as a conservative working target; Australian public sources use different fish or food temperatures and Victorian seafood/food-safety approval remains open. The no-thermometer opaque-and-separates-with-a-fork branch is lower assurance. Cooking does not repair misidentification, toxins, histamine, chemicals or spoilage. The 82% figure estimates wording accuracy only, never safety or cooking success.",
       "status": "working-draft",
-      "checked": "2026-09-29"
+      "checked": "2026-10-02"
     },
     {
       "registerId": "IM-175",
       "filename": "fish-precast-gate.svg",
       "pageSlices": [0, 816, 1740, 2280, 2800],
       "pageSliceNotes": [
-        "Begin here only after rescue, first aid, body temperature, shelter and safe drinking water are secure. Every fishing gate must stay yes.",
-        "Continue only if the urgent-needs gate on part 1 passed. Confirm the current exact rule and that every likely catch can be identified and dealt with lawfully.",
+        "Use this ordinary food route only after rescue, first aid, body temperature, shelter and safe water are secure. Human life comes first; fishing is too slow for most immediate threats. Every fishing gate must stay yes.",
+        "Continue only if the urgent-needs gate on part 1 passed. Confirm the current exact ordinary rule and that every likely catch can be identified and dealt with lawfully. This card supplies no emergency legal permission.",
         "Continue only if the rule and likely-catch gates passed. Check that the bank, gear, light, weather, time and attended-line control are all safe.",
-        "Use this outcome only after every earlier gate was yes. Stop if any answer changes; this card does not authorise an unshown capture, dispatch, cleaning or identification method."
+        "Use this ordinary outcome only after every earlier gate was yes. Treat an immediate life threat first; otherwise stop if an answer changes. This card supplies no missing capture, dispatch, cleaning or identification method."
       ],
-      "caption": "Before casting: conservative Victorian fishing decision gate",
+      "caption": "Before ordinary fishing for food: conservative Victorian decision gate with a life-first boundary",
       "credit": "Victorian Bush Survival project; original technical diagram",
       "source": "https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide",
       "licence": "Original project diagram; personal working edition",
-      "limit": "A working decision aid, not proof of legal permission, safe access, correct identification, successful capture or safe food. Use only after rescue, first aid, body temperature, shelter and safe drinking water are secure. Every gate must remain yes: current exact VFA rule and site restrictions; positive identification and known lawful action for every likely catch; and safe bank, gear, light, weather, time and attended-line control. Unknown at any gate means do not fish. It supplies no trap, set or unattended line, poison, electricity, improvised raft or other destructive method. The 90% figure estimates wording accuracy only. Victorian fisheries-law, fishing-practice and stressed-reader review remain outstanding.",
+      "limit": "An ordinary-food-route decision aid, not proof of legal permission, safe access, correct identification, successful capture or safe food. Human life and rescue, first aid, body temperature, shelter and safe drinking water come first; fishing is too slow and uncertain to solve most immediate threats. For the ordinary route, every gate must remain yes: current exact VFA rule and site restrictions; positive identification and known lawful action for every likely catch; and safe bank, gear, light, weather, time and attended-line control. Unknown at any gate means do not fish on this route. A true immediate threat to human life routes to Chapter 1's narrow life-first test, but that test is not blanket permission and this card supplies no emergency fishing, trap, set or unattended line, poison, electricity, improvised raft or other destructive method. The 90% figure estimates wording accuracy only. Victorian fisheries-law, fishing-practice and stressed-reader review remain outstanding.",
       "status": "working-draft",
-      "checked": "2026-09-29"
+      "checked": "2026-10-02"
     },
     {
       "registerId": "IM-176",
       "filename": "scale-fish-measurement-card.svg",
       "pageSlices": [0, 410, 1385, 2200],
       "pageSliceNotes": [
-        "Begin here. Current Victorian rules and the exact species must be known before this measurement aid can be used.",
+        "Begin here. Treat an immediate threat to human life before measuring or handling. For the ordinary route, current Victorian rules and the exact species must be known before this measurement aid can be used.",
         "Continue from part 1. Keep the complete nose-to-tail measurement picture together and follow the current rule for tail position.",
-        "Continue only after the measurement in part 2. Handle quickly and gently; uncertainty about identity or a current rule means release as directed."
+        "Continue only after the measurement in part 2. Handle quickly and gently; apply the positively identified species rule as soon as safely possible. The life-first boundary is not blanket permission to keep or eat a fish."
       ],
-      "caption": "Victorian scale-fish measurement method: closed snout to tail end",
+      "caption": "Victorian scale-fish measurement method: life first, then the ordinary closed-snout-to-tail rule",
       "credit": "Victorian Bush Survival project; original technical diagram",
       "source": "https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/fishing-definitions",
       "licence": "Original project diagram; personal working edition",
-      "limit": "A generic method diagram only, not a printable ruler, species-identification key, legal-size statement, handling approval or eating clearance. It shows Victoria's scale-fish length method: forward tip of the closed-mouth snout to the end of the tail. The positively identified species' current VFA rule, Fisheries Notices and site signs control. Other aquatic animals may use different methods. Keep the fish in water where possible while checking, wet hands, support it horizontally, minimise handling and avoid eyes, gills, teeth and spines. The 96% figure estimates wording accuracy only. Victorian fisheries-law, fish-welfare, practical and stressed-reader review remain outstanding.",
+      "limit": "A generic ordinary-rule method diagram only, not a printable ruler, species-identification key, legal-size statement, handling approval or eating clearance. Treat an immediate threat to human life before measuring or handling, then minimise animal harm and apply the positively identified species rule as soon as safely possible. The life-first boundary is narrow and fact-dependent, not blanket permission to keep, release, harm or eat a fish. The diagram shows Victoria's scale-fish length method: forward tip of the closed-mouth snout to the end of the tail. The positively identified species' current VFA rule, Fisheries Notices and site signs control. Other aquatic animals may use different methods. Keep the fish in water where possible while checking, wet hands, support it horizontally, minimise handling and avoid eyes, gills, teeth and spines. The 96% figure estimates wording accuracy only. Victorian fisheries-law, fish-welfare, practical and stressed-reader review remain outstanding.",
       "status": "working-draft",
-      "checked": "2026-09-29"
+      "checked": "2026-10-02"
     },
     {
       "registerId": "IM-177",
@@ -1578,9 +1578,9 @@
       "credit": "Victorian Bush Survival project; original technical diagram",
       "source": "https://www.health.vic.gov.au/environmental-health/power-blackouts-generators-alternative-appliances-and-carbon-monoxide",
       "licence": "Original project diagram; personal working edition",
-      "limit": "Prohibition only. It does not approve an outdoor setup, a safe opening, ventilation rate, separation distance or carbon-monoxide-alarm exception. The exact appliance manual, current fire law and suitable conditions still control outdoors. Chapter 5's preceding 95% and 85% figures estimate wording accuracy and completeness only; they are not printed inside this SVG. Victorian public-health, toxicology, fire, product-safety and stressed-reader review remain outstanding.",
+      "limit": "Intrinsic life-safety prohibition only: the narrow life-first rule does not make combustion inside a tent, vehicle, enclosed or partly enclosed shelter safe. It does not approve an outdoor setup, a safe opening, ventilation rate, separation distance or carbon-monoxide-alarm exception. For ordinary outdoor use, the exact appliance manual, current fire law and suitable conditions still control. Chapter 5's preceding 95% and 85% figures estimate wording accuracy and completeness only; they are not printed inside this SVG. Victorian public-health, toxicology, fire, product-safety and stressed-reader review remain outstanding.",
       "status": "working-draft",
-      "checked": "2026-09-29"
+      "checked": "2026-10-02"
     },
     {
       "registerId": "IM-187",
@@ -1912,31 +1912,31 @@
       "filename": "layered-signalling-safe-site-card.svg",
       "pageSlices": [0, 900, 1800, 2700],
       "pageSliceNotes": [
-        "Read all three panels. The five signal modes are a project grouping and work in parallel, not as a sequence. Use only safe, available modes at the safe waiting place; no signal confirms contact or rescue.",
+        "Read all three panels. The five non-fire signal modes work in parallel, not in sequence. Use safe, available modes at the safe waiting place; no signal confirms rescue. An immediate threat to life routes to Chapter 1.",
         "Read with Panel A. Emergency contact or alert and continuous bright contrast are separate parallel modes. A missing capability stays absent; do not invent coordinates, device functions, message status, visibility or a safer site.",
-        "Read with Panels A and B. Sound, sunlight mirror and controlled night light are conditional parallel modes. Preserve urgent care, shelter, warmth and power, and treat any possible reply as unconfirmed until direct responder instructions."
+        "Read with Panels A and B. Sound, mirror and controlled night light are parallel options. Preserve urgent care, shelter, warmth and power. Treat replies as unconfirmed until responders instruct you. No fire or laser method is supplied."
       ],
-      "caption": "Five non-fire signal modes used in parallel at the safe waiting place, with missing-equipment limits and no contact guarantee",
+      "caption": "Five non-fire signal modes at the safe waiting place, with a life-first boundary, missing-equipment limits and no contact guarantee",
       "credit": "Victorian Bush Survival project; original information layout",
       "source": "https://www.police.vic.gov.au/outdoor-and-bush-safety; https://beacons.amsa.gov.au/about/how-they-work.asp; https://www.amsa.gov.au/national-search-and-rescue-council/manuals-and-publications/national-search-and-rescue-manual; https://bushwalkingmanual.org.au/emergencies/lost/; SOURCE_REGISTER S-021, S-056, S-172, S-240 and S-245",
       "licence": "Original project diagram; personal working edition",
-      "limit": "Working three-panel, product-neutral project synthesis only; no authority publishes this exact combined card. It groups five unnumbered parallel modes at one safe reported waiting place: emergency contact or alert, continuous contrast, three-short-blast sound, purpose-made mirror in sunlight and controlled night light. A missing mode stays absent. It gives no movement permission, clearing, colour, size, shape, distance, range, detection or rescue guarantee, exact blast seconds, reply code, ground-air-symbol construction, beacon deployment, mirror-aiming lesson, ordinary-mirror or foil performance transfer, light runtime, generic strobe or night-vision assurance, fire, smoke, flare, pyrotechnic or laser method. The 90% source-match and 60% combined-completeness/layout estimates are subjective editorial estimates, not probabilities of detection, contact, rescue, safety or survival. Victorian land/aviation search-and-rescue, hearing-safety, electrical/product, environmental, practical, complete-card, detached-panel, controlled-visibility and stressed-reader review remain outstanding.",
+      "limit": "Working three-panel, product-neutral project synthesis only; no authority publishes this exact combined card. It groups five unnumbered parallel non-fire modes at one safe reported waiting place: emergency contact or alert, continuous contrast, three-short-blast sound, purpose-made mirror in sunlight and controlled night light. A missing mode stays absent. A true immediate threat to human life routes to Chapter 1's narrow life-first test, but that test is not blanket permission, does not validate an unreviewed signal and supplies no missing fire, smoke, flare, pyrotechnic or laser method. The card gives no movement permission, clearing, colour, size, shape, distance, range, detection or rescue guarantee, exact blast seconds, reply code, ground-air-symbol construction, beacon deployment, mirror-aiming lesson, ordinary-mirror or foil performance transfer, light runtime, or generic strobe or night-vision assurance. The 90% source-match and 60% combined-completeness/layout estimates are subjective editorial estimates, not probabilities of detection, contact, rescue, safety or survival. Victorian land/aviation search-and-rescue, hearing-safety, electrical/product, environmental, practical, complete-card, detached-panel, controlled-visibility and stressed-reader review remain outstanding.",
       "status": "working-draft",
-      "checked": "2026-09-30"
+      "checked": "2026-10-02"
     },
     {
       "registerId": "IM-207",
       "filename": "rabbit-food-gate.svg",
       "pageSlices": [0, 900, 1800],
       "pageSliceNotes": [
-        "Begin here. In Victoria, do not make or set an improvised snare, deadfall or leg-hold trap. Only pre-planned compliant rabbit leg-hold and confinement traps are summarised; no construction, bait or placement method is given.",
-        "Read with Panel A. Identity, law, permission, equipment, inspection, welfare, dispatch, known treatment history, processing and survival priorities must pass. Unknown bait or poison history means STOP. Food figures are comparisons only."
+        "Begin here. For an immediate risk of death or really serious injury, try 000 or SOS and use only the least harmful effective action when it is the only reasonable response. Stop when the danger ends. Hunger alone is not the threshold.",
+        "Read with Panel A. On the ordinary food route, every listed gate must pass. Unknown bait or poison history means STOP. The life-first branch supplies no missing trap, dispatch, processing or food-safety method."
       ],
-      "caption": "Victoria rabbit trapping and food go/no-go gate, with no improvised-snare method",
+      "caption": "Victoria rabbit-food gate: narrow life-first boundary, ordinary trapping rules and no improvised-trap method",
       "credit": "Victorian Bush Survival project; original information layout",
-      "source": "https://www.legislation.vic.gov.au/in-force/statutory-rules/prevention-cruelty-animals-regulations-2019/004; https://agriculture.vic.gov.au/biosecurity/pest-animals/trapping-pest-animals/leghold-traps; https://agriculture.vic.gov.au/biosecurity/pest-animals/trapping-pest-animals/confinement-traps; https://agriculture.vic.gov.au/biosecurity/pest-animals/established-pest-animal-species/european-rabbit; https://www.foodstandards.gov.au/science-data/food-nutrient-databases/afcd; SOURCE_REGISTER S-491–S-498",
+      "source": "https://www.legislation.vic.gov.au/in-force/acts/crimes-act-1958/323; https://www.legislation.vic.gov.au/in-force/statutory-rules/prevention-cruelty-animals-regulations-2019/004; https://agriculture.vic.gov.au/biosecurity/pest-animals/trapping-pest-animals/leghold-traps; https://agriculture.vic.gov.au/biosecurity/pest-animals/trapping-pest-animals/confinement-traps; https://agriculture.vic.gov.au/biosecurity/pest-animals/established-pest-animal-species/european-rabbit; SOURCE_REGISTER S-491–S-498",
       "licence": "Original project diagram; personal working edition",
-      "limit": "Working two-panel decision aid only. It gives no trap construction, setting, bait, placement, non-target handling, humane-dispatch, carcass-inspection, field-dressing, preservation, poison-clearance or cooking method. Positively known site baiting and poison-treatment history is required; unknown stops the route. Traps must be inspected as regularly as possible, and the statutory maximum must not be treated as a target interval. The legal summary is time-sensitive and not a complete opinion on an extraordinary emergency. The rabbit-food figures describe specified farmed or retail edible-meat records, not wild Victorian rabbits or whole-carcass yield. The 94% figure estimates wording-to-source agreement only, not legality, capture, food safety or survival. Victorian legal, animal-welfare, wild-game food-safety, practical, complete-card, detached-panel and stressed-reader review remain outstanding.",
+      "limit": "Working two-panel decision aid only. Its life-first branch applies only to an immediate risk of death or really serious injury when an otherwise prohibited act is the only reasonable response. Emergency contact should be attempted where possible. Use an effective lawful option if one can work in time; otherwise act outside the ordinary rule only if it is the only reasonable way to deal with the emergency, and choose the least harmful workable response, limited to what is needed and stopped when the danger ends. This is a narrow, fact-dependent boundary, not blanket legal permission; hunger, inconvenience or low food alone is not enough. The ordinary food route requires the current lawful method and permissions. The card gives no emergency or ordinary trap construction, setting, bait, placement, non-target handling, humane-dispatch, carcass-inspection, field-dressing, preservation, poison-clearance or cooking method. Positively known site baiting and poison-treatment history is required; unknown stops the food route. Traps must be inspected as regularly as possible, and the statutory maximum must not be treated as a target interval. The legal summary is time-sensitive and not a complete opinion on an extraordinary emergency. The 95% figure estimates wording-to-source agreement only, not legality, capture, food safety or survival. Victorian legal, animal-welfare, wild-game food-safety, practical, complete-card, detached-panel and stressed-reader review remain outstanding.",
       "status": "working-draft",
       "checked": "2026-10-02"
     }

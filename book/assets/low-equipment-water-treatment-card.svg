@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2020" viewBox="0 0 1000 2020" role="img" aria-labelledby="title desc">
   <title id="title">Rolling-boil water treatment, cooling and protected use</title>
-  <desc id="desc">Part two of a Victorian field-water sequence. Use only after the source screen passes. Use a suitable unsealed heat-safe pot and a lawful heat source that can be operated exactly as instructed. Keep raw-water gear away from clean drinking surfaces. Fill below safe limits. Keep the pot stable and bring the whole water surface to a vigorous rolling boil. Turn off the heat exactly as instructed. Let the pot cool naturally on a stable non-combustible heat-safe surface protected from ash, dust, rain splash, leaves, insects, dirty hands and animals. When cool enough to handle and drink without scalding, use promptly or pour into a clean closable drinking-water container without the openings touching. Boiling addresses most microbial hazards but not salt, algal toxins, chemicals or metals. No thermometer, transfer ladle, special dry rim or separate cup for each person is required. The rolling-boil rule has an editorial source-match estimate of ninety-five per cent and this field handling sequence eighty per cent; these are not safety or treatment-success probabilities.</desc>
+  <desc id="desc">Part two of a Victorian field-water sequence for the ordinary lawful boiling route. A short boundary says that a true immediate threat to human life routes to the Chapter 1 life-first test, which supplies no missing heat or treatment method and does not make untreated water safe. After the source screen passes, use a suitable unsealed heat-safe pot and a heat source that can be operated exactly as instructed. Keep raw-water gear away from clean drinking surfaces, fill below safe limits, keep the pot stable and bring the whole surface to a vigorous rolling boil. Shut down, cool naturally on a stable protected surface, and use promptly or pour into clean closed storage without the openings touching. Boiling addresses most microbial hazards but not salt, algal toxins, chemicals or metals. The ninety-five and eighty percent figures estimate wording, not safety or success.</desc>
   <defs>
     <style>
       .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.decision{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warning{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.caution{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}
@@ -15,10 +15,10 @@
   <text class="body" x="58" y="170">Editorial confidence: 95% rolling-boil rule; 80% handling.</text>
   <text class="small" x="58" y="210">These figures describe wording—not safety or treatment success.</text>
   <text class="small red" x="58" y="250">Boiling does not remove salt, algal toxins, chemicals or metals.</text>
-  <text class="small red" x="58" y="282">A lawful heat source and every live fire rule still control.</text>
+  <text class="small red" x="58" y="282">Ordinary route: fire rules control. Immediate life threat: Chapter 1.</text>
 
   <rect class="decision" x="66" y="340" width="868" height="160" rx="10"/>
-  <text class="head" x="92" y="384">START ONLY WHEN ALL ARE TRUE</text>
+  <text class="head" x="92" y="384">ORDINARY ROUTE — START ONLY WHEN ALL ARE TRUE</text>
   <text class="small" x="92" y="426">Source card reached “no red flag found”; suitable unsealed pot ready;</text>
   <text class="small" x="92" y="458">lawful heat source safe to operate; stable cooling place ready;</text>
   <text class="small" x="92" y="490">clean cup or clean closed storage ready if serving or storing.</text>
@@ -54,7 +54,7 @@
   <text class="small red" x="116" y="1634">Container maker must permit the actual water temperature.</text>
 
   <rect class="warning" x="34" y="1695" width="448" height="230" rx="10"/>
-  <text class="head red" x="58" y="1740">ANY STEP FAILED?</text>
+  <text class="head red" x="58" y="1740">ORDINARY ROUTE FAILED?</text>
   <text class="body" x="58" y="1784">Treat the water as untreated.</text>
   <text class="small" x="58" y="1824">Use 000, PLB or satellite SOS for</text>
   <text class="small" x="58" y="1858">a serious shortage. Reduce exertion.</text>

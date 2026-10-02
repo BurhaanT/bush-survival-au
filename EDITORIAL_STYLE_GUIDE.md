@@ -41,6 +41,14 @@ The first two layers must make sense without the third. Keep a warning before th
 
 For lower-priority subjects such as wild food, separate **what to do while stranded** from **material to learn before a trip**. A long reference section must never look like the next survival priority.
 
+### Human life before ordinary activity rules
+
+Distinguish an ordinary or planned activity from a true immediate threat to human life. Never write a permit, wildlife, fishing, fire, access or equipment rule as though it requires a reader to withhold the only reasonable action needed to prevent death or really serious injury.
+
+Keep the emergency branch narrow and visible. The action must be necessary for the immediate threat, proportionate to it and the least harmful workable option. Tell the reader to use 000 or emergency contact where possible, stop the exceptional action when the danger is controlled, and return to ordinary requirements. State that this is not blanket legal permission. Food normally remains below rescue, warmth, shelter and water.
+
+This rule does not make an unknown plant or animal safe, remove contamination, validate a missing technique or weaken an intrinsic safety prohibition. Repeat the short life-first boundary on a detached visual when the surrounding chapter will not travel with it.
+
 ### Cut words by removing delay, not safety
 
 - Give one instruction once, then link back to it. Do not repeat the same method in several places.

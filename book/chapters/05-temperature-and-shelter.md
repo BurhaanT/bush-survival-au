@@ -113,7 +113,7 @@ This edition has **no approved no-equipment shelter-building method**. These act
 >
 > **Estimated wording accuracy: 95% for the core prohibition and 85% for complete examples.** These are subjective estimates, not safety or survival odds. The diagram has not had public-health, toxicology, fire, product-safety or stressed-reader review. It approves no outdoor placement and gives no safe opening, ventilation rate or distance.
 
-Do not use a stove, barbecue, charcoal, candle, fuel heater or engine for warmth inside a tent, bivvy, vehicle, or enclosed or partly enclosed shelter. Carbon monoxide can poison people and flame can ignite fabric. Opening a flap or using an alarm does not make burning fuel safe. Use insulation. Operate equipment outdoors only when its manual, current fire law and conditions permit.
+Do not use a stove, barbecue, charcoal, candle, fuel heater or engine for warmth inside a tent, bivvy, vehicle, or enclosed or partly enclosed shelter. Carbon monoxide can poison people and flame can ignite fabric. Opening a flap or using an alarm does not make burning fuel safe. Use insulation. For ordinary outdoor use, follow the manual, current fire rules and [Fire](08-fire.md); its narrow life-first test does not make indoor combustion safe.
 
 ![Never use combustion equipment inside enclosed or partly enclosed shelters.](../assets/no-combustion-enclosures.svg)
 

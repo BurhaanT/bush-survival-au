@@ -13,9 +13,11 @@
 3. **Copy what the device shows.** Write the location exactly as displayed, including its format. Do not round, swap or convert the numbers.
 4. **If the map, device and ground disagree, write `POSITION UNCERTAIN`.** Report the disagreement and use the [STOP / NO–UNKNOWN decision](04-stay-or-move.md). A compass direction is not an escape route.
 5. **Keep people, shelter and signals together** at or beside the safe reported waiting place. Do not move merely to add a signal.
-6. **Layer safe signals:** bright contrast by day; three short whistle blasts with pauses; a purpose-made mirror in sunlight; controlled torch flashes at night. Never use a signal fire or laser.
+6. **Layer safe signals:** bright contrast by day; three short whistle blasts with pauses; a purpose-made mirror in sunlight; controlled torch flashes at night. This guide supplies no signal-fire, flare, pyrotechnic or laser method.
 
 A possible reply, light or aircraft pass is not confirmed contact. Continue the rescue plan until a responsible responder gives direct instructions.
+
+Use the non-fire signals above first. If a true immediate threat to human life leaves no safer effective way to summon lifesaving help, use the [life-first emergency test](01-how-to-use-this-guide.md#when-a-rule-conflicts-with-saving-a-life). That test is not blanket permission and does not turn an unreviewed signal into a safe method. Never aim a laser at an aircraft, vehicle or person.
 
 ## Record and report your location
 
@@ -71,7 +73,7 @@ A purpose-made signal mirror can help in sunlight. Use its aiming instructions. 
 >
 > **Estimated confidence in the accuracy of the wording: 90% that the five signal categories and principal cautions match the cited sources; 60% that this unreviewed combination and layout is complete.** These are subjective editorial estimates, not probabilities of detection, contact, rescue, safety or survival. The five modes are a project grouping, not an authority-issued sequence or technically independent system. Use more than one safe mode when possible, but do not delay urgent care or move merely to add one. Keep people, shelter and signals at or beside the safe reported waiting place. Do not surrender essential protection or treat a possible response as proof that you were found.
 
-![Three-panel card grouping five unnumbered non-fire signal modes at one safe waiting place: emergency contact or alert, continuous bright contrast, sound, purpose-made mirror in sunlight and controlled night light. Each mode may be absent; the card prohibits movement merely to signal and says a possible reply is not confirmed contact.](../assets/layered-signalling-safe-site-card.svg)
+![Three-panel card grouping five unnumbered non-fire signal modes at one safe waiting place: emergency contact or alert, continuous bright contrast, sound, purpose-made mirror in sunlight and controlled night light. Each mode may be absent; human life comes first in a true immediate emergency, but the card supplies no fire, flare, pyrotechnic or laser method; a possible reply is not confirmed contact.](../assets/layered-signalling-safe-site-card.svg)
 
 *IM-206. Original working product-neutral synthesis based on Victoria Police S-021, AMSA beacon guidance S-172, the February 2026 National Search and Rescue Manual S-240 and cross-checks S-056/S-245. No authority publishes this exact combined card. It gives no movement permission, detection range, signal size, shape or colour, ground-air-symbol construction, beacon deployment or mirror-aiming lesson, light runtime, generic strobe/night-vision assurance, exact blast seconds, reply code, fire, smoke, flare, pyrotechnic or laser method. Victorian land/aviation search-and-rescue, hearing-safety, electrical/product, environmental, controlled-visibility, complete-card, detached-panel, practical and stressed-reader review remain outstanding.*
 

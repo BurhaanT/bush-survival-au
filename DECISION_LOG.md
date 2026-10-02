@@ -1,5 +1,13 @@
 # Decision log
 
+## D-076 — Put human life before ordinary activity rules without claiming blanket permission
+
+- **Date:** 2 October 2026.
+- **Decision:** In a genuine immediate threat to human life, the guide must not let an ordinary Victorian activity, land-use, wildlife, fishing, fire, access or equipment rule delay the action needed to protect life. The reader-facing route is: call 000 or use the available emergency-contact fallback, follow responder directions when contact is made, and take only the action reasonably believed necessary for the immediate life threat.
+- **Legal boundary:** This is a guide-level priority rule, not a statement that emergency conduct is automatically lawful. Under the current *Crimes Act 1958* (Vic), s 322R is a fact-specific statutory defence only where the person reasonably believes a sudden or extraordinary emergency exists, reasonably believes the conduct is the only reasonable way to deal with it, and the conduct is a reasonable response. Section 322G makes Part IC applicable to offences generally, s 322I allocates the burden when a defence is in issue, and s 322S abolishes common-law necessity. The guide therefore must never promise immunity, permission, an exemption, a successful defence or freedom from later scrutiny.
+- **Editorial threshold and least-harm rule:** The statute does not impose death or really serious injury as a general threshold for every s 322R case; that express threshold appears in s 322R(3) for murder. This guide deliberately uses the stricter editorial trigger **immediate threat of death or serious injury** before ordinary activity rules can yield. Any departure must be necessary, proportionate to the threat and the least harmful reasonably available action; stop the departure when the immediate threat ends, preserve life and welfare, avoid unrelated harm, record what happened when safe and tell responders or authorities the relevant facts.
+- **Scope:** Ordinary rules continue to control preparation, convenience, hunger, comfort, delay, speculative future need and every situation in which a lawful safer course is reasonably available. This decision does not add a hunting, trapping, fishing, fire-lighting, trespass, driving, plant collection, water-entry, animal-dispatch or other hazardous method. Existing technical, identity, welfare, contamination and competence stop rules remain in force. S-499, R-498, META-010, SR12-33 and QA-038 control implementation; legal and stressed-reader review remain open and `FIELD_READY_BUILD=NO` remains controlling.
+
 ## D-075 — Cover rabbits, but do not teach improvised snares or deadfalls
 
 - **Date:** 2 October 2026.
