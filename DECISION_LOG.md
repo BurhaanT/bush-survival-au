@@ -1,5 +1,13 @@
 # Decision log
 
+## D-072 — Host only as a private Enterprise project site at the site root
+
+- **Date:** 1 October 2026.
+- **Decision:** The prepared static reader may be deployed only as an organisation-owned private or internal **project site** in GitHub Enterprise Cloud with Pages access set to **Private**. The book reader must open at the site's `/` route, with its print view at `/print/`. An organisation or user root site does not qualify for private Pages access control. The current personal-namespace repository, `https://github.com/BurhaanT/bush-survival-au.git`, therefore cannot be the deployment repository for this private-copy plan; it must first be transferred or copied into the intended Enterprise Cloud organisation without widening access.
+- **Source and artifact boundary:** Continue using the custom GitHub Actions workflow. It publishes only the built contents of `reader/dist-pages` as the website root; it does not publish the repository checkout or configure branch-root Pages. `actions/configure-pages` remains authoritative for the deployment URL, and the workflow must stop when its reported `base_path` is non-empty because that would place this guide below a repository subpath rather than at the requested site root.
+- **Privacy and release guards:** Before any build can reach deployment, the workflow must query the repository's Pages configuration and require `public=false`. Deployment remains separately disabled unless the repository variable `PUBLISH_BOOK_READER` is exactly `YES`. These are fail-closed controls, not proof of Enterprise eligibility or private access until they run successfully in the destination organisation. No hosted deployment has occurred.
+- **Boundary retained:** This decision narrows and supersedes D-071's proposed ordinary-Pages hosting choices; it does not change D-071's static-reader architecture or 64-document publication allowlist. A public site, an organisation/user site without private access control, broader repository readership or wider sharing remains blocked by D-039/D-040 and the unresolved cultural and image-rights gates. Private hosting does not approve any survival instruction, image, cultural material or PDF, and `FIELD_READY_BUILD=NO` remains controlling. R-495 and WEB-QA-002 record the current platform and implementation boundary.
+
 ## D-071 — Keep the themed live reader and add a separate static GitHub Pages build
 
 - **Date:** 30 September 2026.

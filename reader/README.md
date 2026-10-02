@@ -6,7 +6,9 @@ A read-only, book-style view of the existing Markdown. It does not maintain a se
 
 Double-click **Open Book Reader.vbs** in the main Bush Survival folder. It starts the reader without a terminal window and opens the default browser. If it is already running, the launcher reuses it.
 
-The local address is [http://127.0.0.1:4317/](http://127.0.0.1:4317/). It works on this computer while the reader is running, not on another device. After a restart, use the launcher again. There is no automatic startup task or cloud upload. A GitHub Pages build is prepared but is not deployed until the project is put in a GitHub repository and Pages is enabled; see [the hosting guide](../GITHUB_PAGES.md).
+The local address is [http://127.0.0.1:4317/](http://127.0.0.1:4317/). It works on this computer while the reader is running, not on another device. After a restart, use the launcher again. There is no automatic startup task or cloud upload.
+
+A private GitHub Enterprise Cloud Pages build is prepared but has not been deployed. Its build-checked `dist-pages` artifact becomes the site root, with the reader at `/` and print view at `/print/`. The current personal-account remote does not qualify for private Enterprise Pages access control; it must first be moved to an organisation-owned private project repository. Pages must use **GitHub Actions** as its source and **Private** visibility. See [the hosting guide](../GITHUB_PAGES.md).
 
 ## Read and review
 
@@ -41,7 +43,7 @@ The reader loads the canonical chapters, the separate review sample, key control
 - Install from the lockfile with `npm ci` if dependencies need restoring.
 - `npm start` runs the local reader and live Markdown endpoint.
 - `npm run check` checks the authored application/types. The untouched starter's full component catalog has separate lint findings; this command does not pretend to fix them.
-- `npm test` runs the 26 data, projection, hosted-publication-allowlist, GitHub Pages base-path, rendering-policy, page-slice and request-boundary checks.
+- `npm test` runs the 27 data, projection, hosted-publication-allowlist, private Enterprise Pages root/access-gate, rendering-policy, page-slice and request-boundary checks.
 - `npm run build` verifies a rebuildable application snapshot. Do not confuse its generated files with canonical book content.
 - `npm run build:pages` creates the static reader and print view in `dist-pages`; `npm run check:pages` checks both entry pages and all registered image files. `npm run preview:pages` serves that generated snapshot locally.
 - Source: `app/reader.tsx`, `app/book-markdown.tsx`, `app/print/print-book.tsx`, `app/globals.css`, `lib/book-library.mjs`, `lib/print-book.mjs`, `lib/book-images.mjs` and `../book/assets/manifest.json`; chapter order: `../book/MANIFEST.md`.

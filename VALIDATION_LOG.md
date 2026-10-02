@@ -2,6 +2,15 @@
 
 ## Reader and deployment checks
 
+### WEB-QA-002 — Private Enterprise site-root deployment guard
+
+- **Date:** 1 October 2026.
+- **Scope prepared:** D-072/R-495 narrow the hosted-reader plan to an organisation-owned private or internal project repository in GitHub Enterprise Cloud with Pages visibility set to Private. The custom Actions workflow still publishes only `reader/dist-pages`; those built files become the website root, with the reader at `/` and the print projection at `/print/`. It does not use a branch-root publication source.
+- **Fail-closed controls:** The workflow now stops when `actions/configure-pages` reports a non-empty `base_path`, and it queries the repository Pages configuration before install, build, upload or deployment. It proceeds only when the API's `public` value is `false`. The existing deployment-job switch remains separate: `PUBLISH_BOOK_READER` must be exactly `YES`. These controls cannot make an ineligible repository private and do not replace repository or Pages access settings.
+- **Current eligibility and execution state:** This checkout is a Git repository on `main` with remote `https://github.com/BurhaanT/bush-survival-au.git`. That personal-account namespace does not qualify for GitHub Enterprise Cloud's private Pages access control. The repository must first be transferred or copied into the intended Enterprise Cloud organisation, remain private or internal, have Pages set to GitHub Actions and have Pages visibility explicitly set to Private. No hosted copy has been deployed, and the root-path and `public=false` guards have not yet been exercised against a destination Enterprise Pages configuration.
+- **Local automated and build verification:** All 27 reader tests pass, including the new exact-count and corrected boolean checks for the root/private workflow guards. `npm run check` passes. `build/check-project.ps1` still reports `PASS - file structure only; not safety approval`, with 90 non-generated Markdown files, 490 registered and referenced sources, 606 local links, 15 chapters, 72,261 chapter words, 105 warning boxes, unchanged 539,455-byte working Markdown and unchanged SHA-256 `61C81380750FC9B9B41121EF8A41247519454F4FA6E6F1A771A1AFBF67841D9B`. A production Pages build with `PAGES_BASE_PATH=/` passes, and `npm run check:pages` confirms both entry pages and all 145 registered assets at `/`.
+- **Destination validation still pending:** The first real Enterprise workflow run must confirm that the destination `actions/configure-pages` output is empty for `base_path`, the Pages REST response contains the literal boolean `public=false`, the deployment URL opens at `/`, and only intended repository readers can authenticate. A successful run would verify only static deployment mechanics and access configuration at that moment. Public or wider sharing remains blocked by D-039/D-040 and unresolved cultural/image-rights controls; the site remains a working review interface, not an emergency-use or field-ready edition. `FIELD_READY_BUILD=NO` remains controlling.
+
 ### WEB-QA-001 — Static GitHub Pages reader and print deployment
 
 - **Date:** 30 September 2026.

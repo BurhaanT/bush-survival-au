@@ -10,11 +10,13 @@ Double-click **Open Book Reader.vbs** in this folder. It opens a read-only, book
 
 The reader follows edits to the original Markdown; it does not keep a second manuscript. All 15 chapters now contain readable content. The older emergency review sample remains separate and is not the current manuscript. This is not a field-ready edition or a final PDF proof. [Reader instructions and limits](reader/README.md).
 
-## Optional GitHub Pages hosting
+## Private Enterprise Pages hosting
 
-The same themed reader can now be built as a static GitHub Pages site. The prepared workflow preserves hash-based chapter links, adds a real `/print/` page and rebuilds the hosted snapshot from the canonical Markdown on each deployment. Nothing has been published yet because this folder is not currently connected to a Git repository or GitHub remote.
+The same themed reader is prepared for a private GitHub Enterprise Cloud Pages **project site**. The build-checked `reader/dist-pages` artifact becomes the website root: the reader is at `/` and the full-book print view is at `/print/`. Pages must use **GitHub Actions** as its source; do not use the repository branch root as the publishing source.
 
-Read [the GitHub Pages setup, rights gate and privacy notes](GITHUB_PAGES.md) before publishing. The current full snapshot must not be published until its private-copy ICIP and image-rights restrictions have been reviewed item by item. Standard Pages hosting should be treated as public; `noindex` is not access control, and the current bundle includes linked project records as well as the 15 chapters. A public repository would expose the committed working project as well as the built site.
+Nothing has been deployed. The current `BurhaanT/bush-survival-au` remote is under a personal account and does not qualify for private Enterprise Pages access control. It must first be moved to, or replaced by, a private organisation-owned repository in the intended Enterprise Cloud account. After **Settings → Pages → Source** is set to **GitHub Actions** and **Visibility** is set to **Private**, set the Actions variable `PUBLISH_BOOK_READER` to `YES`. The workflow refuses to deploy if GitHub reports either a non-root Pages path or a public site.
+
+Read [the Enterprise Pages setup, access and rights notes](GITHUB_PAGES.md) before enabling the variable. Keep repository read access limited to the intended private reader or readers. Public or wider sharing remains blocked by the private-copy ICIP, image-rights and disclosure controls; `noindex` is not access control.
 
 ## Project records
 
