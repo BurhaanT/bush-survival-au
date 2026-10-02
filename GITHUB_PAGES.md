@@ -6,7 +6,7 @@ The currently selected public address is:
 
 `https://burhaantargett.tech/bush-survival-au/`
 
-The site is live. [Actions run 36949573814](https://github.com/BurhaanT/bush-survival-au/actions/runs/36949573814) successfully built and deployed commit `c8eb207`. Post-deployment HTTP checks returned `200` for the reader, `/print/`, `shelter-layers.svg`, and the exact reader, shared JavaScript and CSS asset URLs emitted by that build.
+The site is live. [Actions run 36958505006](https://github.com/BurhaanT/bush-survival-au/actions/runs/36958505006) successfully built and deployed rabbit-revision commit `9d24124`. Post-deployment checks returned HTTP `200` for the reader, `/print/` and `rabbit-food-gate.svg`; the live 6,904-byte SVG had SHA-256 `CFD6AB3415B807A50FDADD1538ACA11FDA0D1732A37CF5BF0FAEB1032B4AD299`, exactly matching the reviewed local asset. Browser verification also found the new rabbit section, positive-or-unknown poison-history stop, non-target inspection warning, cultural-authority gate and `FIELD_READY_BUILD=NO` in the live reader.
 
 > **PUBLIC DISCLOSURE WARNING.** The repository and Pages site are currently public. Deploying exposes the complete allowlisted hosted bundle, including its manuscript content and registered images, to anyone who has the URL and potentially to search engines, archiving services and automated downloaders. `PUBLISH_BOOK_READER=YES` is the explicit deployment switch; it is not a safety approval. The guide remains marked `FIELD_READY_BUILD=NO`. Unresolved copyright, image-rights, Indigenous Cultural and Intellectual Property (ICIP), cultural-authority, factual and safety questions remain warnings requiring review. The decision to use the current public URL does not clear or waive any of them.
 
