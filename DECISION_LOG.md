@@ -1,5 +1,13 @@
 # Decision log
 
+## D-075 — Cover rabbits, but do not teach improvised snares or deadfalls
+
+- **Date:** 2 October 2026.
+- **Decision:** Expand Chapter 12 beyond fish with a Victoria-specific rabbit and small-animal section, but reject a generic wire-snare, spring-snare, deadfall or improvised leg-hold tutorial. Current Victorian rules make those methods approval-dependent, species-limited or non-compliant, and an indiscriminate design can catch protected native wildlife or cause prolonged suffering.
+- **Useful replacement:** Put IM-207 and the short action route before fishing. Show the controlled-method boundaries, the complete identity/permission/equipment/regular-inspection/non-target/humane-dispatch/positively-known-treatment-history/processing gate, rabbit and hare sign limits, clearly excluded animal routes and source-limited farmed-rabbit energy values. Any no or unknown answer stops trapping. A positive or unknown baiting/poison-treatment history stops the food route. Presence signs are observation only, never placement advice.
+- **Future path:** An actionable rabbit cage-trap page may be considered only for a pre-planned, permission-based private-land scenario after the exact commercially compliant trap, current law, bait and placement, inspection, non-target response, humane dispatch, carcass examination, dressing, cooling and cooking chain has been independently reviewed and practically tested. Yabbies are the strongest later non-fish candidate, but require a separate VFA, identity, allergy, dispatch and cooking gate.
+- **Boundary:** This decision supplies no emergency legal exemption, trap construction, bait, placement, firearm method, dispatch, dressing, carcass-clearance or rabbit-cooking instruction. Traditional Owner rights and practices are not converted into public permission. D-075, R-497 and QA-037 do not make Chapter 12 field-ready; `FIELD_READY_BUILD=NO` remains controlling.
+
 ## D-074 — Put the next safe action before research detail
 
 - **Date:** 2 October 2026.

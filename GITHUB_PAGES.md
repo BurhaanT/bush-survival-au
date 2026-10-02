@@ -34,7 +34,7 @@ The prepared hosted bundle contains:
 - the 15 canonical chapters;
 - the separate emergency review draft;
 - key control and source documents plus linked project records used by the reader—61 Markdown documents after the action-first edit; and
-- all 145 registered image files, about 99 MB before deployment packaging.
+- all 146 registered image files, about 99 MB before deployment packaging.
 
 The 61 Markdown paths are fail-closed in [the hosted publication allowlist](reader/lib/pages-public-documents.mjs). A new link cannot silently add another project record to the JavaScript bundle. Changing that list requires a deliberate disclosure, cultural-authority and rights review. Because the current repository and site are public, an included record or asset should be treated as publicly disclosed once pushed and deployed.
 
@@ -47,7 +47,7 @@ The interface retains `WORKING DRAFT`, `NOT FOR EMERGENCY USE` and `FIELD_READY_
 3. Keep the repository Actions variable `PUBLISH_BOOK_READER` set to the exact value `YES` only while public deployment is intended.
 4. Push a commit to `main`, or run **Deploy book reader to GitHub Pages** manually from the Actions tab.
 
-The workflow installs the locked dependencies, runs the tests and authored-code checks, reads GitHub's configured base path, creates the reader and print pages, verifies all 145 registered images, and uploads only `reader/dist-pages` as the Pages artifact. Without `PUBLISH_BOOK_READER=YES`, the deployment job is skipped.
+The workflow installs the locked dependencies, runs the tests and authored-code checks, reads GitHub's configured base path, creates the reader and print pages, verifies all 146 registered images, and uploads only `reader/dist-pages` as the Pages artifact. Without `PUBLISH_BOOK_READER=YES`, the deployment job is skipped.
 
 These technical checks do not clear cultural rights, copyright, factual accuracy, safety or field use. Removing the deployment variable prevents later deployments but does not retract copies that have already been downloaded, cached or archived.
 
@@ -97,4 +97,4 @@ npm run preview:pages
 
 The generated `reader/dist-pages` folder is disposable build output. Do not edit it or treat it as book source.
 
-The full print view loads about 99 MB of registered images and 224 image frames. It passed desktop browser review, but it is not suitable evidence of reliable performance on a low-memory phone or tablet. Use the ordinary reader for on-screen review and reserve the full print route for a desktop until a later optimised print/PDF path exists.
+The full print view loads about 99 MB of registered images and 226 image frames. It passed earlier desktop browser review at 224 frames; the current 226-frame edition still needs a fresh rendered check and is not suitable evidence of reliable performance on a low-memory phone or tablet. Use the ordinary reader for on-screen review and reserve the full print route for a desktop until a later optimised print/PDF path exists.

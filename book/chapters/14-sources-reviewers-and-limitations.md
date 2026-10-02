@@ -66,4 +66,4 @@ A source, dose, timing, medical sequence, plant identification, map, legal rule 
 
 The browser print view is a review proof, not an approved field edition. Every page, split diagram, link, greyscale result and physical proof still needs inspection.
 
-**Edition:** 0.13, updated 2 October 2026. The plant plates and fish atlas remain incomplete. Specialist review, reader testing and final PDF approval remain **NO**. `FIELD_READY_BUILD=NO`.
+**Edition:** 0.14, updated 2 October 2026. The plant plates, fish atlas and rabbit capture-to-food chain remain incomplete. Specialist review, reader testing and final PDF approval remain **NO**. `FIELD_READY_BUILD=NO`.

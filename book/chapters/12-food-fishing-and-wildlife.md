@@ -2,7 +2,7 @@
 
 > **WARNING — FOOD AND WILDLIFE REVIEW OUTSTANDING**
 >
-> **Evidence confidence:** High for cited food-safety and wildlife guidance; Moderate for the practical fishing sequence. Exact fish identification and the illustrated pages still need specialist review.
+> **Evidence confidence:** High for cited food-safety, wildlife and Victorian trap-law guidance; Moderate for the practical fishing sequence. Exact animal identification, humane dispatch, processing and the illustrated pages still need specialist review.
 >
 > **Wording confidence: 84% (subjective).** This rates the warning against the cited evidence—not food safety, identification, success or survival.
 
@@ -14,6 +14,7 @@
 4. Give no food, drink or gel to anyone who is drowsy, cannot swallow normally or is recovering poorly from a seizure.
 5. **Do not eat wild mushrooms, shellfish, an unknown fish or a plant first identified during the emergency.**
 6. Do not hunt, trap or take native mammals, birds, reptiles, frogs or eggs using this guide. Victorian native wildlife is protected; being stranded is not blanket legal permission.
+7. Do not improvise a snare, deadfall or leg-hold trap. The Victoria-specific rabbit gate below explains the controlled methods and why no bush-made trap is supplied.
 
 Do not budget calories from an unweighed wild food. A number for commercial fillet or fruit does not identify a species or describe a whole catch. Treat its energy as **unknown** unless the species, edible cooked part, preparation and weight all match a reliable value.
 
@@ -31,7 +32,91 @@ If anyone has breathing trouble, weakness or paralysis, collapse, a seizure, con
 
 Sources: [Victorian mushroom advice](https://www.health.vic.gov.au/health-advisories/poisonous-mushrooms-growing-victoria), [VFA food safety](https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/food-safety), [Gippsland Lakes advice](https://www.health.vic.gov.au/water/gippsland-lakes-seafood) and [FSANZ seafood toxins](https://www.foodstandards.gov.au/consumer/prevention-of-foodborne-illness/bacteria-foodborne-illness/toxins-in-seafood).
 
-## Before trying to catch a meal
+## Rabbits and other small animals — no snare shortcut
+
+> **WARNING — VICTORIAN TRAPPING LAW AND FOOD-SAFETY REVIEW**
+>
+> **Do not make or set an improvised snare, deadfall or leg-hold trap.** In Victoria, non-kill snares and kill traps require prior approval. Rabbit leg-hold and confinement traps are also controlled by trap design, land permission, location, checking and animal-welfare rules. There is no blanket lost-person exemption in the trapping regulations.
+>
+> **Evidence confidence: High** for the current Victorian trap categories and ordinary permission rules; **Moderate** for this condensed legal summary; **Insufficient** for novice capture, humane dispatch, carcass inspection, field dressing or rabbit-specific cooking. **Wording confidence: 94% (subjective).** This estimates how closely the warning matches the checked sources—not legality in every circumstance, capture success, food safety or survival.
+
+### Do this now
+
+- Use carried food first. Food remains below rescue, warmth, shelter and water.
+- Do not leave a known rescue position to follow tracks or search for a warren.
+- If you lack lawful equipment, permission, training or a humane plan, **do not trap**.
+- Do not trap native wildlife. Never eat an animal found dead or a rabbit from a site with positive or unknown baiting or poison-treatment history.
+
+![Victoria rabbit-food gate: improvised snares and deadfalls stop; only a pre-planned lawful system can reach the species, permission, inspection, humane-dispatch and food-safety checks, and any no or unknown answer means do not trap or eat.](../assets/rabbit-food-gate.svg)
+
+*IM-207. Original working decision card. It gives no trap construction, bait, placement, dispatch, cutting or cooking method. Victorian legal, animal-welfare, wild-game food-safety, practical and stressed-reader review remain outstanding.*
+
+### Which trap methods are usable here?
+
+| Method | Victorian position | What this guide tells you |
+|---|---|---|
+| Improvised wire or cord snare | Non-kill snares require Ministerial approval and prescribed features. | **Do not make or set one.** |
+| Deadfall, spring snare or other kill trap | Kill traps require Ministerial approval and humane-design controls. | **Do not make or set one.** |
+| Small leg-hold trap | A compliant small trap is for **rabbits only**. It needs owner or occupier approval, cannot be used or possessed on Crown land, and needs extra approval in an urban area. | Pre-planned private-land pest control only. No setting method. |
+| Cage or confinement trap | It needs owner, occupier or Crown-land-manager consent, non-target controls and inspection. A captured pest must be humanely killed as soon as reasonably possible. | Exact compliant trap, prior permission and training only. No design or placement method. |
+
+The regulation titled **“Emergency use of traps”** concerns a Ministerial response to a new pest incursion, not a lost person. Do not plan around a possible after-the-event legal defence.
+
+Sources: [in-force Victorian trap regulations](https://www.legislation.vic.gov.au/in-force/statutory-rules/prevention-cruelty-animals-regulations-2019/004), [leghold traps](https://agriculture.vic.gov.au/biosecurity/pest-animals/trapping-pest-animals/leghold-traps), [confinement traps](https://agriculture.vic.gov.au/biosecurity/pest-animals/trapping-pest-animals/confinement-traps), [animal-welfare approvals](https://agriculture.vic.gov.au/livestock-and-animals/animal-welfare-victoria/pocta-act-1986/animal-welfare-licences-and-approvals) and [Victorian hunting welfare code](https://agriculture.vic.gov.au/livestock-and-animals/animal-welfare-victoria/pocta-act-1986/victorian-codes-of-practice-for-animal-welfare/code-of-practice-for-the-welfare-of-animals-in-hunting-revision-no-1). Rules and approvals can change.
+
+### A rabbit trap is a complete system
+
+Every answer must be **yes** before a trap is set:
+
+1. Is it positively identified as a European rabbit—not a hare, native animal or pet?
+2. Is the exact method lawful here today, with every required permission or approval?
+3. Is the purpose-made trap compliant and familiar, and can you inspect it as regularly as possible rather than treating the legal maximum as a target interval?
+4. Can you prevent and safely manage an injured or non-target capture?
+5. Can you humanely kill a captured rabbit as soon as reasonably possible, using a reviewed method and suitable equipment?
+6. Do you positively know the site's baiting and poison-treatment history, have no chemical concern, see no abnormal behaviour or disease sign, and have a safe way to dress, cool and cook the rabbit hygienically?
+7. Can you do this without weakening rescue, shelter, warmth or the water plan?
+
+Any **no** or **unknown** means **do not set the trap**. This edition deliberately withholds dispatch, field-dressing and rabbit-cooking steps until the exact methods have animal-welfare and wild-game food-safety review.
+
+### Rabbit signs are for observation, not trap placement
+
+European rabbits are usually active from late afternoon to early morning. Warrens, dung heaps, short-grazed patches, scratchings and seedlings cut at about 45 degrees may show activity. They often use well-drained ground and cover near creek banks, gullies, rocks, logs, scrub, buildings or debris.
+
+These signs do **not** prove species, permission, a safe trap site or safe food. Observe from the safe waiting place. Do not reach into a burrow or follow signs away from rescue visibility.
+
+European hares are larger and use shallow above-ground resting places rather than rabbit warrens. A rule applying to a rabbit trap does not automatically apply to a hare. This edition has no hare-trapping method.
+
+Sources: [Agriculture Victoria European rabbit](https://agriculture.vic.gov.au/biosecurity/pest-animals/established-pest-animal-species/european-rabbit), [integrated rabbit control](https://agriculture.vic.gov.au/biosecurity/pest-animals/invasive-animal-management/integrated-rabbit-control) and [European hare](https://agriculture.vic.gov.au/biosecurity/pest-animals/established-pest-animal-species/european-hare).
+
+### How much food might rabbit provide?
+
+The Australian Food Composition Database provides this **food comparison**, not a wild-rabbit yield:
+
+| Database food | Energy per 100 g edible meat | Protein | Fat |
+|---|---:|---:|---:|
+| Farmed rabbit, whole meat, raw; bone and offal removed | 472 kJ / about 113 kcal | 23.2 g | 2.1 g |
+| Rabbit flesh, casseroled without added fat | 712 kJ / about 170 kcal | 29.3 g | 5.7 g |
+
+These are farmed or retail samples, not wild Victorian animals; the cooked record is old and partly derived. A carcass is not 100% edible meat, and cooking changes weight. **Do not convert carcass weight into calories.** Taste is not an identity or safety test.
+
+Source: [FSANZ Australian Food Composition Database](https://www.foodstandards.gov.au/science-data/food-nutrient-databases/afcd). The records used are F007601 and F007602.
+
+### Other small animals — quick exclusions
+
+| Animal or source | Victoria-focused decision |
+|---|---|
+| Native mammals, birds, reptiles, frogs or eggs | **Do not take or trap them using this guide.** Native wildlife is protected unless a specific lawful authority applies. |
+| Rats or mice | **Do not use as food.** Low return, native-rodent confusion, disease and poison risk outweigh possible energy. |
+| Roadkill or an animal found dead | **Do not eat it.** Time, temperature, injury, disease, poison and contamination are unknown. |
+| Rabbit where baiting or poison-treatment history is positive or unknown | **Do not eat it.** Do not assume cooking makes a possibly poisoned rabbit safe; this guide supplies no clearance method. |
+| Yabbies | A possible later entry, but only with positive identification, current VFA rules, lawful gear, safe bank access and known crustacean tolerance. Do not transfer fish instructions. |
+| Insects, grubs, snails or worms | No generic Victorian eating rule is supplied. Species, pesticide, parasite and allergy risks make “eat bugs” unsafe advice. |
+
+Victoria protects native wildlife, and permissions that apply to Traditional Owners under particular agreements do not transfer to the general public. Traditional Owner food knowledge is not included merely because it is publicly documented. Inclusion requires direction from the relevant cultural authority, a permission-and-scope review, and attribution agreed with that authority; none of this creates a general capture permission.
+
+Sources: [Victorian wildlife-control authority guide](https://www.vic.gov.au/authority-control-wildlife-application-guide), [Victorian rabbit-bait requirements](https://agriculture.vic.gov.au/farm-management/chemicals/requirements-for-using-1080-and-PAPP-animal-bait/1080-and-papp-animal-bait), [Victorian rodent health advice](https://www.health.vic.gov.au/environmental-health/rodents-pest-control) and [VFA yabby rules](https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/catch-limits-and-closed-seasons/types-of-fish/yabby-freshwater).
+
+## Fishing: before trying to catch a meal
 
 > **WARNING — FISH IDENTITY, WATER SAFETY AND RULES**
 >
@@ -59,7 +144,7 @@ Any **no** or **unknown** means **do not fish**. Clear water, no online alert, o
 
 Safety references: [VFA fishing safety](https://vfa.vic.gov.au/education/fish-safe-fish-smart), [responsible fishing](https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/responsible-fishing-behaviours) and [rule reminders](https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/rule-reminders). This is not a live closure report.
 
-## Only if practised before the emergency
+## Fishing: only if practised before the emergency
 
 ### Assemble one basic fishing rig
 
@@ -369,6 +454,8 @@ Do not eat emergency-caught fish raw or try a quick cold-smoking, salting or sun
 
 ## Read animal signs without chasing them
 
+For rabbits and hares, use the earlier [rabbit signs and legal gate](#rabbit-signs-are-for-observation-not-trap-placement). It is an observation aid, not permission to place a trap.
+
 Look from your known, safe position. Photograph a print straight down with a ruler or another known-size object beside it. Record several prints and the surrounding ground; one partial mark rarely tells the whole story. Note direction, number of toes or hoof divisions, spacing and whether there is a clear trail.
 
 Keep observation separate from inference: “three split-hoof marks in soft mud” is an observation; “a deer went to water this morning” is several assumptions. Do not taste droppings, handle carcasses, reach into dens or follow a trail away from a rescue location. Tracks alone do not establish drinking water or an edible animal.
@@ -431,4 +518,4 @@ Do not handle bats, including an injured one. After a bite or scratch, wash the 
 
 **Sources:** [Victorian Health bat lyssavirus](https://www.health.vic.gov.au/infectious-diseases/rabies-and-australian-bat-lyssavirus), [Australian Immunisation Handbook](https://immunisationhandbook.health.gov.au/contents/vaccine-preventable-diseases/rabies-and-other-lyssaviruses), St John S-168; S-164–S-168.
 
-**Review record:** [EP-008](../../research/evidence-packets/EP-008-victorian-bites-and-stings.md), the [Victorian fish action evidence packet](../../research/FISH_ACTION_EVIDENCE_PACKET.md), the [fish-atlas content and test packet](../../research/FISH_ATLAS_CONTENT_DRAFT.md), the [fish-atlas image-rights packet](../../research/FISH_ATLAS_IMAGE_RIGHTS_PACKET.md), SPECIES_REGISTER, IM-070, IM-116 and IM-173–IM-183. Updated 29 September 2026; rig and uni-knot illustrations, no-removal fishhook holding guidance, bounded already-cleaned-finfish cooking guidance, the pre-cast and scale-fish measurement cards, and an incomplete three-species recognition/legal-disposition atlas are included. The knot diagram and atlas have not passed practical or specialist review. The atlas has no universal terminal action for an unidentified catch, no novice-safe non-colour black-versus-yellowfin bream separator, and incomplete carp, hybrid and redfin views. Species-specific dispatch, bleeding and anatomy-dependent cleaning, field tests and specialist approval remain incomplete, so those procedures are withheld. Shellfish remain warning-only. `FIELD_READY_BUILD` remains `NO`.
+**Review record:** [EP-008](../../research/evidence-packets/EP-008-victorian-bites-and-stings.md), the [Victorian fish action evidence packet](../../research/FISH_ACTION_EVIDENCE_PACKET.md), the [fish-atlas content and test packet](../../research/FISH_ATLAS_CONTENT_DRAFT.md), the [fish-atlas image-rights packet](../../research/FISH_ATLAS_IMAGE_RIGHTS_PACKET.md), D-075, R-497, S-491–S-498, SP-042–SP-043, SR12-31–SR12-32, IM-070, IM-116 and IM-173–IM-183/IM-207. Updated 2 October 2026; the chapter now includes a Victoria-specific rabbit/small-animal gate, legal method table, rabbit/hare observation limits and source-bounded nutrition values. It deliberately gives no improvised snare, deadfall, trap placement, humane-dispatch, rabbit-dressing or rabbit-cooking method. The fishing knot diagram and atlas have not passed practical or specialist review. The atlas has no universal terminal action for an unidentified catch, no novice-safe non-colour black-versus-yellowfin bream separator, and incomplete carp, hybrid and redfin views. Species-specific dispatch, bleeding and anatomy-dependent cleaning, field tests and specialist approval remain incomplete, so those procedures are withheld. Shellfish remain warning-only. `FIELD_READY_BUILD` remains `NO`.

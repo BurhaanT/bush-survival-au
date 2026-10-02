@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1800" viewBox="0 0 1000 1800" role="img" aria-labelledby="title desc">
+  <title id="title">Victoria rabbit trapping and food decision gate</title>
+  <desc id="desc">A working two-panel decision card. Panel A says not to make or set an improvised snare, deadfall or leg-hold trap in Victoria and summarises the permission boundary for compliant rabbit leg-hold and confinement traps. Panel B requires positive rabbit identity, lawful permission, a compliant familiar trap, regular inspection and non-target care, humane dispatch competence, positively known site baiting and poison-treatment history, disease checks, hygienic processing and no loss of higher survival priorities. Any no or unknown answer means do not trap or eat. The card includes farmed-rabbit food-composition values only as a comparison and gives no trap construction, bait, placement, dispatch, cutting or cooking method.</desc>
+  <defs>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.blue{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.amberBox{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.footer{fill:#fff0ed}
+      .title{font:700 40px Arial,sans-serif;fill:#173f35}.status{font:700 21px Arial,sans-serif;fill:#77551c}.head{font:700 28px Arial,sans-serif;fill:#173f35}.midhead{font:700 25px Arial,sans-serif;fill:#173f35}.body{font:24px Arial,sans-serif;fill:#344c41}.small{font:22px Arial,sans-serif;fill:#344c41}.limit{font:700 22px Arial,sans-serif;fill:#7a2926}.amber{fill:#7b5114}.red{fill:#7a2926}.footText{font:700 19px Arial,sans-serif;fill:#7a2926}.yes{fill:#eaf5eb;stroke:#244a3c;stroke-width:3}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="1800"/>
+
+  <!-- PANEL A: 0–900 -->
+  <text class="title" x="34" y="58">RABBIT FOOD — NO SNARE SHORTCUT</text>
+  <text class="status" x="966" y="94" text-anchor="end">WORKING CARD · PANEL A OF 2 · VICTORIA</text>
+
+  <rect class="warn" x="34" y="118" width="932" height="164" rx="10"/>
+  <text class="midhead red" x="58" y="158">STOP — DO NOT IMPROVISE A SNARE OR DEADFALL</text>
+  <text class="body" x="58" y="198">Non-kill snares and kill traps require prior Victorian approval.</text>
+  <text class="body" x="58" y="233">A rabbit leg-hold or cage trap still needs lawful equipment, permission,</text>
+  <text class="limit" x="58" y="268">checking, non-target care and humane dispatch. Hunger is not a blanket exception.</text>
+
+  <rect class="amberBox" x="34" y="304" width="932" height="122" rx="10"/>
+  <text class="midhead amber" x="58" y="344">CONFIDENCE + LIMIT</text>
+  <text class="small" x="58" y="380">High evidence confidence for trap categories; Moderate for this short legal summary.</text>
+  <text class="small" x="58" y="410">94% wording estimate only — not legal advice, food safety or survival odds.</text>
+
+  <rect class="blue" x="34" y="450" width="932" height="108" rx="10"/>
+  <text class="head" x="58" y="490">IMPROVISED WIRE / CORD SNARE OR DEADFALL</text>
+  <text class="limit" x="58" y="530">DO NOT MAKE OR SET ONE. No bait or placement method is supplied.</text>
+
+  <rect class="box" x="34" y="580" width="932" height="118" rx="10"/>
+  <text class="head" x="58" y="620">COMPLIANT SMALL LEG-HOLD TRAP</text>
+  <text class="body" x="58" y="657">Rabbits only · private land with owner/occupier approval · never possess or</text>
+  <text class="limit" x="58" y="688">use on Crown land · urban use also needs Ministerial approval.</text>
+
+  <rect class="box" x="34" y="710" width="932" height="132" rx="10"/>
+  <text class="head" x="58" y="748">COMPLIANT CONFINEMENT / CAGE TRAP</text>
+  <text class="small" x="58" y="787">Prior land consent · minimise injury and non-target capture · inspect as often as possible.</text>
+  <text class="limit" x="58" y="824">The legal maximum is not a target · humane killing as soon as reasonably possible.</text>
+
+  <rect class="footer" x="0" y="852" width="1000" height="48"/>
+  <text class="footText" x="500" y="883" text-anchor="middle">PRE-PLANNED SYSTEMS ONLY · READ PANEL B · NEVER USE THIS PANEL DETACHED</text>
+
+  <!-- PANEL B: 900–1800 -->
+  <text class="title" x="34" y="958">CAPTURE IS NOT YET FOOD</text>
+  <text class="status" x="966" y="994" text-anchor="end">WORKING CARD · PANEL B OF 2 · PANEL A CONTROLS</text>
+
+  <rect class="amberBox" x="34" y="1018" width="932" height="102" rx="10"/>
+  <text class="midhead amber" x="58" y="1057">EVERY CHECK MUST BE YES BEFORE A TRAP IS SET</text>
+  <text class="limit" x="58" y="1095">One NO or UNKNOWN = DO NOT TRAP. Keep rescue, warmth, shelter and water first.</text>
+
+  <rect class="yes" x="34" y="1142" width="932" height="356" rx="10"/>
+  <text class="body" x="58" y="1180">□ Positive European-rabbit identity — not hare, native animal or pet</text>
+  <text class="body" x="58" y="1220">□ Exact method lawful here today; required permission or approval held</text>
+  <text class="body" x="58" y="1260">□ Purpose-made compliant trap; already trained to use and inspect it</text>
+  <text class="body" x="58" y="1300">□ Safe plan for weather, non-target capture and an injured animal</text>
+  <text class="body" x="58" y="1340">□ Reviewed humane-dispatch skill and suitable equipment</text>
+  <text class="body" x="58" y="1380">□ Site baiting and poison-treatment history positively known — unknown = STOP</text>
+  <text class="body" x="58" y="1420">□ Live capture; no abnormal behaviour, disease sign or chemical concern</text>
+  <text class="body" x="58" y="1460">□ Hygienic dressing, cooling and cooking can be completed safely</text>
+  <text class="limit" x="58" y="1490">This card supplies none of the missing capture, dispatch or processing methods.</text>
+
+  <rect class="blue" x="34" y="1512" width="932" height="190" rx="10"/>
+  <text class="head" x="58" y="1548">FOOD VALUE — COMPARISON ONLY</text>
+  <text class="body" x="58" y="1584">Farmed rabbit, raw meat: 472 kJ / about 113 kcal per 100 g.</text>
+  <text class="body" x="58" y="1620">Casseroled rabbit flesh, no added fat: 712 kJ / about 170 kcal per 100 g.</text>
+  <text class="small" x="58" y="1656">FSANZ records F007601 and F007602. Not wild-rabbit values or carcass yield.</text>
+  <text class="limit" x="58" y="1688">Do not budget calories until matching edible cooked flesh is weighed.</text>
+
+  <rect class="warn" x="34" y="1712" width="932" height="58" rx="10"/>
+  <text class="midhead red" x="58" y="1738">SIGNS ARE NOT PERMISSION OR PLACEMENT</text>
+  <text class="small" x="58" y="1762">Warrens, dung or grazing marks do not clear species, land, trap or food.</text>
+
+  <rect class="footer" x="0" y="1776" width="1000" height="24"/>
+  <text class="footText" x="500" y="1794" text-anchor="middle">NO CONSTRUCTION · NO PLACEMENT · NO DISPATCH · NOT FIELD-APPROVED</text>
+</svg>
