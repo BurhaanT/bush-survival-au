@@ -22,15 +22,18 @@ test('GitHub Pages base paths cover root, project and configured sites', () => {
   assert.throws(() => normalisePagesBase('/unsafe?query/'), /safe absolute URL path/);
 });
 
-test('Enterprise Pages workflow requires the reader at the site root behind an explicit deploy gate', async () => {
+test('Pages workflow follows GitHub\'s reported base path behind an explicit deploy gate', async () => {
   const workflow = await readFile(path.join(projectRoot, '.github/workflows/deploy-pages.yml'), 'utf8');
-  assert.match(workflow, /Require a site-root Pages URL/);
+  assert.doesNotMatch(workflow, /Require a site-root Pages URL/);
+  assert.match(workflow, /Report Pages target and visibility/);
+  assert.match(workflow, /REPORTED_PAGES_BASE_URL: \$\{\{ steps\.pages\.outputs\.base_url \}\}/);
   assert.match(workflow, /REPORTED_PAGES_BASE_PATH: \$\{\{ steps\.pages\.outputs\.base_path \}\}/);
   assert.equal((workflow.match(/PAGES_BASE_PATH: \$\{\{ steps\.pages\.outputs\.base_path \}\}\//g) || []).length, 2);
-  assert.equal((workflow.match(/Require private Enterprise Pages access/g) || []).length, 1);
   assert.equal((workflow.match(/\$GITHUB_API_URL\/repos\/\$GITHUB_REPOSITORY\/pages/g) || []).length, 1);
   assert.match(workflow, /jq -er 'if \(has\("public"\) and \(\.public \| type == "boolean"\)\) then \(\.public \| tostring\)/);
-  assert.match(workflow, /if \[\[ "\$pages_public" != "false" \]\]/);
+  assert.match(workflow, /if \[\[ "\$pages_public" == "true" \]\]/);
+  assert.match(workflow, /Pages site as publicly accessible/);
+  assert.doesNotMatch(workflow, /PAGES_BASE_PATH: \/bush-survival-au\//);
   assert.match(workflow, /if: \$\{\{ vars\.PUBLISH_BOOK_READER == 'YES' \}\}/);
   assert.match(workflow, /path: reader\/dist-pages/);
 });

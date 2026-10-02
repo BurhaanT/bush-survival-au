@@ -1,5 +1,13 @@
 # Decision log
 
+## D-073 — Use the public project URL now and keep deployment-base handling adaptive
+
+- **Date:** 2 October 2026.
+- **Decision:** Supersede D-072's private-site and site-root-only deployment restriction. The founder has explicitly authorised the current public GitHub Pages project site at `https://burhaantargett.tech/bush-survival-au/`. A later project-specific custom domain such as `survival.burhaantargett.tech` is desirable, but changing to it must not require edits to the reader source.
+- **Routing and artifact boundary:** Treat the `base_path` reported by `actions/configure-pages` as authoritative and pass it unchanged into the static build and artifact check. The current project site reports `/bush-survival-au`; a future custom-domain/root deployment can report an empty base instead. The same source and workflow must support either result without a hard-coded repository name or domain. Continue publishing only `reader/dist-pages` through the custom GitHub Actions workflow; do not publish the repository checkout or use branch-root Pages.
+- **Observed configuration and release switch:** GitHub currently reports owner type `User`, repository visibility `public`, Pages visibility `public`, build type `workflow`, and project base `/bush-survival-au`. `PUBLISH_BOOK_READER=YES` remains the separate explicit deployment switch. A later subdomain still requires GitHub Pages and DNS configuration, but not a source-code routing change.
+- **Boundary retained:** This decision supersedes D-072 only for hosting visibility and URL topology. It does not clear D-039/D-040, Indigenous Cultural and Intellectual Property, attribution, licence or image-reuse concerns, and public hosting removes any expectation that the bundled manuscript or images remain private. It does not approve any survival instruction, image, cultural material or PDF. `FIELD_READY_BUILD=NO` remains controlling. R-496 and WEB-QA-003 record the current platform state and the pending integration verification.
+
 ## D-072 — Host only as a private Enterprise project site at the site root
 
 - **Date:** 1 October 2026.

@@ -10,13 +10,13 @@ Double-click **Open Book Reader.vbs** in this folder. It opens a read-only, book
 
 The reader follows edits to the original Markdown; it does not keep a second manuscript. All 15 chapters now contain readable content. The older emergency review sample remains separate and is not the current manuscript. This is not a field-ready edition or a final PDF proof. [Reader instructions and limits](reader/README.md).
 
-## Private Enterprise Pages hosting
+## GitHub Pages hosting
 
-The same themed reader is prepared for a private GitHub Enterprise Cloud Pages **project site**. The build-checked `reader/dist-pages` artifact becomes the website root: the reader is at `/` and the full-book print view is at `/print/`. Pages must use **GitHub Actions** as its source; do not use the repository branch root as the publishing source.
+The same themed reader is prepared for the public project address [https://burhaantargett.tech/bush-survival-au/](https://burhaantargett.tech/bush-survival-au/). Pages must use **GitHub Actions** as its source; do not publish the repository branch root. The workflow builds and uploads only `reader/dist-pages`, using the base path reported by GitHub so its links and assets work beneath `/bush-survival-au/`.
 
-Nothing has been deployed. The current `BurhaanT/bush-survival-au` remote is under a personal account and does not qualify for private Enterprise Pages access control. It must first be moved to, or replaced by, a private organisation-owned repository in the intended Enterprise Cloud account. After **Settings → Pages → Source** is set to **GitHub Actions** and **Visibility** is set to **Private**, set the Actions variable `PUBLISH_BOOK_READER` to `YES`. The workflow refuses to deploy if GitHub reports either a non-root Pages path or a public site.
+The repository and Pages site are public. Deploying makes the allowlisted manuscript records and all bundled registered images publicly accessible. The Actions variable `PUBLISH_BOOK_READER=YES` is the explicit deployment switch, not a field-readiness or rights approval. `FIELD_READY_BUILD=NO` remains controlling, and unresolved image-rights, copyright, ICIP, cultural-authority and safety warnings still require review.
 
-Read [the Enterprise Pages setup, access and rights notes](GITHUB_PAGES.md) before enabling the variable. Keep repository read access limited to the intended private reader or readers. Public or wider sharing remains blocked by the private-copy ICIP, image-rights and disclosure controls; `noindex` is not access control.
+A future project-specific custom domain such as `survival.burhaantargett.tech` should require only GitHub Pages and DNS configuration. The existing build reads GitHub's configured base path, so the same source can move from `/bush-survival-au/` to the custom domain root without hard-coded path edits. Read [the GitHub Pages setup, public-disclosure and custom-domain notes](GITHUB_PAGES.md) before deploying.
 
 ## Project records
 
