@@ -12,11 +12,11 @@ The reader follows edits to the original Markdown; it does not keep a second man
 
 ## GitHub Pages hosting
 
-The same themed reader is prepared for the public project address [https://burhaantargett.tech/bush-survival-au/](https://burhaantargett.tech/bush-survival-au/). Pages must use **GitHub Actions** as its source; do not publish the repository branch root. The workflow builds and uploads only `reader/dist-pages`, using the base path reported by GitHub so its links and assets work beneath `/bush-survival-au/`.
+The same themed reader is live at the public project address [https://burhaantargett.tech/bush-survival-au/](https://burhaantargett.tech/bush-survival-au/). The deployment of commit `c8eb207` completed successfully, and HTTP checks confirmed the reader, print view, a registered diagram, and the generated JavaScript and CSS assets. Pages uses **GitHub Actions** as its source; do not publish the repository branch root. The workflow builds and uploads only `reader/dist-pages`, using the base path reported by GitHub so its links and assets work beneath `/bush-survival-au/`.
 
 The repository and Pages site are public. Deploying makes the allowlisted manuscript records and all bundled registered images publicly accessible. The Actions variable `PUBLISH_BOOK_READER=YES` is the explicit deployment switch, not a field-readiness or rights approval. `FIELD_READY_BUILD=NO` remains controlling, and unresolved image-rights, copyright, ICIP, cultural-authority and safety warnings still require review.
 
-A future project-specific custom domain such as `survival.burhaantargett.tech` should require only GitHub Pages and DNS configuration. The existing build reads GitHub's configured base path, so the same source can move from `/bush-survival-au/` to the custom domain root without hard-coded path edits. Read [the GitHub Pages setup, public-disclosure and custom-domain notes](GITHUB_PAGES.md) before deploying.
+A future project-specific custom domain such as `survival.burhaantargett.tech` should require only GitHub Pages and DNS configuration. The existing build reads GitHub's configured base path, so the same source can move from `/bush-survival-au/` to the custom domain root without hard-coded path edits. That future subdomain arrangement has not yet been tested. Read [the GitHub Pages setup, public-disclosure and custom-domain notes](GITHUB_PAGES.md) before changing it.
 
 ## Project records
 

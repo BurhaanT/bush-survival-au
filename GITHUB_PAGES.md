@@ -6,7 +6,7 @@ The currently selected public address is:
 
 `https://burhaantargett.tech/bush-survival-au/`
 
-No successful Pages deployment of this build has happened yet.
+The site is live. [Actions run 36949573814](https://github.com/BurhaanT/bush-survival-au/actions/runs/36949573814) successfully built and deployed commit `c8eb207`. Post-deployment HTTP checks returned `200` for the reader, `/print/`, `shelter-layers.svg`, and the exact reader, shared JavaScript and CSS asset URLs emitted by that build.
 
 > **PUBLIC DISCLOSURE WARNING.** The repository and Pages site are currently public. Deploying exposes the complete allowlisted hosted bundle, including its manuscript content and registered images, to anyone who has the URL and potentially to search engines, archiving services and automated downloaders. `PUBLISH_BOOK_READER=YES` is the explicit deployment switch; it is not a safety approval. The guide remains marked `FIELD_READY_BUILD=NO`. Unresolved copyright, image-rights, Indigenous Cultural and Intellectual Property (ICIP), cultural-authority, factual and safety questions remain warnings requiring review. The decision to use the current public URL does not clear or waive any of them.
 
@@ -25,7 +25,7 @@ Do not hard-code `/bush-survival-au/` into the application. If a dedicated custo
 - `https://survival.burhaantargett.tech/`; and
 - `https://survival.burhaantargett.tech/print/`.
 
-That later move should require GitHub Pages and DNS configuration, not source edits. The workflow still uploads only `reader/dist-pages`; its contents become the published site content at whichever base path GitHub reports. GitHub's workflow arrangement is described in its [custom Pages workflow guide](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
+That later move should require GitHub Pages and DNS configuration, not source edits. The workflow still uploads only `reader/dist-pages`; its contents become the published site content at whichever base path GitHub reports. The current `/bush-survival-au/` deployment is verified; the future dedicated-subdomain configuration has not yet been tested. GitHub's workflow arrangement is described in its [custom Pages workflow guide](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
 
 ## What the public snapshot contains
 
