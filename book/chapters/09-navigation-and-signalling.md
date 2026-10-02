@@ -6,15 +6,22 @@
 >
 > Knowing which way is north is not the same as knowing a safe way out. Do not cross dangerous ground because a compass, phone or straight line points towards a destination.
 
-## Locate yourself before planning movement
+## Do this now
 
-Keep still while checking a map. Find a named point you definitely recognised earlier, then compare the track, direction of travel and elapsed time with what is around you now.
+1. **Stop in a safe place.** Do not keep walking while studying a map or phone.
+2. **Alert rescuers.** Use 000, satellite SOS or a PLB as appropriate. Communication comes before teaching yourself navigation.
+3. **Copy what the device shows.** Write the location exactly as displayed, including its format. Do not round, swap or convert the numbers.
+4. **If the map, device and ground disagree, write `POSITION UNCERTAIN`.** Report the disagreement and use the [STOP / NO–UNKNOWN decision](04-stay-or-move.md). A compass direction is not an escape route.
+5. **Keep people, shelter and signals together** at or beside the safe reported waiting place. Do not move merely to add a signal.
+6. **Layer safe signals:** bright contrast by day; three short whistle blasts with pauses; a purpose-made mirror in sunlight; controlled torch flashes at night. Never use a signal fire or laser.
 
-Use several matching features. One bend in a creek or one hill shape can fit many places. If the map and ground disagree, label your position uncertain; do not force them to match.
+A possible reply, light or aircraft pass is not confirmed contact. Continue the rescue plan until a responsible responder gives direct instructions.
 
-A satellite position can be available without mobile coverage, but the map may be missing unless downloaded. A blank map behind a dot is not a usable route. Phone position, mobile calling and satellite SOS are different functions.
+## Record and report your location
 
-Write down coordinates exactly as displayed and provide the format to rescuers. See [Emergency communication](03-emergency-communication.md). Do not round, swap or mentally convert numbers under pressure.
+Keep still. Compare several known features with the track, direction travelled and elapsed time. One creek bend or hill shape is not enough. If the map and ground disagree, do not force them to match.
+
+A phone may show a satellite position without mobile coverage, but a missing map behind the dot gives no route. Phone position, mobile calling and satellite SOS are different functions. Copy the displayed location and format exactly for [Emergency communication](03-emergency-communication.md).
 
 > **WARNING — WORKING LOCATION CARD, NOT A ROUTE OR POSITION GUARANTEE**
 >
@@ -27,26 +34,6 @@ Write down coordinates exactly as displayed and provide the format to rescuers. 
 *IM-184. Original working location-record card based on EP-013, current Victorian mapping and emergency-location sources S-046, S-047, S-171 and S-241–S-244. It contains no coordinate example, conversion, route recommendation, route to follow, bearing, movement arrow or implied accuracy. It has not been approved by Victorian search and rescue, a geospatial specialist or stressed readers.*
 
 **Sources:** [Victorian map access](https://www.land.vic.gov.au/maps-and-spatial/maps/how-to-access-a-map), S-241; GNSS and communications comparisons in EP-001/EP-013, S-043–S-047, S-244–S-245.
-
-## Read what a paper map can actually tell you
-
-**Scale** is the relationship between map and ground. On a 1:25,000 map, 1 cm represents 250 m horizontally. On a 1:50,000 map it represents 500 m. This is arithmetic, not a walking-time estimate.
-
-**Contour lines** join points of equal height. The legend states the height interval. Closely spaced contours usually mean steeper ground; widely spaced ones usually mean gentler ground. A small-scale map can hide cliffs and obstacles.
-
-Read the legend for tracks, roads, watercourses and boundaries. A mapped watercourse may be dry. A mapped track may be closed, overgrown or impassable. Check the edition date and current closures before relying on access.
-
-**Sources:** [Geoscience Australia map guide](https://www.ga.gov.au/image_cache/GA7194.pdf) and Victorian map guidance above; S-241–S-243. Examples explain map reading, not a proposed route.
-
-## Use a compass as a check, not an escape instruction
-
-Hold the compass level and away from the vehicle, phone, knife and other metal or magnetic objects. Allow the needle to settle. Compare the direction you expected with the map and known features.
-
-**Magnetic north, map grid north and true north are different.** Victorian map sheets and compass models require the correct local adjustment. Do not apply a statewide “add this many degrees” shortcut or mix a pre-adjusted compass with a second correction.
-
-If you have never practised setting and following a bearing, the immediate task is to communicate your position and avoid wandering, not learn cross-country navigation in an emergency.
-
-**Sources:** [Victorian grid and magnetic information](https://www.land.vic.gov.au/maps-and-spatial/maps/how-to-access-a-map/map-grids-and-magnetic-information), Geoscience Australia S-243 and exact compass manuals S-259.
 
 ## Make your waiting place easier to find
 
@@ -93,5 +80,18 @@ A purpose-made signal mirror can help in sunlight. Use its aiming instructions. 
 Stay visible and follow their directions. Do not run after an aircraft or approach a helicopter until crew explicitly instructs you. Secure loose items before rotor wash reaches them if this can be done without leaving safety. Do not try to create a landing pad or direct a landing with improvised signals.
 
 When ground rescuers reach you, give the last condition changes, care already provided and medicines/times. Tell them about anyone separated from the group.
+
+## Learn before a trip: map and compass
+
+Practise this before an emergency. Do not use it as permission to move when lost.
+
+- **Scale:** on a 1:25,000 map, 1 cm represents 250 m horizontally; on a 1:50,000 map, 1 cm represents 500 m. That is not a walking-time estimate.
+- **Contours:** close lines usually mean steeper ground and wide lines gentler ground. The legend gives the contour interval. Maps can still hide cliffs and obstacles.
+- **Symbols:** a mapped track may be closed or overgrown; a watercourse may be dry. Check the edition and current closures.
+- **Compass:** hold it level and away from vehicles, phones, knives and other metal or magnetic objects. Magnetic north, grid north and true north differ. Use the exact map and compass instructions; there is no safe statewide correction shortcut.
+
+If you have not practised bearings, an emergency is the wrong time to learn cross-country navigation. Report your position and avoid wandering.
+
+**Sources:** [Geoscience Australia map guide](https://www.ga.gov.au/image_cache/GA7194.pdf), [Victorian grid and magnetic information](https://www.land.vic.gov.au/maps-and-spatial/maps/how-to-access-a-map/map-grids-and-magnetic-information), S-241–S-243 and exact compass manuals S-259.
 
 **Review record:** [EP-013](../../research/evidence-packets/EP-013-navigation-and-non-fire-signalling.md), EP-009 and S-240. Current Victorian mapping and emergency-location sources supporting IM-184, and the February 2026 National Search and Rescue Manual plus Victorian sources supporting IM-185/IM-206, were checked again 30 September 2026. No practical navigation, position-reporting, hearing-safety, signal-visibility, complete-card, detached-panel or stressed-reader test has been performed.

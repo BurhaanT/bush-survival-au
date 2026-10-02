@@ -4,7 +4,40 @@
 >
 > **Evidence confidence: High for agreement with the cited Australian first-aid guidance.** This is not a percentage, proof of successful treatment, or independent approval of this manuscript.
 >
+> **Estimated confidence in the accuracy of the core wording: 95%; estimated confidence in the completeness of this untested field layout: 70%.** These are subjective editorial estimates, not probabilities of correct diagnosis, treatment, recovery or survival.
+>
 > These instructions cannot diagnose illness or replace practical training. Call **000** for serious illness or injury and follow the call-taker. Additional boxes identify genuine uncertainties. Exact medicine plans and device labels control where stated.
+
+## Do this now
+
+1. **Check for danger.** Do not enter fire, traffic, unstable ground, floodwater, electricity, fumes or another hazard and become a second casualty.
+2. **Control obvious life-threatening bleeding.** Press firmly on the wound. If another capable person is present, have them keep pressure on it.
+3. **Check response and normal breathing.** Gasping, absent breathing or breathing you are unsure about is **not normal**.
+4. **Call 000 on speaker.** Say what happened, the exact location and whether the person is responsive and breathing normally. Follow the call-taker.
+5. **If the person is unresponsive and not breathing normally, start CPR on a firm surface.** If they are unresponsive but breathing normally, use the adult/child recovery-position section below and keep checking breathing. This guide does not teach infant side-position mechanics.
+
+If life-threatening bleeding and abnormal breathing happen together and you are alone, call 000 on speaker and follow the call-taker. This guide does not invent a priority for that situation. With more than one capable helper, one keeps pressure on the wound while another starts the airway, breathing and CPR response.
+
+**With a first-aid kit:** bring it and an AED to the person when this does not delay the actions above. Use exact labels and personal action plans.
+
+**Without a first-aid kit:** use your hands, clothing and shelter only as each section permits. Do not delay lifesaving care while searching for equipment.
+
+## Find the urgent action
+
+| What you see | Do now | Go to |
+|---|---|---|
+| Unresponsive; gasping; absent or uncertain breathing | 000 on speaker; start CPR on a firm surface | [Unresponsive or not breathing normally](#unresponsive-or-not-breathing-normally) |
+| Unresponsive but breathing normally | Keep the airway open; use the adult/child side-position route and watch breathing continuously | [Unconscious but breathing normally](#unconscious-but-breathing-normally) |
+| Blood flowing heavily, spurting or pooling | Press firmly on the wound; call 000 | [Severe bleeding](#severe-bleeding) |
+| Suspected snakebite | Keep the person completely still; call 000 | [Suspected snakebite](#suspected-snakebite) |
+| Sudden severe allergy, breathing trouble or collapse after possible allergen contact | Give the person's own adrenaline device first if available and as its exact plan says; then call 000 | [Anaphylaxis](#anaphylaxis-a-severe-allergic-reaction) |
+| Cannot cough effectively, speak or breathe | Call 000; use the age-appropriate choking sequence | [Choking](#choking) |
+| Person in water | Call 000; use a reach-or-throw rescue from secure land; do not make an untrained entry | [Water trouble](#a-person-has-been-in-trouble-in-water) |
+| Ordinary external heat burn in a safe scene | Stop the burning; use cool running water for at least 20 minutes; keep unburned areas warm | [Burns](#burns) |
+| Severe or rapidly worsening breathing trouble | Call 000 now; use the exact personal plan or device-specific route | [Asthma or severe breathing difficulty](#asthma-or-severe-breathing-difficulty) |
+| Serious illness, collapse, confusion or rapid deterioration with no clear cause | Call 000; check response and normal breathing; use the matching section if one becomes clear | [Seriously unwell](#someone-is-seriously-unwell-and-you-are-not-sure-why) |
+
+Do not use this table as a diagnosis or a reason to delay 000. Use the detailed section immediately after the first action.
 
 ## Unresponsive or not breathing normally
 

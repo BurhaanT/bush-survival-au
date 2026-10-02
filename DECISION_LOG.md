@@ -1,5 +1,14 @@
 # Decision log
 
+## D-074 — Put the next safe action before research detail
+
+- **Date:** 2 October 2026.
+- **Decision:** Treat action latency as a safety and usability defect. Every incident-facing chapter now begins with a short **Do this now** route, followed by the smallest useful decision branches, stop rules and checks. Background, source comparison, internal IDs and unusual cases follow the action layer. First aid has a symptom-to-action index. Plant, food and fishing chapters separate stranded-now actions from pre-learned skills and reference atlases.
+- **Reader presentation:** Group the contents into start, emergency actions, Victoria/field reference, and before-you-go/limits. Keep a visible **First actions** shortcut. Give action, stop and reference headings distinct styling without hiding warnings or changing the canonical Markdown.
+- **Concision result:** Chapters 1–5 fell from 6,280 to 4,074 words. Preparation fell from 1,121 to 679 words and the field-facing limitations chapter from 1,607 to 593. The complete manuscript fell from 72,261 to 66,662 whitespace-counted words. First aid remains detailed because high-consequence methods and limitations were retained, but its urgent route now appears before them. The plant atlas remains long behind a clear reference boundary rather than being mistaken for an early survival priority.
+- **Safety boundary:** Shortening cannot remove a condition, stop rule, uncertainty, kit/no-kit route, cultural attribution, diagnostic feature or safer fallback. Consequential material retains the required preceding warning and subjective wording-confidence percentage. No fact or method gains approval through this edit; specialist and stressed-reader review remain open and `FIELD_READY_BUILD=NO` remains controlling.
+- **Enforcement:** The new action-first emergency-use check is part of `CONTENT_VALIDATION_GATE.md` and the two style guides. QA-036 records the structural, reader and build checks.
+
 ## D-073 — Use the public project URL now and keep deployment-base handling adaptive
 
 - **Date:** 2 October 2026.

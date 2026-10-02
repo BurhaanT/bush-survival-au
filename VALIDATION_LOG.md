@@ -34,6 +34,16 @@
 
 ## Active personal-edition content checks
 
+### QA-036 — Action-first manuscript and emergency-reader navigation, working manuscript 0.13
+
+- **Date:** 2 October 2026.
+- **Scope delivered:** D-074 restructures all practical chapters around the next safe action. Chapters 1–5 now lead with short immediate routes and decision branches; Chapter 6 begins with a five-step response and symptom-to-action index; Chapters 7–10 put water, fire, location/signalling and regional decisions first; Chapters 11–12 separate stranded-now actions from pre-learned techniques and reference atlases; Chapter 13 is a concise before-you-go checklist; and Chapter 14 is a short field-facing limitations page. The reader groups emergency and reference chapters, keeps a visible First actions shortcut and visually distinguishes action, stop and reference headings.
+- **Concision result:** The 15 chapters fell from 72,261 to 66,662 whitespace-counted words. Chapters 1–5 fell from 6,280 to 4,074 words, about 35%. Preparation fell from 1,121 to 679 words; the limitations chapter fell from 1,607 to 593. Chapter 11 remains long because plant diagnostics, image limits, Country-specific attribution, preparation boundaries and stop rules remain intact behind a clear reference boundary. No species was promoted to edible status.
+- **Safety preservation:** The edit retained all 145 registered image placements, kit/no-kit medical routes, the unresolved simultaneous-bleeding/abnormal-breathing boundary, plant and fish identity limits, cultural attribution and `FIELD_READY_BUILD=NO`. The chapters contain 102 warning blockquotes. Reduced repetition does not represent clinical, botanical, fire, water, search-and-rescue, food-safety, cultural or practical approval.
+- **Structure and working manuscript:** `build/check-project.ps1` reports `PASS - file structure only; not safety approval`: 90 non-generated Markdown files, 490 defined and uniquely referenced source IDs, 582 local document/image links, 15 chapters, 66,662 chapter words, 102 chapter warning boxes and 226 assembled links. The regenerated working Markdown is 497,010 bytes with SHA-256 `801EAF70C84D20D688673B83CD305636C6CF40EBFC6EF44EC843A29E964D95DC`.
+- **Reader and hosted-build checks:** All 27 reader tests pass; TypeScript and authored-code checks pass. The static Pages build and artifact check pass at the live `/bush-survival-au/` base with both entry pages and all 145 registered assets. The fail-closed public Markdown allowlist was reduced from 64 to 61 because the shortened manuscript no longer reaches three internal review files; the tests and artifact checker now require exactly 61.
+- **Not tested:** No human was timed on the new action routes. No specialist reapproved changed wording, no physical technique was retested, no rendered PDF or physical proof was made, and the live public site still shows the previous deployment until a later commit is pushed and its workflow succeeds. `FIELD_READY_BUILD=NO` remains controlling.
+
 ### QA-035 — Five-mode signalling synthesis, working manuscript 0.12
 
 - **Date:** 30 September 2026.

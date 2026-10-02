@@ -33,10 +33,10 @@ The prepared hosted bundle contains:
 
 - the 15 canonical chapters;
 - the separate emergency review draft;
-- key control and source documents plus linked project records used by the reader—64 Markdown documents at the time of this check; and
+- key control and source documents plus linked project records used by the reader—61 Markdown documents after the action-first edit; and
 - all 145 registered image files, about 99 MB before deployment packaging.
 
-The 64 Markdown paths are fail-closed in [the hosted publication allowlist](reader/lib/pages-public-documents.mjs). A new link cannot silently add another project record to the JavaScript bundle. Changing that list requires a deliberate disclosure, cultural-authority and rights review. Because the current repository and site are public, an included record or asset should be treated as publicly disclosed once pushed and deployed.
+The 61 Markdown paths are fail-closed in [the hosted publication allowlist](reader/lib/pages-public-documents.mjs). A new link cannot silently add another project record to the JavaScript bundle. Changing that list requires a deliberate disclosure, cultural-authority and rights review. Because the current repository and site are public, an included record or asset should be treated as publicly disclosed once pushed and deployed.
 
 The interface retains `WORKING DRAFT`, `NOT FOR EMERGENCY USE` and `FIELD_READY_BUILD=NO`. Public hosting does not make the medical, botanical, cultural, legal, survival or equipment content approved. The site has no dependable offline mode. `noindex` metadata is only a request to search engines and is not access control or a confidentiality guarantee.
 

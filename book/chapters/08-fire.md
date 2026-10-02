@@ -6,6 +6,19 @@
 >
 > Fire can remove every other survival option. This chapter separates **escaping a bushfire** from **choosing to light a small fire**. Permission to camp is not permission to light a fire, and a book cannot confirm today's conditions.
 
+## Do this now
+
+1. **Can you see or smell smoke, see fire, or receive a fire warning for this area?** If yes or unknown, do **not** light anything. Check the current warning if possible, call 000 for immediate danger and follow emergency-service instructions. Use [Smoke or an unexpected fire](#smoke-or-an-unexpected-fire).
+2. **Is there no fire threat, and are you considering lighting a stove or campfire?** Every live rule, site, weather, equipment, water, supervision and exit gate in this chapter must be **yes**. One **no or unknown** means no fire.
+3. **If fire is unavailable, change systems:**
+   - communicate with 000, satellite SOS or a PLB as appropriate;
+   - signal with a whistle, torch, mirror or bright material—not a signal fire;
+   - use shelter, ground insulation, wind protection and dry layers;
+   - use carried safe water and ready-to-eat food; and
+   - keep a torch or headlamp for light.
+
+Fire is optional. Rescue, exposure protection, drinking water and signalling must not depend on it. This guide has no dependable zero-equipment ignition method.
+
 ## Smoke or an unexpected fire
 
 Stop and check the current warning for the actual area if you can. Read the action statement and issue time, not just the coloured symbol. Report an immediate fire emergency to **000**.
@@ -64,14 +77,7 @@ CFA lists a beach, swimming pool, dam or river as a possible last resort only wh
 
 ## Before lighting anything
 
-Ask four separate questions:
-
-1. **Is it legal here now?** Check the district's Total Fire Ban, fire restrictions, the rules set by the organisation responsible for the place, closures and signs.
-2. **Is the exact place suitable?** A park may permit fire only in supplied fireplaces.
-3. **Can it be controlled throughout?** Wind, dry fuel, supervision and water matter.
-4. **Is it needed?** Shelter, insulation, ready-to-eat food or non-fire signalling may already solve the problem.
-
-If any answer is unknown, do not light it.
+Go straight to the [conservative go/no-go rule](#the-books-conservative-gono-go-rule). Every gate must be **yes** before ignition. If permission, place, weather, control or need is unknown, use the no-fire actions at the start of this chapter.
 
 Use your exact location to identify the responsible organisation—such as Parks Victoria, Forest Fire Management Victoria, a council or a private owner—and the fire district. Check the current Total Fire Ban, municipal Fire Danger Period, any separately declared period when fires are prohibited on that public land, park or forest closure, local rule and every site sign. A remembered rule or yesterday's screenshot is not a current check.
 
@@ -138,10 +144,6 @@ If the fire spreads or the exit becomes threatened, move away from danger first.
 A fire is never a safe **no-equipment** method in this guide. The simplest route this edition describes uses a carried lighter or waterproof match and a labelled solid campfire firelighter, but those items only provide ignition. The go/no-go rule still requires a currently authorised fireplace, at least 10 L of separate extinguishing water already in usable vessels or an immediately usable hose, a suitable non-combustible turning tool, currently permitted fuel, a capable watcher and a safe exit. If any part is missing, use the no-fire plan.
 
 Hand-drill and bow-drill fire are sometimes described as “no-equipment” techniques. That description hides the selected materials, manufactured parts, preparation, practice, dry tinder, time and effort they require. They are recorded below as cultural and technical context, not as a dependable emergency instruction.
-
-### If you have no ignition tool
-
-Do not assume the bush will supply a quick replacement for a lost lighter or match. This edition has no approved zero-equipment ignition method. Protect body heat with dry shelter, ground insulation, wind protection and shared warmth; use non-fire signalling and ready-to-eat food; and use emergency communication. Those actions are more dependable than spending critical warmth, daylight or water on an unfamiliar friction-fire attempt.
 
 ## Use a carried ignition only after every condition passes
 
@@ -228,17 +230,5 @@ At any point, if the fire spreads or the exit becomes threatened, move away from
 Do not use soil or dirt to put out the fire. Hidden embers can remain hot and reignite.
 
 **Source detail:** Parks Victoria above and S-216–S-219. The common ten-litre minimum is a rule, not a promise that ten litres will control every fire. Full site restrictions still apply.
-
-## No fire: change systems, do not improvise
-
-If permission, site, weather, fuel, ignition, extinguishing water or supervision fails:
-
-1. Use 000, satellite communication or a PLB as appropriate. Signal with a whistle, torch, mirror and bright material—not a signal fire.
-2. Use shelter, wind and rain protection, ground insulation and dry layers.
-3. Use carried safe drinking water first. If more is needed, use only a route that [Water](07-water.md) currently provides and whose separate equipment, source and heat gates all pass. This edition approves no filter, tablet or UV product route. Never invent a chemical dose.
-4. Eat ready-to-eat carried food rather than food that needs cooking.
-5. Use a torch or headlamp for light.
-
-Fire is optional. Rescue, exposure protection, drinking water and signalling must not depend on it.
 
 **Review record:** [EP-012](../../research/evidence-packets/EP-012-victorian-fire-law-use-and-extinguishment.md) and [EP-015](../../research/evidence-packets/EP-015-bushfire-threat-and-last-resort-shelter.md) retain the earlier evidence history. Current CFA caught-in-the-open, carried-stove-scope and trapped-car pages were rechecked on 29 September 2026 under D-059, D-061, R-481, R-483 and S-484–S-486/S-488–S-489. The rolling-boil simplification is D-060/R-482/S-487. Every carried-ignition, extinguishment and last-resort sequence remains a working draft; no friction-fire, signal-fire or improvised ignition recipe is included.

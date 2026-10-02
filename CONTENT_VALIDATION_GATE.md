@@ -225,6 +225,20 @@ Check that a new reader can explain the instruction in their own words and ident
 
 Simplifying the words must preserve the claim's conditions, quantities, sequence and uncertainty. If the action or meaning changes, reopen its review before approval. The authoring process may record an editorial check but cannot claim an independent reader or specialist test happened.
 
+### Action-first emergency-use check
+
+For any chapter a stranded reader may open during an incident:
+
+- Put the main safe action or decision before background, source discussion and unusual cases.
+- Start each urgent problem with a short **Do this now** route, then concise `if … then …` branches, stop rules and observable checks.
+- Keep each controlling warning before or beside the action it limits. Compress repeated warning boilerplate, but never remove the uncertainty, condition or safer fallback.
+- Give each method once and link back to it. Do not make the reader reconcile several versions of the same procedure.
+- Separate **stranded now** content from **learn before travel** and reference material.
+- Move internal IDs, evidence reconciliation, routine image rights and project QA history out of the emergency reading path while retaining them in the registers.
+- Test whether a new reader can reach the correct first action quickly without being coached. Record the time, route taken, errors and any dangerous interpretation in `VALIDATION_LOG.md`.
+
+A shorter page does not pass this check if it loses a condition or makes an incomplete technique appear usable. A longer reference section may remain in the project, but it must not obscure the emergency route.
+
 A chapter may enter the approved, field-ready combined Markdown edition only when:
 
 - every content unit has an ID and allowed status;
@@ -235,6 +249,7 @@ A chapter may enter the approved, field-ready combined Markdown edition only whe
 - the chapter has a visible edition/review date;
 - a novice usability pass is complete where relevant;
 - the plain-language check passes, with comprehension-test results recorded where required;
+- the action-first emergency-use check passes where the chapter may be used during an incident;
 - unresolved research remains outside the usable chapter.
 
 ## Edition and PDF gate

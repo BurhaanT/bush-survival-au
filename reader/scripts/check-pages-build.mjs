@@ -18,7 +18,7 @@ const [readerHtml, printHtml, manifestText] = await Promise.all([
 ]);
 
 const hostedLibrary = await readLibrary({ publicBase: base, documentAllowlist: pagesPublicDocuments });
-assert.equal(pagesPublicDocuments.length, 64, 'The publication allowlist count changed and requires an explicit rights/disclosure review.');
+assert.equal(pagesPublicDocuments.length, 61, 'The publication allowlist count changed and requires an explicit rights/disclosure review.');
 assert.deepEqual(Object.keys(hostedLibrary.documents).sort(), [...pagesPublicDocuments].sort(), 'The hosted Markdown set must match the reviewed publication allowlist exactly.');
 
 for (const [name, html] of [['reader', readerHtml], ['print', printHtml]]) {

@@ -10,6 +10,8 @@ Double-click **Open Book Reader.vbs** in this folder. It opens a read-only, book
 
 The reader follows edits to the original Markdown; it does not keep a second manuscript. All 15 chapters now contain readable content. The older emergency review sample remains separate and is not the current manuscript. This is not a field-ready edition or a final PDF proof. [Reader instructions and limits](reader/README.md).
 
+The book uses an action-first structure for stressed reading: immediate actions and short decision branches come before explanation and evidence notes. The reader groups urgent chapters separately from field reference and keeps a **First actions** shortcut visible. Full research remains available without sitting between the reader and the next safe action.
+
 ## GitHub Pages hosting
 
 The same themed reader is live at the public project address [https://burhaantargett.tech/bush-survival-au/](https://burhaantargett.tech/bush-survival-au/). The deployment of commit `c8eb207` completed successfully, and HTTP checks confirmed the reader, print view, a registered diagram, and the generated JavaScript and CSS assets. Pages uses **GitHub Actions** as its source; do not publish the repository branch root. The workflow builds and uploads only `reader/dist-pages`, using the base path reported by GitHub so its links and assets work beneath `/bush-survival-au/`.

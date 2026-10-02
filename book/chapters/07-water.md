@@ -8,44 +8,44 @@
 >
 > Clear water is not proof of safe water. No treatment method in this chapter makes chemical, algal or salt contamination safe. Exact filter, tablet and UV instructions matter; the book does not supply a generic chemical dose.
 
-## Start with the water you have
+## Do this now
 
-Count and protect all drinking water that you can actually reach. Set aside water for urgent first aid only when the relevant first-aid guidance requires it. Do not plan a fire unless separate extinguishing water is already available. Check for leaking containers and close lids.
+1. **Count and protect the drinking water you can reach.** Close lids and check for leaks. Do not spend drinking water on a fire; the fire chapter requires separate extinguishing water.
+2. **Reduce heat and effort.** Use shade and arrange help. Do not turn an arbitrary ration into a reason to ignore thirst; needs vary with heat, effort, age, illness and rescue delay.
+3. **Do not wander for water.** Check carried water, a supply explicitly marked as drinking water, current site information and only sources inside the existing safe movement boundary.
+4. **Reject a dangerous source.** Do not use seawater, floodwater, visible algal bloom, or water with a warning, sewage, mine, farm, industrial, fuel, ash, firefighting-chemical or other chemical risk.
+5. **Choose a complete route before collecting.** If one required item or safety condition is missing, that route is unavailable.
 
-Reduce avoidable exertion and heat exposure while arranging help. Do not force large quantities of water, but do not turn an arbitrary ration into a reason to ignore thirst. Needs vary with heat, effort, illness, age and the delay. There is no reliable universal daily allowance for this situation.
+| What is available | Action |
+|---|---|
+| Safe drinking water in an intact container | Protect and use it first. |
+| A supply currently identified as safe drinking water | Follow its current notice and protect it from contamination. |
+| A screened natural source, suitable pot and lawful safe stove | Use the single [rolling-boil method](#rolling-boil-method). |
+| An exact filter, tablet, UV device or combined system | Use only when its current instructions and evidence cover the actual water and conditions. |
+| No complete treatment route | Use [If no treatment is available](#if-no-treatment-is-available). Do not relabel untreated water as safe. |
 
-A person who becomes confused, collapses, cannot keep fluids down or is seriously deteriorating needs emergency help. Give drinks only when fully conscious and swallowing normally. Use [heat first aid](05-temperature-and-shelter.md#someone-is-getting-dangerously-hot) where relevant.
+There is no dependable **zero-equipment** treatment method in this guide. Cloth, settling, homemade filters, clear streams, dew and rain do not disinfect water.
 
-**Medical basis:** S-058, S-060, S-062 and the [water-carriage assessment](../../research/equipment/POTABLE_WATER_CARRIAGE_AND_BOILING_ASSESSMENT.md). Quantity planning is not a diagnosis of dehydration.
+## Protect, find and screen water
 
-## Look for water without getting lost
+Set aside water for urgent first aid only when that first-aid section requires it. Do not force large quantities. There is no reliable universal daily allowance for an unknown person, climate, workload and rescue delay. Give drinks only to someone fully conscious and swallowing normally. Confusion, collapse, repeated vomiting or serious deterioration needs emergency help.
 
-Do not let a water search undo the rescue plan. First check the water you carry and any supply explicitly marked as drinking water. Then check current park information, site signs and supplies already inside the safe movement boundary.
+Do not let a search undo the rescue plan. A blue map line or tank, tap, spring or bore symbol shows a feature—not water that is present or safe. Do not leave a known location to follow birds, animal tracks, green vegetation or a drainage line. Do not dig a soak or disturb a spring or culturally sensitive place on the strength of this guide.
 
-A blue line, tank, tap, spring or bore symbol on a map shows a feature. It does not prove that water is present or safe. Tanks, taps and streams can be dry.
+Collect only from firm, stable ground. Do not climb down a steep bank, wade into water or improvise a bottle-and-cord collector; its entanglement, contamination and fall risks have not been field-tested.
 
-Do not leave a known location to follow birds, animal tracks, green vegetation or a drainage line. None proves that safe, reachable water is nearby. Do not dig a soak or disturb a spring or culturally sensitive place on the strength of this guide.
+Prefer carried drinking water or a supply explicitly identified as safe. For a natural source:
 
-Collect only from firm, stable ground. Do not climb down a steep bank or wade into water. A bottle tied to cord may look useful, but this edition does not teach it until entanglement, contamination and fall risks have been field-tested.
+- reject floodwater, visible algal bloom or scum, and any current warning;
+- reject water downstream of mining, industry, agriculture, sewage or concentrated camping use;
+- when otherwise suitable sources are compared, clearer flowing water has fewer visible warning signs than stagnant muddy water, but it still needs treatment; and
+- never taste-test suspect water. Normal appearance, smell and taste cannot approve it.
 
-> **WARNING — WATER-SEARCH METHOD NOT FIELD-VALIDATED**
+> **WARNING — WATER-SEARCH WORKFLOW NOT FIELD-VALIDATED**
 >
-> **Estimated confidence in the accuracy of this warning: 95% for the map and source cautions; 80% for the untested portable workflow.** These are editorial estimates, not the odds that water exists or is safe. A Victorian water-health specialist and controlled field test have not reviewed the workflow.
+> **Estimated confidence in the accuracy of these cautions: 95% for the map and source limits; 80% for the portable workflow.** These estimates are not the odds that water exists or is safe. A Victorian water-health specialist and controlled field test have not reviewed the workflow.
 
-## Choose a source without creating a second emergency
-
-Prefer carried drinking water or a supply explicitly identified as safe drinking water. A tank, tap, bore, river or “spring” label alone does not establish that.
-
-For natural water:
-
-- Avoid floodwater, visible algal blooms/scum and known contamination warnings.
-- Avoid water downstream of mining, industry, agricultural runoff, sewage or concentrated camping use.
-- Prefer clearer flowing water over stagnant muddy water when comparing otherwise suitable sources. This reduces some warning signs; it does not remove the need for treatment.
-- Do not descend a dangerous bank, wade into current or leave a rescue location on a speculative water search.
-
-Do not taste-test suspect water. A smell or unusual colour can reject a source, but normal appearance and taste cannot approve it.
-
-**Sources:** [Parks Victoria drinking water](https://www.parks.vic.gov.au/get-into-nature/safety-in-nature/visitor-safety-tips-in-parks/drinking-water), [Victorian Health surface water](https://www.health.vic.gov.au/water/surface-water), [CDC outdoor treatment](https://www.cdc.gov/drinking-water/prevention/water-treatment-hiking-camping-traveling.html); S-203–S-210.
+**Sources:** S-058, S-060, S-062, [Parks Victoria drinking water](https://www.parks.vic.gov.au/get-into-nature/safety-in-nature/visitor-safety-tips-in-parks/drinking-water), [Victorian Health surface water](https://www.health.vic.gov.au/water/surface-water), [CDC outdoor treatment](https://www.cdc.gov/drinking-water/prevention/water-treatment-hiking-camping-traveling.html); S-203–S-210 and the [water-carriage assessment](../../research/equipment/POTABLE_WATER_CARRIAGE_AND_BOILING_ASSESSMENT.md).
 
 ## Decide the treatment route before collecting
 
@@ -73,6 +73,19 @@ Keep two roles clear where equipment allows:
 - **Clean side:** the inside, opening, cap and drinking rim of the cup or storage container used after treatment.
 
 A separate untreated collector is useful but not mandatory for the boiling rule. If the pot is safely filled directly, its outside and rim may have touched untreated water; handle them as dirty and keep them away from the clean container's inside and opening. This guide cannot guarantee that an unknown field transfer stayed uncontaminated.
+
+### Rolling-boil method
+
+Use this method only when the source passed the red-flag screen and every item listed above is available.
+
+1. **Fill safely.** Use the intact, unsealed cooking pot. Do not overfill it. Keep dirty hands and raw-water gear away from the inside and opening of every clean cup or storage container.
+2. **Heat exactly as instructed.** Keep the pot stable and stay with it. Do not improvise a windscreen, fuel connection, pot support or indoor shelter.
+3. **Reach a rolling boil.** The whole surface must be continuously disturbed by vigorous bubbling, not only a few bubbles at the edge. Once this rolling boil is reached, this guide adds no extra boil time.
+4. **Turn off the stove exactly as instructed.** Wait until the handle and required handling equipment can be used safely. Keep the pot level and place it on the stable heat-safe surface.
+5. **Cool and protect.** Let it cool naturally where ash, dust, rain splash, insects, dirty hands and animals are unlikely to enter. Do not test it with a finger, hold a hot pot near the face or seal a hot vessel. A clean lid that did not contact raw water may sit loosely on the pot only if its instructions allow it.
+6. **Use or store.** Use the cooled water promptly. To store it, pour into a clean closable drinking-water container rated for the actual temperature. Do not let the openings touch. Close it promptly and never return a mouth-used cup or leftover drink to the batch.
+
+If untreated water or a dirty object enters the cooled batch, treat it as untreated. Reboil only if the source and heat route still pass every check. Boiled water is not sterile water for an injured eye, deep wound or invasive procedure.
 
 ### What the available routes require
 
@@ -130,12 +143,7 @@ Do not spend critical warmth, daylight or body water digging a still. Do not bag
 
 Snow can supply water when no liquid source is safely reachable, but melting it takes time, fuel and body heat. Treat snow and ice as natural water, not as automatically clean water. Reject it when a chemical, ash, algae, salt, sewage, campsite or other source warning in this chapter is present or reasonably suspected.
 
-If every source, equipment and heat gate passes:
-
-1. Put small amounts of reasonably clean snow or ice into a suitable unsealed heat-safe pot. Use a clean scoop if one is available; keep gloves, soil and dirty gear out of the pot.
-2. Use only a lawful heat source that passes this chapter and [Fire](08-fire.md). Campfire pot-support instructions are unavailable in this edition. Keep the pot stable and add more snow gradually as the first amount melts; do not pack an empty pot tightly with snow and leave it unattended.
-3. Once all of it is liquid, bring the water to a full rolling boil. Melting alone is not treatment.
-4. Turn off the heat as its instructions require, move the pot only when it can be handled safely, let the water cool on a stable heat-safe surface and protect it from new contamination. Use it promptly or move it into a clean closed drinking-water container without touching the inside or opening.
+If every source, equipment and heat gate passes, put small amounts into the suitable unsealed pot and add more as they melt. Keep gloves, soil and dirty gear out. When all of it is liquid, use the single [rolling-boil method](#rolling-boil-method). Melting alone is not treatment. Campfire pot-support instructions are unavailable in this edition.
 
 Do not count eating snow or ice as the water method in this guide. If the complete route would sacrifice needed shelter, warmth, drinking water or extinguishing-water capacity, use the no-treatment emergency plan instead.
 
@@ -161,11 +169,7 @@ Do not count eating snow or ice as the water method in this guide. If the comple
 
 Keep raw-water equipment away from drinking surfaces. Do not put a bottle mouth, cup rim or treated-water outlet into the source. If you use a separate collector, mark it **UNTREATED** or make it easy to distinguish by shape or touch.
 
-After boiling, place the pot where it cannot be kicked over and where ash, dirt, rain splash, insects, dirty hands and animals are unlikely to enter. Let it cool naturally. Do not hold a hot pot near the face, test it with a finger, seal a hot vessel or pour it into a container unless that container's maker permits the temperature.
-
-Use the cooled water promptly when practical. If storing it, use a clean closable drinking-water container. Touch its outside only; keep the inside, opening, inner cap and threads away from raw water and dirty hands. Pour without the pot and storage openings touching. Close it promptly. Do not return leftover drink or a mouth-used cup to the stored batch.
-
-If untreated water or a dirty object enters the cooled batch, the water may have been contaminated again. Reboil it only if the source still passes the screen and the heat route still passes; otherwise treat it as untreated and use the emergency branch below. This guide gives no generic field bleach or sanitiser dose.
+Follow the cooling and storage steps in the single [rolling-boil method](#rolling-boil-method). If raw water or a dirty object enters the cooled batch, treat it as untreated. Reboil only if the source and heat route still pass; otherwise use the no-treatment branch. This guide gives no generic field bleach or sanitiser dose.
 
 **Sources:** Parks Victoria, WHO, CDC, NHMRC and Victorian clean-storage guidance S-211, S-454, S-457 and S-487, plus the [water evidence packet](../../research/evidence-packets/EP-011-drinking-water-selection-treatment-and-contamination.md). The exact field handling sequence remains a project adaptation awaiting water-health and usability review.
 
@@ -179,35 +183,13 @@ Settling and cloth remove some visible material. They do not disinfect water. A 
 >
 > **Estimated confidence in the accuracy of this wording: 90% for visible-sediment reduction; 95% for the warning that neither step is disinfection.** These are editorial estimates, not the probability that water is safe. This grit-removal step needs a separate untreated receiving vessel in addition to the boil-and-transfer equipment. Do not drink merely because water looks clearer.
 
-## Boiling for microbes
+## Why this guide uses a rolling boil
 
-> **WARNING — FIELD HANDLING HAS NOT BEEN INDEPENDENTLY REVIEWED**
->
-> **Estimated confidence in the accuracy of this wording: 95% for rolling boiling as an effective treatment for most microbial contamination; 80% for the exact field handling sequence below.** These are subjective editorial estimates, not the probability that a source or treated batch is safe. Invisible source contamination, unsafe heat use, scalding or recontamination can still defeat the method.
+Australian public guidance uses a rolling boil, natural cooling and clean storage. This guide does not mix that rule with an overseas high-altitude timetable. Longer boiling does not remove salt, algal toxins, arsenic, heavy metals, pesticides, PFAS, fuel, firefighting chemicals or other chemical contamination.
 
-This guide provides no fire-ban exemption. Boiling water does not itself make a heat source lawful.
+Use only the single [rolling-boil method](#rolling-boil-method) above. Boiling gives no fire-ban exemption. Do not use a sealed bottle, heat a plastic drink bottle, or pour hot water into a container not rated for that temperature.
 
-- **Only a lawful, safely operable heat source is available:** For a carried stove, use it only when every item in [the carried-stove check](08-fire.md#before-using-a-carried-stove-to-boil-water) is yes. Current restrictions, the responsible land manager's rules, closures, site signs and the exact manual must permit the stove, pot and purpose. This guide does not assume that treating water qualifies as meal preparation on a Total Fire Ban day.
-- **Campfire boiling is unavailable:** the small-fire sequence does not validate an exact authorised fireplace-and-grate or pot-support arrangement, the loaded pot's stability, safe removal, or a sustained rolling-boil cycle. Do not balance the pot on rocks, sticks, fireplace edges or an improvised grate.
-
-For a source with no identified or suspected salt, algae, flood, sewage, mine, farm, industrial, fuel, ash, firefighting-chemical or other chemical warning, complete every step:
-
-1. **Choose and fill the pot.** Use an intact, unsealed heat-safe cooking pot that the heat-source instructions permit. A separate untreated collector is useful if it lets you collect from firm ground; it is not mandatory. Do not fill beyond the pot or stove's safe limit. Keep dirty hands and raw-water gear away from any clean cup or storage opening.
-2. **Use the heat source exactly as instructed.** Keep the pot stable. Stay with it. Do not improvise a windscreen, fuel connection, pot support or indoor shelter.
-3. **Reach a rolling boil.** The whole surface must be continuously disturbed by vigorous bubbling, not just a few bubbles at the edge. Once that rolling boil is reached, no extra boil time is added by this guide.
-4. **Turn off the heat.** Shut down the stove and fuel exactly as their instructions require. Before moving the pot, wait until its handle and the required handling equipment can be used safely. Keep the pot level and place it on a stable, non-combustible heat-safe surface.
-5. **Cool and protect.** Let the water cool naturally where ash, dust, rain splash, leaves, insects, dirty hands and animals are unlikely to enter. Do not test it with a finger, hold a hot pot near the face, or seal a hot vessel. A clean lid that did not contact raw water may be placed loosely after boiling if the pot instructions allow it; do not seal the pot.
-6. **Use or store.** When cool enough to handle and drink without scalding, use it promptly. If storing it, pour it into a clean closable drinking-water container whose maker permits the actual water temperature. Do not let the openings touch. Keep the container closed and do not return leftover drink to it.
-
-If all six steps pass, the method addresses **most microbial contamination only**. It is not a guarantee: an invisible source hazard or handling failure may remain. Boiling does not remove salt, algal toxins, chemicals or metals, and it does not make the water sterile for an injured eye, deep wound or invasive procedure.
-
-Current Australian public guidance uses a rolling boil; this book does not mix it with an unrelated overseas high-altitude timetable. Cloudiness and sediment can require grit removal before treatment, but a cloth that removes grit does not disinfect water.
-
-Parks Victoria tells visitors to bring water from natural sources to a rolling boil, cool it and then use it for drinking. NHMRC uses the same rolling-boil rule for managed-supply boil-water advisories. Victorian Health and CDC support cooling and clean storage. Follow any stricter current notice. Longer boiling does not solve salt, algal toxins, arsenic, heavy metals, pesticides, PFAS, fuel, firefighting foam or retardant, or other chemical contamination.
-
-Do not boil in a sealed bottle or heat a plastic drink bottle over a fire. Do not pour boiling water into a container unless it is rated for that use.
-
-**Sources:** Parks Victoria above, [NHMRC boil-water guidance](https://guidelines.nhmrc.gov.au/australian-drinking-water-guidelines/part-4/statistics/3.6-guidance-for-issuing-and-lifting-boil-water-advisories), [WHO boil-water evidence](https://www.who.int/publications/i/item/WHO-FWC-WSH-15.02), [CDC emergency water guidance](https://www.cdc.gov/water-emergency/about/index.html), Victorian Health S-204; S-203, S-208, S-454, S-457, S-458 and S-487. These sources support rolling boiling, natural cooling and protection from recontamination. They do not validate every fill, cooling, pouring or serving detail in an unknown bush setting.
+**Sources:** Parks Victoria above, [NHMRC boil-water guidance](https://guidelines.nhmrc.gov.au/australian-drinking-water-guidelines/part-4/statistics/3.6-guidance-for-issuing-and-lifting-boil-water-advisories), [WHO boil-water evidence](https://www.who.int/publications/i/item/WHO-FWC-WSH-15.02), [CDC emergency water guidance](https://www.cdc.gov/water-emergency/about/index.html), Victorian Health S-204; S-203, S-208, S-454, S-457, S-458 and S-487.
 
 ## If you have a filter, tablets or UV device
 

@@ -2,46 +2,84 @@
 
 > **WARNING — PLANT AND TECHNIQUE REVIEW OUTSTANDING**
 >
-> **Evidence confidence: High for the cited botanical descriptions and for the published food-composition figures in the exact samples and forms stated; Moderate for these draft entries as learning aids; Insufficient for identifying your particular specimen.** The chapter now shows several views across twenty-nine pictured food-relevant or hazard-recognition entries, but no set is a complete identification key. No botanist or food-safety specialist has reviewed the final pages.
+> **Evidence confidence:** High for the cited descriptions and exact food-composition samples; Moderate as a learning reference; **Insufficient to identify a specimen in front of you.** No botanist or food-safety specialist has approved these pages.
 >
-> **Subjective wording-confidence estimate: 84%.** This estimates only how accurately this warning and the chapter boundaries reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 84% (subjective).** This rates the warning against the cited evidence—not identity, safety, success or survival.
+
+## Do this now
+
+1. Deal with [urgent care](06-first-aid-and-evacuation.md), [getting help](03-emergency-communication.md), [cold, heat and rain](05-temperature-and-shelter.md), and [water](07-water.md) before food.
+2. Use carried food first. It is safer, easier to ration and usually gives far more useful energy than leaves or a few berries.
+3. **Do not identify or trial a plant for the first time while stranded.** A similar photograph, smell, animal feeding, skin rub, lip test, tiny taste or cooking is not a safety test.
+4. Use a wild plant only if you learned that exact species before the emergency and every feature, usable part, preparation step, place and stop rule still agrees.
+5. Do not eat plants beside roads or sprayed tracks, drains, mine or industrial land, flood contamination, treated grounds or anywhere chemical history is unknown. Rinsing does not remove that uncertainty.
+6. After possible poisoning, call **13 11 26**. Call **000** first for collapse, abnormal breathing or serious symptoms. Do not induce vomiting.
+
+> **STOP — PICKING MAY BE ILLEGAL**
 >
-> Learn these plants with a knowledgeable person before a trip. If you cannot establish the identity, usable part and condition, do not eat it. The preparation instructions below apply only to an already correctly identified plant, not to a photograph that looks similar.
-
-## Food comes after rescue, protection and water
-
-First deal with [urgent care](06-first-aid-and-evacuation.md), [getting help](03-emergency-communication.md), [protection from cold, heat and rain](05-temperature-and-shelter.md), and [water](07-water.md). A small amount of fruit or leaves is not worth losing your known position, falling, becoming wet or using the daylight needed for shelter.
-
-Use carried food first. A sealed ration has known ingredients and a labelled energy value. Wild food usually gives an uncertain amount, may need water and fuel to prepare, and adds identification, contamination and legal risks.
-
-> **WARNING — EDIBLE DOES NOT MEAN LEGAL TO PICK**
+> Victorian parks, State forests and protected flora have collection controls. This book gives no permission and cannot decide whether an emergency changes the law. For planned learning, use cultivated plants or a place where both owner and land manager permit collection. Do not take from a threatened population or culturally sensitive place.
 >
-> **Evidence confidence: High for the cited Victorian rules; Insufficient for deciding whether an emergency changes the law in a particular case.** The National Parks Regulations 2024 generally prohibit cutting, picking, taking, removing or damaging vegetation in a park, subject to limited authorisations and specific exceptions. In State forest, plant parts and products—including leaves, roots, seeds and fruit—are “forest produce”; ordinary taking is illegal without authorisation. Protected species may require further approval. This book grants no permission.
+> **Evidence confidence: High** for the linked Victorian rules; **Insufficient** for a particular emergency defence. **Wording confidence: 94% (subjective).**
+
+Current checks: [National Parks Regulations 2024](https://www.legislation.vic.gov.au/in-force/statutory-rules/national-parks-regulations-2024/001), [regulation 41](https://classic.austlii.edu.au/au/legis/vic/num_reg/npr2024n76o2024349/s41.html), [forest-produce licences](https://www.vic.gov.au/forest-produce-licence) and [protected flora](https://www.environment.vic.gov.au/conserving-threatened-species/protected-flora-and-listed-fish), checked 7 September 2026.
+
+## Only if you learned the plant before the emergency
+
+Inspect **one connected plant**. Stop at one contradiction.
+
+1. Follow the proposed food to its own stem; nearby plants may be tangled through it.
+2. Match the whole plant, size, growth form, stem or bark.
+3. Match a complete leaf: arrangement, edge, top and underside.
+4. Match flowers and fruit when the entry requires them. Measure features; an unscaled photograph cannot supply size.
+5. Match the habitat, part of Victoria and season.
+6. Check every lookalike and stop condition in the entry.
+
+Expected taste is only a final spoilage warning **after positive identification**. It never identifies a plant. The full six-step gate is an original organising aid based on the cited botanical and [Poisons first-aid](https://www.poisonsinfo.nsw.gov.au/first-aid) sources; it is not a botanical key.
+
+## Light-use material cards
+
+Use carried cord, straps, bottles, shelter and sleeping gear first. Unknown bark, sap, resin or hollow stems may irritate, poison or contaminate. Do not strip living plants or damage essential clothing to experiment.
+
+| Need | Use first | Stop if |
+|---|---|---|
+| Fastening | Spare cord or strap | It frays, slips, cuts or would carry a person/overhead load |
+| Ground insulation | Mat, folded spare clothing or an emptied pack | Hard objects remain or the layer is crushed flat |
+| Rain barrier | Tarp, rainwear or carried sheet | Water drains into bedding or the face/air space is covered |
+| Drinking-water storage | Intact food-grade bottle reserved for clean water | Previous contents are unknown, it leaks, or the opening cannot stay clean |
+| Small prop or handle | Sound material already available | Cracks, rot, hidden sharp points or any person-bearing use |
+
+A cooking pot is not automatically clean-water storage. Follow the clean/untreated separation in [Water](07-water.md). Use carried fuel; collect no firewood unless the current rule for the exact site permits it. [Parks Victoria firewood guidance](https://www.parks.vic.gov.au/things-to-do/Using-firewood).
+
+> **WARNING — NON-CRITICAL LOADS ONLY**
 >
-> **Subjective wording-confidence estimate: 94%.** This estimates only how accurately this legal warning reflects the cited material. It is **not** a probability of safety, correct identification, successful technique or survival, and it is not legal advice for an emergency.
->
-> For ordinary learning or gathering, use cultivated plants or land where the owner and land manager have expressly allowed it. Do not collect in a park, from a threatened population or from a culturally sensitive place. If life is in immediate danger, call 000 or activate your beacon; this page cannot decide a legal defence for your exact circumstances.
+> **Evidence confidence:** High for the knot and braid forms; Moderate for any improvised material. **Wording confidence: 84% (subjective).** Never use these for a person's weight, climbing, rescue, towing, a main shelter support or anything overhead.
 
-**Current-rule checks:** [official in-force National Parks Regulations 2024](https://www.legislation.vic.gov.au/in-force/statutory-rules/national-parks-regulations-2024/001), [regulation 41 text cross-check](https://classic.austlii.edu.au/au/legis/vic/num_reg/npr2024n76o2024349/s41.html), [Victorian forest-produce licence guidance](https://www.vic.gov.au/forest-produce-licence) and [protected-flora guidance](https://www.environment.vic.gov.au/conserving-threatened-species/protected-flora-and-listed-fish), checked 7 September 2026.
+### Three-strand braid
 
-A familiar plant beside a sprayed track, polluted drain, mine site, old industrial land or flood-contaminated ground is not a dependable food source. If pesticide or herbicide history is unknown—especially beside roads, tracks, reserves, managed grounds or gardens—do not eat the plant. Appearance, smell and rinsing cannot establish that it was untreated. Do not strip bark, pull roots or clear a patch to experiment.
+1. Align three flexible strands and tie their starting ends together.
+2. Hold the knot. Separate the strands into left, middle and right.
+3. Cross **left over middle**, then **right over the new middle**.
+4. Repeat, keeping even tension. Tie the finish before letting go.
+5. Test only on a small bundle close to the ground. Reject splitting, slipping or opening; recheck after wetting or drying.
 
-## Inspect one plant from stem to fruit
+![Three-strand braid diagram: A crosses over B, then C crosses over A; the new order is B C A](../assets/braid-sequence.svg)
 
-1. Find the stem that carries the proposed food. Follow that same stem to its leaves; neighbouring plants often grow through one another.
-2. Check the whole plant shape and size. Then check the stem or bark.
-3. Check a complete leaf, not one leaflet. Look at its arrangement, edge, upper surface and underside.
-4. Check flowers and fruit when present. Measure with a ruler; photographs do not provide a reliable scale unless one is shown.
-5. Match the habitat, Victorian region and season.
-6. Try to disprove the identification. Work through every lookalike and stop condition. One contradictory feature is enough to stop.
+### Join two cords with a sheet bend
 
-Do not use a skin rub, lip contact, tiny taste, cooking, smell or watching animals eat as a safety test. **Expected taste is supplied only to help notice spoilage or an unexpected result after a plant has already been identified. It never identifies the plant.**
+1. Fold the thicker cord end into a U.
+2. Pass the thinner cord up through the U, behind both arms, then under its own crossed section.
+3. Keep both short ends on the same side and leave visible tails.
+4. Pull the long parts to snug the knot. Reject it if a tail creeps or the shape changes; recheck after load or wetting.
 
-Call **13 11 26** after possible poisoning; call **000** first for collapse, abnormal breathing or serious symptoms. Do not induce vomiting.
+If you cannot recognise the finished knot, use a familiar fastening instead. Detailed evidence and limitations appear after the plant atlas.
 
-**Basis:** [Poisons first aid](https://www.poisonsinfo.nsw.gov.au/first-aid), the botanical sources below and the project identification gate. The six-step inspection order is an original organising aid, not a botanical key.
+---
 
-## Read the food-value numbers honestly
+## Reference boundary — not an emergency identification key
+
+Everything below is for **learning before travel** or recognising hazards. Each plant keeps its own status, diagnostic features, photographs, lookalikes, Country-specific attribution, preparation boundary and warning. A `CONDITIONAL FOOD` label still means the plant must already be known; every other status means **do not eat from this guide**.
+
+## Reference — read food-value numbers honestly
 
 Australian labels usually use kilojoules (kJ). A food Calorie is a kilocalorie (kcal). For a rough conversion:
 
@@ -98,7 +136,7 @@ The muntries result came from fruit donated by a Victorian grower and frozen at 
 >
 > **Evidence confidence: High that multiple sources document people eating the ripe fruit of this species; Moderate for this personal-use preparation summary; Insufficient for identifying your specimen.** The photographed specimens and this final page have not been independently authenticated. Do not eat fruit from an uncertain plant.
 >
-> **Subjective wording-confidence estimate: 82%.** This estimates only how accurately this warning and conditional preparation wording reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 82% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 Also called small-leaf bramble. This is a low, scrambling, prickly plant, not a tree bearing smooth red berries.
 
@@ -159,7 +197,7 @@ If the fruit is a single smooth berry, the leaves do not match, you cannot see t
 >
 > **Evidence confidence: High that multiple sources document people eating the specified ripe inner fruit; Moderate for this preparation summary; Insufficient for novice identification from the two incomplete images.** Neither picture shows demonstrably ripe fruit or a complete lookalike comparison. Use this as a reminder after learning the plant, not as permission to identify a new food during an emergency.
 >
-> **Subjective wording-confidence estimate: 81%.** This estimates only how accurately this warning and conditional preparation wording reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 81% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 The name “pigface” is shared by several plants; the common name alone is not an identification. This edition does not assign a Traditional Owner name because the available sources do not establish one authorised Victorian group-by-group attribution.
 
@@ -228,7 +266,7 @@ Also called New Zealand spinach. The accepted Victorian spelling is **tetragonoi
 >
 > **Evidence confidence: High for the current VicFlora growth, flower and fruit descriptions; Moderate for the source-labelled photographs; Insufficient for first-time identification or eating clearance.** The views are not a matched specimen set. The Victorian bower-spinach fruit photograph is unmeasured, and its probable mature or near-mature stage is an editorial inference rather than an expert finding. No botanist or food-safety specialist has approved this comparison.
 >
-> **Subjective wording-confidence estimate: 92%.** This estimates only how accurately the warning and comparison wording reflect S-342 and S-400. It is **not** a probability of correct identification, food safety, successful preparation or survival.
+> **Wording confidence: 92% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 >
 > **IM-202 photo-specific subjective wording estimates:** 99% that the licence and provenance were transcribed correctly; about 90% that the caption accurately reports the community record and visible attached fruit; and about 85% that “probable mature or near-mature stage” is a fair, deliberately qualified description of the visible red fruit. There is **0% evidentiary basis for any size inferred from the unscaled photograph**. These estimates rate documentation and caption wording, not the true identity or maturity of a plant, and never the chance that a field plant is safe to eat.
 >
@@ -293,7 +331,7 @@ These are orientation features, not a short key. Victorian bower spinach varies 
 >
 > **Evidence confidence: High that positively identified Warrigal leaves contain substantial oxalate and boiling reduces the soluble amount; Moderate for the 3–5 minute working method; Insufficient for a safe universal serving.** The working sequence now includes habit, leaf, flower-attachment and fruit views for comparison, but it lacks a matched local plate, complete attached-leaf views and measured mature fruits for both species. A food-safety specialist has not approved this page.
 >
-> **Subjective wording-confidence estimate: 78%.** This estimates only how accurately this warning and conditional preparation wording reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 78% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 >
 > Do not eat positively identified Warrigal greens raw. Do not merely wilt, fry, steam or add them directly to soup. People with kidney disease or a history of calcium-oxalate stones should skip them unless their clinician has already said they are suitable.
 
@@ -330,7 +368,7 @@ Bower spinach, *Tetragonia implexicoma*, is a native coastal plant that can occu
 >
 > **Evidence confidence: High for the two VicFlora descriptions and the need to use the same plant's growth, flower attachment and fruit rather than leaf colour alone; Moderate for the source-labelled photographs; Insufficient for a safe edible part, preparation, serving, calorie value or complete novice identification.** The available Victorian bower-spinach fruit view has no scale, and the mature stage has not been expert-confirmed. No food-safety specialist or botanist has approved this comparison.
 >
-> **Subjective wording-confidence estimate: 91%.** This estimates only how accurately this warning and do-not-eat boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 91% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### Why this does not become another food entry
 
@@ -352,7 +390,7 @@ Muntries are a low, spreading woody plant of far western Victoria and nearby Sou
 >
 > **Evidence confidence: High for the botanical account and the 2025 analysed sample; Moderate for this preparation summary; Insufficient for identifying a new specimen from the two photographs.** The fruit photo's maturity is not established. No lookalike comparison, scale view or botanist approval is present.
 >
-> **Subjective wording-confidence estimate: 80%.** This estimates only how accurately this warning and conditional preparation wording reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 80% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### Features to check together
 
@@ -399,7 +437,7 @@ This is an **advanced recognition page**, not a first-time emergency food recomm
 >
 > **Evidence confidence: High for the botanical distinction and documented edible red stalk; Moderate for the preparation summary; Insufficient for novice identification or calorie planning.** The working set now includes a 5 mm scale drawing of the tiny flowers and two-part fruiting structure, but no complete bark, colour/ripeness, minute-leaf or matched-lookalike plate has been reviewed.
 >
-> **Subjective wording-confidence estimate: 82%.** This estimates only how accurately this warning and learn-before-travel boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 82% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### Features to check together
 
@@ -443,7 +481,7 @@ On Dja Dja Wurrung Country, DJAARA publicly records **Girrkitj** for *Enchylaena
 >
 > **Evidence confidence: High for the Victorian botanical account and for documented use of the fruit; Moderate for the food-part summary; Insufficient for identifying your specimen or choosing an amount to eat.** DJAARA's guide warns that too much may cause illness but gives no quantity. No botanist or food-safety reviewer has approved this page.
 >
-> **Subjective wording-confidence estimate: 78%.** This estimates only how accurately this warning and conditional food wording reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 78% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### Features to check together
 
@@ -494,7 +532,7 @@ Museums Victoria's Bunjilaka guide records **Morr** as the Woi wurrung name. Thi
 >
 > **Evidence confidence: High for the Victorian botanical description and documented ripe-fruit use; Moderate for this preparation summary; Insufficient for novice identification from the pictures.** Closely related plants and hybrids can carry similar orange-red fruit. The final plate has not had botanical or food-safety review.
 >
-> **Subjective wording-confidence estimate: 80%.** This estimates only how accurately this warning and conditional preparation wording reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 80% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### Features to check together
 
@@ -556,7 +594,7 @@ The accepted name is *Syzygium smithii*. Older sources may call it *Acmena smith
 >
 > **Evidence confidence: High for the Victorian botanical account and documented ripe-fruit use; Moderate for the general seed-removal precaution; Insufficient for novice identification or a safe serving size.** An older safety review reports unconfirmed digestive problems after excessive raw Syzygium fruit, especially whole fruit with full-sized seeds. It gives no number that this book can turn into a safe portion.
 >
-> **Subjective wording-confidence estimate: 78%.** This estimates only how accurately this warning and conditional preparation wording reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 78% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### Features to check together
 
@@ -616,7 +654,7 @@ This is an introduced noxious weed complex, not one reliably identifiable specie
 >
 > **Evidence confidence: High that the *Rubus fruticosus* aggregate has edible fruit; High that Victorian councils document public-land spraying and advise against eating fruit there; Moderate for using the photographs to recognise the broad complex; Insufficient for proving the exact member or treatment history of a patch.** Council-documented spray programs can overlap fruiting, and signs may be absent, removed or moved. Do not assume washing or cooking makes treated or unknown fruit safe.
 >
-> **Subjective wording-confidence estimate: 89%.** This estimates only how accurately this warning and private-site boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 89% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### Recognising the broad complex
 
@@ -670,7 +708,7 @@ Older books and image files usually call this plant *Astroloma humifusum*. VicFl
 >
 > **Evidence confidence: High for the accepted species, Victorian features and documented use of the small pulp; Moderate for the source-labelled photographs; Insufficient for a novice to identify and eat a specimen.** A ripe fruit may remain green, related heaths can need flower details to separate, and no modern species-specific calorie, toxicology or safe-serving evidence was located. This edition gives no field-eating instruction.
 >
-> **Subjective wording-confidence estimate: 90%.** This estimates only how accurately this warning and non-harvest boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 90% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### Features to learn together
 
@@ -719,7 +757,7 @@ River mint is a culturally important Victorian plant and a contemporary culinary
 >
 > **Evidence confidence: High that the named sources document food and cultural uses; High that a 2026 study found variable pulegone in the plant's volatile fraction; Moderate for the source-labelled photographs; Insufficient for a safe amount of wild leaf or for novice identification.** The study measured relative chemical peaks in extracts, not milligrams in a leaf serving. It neither proves that ordinary leaves are poisonous nor supplies a safe dose. No eating instruction is given until a food-safety specialist resolves that exposure and a botanist approves the lookalike comparison.
 >
-> **Subjective wording-confidence estimate: 90%.** This estimates only how accurately this warning and non-harvest boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 90% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### Recognition features—not an eating key
 
@@ -779,7 +817,7 @@ This is a northern and north-western Victorian plant, not a general statewide fa
 >
 > **Evidence confidence: High for the accepted species, edible ripe flesh and exact FSANZ food record; Moderate for this personal-use preparation summary and the source-labelled images; Insufficient for identifying your specimen without a botanist-reviewed comparison.** VicFlora calls the kernel edible, but a separate bush-food safety review found unusual kernel chemistry and no defensible field dose. This guide therefore excludes every quandong kernel. Red fruit alone is not an identification.
 >
-> **Subjective wording-confidence estimate: 81%.** This estimates only how accurately this warning and conditional preparation wording reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 81% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### Features to check together
 
@@ -851,7 +889,7 @@ Victoria has two widespread native plants commonly called kangaroo apple: *Solan
 >
 > **Evidence confidence: High for the accepted Victorian species, their described mature fruit colours, the presence of solasodine-related compounds and their listing in the Food Standards Code; Moderate for the source-labelled photographs; Insufficient for a safe wild serving, preparation, novice identification or harmless taste test.** Even ripe fruit has been reported to retain some solasodine. No evidence located for this edition shows what amount, if any, would be safe for a stranded person.
 >
-> **Subjective wording-confidence estimate: 94%.** This estimates only how accurately this warning and do-not-eat boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 94% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 The Food Standards Code lists *S. aviculare* and *S. laciniatum* in Schedule 23 as prohibited plants for food that is sold, processed or handled for sale, or imported. That commercial rule is not by itself a diagnosis of poisoning from one fruit. Together with unresolved alkaloid dose, lookalikes and identification difficulty, however, it is a strong reason not to issue a personal field-eating recipe.
 
@@ -907,7 +945,7 @@ This slender climber is common through much of Victoria. Its fruit has a well-do
 >
 > **Evidence confidence: High for the accepted species, the cited Victorian features and published ripe-fruit food record; Moderate for the source-labelled photographs; Insufficient for a novice to separate every specimen from the endangered common apple-berry, *Billardiera scandens*, or to choose a safe serving.** VicFlora says the two species can be difficult to distinguish and records intermediate plants in parts of north-eastern and eastern Victoria. No botanist or food-safety specialist has approved this page. It gives no field-eating procedure.
 >
-> **Subjective wording-confidence estimate: 92%.** This estimates only how accurately this warning and do-not-eat boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 92% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### Features to learn together
 
@@ -958,7 +996,7 @@ Kangaroo grass is one of Victoria's most widespread native grasses. Its seed-foo
 >
 > **Evidence confidence: High for the accepted species, the cited Victorian features and the documented history of grinding seed into flour; Moderate for the source-labelled photographs; Insufficient for novice grass identification, a safe raw or cooked serving, a field calorie return or sustainable wild harvest.** Only small amounts ripen together, ripe seed falls quickly, and no specialist has approved an emergency preparation. This page gives no harvest or recipe.
 >
-> **Subjective wording-confidence estimate: 91%.** This estimates only how accurately this warning and cultural non-harvest boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 91% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### Features to learn together
 
@@ -1016,7 +1054,7 @@ This coastal shrub bears tiny white fruit with a documented food history. The fr
 >
 > **Evidence confidence: High for the accepted species, Victorian coastal range, cited features and documented ripe-flesh food use; Moderate for the source-labelled photographs; Insufficient for novice identification, a safe serving, a reliable fresh-calorie value or public-land collection.** Victoria has several small white-fruited *Leucopogon* species. Native Ericaceae are declared restricted-use protected flora. No eating or harvesting instruction is given.
 >
-> **Subjective wording-confidence estimate: 92%.** This estimates only how accurately this warning and do-not-eat boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 92% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### Features to learn together
 
@@ -1080,7 +1118,7 @@ Cumbungi is conspicuous in many Victorian wetlands, but a familiar outline is no
 >
 > **Evidence confidence: High that three *Typha* species occur in Victoria and that foliage alone cannot separate them; Moderate for the source-labelled *T. orientalis* photographs; Low for transferring the old nutrition and taste record to a found plant; Insufficient for a novice identity, safe part, season, preparation, serving, lawful harvest or contaminant clearance.** Wetland digging is destructive and may expose you to deep mud, unstable banks, contaminated sediment or water. No harvesting sequence is given.
 >
-> **Subjective wording-confidence estimate: 93%.** This estimates only how accurately this warning and cultural non-harvest boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 93% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### What the photographs can teach
 
@@ -1131,7 +1169,7 @@ Water-ribbons are aquatic plants with long strap-like leaves and tuber-bearing r
 >
 > **Evidence confidence: High for the current genus, six Victorian species and the described *C. procerum* features; Moderate for the two source-labelled photographs; Low for assigning an old *Triglochin procera* nutrition result to the present species; Insufficient for a novice identity, underground-part comparison, safe preparation, serving, lawful harvest or contaminant clearance.** Two Victorian relatives, *C. dubium* and *C. microtuberosum*, are listed Endangered under the Flora and Fauna Guarantee Act. Digging destroys the feature needed to tell some species apart.
 >
-> **Subjective wording-confidence estimate: 93%.** This estimates only how accurately this warning and cultural non-harvest boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 93% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### What the example looks like
 
@@ -1175,7 +1213,7 @@ The word **samphire** is used for several different succulent saltmarsh plants. 
 >
 > **Evidence confidence: High for the accepted species name, broad form, Victorian occurrence and FSANZ wording; Moderate for the source-labelled photographs; Insufficient for identifying a particular plant, separating every similar glasswort, detecting contamination, choosing a lawful site, or giving a safe wild serving.** FSANZ lists *S. quinqueflora* as not novel in a food-law assessment, but it also says metal contaminants must be monitored when plants are wild harvested. You cannot do that by looking, smelling, rinsing or tasting.
 >
-> **Subjective wording-confidence estimate: 93%.** This estimates only how accurately this warning and cultural non-harvest boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 93% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### What the pictures can show
 
@@ -1235,7 +1273,7 @@ Bulbine lily is an important Victorian plant to recognise, but this guide does n
 >
 > **Evidence confidence: High for the accepted species, the cited botanical description and the separately attributed cultural records; Moderate for the source-labelled photographs; Insufficient for identifying a particular plant, ruling out every similar species, selecting a lawful patch, or giving a complete safe preparation.** Victoria has five *Bulbine* species. The Endangered *B. crassa* occurs around Wilsons Promontory and nearby islands and was formerly recorded under a name suggesting a coastal form of *B. bulbosa*.
 >
-> **Subjective wording-confidence estimate: 93%.** This estimates only how accurately this warning and cultural non-harvest boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 93% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### Features an expert would check together
 
@@ -1281,7 +1319,7 @@ Nardoo can look abundant after floodwater recedes. That abundance is dangerous i
 >
 > **Evidence confidence: High for the accepted species, thiaminase hazard, four Victorian *Marsilea* species and the separately attributed cultural records; Moderate for the source-labelled photographs; Insufficient for identifying your specimen or for any novice processing method.** Grinding, roasting, boiling or copying one historical step is not assumed to make it safe. Use this page to recognise and avoid a dangerous shortcut.
 >
-> **Subjective wording-confidence estimate: 96%.** This estimates only how accurately this danger warning and do-not-eat boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 96% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### What it looks like—and why leaves are not enough
 
@@ -1325,7 +1363,7 @@ Nitre-bush is a native shrub of saline country whose ripe fruit is described as 
 >
 > **Evidence confidence: High for the accepted species, Victorian form and distribution, and authoritative statements that the ripe fruit is edible; Moderate for the source-labelled photographs and the partial boxthorn comparison; Insufficient for a novice identity, safe serving, full lookalike exclusion, lawful harvest, or the safety of the hard stone and other plant parts.** Use this page for recognition. Do not taste either shrub.
 >
-> **Subjective wording-confidence estimate: 92%.** This estimates only how accurately this warning and do-not-eat boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 92% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### Features to compare together
 
@@ -1377,7 +1415,7 @@ White elderberry is a low native elder of cool, damp Victorian forests. Its matu
 >
 > **Evidence confidence: High for the accepted species, Victorian description and published mature-fruit food record; Moderate for the source-labelled photographs and raw-fruit history; Low for the one old species-specific cyanogenic screen; Insufficient for identifying your specimen, proving full ripeness, defining a safe serving, or clearing any other plant part.** Other elder species contain cyanogenic compounds in some parts. Do not transfer European or North American elderberry recipes to this plant.
 >
-> **Subjective wording-confidence estimate: 92%.** This estimates only how accurately this warning and do-not-eat boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 92% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### Features to learn together
 
@@ -1427,7 +1465,7 @@ Rounded noon-flower is a small creeping succulent of saltmarsh, sea cliffs and o
 >
 > **Evidence confidence: High for the accepted Victorian subspecies and its botanical features, and that a City of Melbourne page labels a Bunurong leaf-food account; Moderate for the source-labelled photographs and wider leaf-use evidence; Low for transferring the overseas food-composition result to Victorian wild leaves; Insufficient for the page's Traditional Owner authorship or approval chain, a novice identity, a safe serving, a field preparation, an unverified site's history, or the food or medicinal safety of fruit, flowers, roots and sap.** The missing identity, serving, provenance, site and specialist checks keep this page non-actionable even though food use is documented.
 >
-> **Subjective wording-confidence estimate: 90%.** This estimates only how accurately this warning and do-not-eat boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 90% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### Features that must all agree
 
@@ -1492,7 +1530,7 @@ Old-man saltbush is widely sold and grown as a salty native food plant. That com
 >
 > **Evidence confidence: High for the accepted species, two Victorian subspecies, broad features, Endangered status of subsp. *omissa* and the known ability of saltbushes to accumulate salt, oxalate and nitrate; Moderate for the three source-labelled pictures and the commercial-food record; Low for applying one commercial sample's food value to a wild Victorian plant; Insufficient for subspecies identity, site chemistry, safe human serving or field preparation.** A grey salty leaf is not a safe identification test.
 >
-> **Subjective wording-confidence estimate: 93%.** This estimates only how accurately this warning and do-not-eat boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 93% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### Features an expert would check
 
@@ -1538,7 +1576,7 @@ Seaberry saltbush is a sprawling coastal shrub with small crimson fruit. A Victo
 >
 > **Evidence confidence: High for the accepted Victorian name, features, distribution and the exact Warrnambool ripe-berry food record; Moderate for the source-labelled field image and two accessioned herbarium sheets; Insufficient for a novice identity, safe serving, fresh edible-flesh calories, human toxicology, contaminant clearance, or use of leaves and other parts.** The current cultural authority and the original study relationship also need direct review before any shared edition.
 >
-> **Subjective wording-confidence estimate: 91%.** This estimates only how accurately this warning and do-not-eat boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 91% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### Name and features
 
@@ -1598,7 +1636,7 @@ Chocolate lily is an important native food plant with fragrant purple flowers an
 >
 > **Evidence confidence: High for the accepted species, Victorian botanical features, documented food importance and the fact that public sources conflict about raw use; Moderate for the three source-labelled photographs and separately attributed cultural accounts; Insufficient for a novice identity, lawful sustainable harvest, raw safety, a validated cooking time or temperature, safe serving or fresh-food energy.** Smelling chocolate does not establish the species or food safety.
 >
-> **Subjective wording-confidence estimate: 94%.** This estimates only how accurately this warning and cultural non-harvest boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 94% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### Features an expert would check together
 
@@ -1650,7 +1688,7 @@ Pale vanilla-lily is a tall, pale-flowered relative of chocolate lily. Its roots
 >
 > **Evidence confidence: High for the accepted species, Victorian features, broad distribution and the existence of threatened or unresolved Victorian relatives; Moderate for the three source-labelled pictures and broad historical food record; Low for applying the old raw-root energy row to a found Victorian plant; Insufficient for a novice identity, safe preparation, serving, expected taste, lawful sustainable harvest or underground-part comparison.** “Vanilla” describes the flower scent, not the taste or safety of the root.
 >
-> **Subjective wording-confidence estimate: 94%.** This estimates only how accurately this warning and cultural non-harvest boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 94% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 ### Features an expert would check together
 
@@ -1700,7 +1738,7 @@ Current Royal Botanic Gardens Victoria work applies the name **Microseris walter
 >
 > **Evidence confidence: High for murnong's documented importance on separately named Countries and for the modern taxonomic problem; Insufficient for a novice wild identification, lawful harvest, energy value or preparation instruction.** Digging removes the edible tuber and usually the plant. No wild-harvest procedure is given.
 >
-> **Subjective wording-confidence estimate: 95%.** This estimates only how accurately this warning and cultural non-harvest boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 95% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 The record is not one generic “Aboriginal use”:
 
@@ -1743,69 +1781,9 @@ Traditional Owner publications may refer to wattle seed on a named Country witho
 
 This is not a claim that Victoria has only twenty-nine food-relevant plants. It is a record of what currently has enough evidence to discuss without pretending the guide is already an expert-reviewed flora. A rejected instruction is also useful: it stops an attractive calorie claim or cultural reference from becoming an unsafe shortcut. More species should be added only as complete entries with useful photographs, nutrition honesty and stop rules—not as a long unverified list.
 
-## A useful tie from three flexible strands
+## Reference — natural-material evidence
 
-> **WARNING — LIGHT, NON-CRITICAL USE ONLY**
->
-> **Evidence confidence: High for the plaiting pattern; Moderate for improvised material performance.** No strength, weather resistance or lifespan is established. Do not use this for a person's weight, climbing, rescue, towing, a main shelter support or anything overhead.
->
-> **Subjective wording-confidence estimate: 84%.** This estimates only how accurately this warning and light-use boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
-
-**What you need:** three similar-length flexible strands and a way to hold their starting ends. Spare cord or strips of non-essential cloth are the easiest practice material. For plant fibre, use only already identified, non-irritating, lawfully available material. Do not strip unknown sap-bearing plants or damage essential clothing for a demonstration.
-
-1. Align the ends and tie them together with an ordinary overhand knot: make a loop in the gathered ends and pass the ends through it. Tighten.
-2. Hold or secure that knot. Separate the hanging strands into left, middle and right.
-3. Bring the **left strand over the middle**. It is now the middle strand.
-4. Bring the **right strand over the new middle**.
-5. Repeat left-over-middle, then right-over-middle, keeping gentle, even tension. Untangle the free ends as you go.
-6. Tie the finishing end before letting go.
-
-![Three-strand braid diagram: A crosses over B, then C crosses over A; the new order is B C A](../assets/braid-sequence.svg)
-
-*Original diagram IM-069. Colour is supplemented by strand letters and written crossing order.*
-
-Try the completed tie with a small, non-critical bundle close to the ground. Pull and release several times. Reject it if fibres split, the ends slip or the braid opens. Recheck after wetting or drying; a successful gentle test is not a safe-load rating. If the strands are too short, make a shorter tie; untested splices are not taught here.
-
-**Pattern basis:** [Animated Knots' three-strand braid](https://www.animatedknots.com/three-strand-braid-knot), read in full, cross-checked against [Scouts' plait instructions](https://prod-cms.scouts.org.uk/media/12699/scotland-spring-2018.pdf). The Scouts extract was readable; full-PDF retrieval was incomplete. Its separate [natural-fibre example](https://cms.scouts.org.uk/media/12679/summer-2019.pdf) concerns UK nettles, not Victorian plant identification or harvesting. No cultural weaving pattern or specific Traditional Owner technique is claimed.
-
-## Joining two cords: a sheet bend
-
-> **WARNING — LIGHT, NON-CRITICAL USE ONLY**
->
-> **Evidence confidence: Moderate.** The knot form is documented by knot and scouting sources, but this wording and your cord have not been tested. Do not use it for climbing, rescue, a hammock, a person's support, towing or a load over someone. It can loosen when unloaded or slip in unsuitable material.
->
-> **Subjective wording-confidence estimate: 78%.** This estimates only how accurately this warning and light-use boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
-
-Use pliable cord in reasonable condition. This example is for an ordinary light tie, not safety equipment.
-
-1. Fold the end of the thicker cord into a U without tying it.
-2. Pass the thinner cord's free end up through the U.
-3. Take that end behind the U's short free end first, then behind its long part, going around both parts.
-4. Tuck it under its own section where it first crossed the U. Do not pass it back through the U.
-5. Arrange the two short free ends on the same side of the finished knot. Leave visible tails.
-6. Pull the long parts gradually to snug the knot. Pull and release several times; reject it if the tails creep or the shape changes.
-
-Check it again after use, especially if the cord becomes wet or tension comes and goes. If you cannot recognise the finished structure, use an existing buckle or another familiar fastening rather than guessing.
-
-**Sources:** [Animated Knots sheet bend](https://www.animatedknots.com/sheet-bend-knot) and [Scouting Resources sheet bend](https://www.scoutresources.org.uk/SR/knots/knots_bends_sheet.html), recorded as S-314. The second is an individual educational site, not an official Scouts standard. They corroborate the knot form, not load certification. No copied knot image is included.
-
-## Choosing materials without creating another problem
-
-Name the job first: fastening, ground padding, a dry layer, or a container.
-
-| Job | Start with | Check before use |
-|---|---|---|
-| Light fastening | Spare cord, strap, the plait above | Fraying, slipping, sharp edges; keep off people and overhead loads |
-| Ground insulation | Sleeping mat, folded spare clothing, a pack with hard objects removed | Cover the body’s contact area; do not crush all insulation flat |
-| Rain barrier | Intact tarp, rainwear or suitable carried sheet | Water runs outside bedding; face and air space stay open |
-| General carried-water container | Intact food-grade bottle or other container assigned to clean water | Known previous contents, protected-clean opening, no leak, and suitable for the water temperature |
-| Non-critical prop or simple tool handle | Sound, already available material | No cracks, rot or concealed sharp points; never support a person or a suspended or overhead load |
-
-Do not assume that bark, resin or an unknown hollow stem is food-safe. Natural adhesives, bark containers and named Victorian fibre extraction still need proper entries. They are not replaced by an unsafe generic “boil some sap” instruction.
-
-A cooking pot is not automatically protected-clean drinking-water storage. For source-water treatment, follow every role-separation, transfer and storage control in [Water](07-water.md). This table does not permit the treatment pot, its rim or any improvised natural container to replace the protected-clean storage required there.
-
-Use carried fuel. Fallen wood supports wildlife and is not automatically available to collect. **Do not collect firewood unless the current rule for the exact site expressly permits the exact kind and amount of collection you propose.** Never infer permission from another park, an old sign or the fact that wood is already dead. Even where the current exact-site rule permits limited ground collection for an immediate campfire, that is not permission to remove wood from the site or damage living plants. [Parks Victoria](https://www.parks.vic.gov.au/things-to-do/Using-firewood).
+The action cards above are based on [Animated Knots' three-strand braid](https://www.animatedknots.com/three-strand-braid-knot), [Scouts' plait instructions](https://prod-cms.scouts.org.uk/media/12699/scotland-spring-2018.pdf), [Animated Knots' sheet bend](https://www.animatedknots.com/sheet-bend-knot) and [Scouting Resources' sheet bend](https://www.scoutresources.org.uk/SR/knots/knots_bends_sheet.html). They corroborate the forms, not the strength of an improvised material. No cultural weaving pattern or specific Traditional Owner technique is claimed. Natural adhesives, bark containers and named Victorian fibre extraction remain withheld until identification, legal, toxicity, performance and cultural review are complete.
 
 ## Traditional Owner knowledge, Country and permissions
 

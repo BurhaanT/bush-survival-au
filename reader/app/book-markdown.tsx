@@ -16,9 +16,18 @@ function headingPlugin(options: { prefix?: string } = {}) {
     const text = (node: Root | RootContent): string => 'value' in node ? String(node.value) : 'children' in node ? node.children.map(text).join('') : '';
     const walk = (node: Root | RootContent) => {
       if (node.type === 'heading') {
-        const name = slug(text(node)), count = counts.get(name) || 0;
+        const heading = cleanHeading(text(node));
+        const name = slug(heading), count = counts.get(name) || 0;
+        const lower = heading.toLowerCase();
+        const className = /^(do this now|what to do now|first actions|start here|if this is happening now|find the urgent action|choose your situation|use what you see first)/.test(lower)
+          ? ['action-heading']
+          : /^(do not|stop|danger)/.test(lower)
+            ? ['stop-heading']
+            : /^(more detail|evidence|sources|review notes|reference)/.test(lower)
+              ? ['reference-heading']
+              : undefined;
         counts.set(name, count + 1);
-        node.data = { ...node.data, hProperties: { id: `${options.prefix || ''}${name}${count ? '-' + count : ''}` } };
+        node.data = { ...node.data, hProperties: { id: `${options.prefix || ''}${name}${count ? '-' + count : ''}`, ...(className ? { className } : {}) } };
       }
       if ('children' in node) node.children.forEach(walk);
     };

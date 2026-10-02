@@ -2,7 +2,7 @@
 
 ## What to do when you are lost, injured or stranded
 
-**Personal illustrated working edition 0.12 · Victoria, Australia · updated 30 September 2026**
+**Personal illustrated working edition 0.13 · Victoria, Australia · updated 2 October 2026**
 
 This guide starts where an ordinary trip becomes an emergency. You may have arrived by foot, vehicle or boat. What matters now is the danger, the people, the equipment you can reach and the help you can obtain.
 
@@ -31,12 +31,15 @@ The book aims to help you make the next useful decision. It cannot guarantee res
 
 Victoria includes the Countries of many Aboriginal peoples. Knowledge belongs to particular people and places; it is not a single collection of Australian survival tricks. This edition does not claim Traditional Owner endorsement. It does not reproduce restricted knowledge or offer an Aboriginal remedy as a substitute for established first aid.
 
-## What this edition does not contain
+## Important limits
 
-The plant chapter contains twenty-nine pictured food-relevant or hazard-recognition entries, including multiple views where suitable rights-cleared evidence was available. Eating permission never comes from a picture alone. Country-specific cultural context is attributed and bounded; it is not turned into a generic recipe. Food and fishing include working rigging, handling, fishhook, cooking and recognition material, but the fish atlas and species-specific processing remain incomplete and unapproved. Across the guide, 145 working visuals—99 external images and 46 original diagrams—appear in 145 chapter placements. D-070/IM-206 add a visibly unapproved three-panel, five-mode signalling synthesis without creating an official rescue sequence, movement permission, product method, detection promise or confirmed-contact state. D-069/IM-205 retains the serious-deterioration card; D-068/IM-204 the first-actions route; D-067/IM-203 the ordinary thermal-burn card; D-065/IM-201 and D-066/IM-202 the asthma and provisional bower-fruit limits; and D-064/IM-200 the stop before Warrigal preparation. D-059–D-063 retain the current fire, water, anaphylaxis and seizure limits. Medical, plant, shelter, fire, water and fishing material remains working teaching content, not proof of identification, treatment effectiveness or hands-on competence. The source register contains 490 entries, and the open safety register extends through SR12-30. QA-035 records the current manuscript and asset state; QA-034 and earlier QA entries remain historical baselines.
+`FIELD_READY_BUILD=NO`. This is not an approved emergency edition.
 
-QA-035 controls the current manuscript, reader and full-book browser-print review state. Its 224-frame projection is not a PDF, page-by-page print proof or content approval. QA-034 and earlier records retain their historical scope. `FIELD_READY_BUILD=NO` remains controlling.
+- A picture alone never proves that a plant is safe to eat.
+- The fish atlas and species-specific dispatch and cleaning instructions are incomplete.
+- Some plant comparisons, medical movement diagrams and natural-material techniques are still missing or awaiting review.
+- The guide does not teach mushroom foraging, toxin removal, climbing rescue or swift-water rescue.
 
-Complete plant lookalike panels, completion and independent review of the fish atlas, some fish-cleaning and medical movement diagrams, and further natural-material techniques are still missing. There are no mushroom-foraging, fish toxin-removal, climbing or swift-water rescue methods. Those are real limitations, not permissions to improvise.
+These are limits, not permission to improvise. Medical, plant, shelter, fire, water and fishing pages remain working teaching material until the stated reviews and practical tests are complete.
 
 See [How to use this guide](01-how-to-use-this-guide.md) for warning labels, and [Sources and limitations](14-sources-reviewers-and-limitations.md) for the review record.

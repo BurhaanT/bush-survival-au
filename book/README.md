@@ -57,3 +57,5 @@ Use [MEDICAL_ENTRY_TEMPLATE.md](MEDICAL_ENTRY_TEMPLATE.md) for every condition o
 ## Plain-language rule
 
 Apply [../EDITORIAL_STYLE_GUIDE.md](../EDITORIAL_STYLE_GUIDE.md) to every new or existing page, caption and instruction. Keep source details and safety limits intact. A language edit does not count as medical, botanical or other specialist approval.
+
+For an incident-facing chapter, put **Do this now**, short `if … then …` branches, stop rules and checks before background or source discussion. Separate material meant to be learned before a trip from the route used while stranded. Keep warnings beside the action they govern, but move repeated project-process detail to the registers.

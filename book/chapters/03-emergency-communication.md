@@ -1,105 +1,83 @@
 # Emergency communication
 
-> **WARNING — SPECIALIST REVIEW OUTSTANDING**
+> **WARNING — DEVICE AND SPECIALIST REVIEW OUTSTANDING**
 >
-> **Evidence confidence: High for Australian emergency-number and beacon principles; Moderate for applying different devices in one checklist.**
+> **Evidence confidence: High for Australian emergency numbers and beacon principles; Moderate for this combined device checklist. Estimated wording accuracy: 95% for the core call and beacon rules and 80% for device coverage.** These are subjective editorial estimates, not the chance of connection or rescue. Your device, service, battery and reception control what works. Follow its current instructions and the responder's directions.
+
+## Do this now
+
+1. Dial **000**. Use the phone's emergency-call control if it is locked.
+2. Ask for **Police**, **Ambulance** or **Fire**. Say you are in **Victoria**.
+3. State the life threat first, then say if you are lost.
+4. Give your location without guessing.
+5. Answer questions, follow instructions and stay on the line unless told otherwise.
+6. If no call connects, use the best emergency-capable satellite device, beacon or radio you actually have.
+
+Calls to 000 are free. A phone may use another available Australian mobile network, but it still needs a compatible working network. **112 is a mobile alternative; it does not add coverage, satellite service or priority.**
+
+## Give a clear report
+
+Use this order:
+
+> “I need **[Police / Ambulance / Fire]** in Victoria.
 >
-> **What remains uncertain:** your exact device, service availability, battery condition and local reception. No page can promise connection or a rescue arrival time. Follow the device's current instructions and the responder's directions.
+> The emergency is **[what happened and the urgent condition]**.
+>
+> We are **[coordinates exactly as shown / named place / last certain place]**.
+>
+> There are **[number]** people.
+>
+> I **[can / cannot]** remain here safely.
+>
+> My battery is **[level]**.”
 
-## Call and explain the emergency
+Open an available map or location tool. Emergency+ may display location information if already installed and working; it does not create coverage. Read coordinates exactly, including signs, letters, decimals and the displayed format. Say **POSITION UNCERTAIN** if the dot moves, the map does not match or you are unsure.
 
-1. Dial **000**. Use the phone's emergency-call control if the handset is locked.
-2. Ask for Police, Ambulance or Fire. Say you are in **Victoria** and give the nearest known place.
-3. Explain the urgent problem and location. If lost, say so. If someone is unresponsive, not breathing normally or bleeding badly, say that immediately.
-4. Answer questions and follow instructions. Stay on the line unless told otherwise. If help is being arranged, questions may continue.
-5. Tell the operator if the connection is poor, the battery is nearly flat, you may need to move out of danger, or you cannot carry out an instruction.
+Also give the park, road, track, river, vehicle, nearby sign, start point and last place definitely recognised. Do not name an uncertain landmark as fact. Do not assume automatic phone location reached rescuers. A screenshot preserves what the phone showed, not necessarily your current position.
 
-Calls to 000 are free. A phone may use another available Australian mobile network when its own carrier is unavailable. It still needs a compatible working network; no reception from any carrier means no mobile-network emergency call. **112 is a mobile alternative, not extra coverage, satellite service or a priority line.**
+## If the phone will not connect
 
-**Sources:** [ACMA emergency calls](https://www.acma.gov.au/emergency-calls) and [Telstra emergency-call service](https://www.telstra.com.au/consumer-advice/emergency-call-service); S-043–S-045, S-054. These organisations have different roles but describe the same emergency-call system.
+Try the emergency call before deciding there is no usable network. If it fails:
 
-## Say where you are without guessing
+- **Supported phone satellite emergency feature:** follow its on-screen emergency steps. It is separate from an ordinary call and is not available on every phone or service.
+- **Satellite messenger or phone:** use the emergency route for the exact device and active service; remain available for questions.
+- **Radio:** identify yourself, say “emergency”, give the location and ask the receiver to call 000. Ask them to read back what they understood and did.
+- **Message to a trusted person:** include the emergency, location and the instruction to call 000. Demand a reply. An outbox or sent icon is not proof of delivery.
 
-Open your already available map or location tool. The **Emergency+** app can help display location information if installed and working; it does not create mobile coverage.
+Ordinary SMS cannot be sent directly to 000 or 112. This guide does not promise statewide UHF monitoring or a universal rescue channel. Do not climb a tree, cliff or exposed ridge to chase reception; use [Stay or move](04-stay-or-move.md).
 
-Read the coordinates exactly as displayed, including a minus sign, letters, decimal points and the format if shown. Do not convert them in your head. Say whether the displayed dot is moving or uncertain. Read back what the operator asks you to confirm.
+For access needs, **106 is a TTY emergency service, not an SMS number**. Existing National Relay Service users can use their supported method. A silent call must not be assumed to locate you in the bush.
 
-Add information that can be understood without a coordinate system:
+## Use a personal locator beacon
 
-- The park, road, track, river or named feature.
-- Where you started and the last place you definitely recognised.
-- Which way you travelled after that, and what that statement is based on.
-- Vehicle details or a nearby sign, if relevant.
-- A visible landmark, without claiming that an uncertain hill or creek has a particular name.
+A **PLB** sends a satellite distress alert and is not normally two-way. AMSA says to activate one when two-way communication is unavailable and you face grave and imminent danger. Do not wait for collapse when being lost, exposure or illness is becoming life-threatening.
 
-Do not assume automatic phone location has reached rescuers. A screenshot can help preserve what the device showed, but a screenshot of an old position is not your current position.
+1. Follow the instructions printed on the beacon or in its manual.
+2. Deploy the antenna exactly as directed. For land use, AMSA advises it vertical with a clear sky view.
+3. Keep it out of a closed pack and as clear of obstructions as the safe site allows. Do not make a dangerous move for a better view.
+4. Leave it operating until rescue services tell you to stop. Continue first aid, shelter and visible signals.
 
-**Sources:** [Emergency+](https://www.emergencyplus.com.au/), [Triple Zero location service](https://www.triplezero.gov.au/triple-zero/How-to-Call-000/advanced-mobile-location), and the location guidance in ACMA; S-046–S-047.
-
-## Your phone will not connect
-
-Try the emergency call rather than assuming the ordinary signal display is a final answer. If no connection is possible, use the emergency-capable satellite device or radio you actually have.
-
-Ordinary SMS cannot be sent directly to 000 or 112. A text sent to a friend is only useful if they receive it and act; ask for confirmation and give the emergency, location and need to call 000. Do not count a message sitting in an outbox as delivered.
-
-A phone's satellite emergency feature is separate from an ordinary emergency call. It requires a supported handset and service. Use its on-screen emergency instructions if available; do not assume all smartphones provide it.
-
-Do not climb a tree, cliff or exposed ridge just to look for reception. [The stay-or-move decision](04-stay-or-move.md) controls movement, not a signal bar.
-
-### If speech or hearing is a barrier
-
-**106 is a TTY emergency service, not an SMS number.** Existing National Relay Service users can use their supported relay method for an emergency call. Prepare the exact accessible method before travel. If you can speak, give your location; a silent call must not be assumed to locate you in the bush.
-
-**Sources:** ACMA above; handset-specific service limits remain in S-272–S-273 and require checks on the actual phone.
+A return-link acknowledgement means the alert was received by the system; it does not prove a team has departed. For accidental activation, switch it off and call **AMSA on 1800 641 792** promptly.
 
 ## Know what the device status really means
 
 > **WARNING — A STATUS ICON IS NOT A RESCUE PROMISE**
 >
-> **Evidence confidence: High for the need to separate these states; Moderate for matching every manufacturer's changing words and icons to them.** Use the exact device instructions. Never turn **sent**, **connected** or **acknowledged** into “rescuers are coming” unless a suitable responding service has actually told you that.
+> **Evidence confidence: High for separating these states; Moderate for every maker's changing labels. Estimated wording accuracy: 95% for the distinction and 75% for label coverage.** Use the exact device instructions.
 
-| Status | What it means | What it does **not** prove |
-|---|---|---|
-| **Position found** | The device shows a GNSS/GPS position. | That a request for help is being sent. |
-| **Attempting** | Dialling, ringing, queued, connecting or transmitting. | That any network, person or service has received it. |
-| **Route acknowledged** | A network, provider, delivery system or return-link beacon service has acknowledged something. | That a person read it, emergency services know the full incident, or rescue has launched. |
-| **Human reply** | A friend, radio operator, commercial response centre or emergency service has replied. Identify which one. | That a different service has received it, or that responders have been dispatched. |
-| **Operational instruction** | A responding emergency or coordination service has given an instruction for this incident. | That conditions cannot change. Read it back, follow it, remain reachable and report forced movement or new danger. |
-| **Responders present** | Direct physical or on-scene contact. | No earlier status means this. |
+| Display or event | What you know |
+|---|---|
+| Position found | The device has a position; no help request is proved. |
+| Attempting, queued or sending | It is trying; receipt is not proved. |
+| Sent or system acknowledged | A route or system accepted something; human action is not proved. |
+| Human reply | That person or service replied; identify who and what they did. |
+| Responder instruction | Read it back, follow it and report changes. |
+| Responders present | Physical contact; no earlier state means this. |
 
-Until responders are present, continue first aid, shelter, signalling, observation and power management. Do not set a rescue deadline. Do not cancel an alert, switch off a device or move merely because of an icon, acknowledgement or unconfirmed sighting.
-
-For a text to another person or a radio relay, ask for a reply that states what they understood and what they did. “I received your location and emergency and have called 000” is useful third-party confirmation; it is still not direct contact with emergency services.
-
-**Sources:** ACMA and AMSA above; device-route and acknowledgement comparisons S-172, S-223 and S-266–S-273. The status ladder is an original organising aid and still needs emergency-communications and stressed-reader review.
-
-## Use a personal locator beacon in a distress emergency
-
-A **personal locator beacon (PLB)** sends a satellite distress alert. It is not normally a two-way conversation.
-
-AMSA says to activate a distress beacon when two-way communication is unavailable and you face grave and imminent danger—a life-threatening situation. Being lost with worsening exposure or illness needs serious attention; do not wait for collapse as a test of whether danger is real.
-
-1. Use the activation instructions printed on your actual beacon or its manual.
-2. Deploy its antenna exactly as specified. For land use, AMSA advises a vertical antenna and a clear view of the sky.
-3. Keep the beacon out of a closed pack and away from obstructions as far as the safe site permits. Do not make a dangerous move to obtain ideal sky view.
-4. In a real distress activation, leave it operating until rescue services tell you to stop. Continue care, shelter and visible signalling.
-
-A return-link acknowledgement means the system has received the alert; it is not proof that a rescue team has departed. For an accidental activation, switch off and contact **AMSA on 1800 641 792** promptly.
-
-**Sources:** [AMSA activation](https://beacons.amsa.gov.au/activation/), [deployment](https://beacons.amsa.gov.au/activation/deployment.asp), [beacon types](https://beacons.amsa.gov.au/about/beacon-types.asp), and the model-specific checks recorded under S-051, S-172 and S-223. No universal button diagram is supplied.
-
-## Two-way satellite devices and radios
-
-A satellite messenger's SOS commonly reaches a provider's emergency coordination service. A satellite phone is a different device with a voice-call route. Use the route supported by the exact device and active service.
-
-After SOS, stay available to answer the centre. Use the status ladder above rather than treating **queued**, **sent**, **reply received** and **responders present** as equivalent. Report important changes. Do not cancel simply because a message arrived or the immediate discomfort eased.
-
-For a radio, identify yourself, state that it is an emergency, give your location and ask the receiving person to contact 000. Obtain a read-back. A radio without a reply is not confirmation that anyone heard you. This edition does not promise statewide UHF monitoring or a universal radio channel that reaches rescuers.
+Until responders arrive, continue care, shelter, signalling and checks. Do not cancel an alert, turn off the device or move because of an icon, reply from a friend or unconfirmed sighting.
 
 ## Keep contact possible
 
-Dim the screen and stop unnecessary camera, video and entertainment use. Keep devices dry. Use the correct charged power bank and cable where available. Do not plug a wet connector into power.
+Dim the screen and stop non-essential use. Keep devices dry. Use the correct charged cable and power bank if available; do not power a wet connector. Tell the operator about a failing battery, poor connection or forced move. Agree how to remain reachable; do not turn the device off or use flight mode without agreement.
 
-After making contact, agree with rescuers how you will remain reachable. Do not switch off or enable flight mode unilaterally while they may be trying to call. A source suggesting scheduled check-ins is not a reason to invent your own silent period.
-
-**Further evidence:** S-053, S-172, S-223, S-266–S-273 and the [communications evidence packet](../../research/evidence-packets/EP-001-first-actions-and-communications.md). Device-specific instructions and radio operating detail remain limited. Rechecked 7 September 2026; independent review outstanding.
+**Sources and review:** ACMA, Triple Zero, Emergency+, AMSA and Telstra; S-043–S-054, S-172, S-223 and S-266–S-273; [communications evidence packet](../../research/evidence-packets/EP-001-first-actions-and-communications.md). Device-specific detail remains limited. Rechecked 7 September 2026; independent review outstanding.

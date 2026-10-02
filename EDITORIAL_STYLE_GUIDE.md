@@ -29,6 +29,29 @@ Use respectful adult language. Explain concepts without talking down to the read
 
 Begin with the reader's immediate problem. Use headings the reader might look for, such as “You can see smoke” or “Your phone will not connect”, once the linked guidance is approved.
 
+### Emergency reading has three layers
+
+A stranded reader must not have to read the research history before finding the next action. Put information in this order:
+
+1. **Do this now** — usually three to six short actions.
+2. **Choose your situation** — short `if … then …` branches, followed by visible stop rules and checks.
+3. **More detail and evidence** — reasons, unusual cases, source comparison and review notes.
+
+The first two layers must make sense without the third. Keep a warning before the action it controls, but make it say only what changes the decision. Put source history, repeated definitions, internal IDs and ordinary licensing notes in the third layer or the project registers.
+
+For lower-priority subjects such as wild food, separate **what to do while stranded** from **material to learn before a trip**. A long reference section must never look like the next survival priority.
+
+### Cut words by removing delay, not safety
+
+- Give one instruction once, then link back to it. Do not repeat the same method in several places.
+- Prefer a short checklist or decision table when every row answers the same question.
+- Keep one action in each numbered step.
+- Use a heading that states the problem or decision. Avoid headings that merely name a topic.
+- Keep the main route visible. Put rare cases after it.
+- Remove project-process prose from the field-reading path. Preserve it in the registers where it remains auditable.
+- Do not shorten a warning by deleting a condition, stop rule, uncertainty or safer fallback.
+- Do not make a dangerous technique look easier merely to make the page shorter.
+
 For a practical technique, use the following order where relevant:
 
 1. **When to use this:** the situation and conditions that must be met.

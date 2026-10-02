@@ -2,85 +2,66 @@
 
 > **WARNING — FOOD AND WILDLIFE REVIEW OUTSTANDING**
 >
-> **Evidence confidence: High for the cited food-safety and wildlife guidance; Moderate for the practical fishing synthesis.** Exact species identification, local conditions and the final illustrated pages still need review.
+> **Evidence confidence:** High for cited food-safety and wildlife guidance; Moderate for the practical fishing sequence. Exact fish identification and the illustrated pages still need specialist review.
 >
-> **Subjective wording-confidence estimate: 84%.** This estimates only how accurately this warning and the chapter boundaries reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
->
-> This chapter gives conditional fishing, handling and cooking instructions, not clearance to eat an unknown catch. Species-specific fish dispatch and cleaning methods are deliberately withheld because the anatomy plates and practical review are missing. Cooking does not fix every poison. Food gathering must not displace urgent care, shelter, water or rescue.
+> **Wording confidence: 84% (subjective).** This rates the warning against the cited evidence—not food safety, identification, success or survival.
 
-This edition gives no instructions to hunt, trap or take native mammals, birds, reptiles, frogs or their eggs. Victorian native wildlife is protected. This guide does not treat being stranded as blanket legal permission to take wildlife.
+## Do this now
 
-## Use carried food before foraging
+1. Put first aid, rescue, shelter and water before food.
+2. Use carried food first. Choose food that needs the least extra water and fuel; keep it closed and away from contamination.
+3. Keep prescribed emergency food or glucose available for the person whose plan requires it.
+4. Give no food, drink or gel to anyone who is drowsy, cannot swallow normally or is recovering poorly from a seizure.
+5. **Do not eat wild mushrooms, shellfish, an unknown fish or a plant first identified during the emergency.**
+6. Do not hunt, trap or take native mammals, birds, reptiles, frogs or eggs using this guide. Victorian native wildlife is protected; being stranded is not blanket legal permission.
 
-List ready-to-eat supplies and check which need cooking or extra water. Plan simple portions across the expected wait, reassessing if rescue is delayed. Avoid wasting fuel and water on a meal when a suitable ready-to-eat option exists.
-
-Keep food closed, dry where required and away from contamination. Keep enough information from packaging to identify allergens and ingredients. Follow the person's medical plan where food is part of diabetes management; do not ration away a necessary low-glucose treatment.
-
-Do not feed someone who is drowsy, struggling to swallow or recovering poorly from a seizure. That includes drinks and energy gel.
-
-The reason for putting food later is practical: hunting and collecting can add travel, falls, poisoning and contamination before they supply useful nutrition. It is not a promise that anyone can safely go without food for a set number of days.
-
-The [plant and natural-material chapter](11-plants-and-natural-materials.md) separates conditional food entries from warning-only candidates. It gives measured or proxy energy figures only with their limits beside them. Older, overseas, commercial-product or broad-name values may show likely scale, but must not be used to plan field rations. A calorie number never identifies a plant or makes it safe to eat.
-
-There is no reliable calorie figure for “fish” as a group. Do not apply a per-100-gram fillet value to the weight of a whole fish. A usable estimate must match the positively identified species, cooked edible part and preparation in an authoritative Australian food database, then use the weighed edible flesh. Until both the matching food value and edible yield are verified, record energy as **unknown**, not as a ration.
-
-**Basis:** preparation guidance S-021/S-053, medical swallowing limits S-111/S-120, Australian nutrition boundary S-448, wildlife boundary S-449, and the project's decision-first synthesis.
+Do not budget calories from an unweighed wild food. A number for commercial fillet or fruit does not identify a species or describe a whole catch. Treat its energy as **unknown** unless the species, edible cooked part, preparation and weight all match a reliable value.
 
 ## Mushrooms and shellfish are not emergency shortcuts
 
-Do not collect wild mushrooms for a meal. Victorian poisonous mushrooms can resemble edible ones, and cooking or drying does not make poisonous mushrooms safe. Do not wait for illness after a suspected ingestion before calling Poisons.
+**Do not collect wild mushrooms for food.** Poisonous Victorian species can resemble edible ones. Cooking or drying does not make a poisonous mushroom safe. After a suspected ingestion, call the Poisons Information Centre on **13 11 26**; do not wait for illness.
 
 > **WARNING — WILD SHELLFISH ARE NOT CLEARED AS SURVIVAL FOOD**
 >
-> **Evidence confidence: High that dangerous toxins and pollution can be invisible and that cooking or freezing may not remove marine biotoxins; Insufficient for a printed guide to clear any species, site or day.**
+> Dangerous toxins and pollution can be invisible; cooking or freezing may not remove marine biotoxins. This guide cannot clear a species, site or day. **Do not collect or eat wild pipis, oysters, mussels, scallops or other shellfish using this guide.**
 >
-> **Subjective wording-confidence estimate: 95%.** This estimates only how accurately this warning and its do-not-eat boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
->
-> This edition gives no instruction to collect or eat wild pipis, oysters, mussels, scallops or other shellfish. If you cannot positively identify the species and check the current VFA rule, signs and official health and water warnings for the exact site, do not collect or eat it.
-
-Never use wild shellfish from water near marinas or boat waste; sewage, industrial or stormwater outlets; septic systems; recent heavy rain; or a toxic algal bloom. Appearance, smell and taste do not establish safety. Cooking and freezing do not destroy marine biotoxins.
+> **Evidence confidence: High** for these hazards; **Insufficient** for site clearance. **Wording confidence: 95% (subjective).**
 
 If anyone has breathing trouble, weakness or paralysis, collapse, a seizure, confusion or altered consciousness after eating seafood, call **000**. For less severe nausea, vomiting, stomach pain or diarrhoea, call **NURSE-ON-CALL on 1300 60 60 24**. Do not wait for severe symptoms after eating seafood covered by a current warning.
 
-**Sources:** [Victorian Health mushroom advisory](https://www.health.vic.gov.au/health-advisories/poisonous-mushrooms-growing-victoria), [VFA food safety](https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/food-safety), [Victorian Health Gippsland Lakes seafood advice](https://www.health.vic.gov.au/water/gippsland-lakes-seafood), [FSANZ seafood toxins](https://www.foodstandards.gov.au/consumer/prevention-of-foodborne-illness/bacteria-foodborne-illness/toxins-in-seafood) and S-205/S-206/S-312/S-313/S-332/S-446. A hazard page or warning supplies a safety boundary, not a current closure or clearance for another place or day.
+Sources: [Victorian mushroom advice](https://www.health.vic.gov.au/health-advisories/poisonous-mushrooms-growing-victoria), [VFA food safety](https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/food-safety), [Gippsland Lakes advice](https://www.health.vic.gov.au/water/gippsland-lakes-seafood) and [FSANZ seafood toxins](https://www.foodstandards.gov.au/consumer/prevention-of-foodborne-illness/bacteria-foodborne-illness/toxins-in-seafood).
 
 ## Before trying to catch a meal
 
 > **WARNING — FISH IDENTITY, WATER SAFETY AND RULES**
 >
-> **Evidence confidence: High for the linked official rules as checked 29 September 2026; Moderate for this shortened decision path.** Rules, closures and health warnings can change without a new book edition. The small working atlas later in this chapter covers only three candidate species and one difficult comparison; it is not a complete fish key.
+> The working atlas below is incomplete. This guide supplies **no species-specific humane dispatch, bleeding or cleaning method**. Do not cast unless you already know how to identify, lawfully handle, humanely dispatch and clean every likely catch with your equipment.
 >
-> **Subjective wording-confidence estimate: 90%.** This estimates only how accurately this warning and decision boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
->
-> Use this section only when you can positively identify the catch and confirm that the exact water, date, method, bait and species are lawful. Unless exempt, you need a current Victorian Recreational Fishing Licence to take or attempt to take fish from public waters, and to use or possess recreational fishing equipment in, on or next to those waters. This book does not establish that being stranded creates a legal exemption.
->
-> **If you cannot positively identify the fish and confirm the current rule, do not keep or eat it.**
+> **Evidence confidence:** High for official rules checked 29 September 2026; Moderate for this decision sequence; Insufficient for the missing species procedures. **Wording confidence: 90% (subjective).** Rules and closures can change.
 
-Fish only from firm ground you can reach without climbing, wading or leaving a rescue plan. Do not fish a flooded bank, surf rock ledge or place where a fall would put you in current. Stop for deteriorating light, weather, cold, exhaustion or a task more urgent than food.
+Fish only if **every** answer is yes:
 
-Before fishing, check the [current Victorian Recreational Fishing Guide](https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide) or VicFishing app and [current Fisheries Notices](https://vfa.vic.gov.au/operational-policy/legislation-and-regulation/fisheries-notices). Confirm that the water is open, the gear and bait are permitted, the species is not protected, the season is open, and the catch is within all size, bag and possession limits. Obey fisheries and public-health signs.
+- More urgent first aid, rescue, shelter, water and warmth work is complete.
+- You can stay on firm ground without climbing, wading, entering surf or leaving the rescue location.
+- You have lawful tackle and permitted bait; unless exempt, you hold the required Victorian Recreational Fishing Licence.
+- You checked the current [VFA Guide](https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide), [Fisheries Notices](https://vfa.vic.gov.au/operational-policy/legislation-and-regulation/fisheries-notices), site signs and [EPA alerts](https://www.epa.vic.gov.au/check-air-and-water-quality) for this water and date.
+- You can positively identify every likely catch and state its current protected status, season, size, bag, possession and required release or disposal action.
+- You already have a suitable, practised, species-specific humane dispatch and cleaning method. **This guide does not provide one.**
+- You can keep the catch cold or cook it promptly with a safe, lawful setup.
 
-Keep three questions separate:
-
-1. Is the fish positively identified?
-2. What does the current law require you to do with it here and now?
-3. Is this individual fish safe to eat, considering the water and its handling history?
-
-A “yes” to one does not answer the others. **Noxious**, **protected** and **unwanted** are legal or disposal terms, not food-safety ratings.
-
-> **CURRENT CHECK — A SAVED RULE IS ONLY A SNAPSHOT**
->
-> When communication is available, check the current VFA Guide or VicFishing app, Fisheries Notices, [EPA water-quality alerts](https://www.epa.vic.gov.au/check-air-and-water-quality), and every sign at the site. Clear-looking water—or no online alert—is not proof that its catch is safe. If the exact water has a do-not-eat warning, or you cannot resolve a warning, use carried food.
+Any **no** or **unknown** means **do not fish**. Clear water, no online alert, or the labels “noxious”, “protected” or “unwanted” do not establish food safety.
 
 ![Before-casting decision gate: control urgent survival needs first, confirm the current exact rule and every likely catch, then check the bank, gear, weather, light and time; any no or unknown answer means do not fish.](../assets/fish-precast-gate.svg)
 
-*IM-175. Original working decision card based on the current VFA rule routes in S-459–S-465. It is a conservative project sequence, not a declaration that fishing is lawful or safe. Its 90% figure estimates confidence in the wording only, never the probability of legal permission, a safe catch, success or survival. Victorian fisheries-law, practical and stressed-reader review remain outstanding.*
+*IM-175. Working decision card, not a declaration that fishing is lawful or safe. Specialist and stressed-reader review remain outstanding.*
 
-**No tackle:** there is no dependable replacement made from a sharpened twig and guessed plant fibre in this edition. Use carried food. Consider a conditional [plant entry](11-plants-and-natural-materials.md) only for a plant you learned and positively identified before the emergency; do not use this guide to identify a new food plant. Do not use poison, electricity, indiscriminate traps or an improvised raft.
+**No tackle:** use carried food. This edition has no dependable hook-and-line substitute made from a twig and guessed plant fibre. Do not use poison, electricity, indiscriminate traps or an improvised raft.
 
-**Safety/rules:** [VFA fishing safety](https://vfa.vic.gov.au/education/fish-safe-fish-smart), [responsible fishing](https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/responsible-fishing-behaviours) and [rule reminders](https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/rule-reminders); S-331, S-440–S-442/S-447 and S-459–S-465. Checked 29 September 2026; this is not a live closure report.
+Safety references: [VFA fishing safety](https://vfa.vic.gov.au/education/fish-safe-fish-smart), [responsible fishing](https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/responsible-fishing-behaviours) and [rule reminders](https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/rule-reminders). This is not a live closure report.
 
-## Assemble one basic fishing rig
+## Only if practised before the emergency
+
+### Assemble one basic fishing rig
 
 **What you need:** sound fishing line, one small sliding sinker, a swivel, a short separate length of line, a suitable manufactured hook, and permitted bait. A rod/reel or purpose-made handline must suit the fish and place. Use lead-free tackle where available; keep all sinkers out of mouths.
 
@@ -104,7 +85,7 @@ A **swivel** is the small rotating connector between lines. The short line beyon
 >
 > **Evidence confidence: High for the knot structure; Moderate for this untested illustrated teaching sequence.** This is a fishing connection, not a rescue knot. Five or six turns are not a universal specification for every line material or diameter.
 >
-> **Subjective wording-confidence estimate: 84%.** This estimates only how accurately this warning and teaching sequence reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 84% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 1. Pass the free end through the metal eye and double it back beside the main line.
 2. Bend that free end into a loop alongside the doubled line.
@@ -119,7 +100,7 @@ A **swivel** is the small rotating connector between lines. The short line beyon
 
 **Cross-checks:** [NSW DPI](https://www.dpi.nsw.gov.au/__data/assets/pdf_file/0010/1390897/NSW-Fisheries-FFL-broadsheet.pdf), [Animated Knots](https://www.animatedknots.com/uni-knot). Five turns in one example and five–six in another do not establish the best count for your line.
 
-## Bait, lower, watch and retrieve
+### Bait, lower, watch and retrieve
 
 Use only bait permitted for the exact water and target species. Sweetcorn is used in some Victorian fisheries, but some waters prohibit natural bait or berley, including corn. Do not use it unless the current rule allows it. Never use frogs, tadpoles or frog eggs; undersize fish; live bait taken from another water; live noxious species; fish eggs; or uncooked trout or salmon as bait or berley.
 
@@ -133,7 +114,7 @@ Retrieve steadily when a fish is hooked; with a circle hook, use steady pressure
 >
 > **Evidence confidence: High for leaving penetrating-eye and other deep or high-risk embedded objects in place and obtaining medical care; Insufficient for a generic field fishhook-removal technique.** This guide has no reviewed push-through, cut-the-barb or backing-out method.
 >
-> **Subjective wording-confidence estimate: 91%.** This estimates only how accurately this holding warning reflects the cited wound and eye-injury evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 91% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 >
 > Do not yank, twist, push through or cut around an embedded hook. For a hook in or near an eye, do not press or flush the penetrated eye; call **000** and prevent rubbing or pressure. Call **000** for serious bleeding, collapse or another immediate threat. For a hook embedded deeply, in the face, hand or over a joint, or with altered feeling, movement or circulation, leave it in place and obtain urgent medical help. While waiting, prevent the hook and attached tackle from moving without pressing it farther in. Follow [Poisoning and eye injury](06-first-aid-and-evacuation.md#poisoning-and-eye-injury) and [Smaller wounds and waiting for evacuation](06-first-aid-and-evacuation.md#smaller-wounds-and-waiting-for-evacuation); this is a holding boundary, not a removal procedure.
 
@@ -149,7 +130,7 @@ If the attempt supplies no food and is using warmth, energy or attention needed 
 
 **Basis:** VFA rig/bait information above, [VFA bait and berley rules](https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/fishing-equipment/bait-and-berley), [NSW DPI beginner guidance](https://www.dpi.nsw.gov.au/__data/assets/pdf_file/0010/1390897/NSW-Fisheries-FFL-broadsheet.pdf), and [Fishcare handling advice](https://fishcare.org.au/fishright-with-fishcare/); S-328/S-329/S-339/S-441/S-442. The near-bank sequence is a bounded synthesis, not a fishing lesson tested with a novice.
 
-## Decide what to do with the catch immediately
+### Decide what to do with the catch immediately
 
 Keep the fish in the water where possible while identifying it. Wet your hands, support it horizontally and minimise handling. Keep fingers clear of teeth, spines, eyes and gills. For scale fish, measure from the tip of the closed mouth to the end of the tail; other animals may use a different measurement.
 
@@ -167,13 +148,29 @@ For a fish that must be released, remove a mouth hook with suitable pliers where
 
 **Sources:** [VFA handling and release](https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/responsible-fishing-behaviours), [noxious aquatic species](https://vfa.vic.gov.au/operational-policy/pests-and-diseases/noxious-aquatic-species-in-victoria), [suspected aquatic pests](https://vfa.vic.gov.au/operational-policy/pests-and-diseases/noxious-aquatic-species-in-victoria/aquatic-pests), [European carp](https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/catch-limits-and-closed-seasons/types-of-fish/freshwater-scale-fish/european-carp), [toadfish and puffers](https://vfa.vic.gov.au/recreational-fishing/recreational-fishing-guide/catch-limits-and-closed-seasons/types-of-fish/marine-and-estuarine-scale-fish/toadfish-and-puffers) and [Fishcare](https://fishcare.org.au/fishright-with-fishcare/); S-331/S-333/S-443–S-445. These do not provide a complete recognition plate or one statewide disposal method for every fish.
 
-## Working fish recognition and legal-disposition atlas
+## Wildlife contact — act before identifying
+
+- For collapse, breathing difficulty, severe allergic reaction, weakness or other serious symptoms, call **000** and follow [First aid](06-first-aid-and-evacuation.md).
+- **Ordinary local bee, wasp or ant sting:** remove a visible bee stinger promptly; use a wrapped cold pack or cool wet cloth. Do not use pressure immobilisation.
+- **Unknown tick, spider or marine exposure:** call **13 11 26** for exposure-specific advice. Do not transfer snakebite, hot-water, vinegar or tick advice to an unknown animal.
+- **Bat bite, scratch or saliva exposure:** wash skin with soap and water for **15 minutes**; rinse eyes or mouth with water. Obtain urgent medical assessment even for a tiny mark.
+- Do not approach an animal for a photograph. Do not handle bats, snakes, carcasses, droppings or unfamiliar marine animals.
+
+The fuller with-kit/without-kit holding advice appears in the reference section below.
+
+---
+
+## Reference boundary — identification and review notes
+
+The atlas and detailed notes below support learning before travel. They do not complete the missing fish-identification, humane-dispatch or cleaning skills and do not turn an unknown catch into food.
+
+## Reference — working fish recognition and legal-disposition atlas
 
 > **WARNING — SMALL, UNAPPROVED ATLAS; NOT AN EATING CLEARANCE**
 >
 > **Evidence confidence: High for the official rule pages as checked 29 September 2026; Moderate for the recognition summaries; Insufficient for first-time novice identification of difficult or partly seen fish.** This atlas covers only European carp, redfin and black bream, with yellowfin bream as a difficult comparison. Many other Victorian fish are absent. No fish-identification specialist or fisheries-law reviewer has approved the finished pages.
 >
-> **Subjective wording-confidence estimate: 86%.** This estimates only how accurately the text states the checked evidence and its limits. It is **not** a probability of correct identification, legal action, safe food, successful fishing or survival.
+> **Wording confidence: 86% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 >
 > Use several visible features together. A colour, common name, habitat or photograph by itself is never enough. If a required feature is hidden, damaged, folded or unclear, the identification has failed. A legal fish can still be unsafe to eat, and a correctly identified fish can still be unlawful to keep at that water or time.
 
@@ -185,7 +182,7 @@ These are factual source photographs, not generated fish art. They have passed a
 >
 > **Evidence confidence: High that different fish can require different immediate actions; Insufficient for one terminal instruction that is safe for every unidentified catch.** A protected or unlawful fish may require prompt release, while a positively identified European carp must not be returned alive.
 >
-> **Subjective wording-confidence estimate: 91%.** This rates the reason for stopping, not the probability that any kill-or-release action is lawful or safe.
+> **Wording confidence: 91% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 Keep the fish in the water where possible while making a prompt check. Minimise handling. Do not assume that an unfamiliar fish is a pest, food or carp. Do not intentionally retain it for food. Check the current official source immediately and call VFA on **136 186** when communication is available.
 
@@ -197,7 +194,7 @@ If identity and the required action cannot be resolved promptly, this working ed
 >
 > **Evidence confidence: High for the ordinary-form features and current VFA rule; Moderate for using this incomplete photo set with mirror and leather forms; Insufficient for a no-barbel fish or suspected carp–goldfish hybrid.** A false positive could kill a fish that should have been released.
 >
-> **Subjective wording-confidence estimate: 90%.** This rates the written summary only. It is **not** a probability that the fish in front of you is carp, that an action is lawful, or that it is safe food.
+> **Wording confidence: 90% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 Carp occur in many Victorian freshwater rivers, lakes and slower waters. Place is supporting context only; it does not prove identity.
 
@@ -254,7 +251,7 @@ The last option is a narrow carp rule, not permission to cut or dump another fis
 >
 > **Evidence confidence: High for the combined feature set and current VFA rule; Moderate for this single candidate side view; Insufficient for a partly hidden, dull, juvenile or damaged fish without matched comparison views.**
 >
-> **Subjective wording-confidence estimate: 92%.** This rates the summary, not the probability of a correct identification, lawful retention, safe handling or safe food.
+> **Wording confidence: 92% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 Redfin occur in many Victorian lakes, dams and slower river reaches. Require the features to agree:
 
@@ -284,7 +281,7 @@ As checked on 29 September 2026, VFA states that redfin have no minimum legal si
 >
 > **Evidence confidence: High that black and yellowfin bream are difficult to separate and can hybridise; Moderate for the general black-bream feature list; Insufficient for a novice non-colour separator.** Juvenile black bream may have yellowish fins. Water and lighting alter colour. This project has not found and tested a non-colour shortcut that makes the distinction dependable for a novice.
 >
-> **Subjective wording-confidence estimate: 82%.** This lower figure rates the cautious wording only. It is **not** a probability of correct species identity, legal retention, safe food or survival.
+> **Wording confidence: 82% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 Black bream occur in Victorian coastal rivers, estuaries and coastal lakes. For a **possible** black bream, compare several features:
 
@@ -330,7 +327,7 @@ The [fish-atlas content and test packet](../../research/FISH_ATLAS_CONTENT_DRAFT
 >
 > **Evidence confidence: High that humane dispatch depends on species, anatomy, effective stunning and current legal requirements; Insufficient for a generic field technique.** Brain position, required force, confirmation signs and any later bleeding cut vary. This page has no species-specific anatomy plate and no practical welfare review.
 >
-> **Subjective wording-confidence estimate: 93%.** This estimates only how accurately this warning and withheld-method boundary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 93% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 >
 > **This guide does not provide an actionable dispatch or bleeding method.** A generic direction such as striking “above the eyes” or cutting “the gills” can be anatomically wrong, prolong suffering and expose the handler to teeth, spines or a knife. Learn and practise the exact humane method for each likely species with a competent instructor before relying on fishing for food. If you cannot already identify, control and humanely dispatch that species with suitable equipment, do not use this page as authority to retain it for food.
 
@@ -346,7 +343,7 @@ Do not leave a live fish to suffocate, bleed it while conscious, or rely on an i
 >
 > **Evidence confidence: High for cold storage and separation, and for Victoria's general 75°C consumer advice; Moderate for using 75°C as one conservative working target for an ordinary wild-caught finfish.** Current Australian sources are not harmonised: fish figures of 63°C, 69°C and broader food advice of 70°C or 75°C appear in different contexts. A Victorian seafood/food-safety specialist still needs to approve the final target and wording. This is not a toxin-removal method. It does not make a poisonous species, chemically contaminated fish or spoiled catch edible. No cleaning method is supplied below; the cooking steps start with already-cleaned portions from a small, already dead, ordinary finfish.
 >
-> **Subjective wording-confidence estimate: 82%.** This estimates only how accurately this warning and the bounded cooking advice reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 82% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 Use a stable washable surface, clean water, a suitable knife and clean hands or food-handling gloves. Keep bait and raw fish separate from drinking openings and ready-to-eat food. Do not use a knife when your hands are too cold, injured or shaky to control it.
 
@@ -390,7 +387,7 @@ For a bite or sting with collapse, breathing difficulty, weakness or a severe al
 >
 > **Evidence confidence: High for prompt visible bee-stinger removal, local cooling and the emergency signs listed below; Moderate for applying this short summary without clinical review of the finished page.** Collapse, breathing difficulty, mouth or throat swelling, or a serious allergic reaction leaves this local-care path.
 >
-> **Subjective wording-confidence estimate: 91%.** This estimates only how accurately this warning and first-aid summary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 91% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 Remove a visible bee stinger promptly by scraping or pulling it out; do not delay over the method. Watch for anaphylaxis, especially after previous allergy.
 
@@ -408,7 +405,7 @@ Call 000 for breathing difficulty, collapse, a serious allergic reaction or a st
 >
 > **Evidence confidence: Insufficient for an unknown-creature treatment rule.** Snakebite bandaging is not the default for every bite. Tick removal advice has a specific Australian allergy risk; jellyfish and fish-spine methods also differ.
 >
-> **Subjective wording-confidence estimate: 90%.** This estimates only how accurately this warning and its holding boundaries reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 90% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 Use 13 11 26 for exposure-specific advice; use 000 immediately for serious symptoms. Do not squeeze or irritate an attached tick while seeking advice. Do not apply heat, petroleum jelly or household chemicals to it.
 
@@ -424,7 +421,7 @@ Use 13 11 26 for exposure-specific advice; use 000 immediately for serious sympt
 >
 > **Evidence confidence: High for immediate washing and urgent assessment after a bat bite, scratch or relevant saliva exposure; Moderate for this short field summary pending clinical review of the finished page.** Do not wait for symptoms or assume a small mark is harmless.
 >
-> **Subjective wording-confidence estimate: 94%.** This estimates only how accurately this warning and first-aid summary reflect the cited evidence. It is **not** a probability of safety, correct identification, successful technique or survival.
+> **Wording confidence: 94% (subjective).** This rates this warning against the cited sources—not identity, safety, technique success or survival.
 
 Do not handle bats, including an injured one. After a bite or scratch, wash the wound thoroughly with soap and water for **15 minutes** and obtain urgent medical assessment, even if the mark looks minor. For saliva in eyes or mouth, rinse thoroughly with water and obtain urgent advice.
 

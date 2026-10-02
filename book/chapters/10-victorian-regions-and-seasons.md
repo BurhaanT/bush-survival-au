@@ -6,11 +6,7 @@
 >
 > Boundaries overlap and local conditions change. This chapter does not provide current closures, water availability, safe campsites or an escape route. Use the exact park information, weather forecast and emergency warning where available.
 
-## Start with conditions, then use the region
-
-A wet, windy night in a lowland forest can require cold protection just as urgently as an alpine night. A shaded riverbank may still expose you to flooding or falling branches. Do not let a regional label override the scene in front of you.
-
-Use the region to ask better questions:
+## Use what you see first
 
 | Environment | Ask first | Do not assume |
 |---|---|---|
@@ -21,7 +17,7 @@ Use the region to ask better questions:
 | Central forests and former mining areas | Are there shafts, unstable workings or contaminated water nearby? | An old track, excavation or mine adit is a shortcut or shelter |
 | Coast, estuary and river systems | Can tide, waves, slippery banks or rising water cut off retreat? | A dry ledge stays dry; a narrow channel is shallow or slow |
 
-This table is an editorial hazard prompt, not a forecast or a rank of which region is most dangerous.
+This table is a hazard prompt, not a forecast. The conditions in front of you control: a wet, windy lowland night can need cold protection as urgently as an alpine night; a shaded riverbank can still flood or drop branches.
 
 ## High Country and alpine areas
 

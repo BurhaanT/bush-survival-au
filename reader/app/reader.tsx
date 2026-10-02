@@ -14,18 +14,32 @@ type Panel = { id: string; raw?: boolean; anchor?: string } | null;
 function Contents({ library, current, navigate, openPanel }: { library: BookLibrary; current: string; navigate: (id: string) => void; openPanel: (panel: Panel) => void }) {
   const { setOpenMobile } = useSidebar();
   const choose = (id: string) => { navigate(id); setOpenMobile(false); };
+  const groups = [
+    { label: 'START HERE', ids: library.chapterIds.slice(0, 2) },
+    { label: 'EMERGENCY ACTIONS', ids: library.chapterIds.slice(2, 10) },
+    { label: 'VICTORIA & FIELD REFERENCE', ids: library.chapterIds.slice(10, 13) },
+    { label: 'BEFORE YOU GO & LIMITS', ids: library.chapterIds.slice(13) },
+  ];
   return <Sidebar className="book-sidebar">
     <SidebarHeader className="reader-brand"><BookOpen size={25} strokeWidth={1.5} /><div><strong>Victoria</strong><span>BUSH SURVIVAL FIELD GUIDE</span></div></SidebarHeader>
     <SidebarContent><nav aria-label="Table of contents" className="toc">
-      <div className="toc-label">CONTENTS <span>{library.chapterIds.length} sections</span></div>
-      <SidebarMenu>{library.chapterIds.map((id, index) => <SidebarMenuItem key={id}>
-        <SidebarMenuButton isActive={current === id} className="chapter-link" onClick={() => choose(id)} aria-current={current === id ? 'page' : undefined}>
-          <span className="chapter-number">{String(index).padStart(2, '0')}</span><span>{index === 0 ? 'Introduction' : library.documents[id].title}</span>
-        </SidebarMenuButton>
-      </SidebarMenuItem>)}</SidebarMenu>
-      <div className="toc-label review-label">SEPARATE REVIEW MATERIAL</div>
+      <SidebarMenu className="emergency-shortcut"><SidebarMenuItem><SidebarMenuButton className="chapter-link emergency-link" isActive={current === library.chapterIds[2]} onClick={() => choose(library.chapterIds[2])} aria-current={current === library.chapterIds[2] ? 'page' : undefined}>
+        <TriangleAlert size={17} /><span>Something is wrong<small>Open the first actions</small></span>
+      </SidebarMenuButton></SidebarMenuItem></SidebarMenu>
+      {groups.map(group => <div className="toc-group" key={group.label}>
+        <div className="toc-label">{group.label}<span>{group.ids.length}</span></div>
+        <SidebarMenu>{group.ids.map(id => {
+          const index = library.chapterIds.indexOf(id);
+          return <SidebarMenuItem key={id}>
+            <SidebarMenuButton isActive={current === id} className="chapter-link" onClick={() => choose(id)} aria-current={current === id ? 'page' : undefined}>
+              <span className="chapter-number">{String(index).padStart(2, '0')}</span><span>{index === 0 ? 'Introduction' : library.documents[id].title}</span>
+            </SidebarMenuButton>
+          </SidebarMenuItem>;
+        })}</SidebarMenu>
+      </div>)}
+      <div className="toc-label review-label">HISTORICAL REVIEW MATERIAL</div>
       <SidebarMenu><SidebarMenuItem><SidebarMenuButton className="chapter-link review-link" isActive={current === library.prototypeId} onClick={() => choose(library.prototypeId)} aria-current={current === library.prototypeId ? 'page' : undefined}>
-        <FileText size={17} /><span>Emergency core draft<small>Not part of the book</small></span>
+        <FileText size={17} /><span>Older emergency prototype<small>Superseded · not part of the book</small></span>
       </SidebarMenuButton></SidebarMenuItem></SidebarMenu>
     </nav></SidebarContent>
     <SidebarFooter className="toc-footer"><span className="draft-dot" /><span>Personal working edition</span><Button variant="ghost" onClick={() => openPanel({ id: 'book/EDITION_STATUS.md' })}>Status</Button></SidebarFooter>
@@ -143,7 +157,7 @@ export default function BookReader({ initialLibrary }: { initialLibrary: BookLib
     <Contents library={library} current={current} navigate={navigate} openPanel={setPanel} />
     <main className="reader-main" id="reading-text" ref={content} tabIndex={-1}>
       <header className="reader-toolbar"><div className="toolbar-left"><MenuButton /><span className="toolbar-divider" /><span>Book reader</span></div>
-        <div className="toolbar-right"><a className="print-view-link" href={`${import.meta.env.BASE_URL}print/`} target="_blank" rel="noopener noreferrer"><FileText size={15} />Print view</a><span className="sync-state"><span className="live-dot" />{sync}</span><Button variant="ghost" size="icon" aria-label="Refresh Markdown" title="Refresh Markdown" onClick={refresh} disabled={!isLive}><RefreshCw size={16} /></Button></div></header>
+        <div className="toolbar-right"><Button className="emergency-toolbar-button" variant="outline" onClick={() => navigate(library.chapterIds[2])}><TriangleAlert size={15} />First actions</Button><a className="print-view-link" href={`${import.meta.env.BASE_URL}print/`} target="_blank" rel="noopener noreferrer"><FileText size={15} />Print view</a><span className="sync-state"><span className="live-dot" />{sync}</span><Button variant="ghost" size="icon" aria-label="Refresh Markdown" title="Refresh Markdown" onClick={refresh} disabled={!isLive}><RefreshCw size={16} /></Button></div></header>
       <div className="draft-banner"><TriangleAlert size={17} /><p><strong>Working draft.</strong> {review ? 'This separate sample contains incomplete, unapproved instructions.' : 'Content is still being researched and reviewed.'} Do not use this in an emergency.</p></div>
       {error && <div role="alert" className="sync-error">{error}</div>}
       <div className="reading-desk">
@@ -157,7 +171,7 @@ export default function BookReader({ initialLibrary }: { initialLibrary: BookLib
           </div></div>
         <div className="reading-layout"><div className="paper-stack">
           <Paper key={doc.id + ':' + doc.modified + ':' + mode} doc={doc} mode={mode} heading={heading} anchor={anchor}><BookMarkdown doc={doc} images={library.images || {}} onLink={onLink} /></Paper>
-          <div className="layout-note">Layout preview, not final print pagination. Original wording and warnings are unchanged.</div>
+          <div className="layout-note">Layout preview, not final print pagination. The action-first text remains a working draft and its warnings still apply.</div>
           <div className="source-row"><span>{doc.id.split('/').at(-1)}</span><Button variant="ghost" onClick={() => setPanel({ id: doc.id, raw: true })}><FileText size={16} /> View Markdown</Button></div>
           {!review && <nav className="chapter-controls" aria-label="Chapter navigation"><Button variant="ghost" disabled={index === 0} onClick={() => navigate(library.chapterIds[index - 1])}><ChevronLeft size={17} /> Previous section</Button><span>{index + 1} / {library.chapterIds.length}</span><Button variant="ghost" disabled={index === library.chapterIds.length - 1} onClick={() => navigate(library.chapterIds[index + 1])}>Next section <ChevronRight size={17} /></Button></nav>}
         </div><aside className="chapter-outline" aria-label="In this section"><div className="eyebrow">IN THIS SECTION</div>{headings.map((title, i) => <a key={title + i} href={'#' + new URLSearchParams({ chapter: doc.id, section: slug(title) })} onClick={e => { e.preventDefault(); navigate(doc.id, slug(title)); }}>{title}</a>)}

@@ -51,7 +51,7 @@ test('hosted library snapshots prefix every image with the GitHub Pages base', a
 
 test('hosted Markdown is limited to the reviewed publication allowlist', async () => {
   const library = await readLibrary({ documentAllowlist: pagesPublicDocuments });
-  assert.equal(pagesPublicDocuments.length, 64);
+  assert.equal(pagesPublicDocuments.length, 61);
   assert.deepEqual(Object.keys(library.documents).sort(), [...pagesPublicDocuments].sort());
   await assert.rejects(
     readLibrary({ documentAllowlist: pagesPublicDocuments.filter(id => id !== library.chapterIds[0]) }),

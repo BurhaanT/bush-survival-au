@@ -54,7 +54,6 @@ export const pagesPublicDocuments = Object.freeze([
   'research/evidence-packets/EP-003-critical-first-aid.md',
   'research/evidence-packets/EP-004-trauma-first-aid.md',
   'research/evidence-packets/EP-005-acute-medical-emergencies.md',
-  'research/evidence-packets/EP-006-choking-and-drowning.md',
   'research/evidence-packets/EP-008-victorian-bites-and-stings.md',
   'research/evidence-packets/EP-009-evacuation-monitoring-and-handover.md',
   'research/evidence-packets/EP-010-shelter-air-flood-and-alpine-hazards.md',
@@ -64,7 +63,5 @@ export const pagesPublicDocuments = Object.freeze([
   'research/evidence-packets/EP-014-victorian-weather-warnings-and-environmental-change.md',
   'research/evidence-packets/EP-015-bushfire-threat-and-last-resort-shelter.md',
   'research/review-drafts/EMERGENCY_CORE_REVIEW_PROTOTYPE_v0.1.md',
-  'research/reviewer-briefs/RB-001-remote-emergency-and-resuscitation.md',
-  'research/reviewer-briefs/RB-004-anaphylaxis-and-devices.md',
   'research/reviewer-briefs/RB-006-bushfire-and-public-fire-safety.md',
 ]);

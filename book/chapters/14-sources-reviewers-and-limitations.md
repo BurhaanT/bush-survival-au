@@ -1,68 +1,69 @@
-# Sources, reviewers and limitations
+# Sources, review and limits
+
+> **NOT FIELD READY — INDEPENDENT REVIEW IS INCOMPLETE**
+>
+> This is a researched working manuscript, not a certified survival manual. No agency, Traditional Owner organisation, doctor, botanist, rescue team or manufacturer has reviewed or endorsed it merely because a source is cited.
+>
+> `FIELD_READY_BUILD=NO` remains controlling.
+
+## What the evidence labels mean
+
+- **Evidence confidence** describes how well the cited sources support the exact statement.
+- A **wording-confidence percentage** is a subjective editorial estimate of how faithfully the warning or instruction reflects those sources.
+- Neither is the chance of correct identification, safe treatment, technique success or survival.
+- A high rating does not replace practical skill, live instructions, current rules or independent review.
+
+Warnings appear before high-consequence draft instructions. If a warning says a route is withheld, incomplete or for pre-trip learning, do not treat the surrounding detail as permission to improvise.
 
 ## What has been checked
 
-This is a readable working manuscript, not an independently certified survival manual. The sources include Australian resuscitation guidance, Victoria Police, AMSA, Victorian health and land-management agencies, botanical institutions and relevant outdoor-safety references.
+Claims have been compared with sources that include ANZCOR, Victoria Police, AMSA, Victorian health and land-management agencies, botanical institutions and relevant outdoor-safety references. The check is claim by claim; several websites repeating one underlying guideline do not create independent evidence.
 
-Checks compare exact claims, not just the number of websites. Some consumer pages repeat the same underlying guideline. That repetition corroborates wording but does not create independent experimental evidence.
+The working records hold the detail:
 
-The [source register](../../SOURCE_REGISTER.md) holds the full references and limitations. The [first manuscript review](../../research/READABLE_MANUSCRIPT_REVIEW.md), [illustrated-content review](../../research/ILLUSTRATED_CONTENT_REVIEW.md), [fish-action evidence packet](../../research/FISH_ACTION_EVIDENCE_PACKET.md), [fish-atlas content and test packet](../../research/FISH_ATLAS_CONTENT_DRAFT.md), [fish-atlas image-rights packet](../../research/FISH_ATLAS_IMAGE_RIGHTS_PACKET.md), [first wild-food expansion review](../../research/WILD_FOOD_EXPANSION_REVIEW.md), [second-wave wild-food review](../../research/WILD_FOOD_SECOND_WAVE_REVIEW.md), [third-wave wild-food review](../../research/WILD_FOOD_THIRD_WAVE_REVIEW.md), [fourth-wave wild-food review](../../research/WILD_FOOD_FOURTH_WAVE_REVIEW.md), [fifth-wave wild-food review](../../research/WILD_FOOD_FIFTH_WAVE_REVIEW.md), [sixth-wave food review](../../research/WILD_FOOD_SIXTH_WAVE_REVIEW.md), [sixth-wave cultural review](../../research/SIXTH_WAVE_CULTURAL_REVIEW.md), [seventh-wave food review](../../research/WILD_FOOD_SEVENTH_WAVE_REVIEW.md) and [seventh-wave cultural review](../../research/SEVENTH_WAVE_CULTURAL_REVIEW.md) identify which parts were checked and which remain unresolved. The [image register](../../IMAGE_REGISTER.md) records provenance, reuse terms and missing views.
+- [Source register](../../SOURCE_REGISTER.md): references and their limits.
+- [Safety review](../../SAFETY_REVIEW.md): unresolved high-consequence claims.
+- [Image register](../../IMAGE_REGISTER.md): source, licence, use and missing views.
+- [Species register](../../SPECIES_REGISTER.md): identification, food and review status.
+- [Evidence packets](../../research/evidence-packets/): source comparisons behind action cards.
+- [Reviewer briefs](../../research/reviewer-briefs/): the independent review still required.
+- [Wild-food reviews](../../research/WILD_FOOD_SECOND_WAVE_REVIEW.md): staged botanical, food-safety and cultural research.
 
-The [first-actions and communications evidence packet](../../research/evidence-packets/EP-001-first-actions-and-communications.md) records the boundary behind IM-204. D-068/R-491/SR12-28 permit only a visibly unapproved three-panel routing card. It routes danger, life-threatening bleeding, unresponsive abnormal or uncertain breathing, other serious illness or injury, 000 contact, safe waiting and event-driven rechecking to the canonical chapters. It provides no movement, device, CPR or bleeding-control mechanics and no lone-rescuer priority when life-threatening bleeding and abnormal breathing occur together. Victorian SAR, emergency-communications, emergency/resuscitation-clinician, human-factors, complete-card, detached-panel and stressed-reader review remain open.
-
-The [acute medical evidence packet](../../research/evidence-packets/EP-005-acute-medical-emergencies.md) records the boundary behind IM-205. D-069/R-492/SR12-29 permit only a visibly unapproved three-panel serious-deterioration recognition and routing card. It calls 000 without requiring a shock/sepsis diagnosis or complete sign set, routes life threats and known causes to canonical actions, limits recovery-position art to age one plus and gives no diagnosis, all-clear, universal shock pose, infant mechanics, generic intake/oxygen route, movement method, fixed wait or solo dual-threat priority. Australian emergency, paediatric, resuscitation, remote-care, complete-card, detached-panel and stressed-reader review remain open.
-
-The [navigation and non-fire signalling packet](../../research/evidence-packets/EP-013-navigation-and-non-fire-signalling.md) records the boundary behind IM-206. D-070/R-493/SR12-30 permit only a visibly unapproved three-panel project synthesis grouping five unnumbered parallel modes at one safe known or reported waiting place. No authority publishes the exact combined card. It creates no official sequence, technical independence, movement permission, detection promise, ground-air construction, beacon deployment, mirror-aiming method, light-runtime/NVIS assurance, fire/smoke/flare/pyrotechnic/laser route or confirmed-contact state. Victorian land/aviation SAR, hearing-safety, electrical/product-safety, environmental, controlled-visibility, complete-card, detached-panel, practical and stressed-reader review remain open.
-
-The [critical first-aid evidence packet](../../research/evidence-packets/EP-003-critical-first-aid.md) records the source reconciliation behind IM-191–IM-193. D-062, R-484 and SR12-23 record the current anaphylaxis sequence correction and its still-open review boundary. The [anaphylaxis and device reviewer brief](../../research/reviewer-briefs/RB-004-anaphylaxis-and-devices.md) defines the independent review still required; it is a prepared brief, not evidence that a reviewer has approved the cards.
-
-The [acute medical emergencies evidence packet](../../research/evidence-packets/EP-005-acute-medical-emergencies.md) records the cross-source seizure comparison behind IM-199 and the current asthma comparison behind IM-201. D-063/R-485/SR12-24 limit seizure content to a visibly unapproved safety-and-timing prompt. D-065/R-488/SR12-26 limit asthma content to the CPR and immediate-000 gates plus the specific Australian blue/grey-salbutamol-puffer route; another reliever remains behind the personal plan and exact product instructions. The [remote-emergency and resuscitation reviewer brief](../../research/reviewer-briefs/RB-001-remote-emergency-and-resuscitation.md) defines the still-open clinical, device, practical and reader checks.
-
-The [trauma first-aid evidence packet](../../research/evidence-packets/EP-004-trauma-first-aid.md) records the four-source comparison behind the ordinary thermal-burn card. D-067/R-490/SR12-27/IM-203 limit it to a safe scene and an ordinary external heat burn. Danger, abnormal-breathing CPR and serious-or-uncertain 000 escalation come first. Chemical, electrical, smoke and inhalation injuries; burn-depth or body-area diagnosis; scarce-drinking-water allocation; untreated-natural-water substitution; product and medicine advice; and an invented cooling-pause threshold remain outside the card. Australian burns, emergency, paediatric, remote-care, toxicology/electrical, practical, complete-card, detached-panel and stressed-reader review remain open.
-
-The [choking and drowning evidence packet](../../research/evidence-packets/EP-006-choking-and-drowning.md) records the source boundary behind IM-194–IM-195 and IM-197–IM-198. D-053 and D-055 permit those cards only as visibly unapproved working aids. The shelter packet EP-002 and D-054 do the same for IM-196. None records clinical, instructor, outdoor/SAR, weather, aquatic-rescue, resuscitation, emergency or exact-equipment approval, manikin reconstruction, successful practical testing or human reader validation.
-
-D-064 and IM-200 place the Warrigal-greens preparation route behind a same-plant growth, flower-attachment and mature-fruit stop check. Leaves alone are insufficient. D-066/IM-202 add one source-labelled Victorian fruit view, but it has no ruler, its probable mature stage is not expert-confirmed and it is not matched to the Warrigal photograph. The set therefore cannot clear a first-time identification. Warrigal preparation must not be transferred to bower spinach. The comparison does not infer a Traditional Owner name, use, method, permission or endorsement.
-
-## No implied approval
-
-No agency, Traditional Owner group, doctor, botanist, rescue team or equipment manufacturer has reviewed or endorsed this manuscript merely because it is cited.
-
-The current edition has not completed specialist review, reader testing, equipment trials or image validation. “High confidence” means confidence in the stated source agreement, not 100% accuracy or a measured chance that the reader can perform it. A displayed percentage is a subjective editorial estimate of the named documentation, source-match, caption or warning wording only; it is never the chance of survival, safety, true species identity, correct field identification or technique success.
+These records document research. They do **not** document approval.
 
 ## Important remaining gaps
 
-- Complete diagnostic botanical plates and lookalike comparisons. Twenty-nine pictured food-relevant or hazard-recognition entries, 90 plant photographs and one botanical drawing are present; they are not a finished identification guide. The Warrigal/bower set still lacks a botanist-confirmed, matched and measured mature-fruit pair required even to consider a first-time route.
-- Review of the attributed public cultural context by the relevant Traditional Owner organisations, and agreement about any fuller collaboration, permission or contribution.
-- Device-specific emergency operations matched to the equipment actually carried. The anaphylaxis cards remain product neutral because EpiPen, Anapen, Jext and neffy do not share one route or operating sequence.
-- Advanced bleeding control for an untrained reader, extended casualty care, technical evacuation and some animal-specific treatment.
-- A dependable instruction for every no-communication/no-water or inescapable fire scenario.
-- Independent checks and practical tests of the 145 included visuals, including the five-mode signalling, serious-deterioration, first-actions, recovery-position, snakebite, bleeding, anaphylaxis, choking, seizure, asthma, thermal-burn and Warrigal/bower sets; completion of the working fish atlas, further technique sequences and final print pagination. IM-206 needs Victorian land/aviation SAR, hearing-safety, electrical/product-safety, environmental, controlled-visibility, complete-card/detached-panel and stressed-reader testing. IM-205 needs Australian emergency, paediatric, resuscitation and remote-care review plus false-negative, infant, hot/cold, vomiting, anaphylaxis, spinal, connected/failed-contact, solo-dual-threat, complete-card/detached-panel and stressed-reader testing. IM-204 still needs Victorian SAR/emergency-communications, Australian emergency/resuscitation-clinician and human-factors review. IM-203 retains its burns/emergency/remote-care gates; IM-201 its respiratory/allergy/device gates; and IM-200/IM-202 their botanist, food-safety, matched-plate and novice no-consumption gates. All 117 semantic panels are working layout aids, not approved print pages. The remaining visual-specific gates are recorded in the image and safety registers.
+- Independent medical, rescue, botanical, food-safety, fisheries, fire, equipment and human-factors review.
+- Traditional Owner review of attributed public cultural context and agreement before any broader cultural use or collaboration.
+- Complete, matched botanical and fish identification plates, including lookalikes and realistic novice testing.
+- Species-specific fish dispatch and cleaning instruction; these are deliberately withheld.
+- Device-specific emergency directions matched to the equipment actually carried.
+- Practical trials of equipment and illustrated techniques in realistic conditions.
+- Stressed-reader testing, final pagination, greyscale checks and a physical proof.
+- Safe answers for every no-communication, no-water or inescapable-fire situation; no book can promise these.
 
-These are limitations of the book, not invitations to improvise. The surrounding chapters provide the supported action and warning where possible.
+These are limits, not invitations to improvise. Use the safer fallback stated in the relevant chapter.
 
-## How to review the text
+## How to review a page
 
-Choose a realistic situation and try to find the next action without coaching. Ask:
+Try a realistic scenario without coaching:
 
-1. Do I know whether this section applies?
-2. Can I understand the first step?
-3. Do I know what equipment is required?
-4. Is the warning before the risky action?
-5. Does the no-kit path explain what remains possible?
-6. Is an unresolved decision being disguised as certainty?
-7. Does a linked chapter contradict this one?
+1. Can you find the first safe action in seconds?
+2. Is it clear when the section applies and when to stop?
+3. Is required equipment named?
+4. Does the warning appear before the risky action?
+5. Is the no-kit path clear where one is possible?
+6. Is uncertainty visible rather than disguised as certainty?
+7. Does the instruction agree with linked chapters and diagrams?
 
-For feedback, record the chapter and heading, the confusing sentence and what you thought it meant. There is no need to edit the whole book to correct one section.
+For feedback, record the chapter, heading, confusing sentence and what you thought it meant.
 
-## Updating the book
+## Updating and printing
 
-The individual Markdown chapters remain the master copy. The local reader follows saved edits; combined Markdown and eventual PDF are generated from the chapter manifest.
+The individual Markdown chapters are the master copy. The reader, combined Markdown and later PDF are generated from the chapter manifest.
 
-The reader keeps each complete diagram in continuous reading. For Book Pages and draft printing, all 38 portrait SVGs are divided at authored panel boundaries into 117 working page panels. Each panel repeats its working status, panel/part number, continuation context and a warning not to use a detached page alone. Missing or invalid page metadata produces a visible not-prepared notice instead of silently shrinking or clipping the diagram. The crop containers use non-scrollable clipping so focus or print preparation cannot shift a panel away from its authored start boundary. The dedicated **Print view** projects exactly the 15 canonical chapters, a marked cover and contents, and waits for fonts and all 224 image frames before enabling printing. This is still only a browser review proof: final PDF pagination, every-page inspection, greyscale review and physical proof are outstanding.
+A source, dose, timing, medical sequence, plant identification, map, legal rule or safety warning change reopens the relevant review. A layout change also needs checking if it can separate a warning, image or continuation panel from its instruction.
 
-Changes to a dose, timing, medical sequence, plant identification, map, legal rule or safety warning reopen the relevant review. A formatting change also needs checking if it could separate a warning from an instruction.
+The browser print view is a review proof, not an approved field edition. Every page, split diagram, link, greyscale result and physical proof still needs inspection.
 
-**Edition:** 0.12, updated 30 September 2026. Final PDF approval remains **NO**. The edition contains 145 working visuals—99 externally sourced images and 46 original diagrams—used in 145 chapter placements. The 38 portrait SVGs expand to 117 semantic review panels without changing their original files. D-070/IM-206 add a visibly unapproved five-mode signalling synthesis without creating an official rescue sequence, movement permission, product method, detection promise or confirmed-contact state. D-069/IM-205 retains the serious-deterioration card; D-068/IM-204 the first-actions route; D-067/IM-203 the ordinary thermal-burn prompt; D-065/IM-201 and D-066/IM-202 the asthma and provisional bower-fruit limits; and D-059–D-064 their stated fire, water, anaphylaxis, seizure and Warrigal/bower limits. The plant plates and fish atlas remain incomplete and cannot authorise eating, retention or processing by themselves. The source register contains 490 entries, and the open safety register extends through SR12-30. QA-035 records the current manuscript, reader and asset state; QA-034 and earlier QA entries remain historical baselines. FIELD_READY_BUILD=NO remains controlling.
-
-**QA status:** QA-035 controls the current manuscript, reader, print-route and asset state. QA-034 and earlier entries retain their stated historical scope. Displayed percentages state what is being estimated and are not probabilities of safety, correct identification, treatment success or survival. `FIELD_READY_BUILD=NO` remains controlling.
+**Edition:** 0.13, updated 2 October 2026. The plant plates and fish atlas remain incomplete. Specialist review, reader testing and final PDF approval remain **NO**. `FIELD_READY_BUILD=NO`.

@@ -11,7 +11,16 @@ Read [Writing the guide in plain language](../EDITORIAL_STYLE_GUIDE.md) first. I
 
 ## Instruction pattern
 
-Where relevant, a technique page uses:
+Every urgent section starts with the smallest safe action layer:
+
+1. **Do this now** — three to six short steps where the subject allows it.
+2. **Choose your situation** — short `if … then …` branches.
+3. **Do not** — the few mistakes that would cause serious harm.
+4. **Check** — what to watch and when to stop or get more help.
+
+Put explanation, uncommon cases, sources and review detail after that action layer. The action layer must make sense on its own.
+
+Where more technique detail is needed, use:
 
 1. **Use this when**
 2. **Do not use this when**
@@ -22,6 +31,8 @@ Where relevant, a technique page uses:
 7. **Alternatives**
 8. **Regional/seasonal limits**
 9. **Evidence and review date**
+
+Do not repeat a method already given elsewhere. Link to its single main set of steps. Move internal content IDs, source reconciliation and ordinary image-licence prose to the project records unless the reader needs them to make the immediate decision.
 
 Mention an activity only when it changes the safest action. Do not create separate “for hikers,” “for campers” or “for 4WD” versions of the same survival priority.
 
