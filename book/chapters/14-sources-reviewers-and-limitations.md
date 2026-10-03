@@ -66,4 +66,4 @@ A source, dose, timing, medical sequence, plant identification, map, legal rule 
 
 The browser print view is a review proof, not an approved field edition. Every page, split diagram, link, greyscale result and physical proof still needs inspection.
 
-**Edition:** 0.16, updated 3 October 2026. The plant plates, fish atlas and rabbit capture-to-food chain remain incomplete. The new emergency-only rabbit-snare method is working, unapproved content and still lacks field dressing and rabbit-specific cooking. Specialist review, reader testing and final PDF approval remain **NO**. `FIELD_READY_BUILD=NO`.
+**Edition:** 0.17, updated 3 October 2026. The plant plates, fish atlas and rabbit capture-to-food chain remain incomplete. The emergency-only rabbit-snare route now has corrected prepared-assembly and placement diagrams, but it remains working, unapproved content and still lacks field dressing and rabbit-specific cooking. Specialist review, reader testing and final PDF approval remain **NO**. `FIELD_READY_BUILD=NO`.

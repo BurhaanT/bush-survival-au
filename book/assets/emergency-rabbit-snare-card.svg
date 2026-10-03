@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="3600" viewBox="0 0 1000 3600" role="img" aria-labelledby="title desc">
   <title id="title">Emergency-only stopped rabbit snare</title>
-  <desc id="desc">A four-panel working card for a life-threatening Victorian survival emergency. Panel A gives the strict entry gate and exact materials. Panel B diagrams a passive free-running stopped brass-wire snare with a ten centimetre loop, a fourteen centimetre stop measurement, a smooth eye, tether, peg and nine centimetre set height. Panel C shows a clear rabbit run, rejected sites, marking and hourly inspection. Panel D routes a non-target animal to cautious release and a positively identified European rabbit to the separately warned Australian humane-dispatch and death-confirmation sequence. The card is not an ordinarily lawful Victorian trap design and remains unapproved.</desc>
+  <desc id="desc">A four-panel working card for a life-threatening Victorian survival emergency. Panel A gives the strict entry gate and exact materials. Panel B contains a dimensioned construction view of a prepared, inspected passive free-running stopped brass-wire snare: an about ten centimetre open loop, smooth running eye, fixed minimum-loop stop about fourteen centimetres along the noose-side moving wire, secure wire-to-cord connection, short rot-proof tether and nearly flush firm peg. Panel C contains a top view showing the loop across the centre of a short-vegetation rabbit run with the peg outside it, plus a side view showing the loop bottom about nine centimetres above ground, resting in one short notched support while the loop remains able to lift free. It requires the entire possible sweep around the peg to be clear, without claiming a fixed clearance radius. It also shows rejected sites, marking and hourly inspection. Panel D routes a non-target animal to cautious release and a positively identified European rabbit to the separately warned Australian humane-dispatch and death-confirmation sequence. The card is not an ordinarily lawful Victorian trap design and remains unapproved.</desc>
   <defs>
     <style>
-      .bg{fill:#fffefa}.box{fill:#f2f6f3;stroke:#244a3c;stroke-width:3}.blue{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.amberBox{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.yes{fill:#eaf5eb;stroke:#244a3c;stroke-width:3}.footer{fill:#fff0ed}.line{fill:none;stroke:#173f35;stroke-width:8;stroke-linecap:round;stroke-linejoin:round}.thin{fill:none;stroke:#173f35;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}.dim{fill:none;stroke:#8a5a10;stroke-width:3;marker-start:url(#arrow);marker-end:url(#arrow)}.dash{fill:none;stroke:#8a5a10;stroke-width:3;stroke-dasharray:10 8}.ground{stroke:#6e806f;stroke-width:5}.title{font:700 40px Arial,sans-serif;fill:#173f35}.status{font:700 20px Arial,sans-serif;fill:#77551c}.head{font:700 29px Arial,sans-serif;fill:#173f35}.midhead{font:700 25px Arial,sans-serif;fill:#173f35}.body{font:24px Arial,sans-serif;fill:#344c41}.small{font:22px Arial,sans-serif;fill:#344c41}.tiny{font:20px Arial,sans-serif;fill:#344c41}.limit{font:700 22px Arial,sans-serif;fill:#7a2926}.amber{fill:#7b5114}.red{fill:#7a2926}.green{fill:#173f35}.footText{font:700 18px Arial,sans-serif;fill:#7a2926}.label{font:700 21px Arial,sans-serif;fill:#173f35}.number{font:700 25px Arial,sans-serif;fill:#fff}.numberDot{fill:#244a3c}.x{stroke:#8c2f2b;stroke-width:7;stroke-linecap:round}.tick{fill:none;stroke:#244a3c;stroke-width:7;stroke-linecap:round;stroke-linejoin:round}
+      .bg{fill:#fffefa}.box{fill:#f2f6f3;stroke:#244a3c;stroke-width:3}.blue{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.amberBox{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.yes{fill:#eaf5eb;stroke:#244a3c;stroke-width:3}.footer{fill:#fff0ed}.line{fill:none;stroke:#173f35;stroke-width:8;stroke-linecap:round;stroke-linejoin:round}.thin{fill:none;stroke:#173f35;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}.dim{fill:none;stroke:#8a5a10;stroke-width:3;marker-start:url(#arrow);marker-end:url(#arrow)}.dash{fill:none;stroke:#8a5a10;stroke-width:3;stroke-dasharray:10 8}.sweep{fill:none;stroke:#8a5a10;stroke-width:3;stroke-dasharray:10 8;marker-end:url(#arrow)}.guide{fill:none;stroke:#83998e;stroke-width:4;stroke-dasharray:12 10}.ground{stroke:#6e806f;stroke-width:5}.divider{stroke:#9eb0a7;stroke-width:2}.labelPlate{fill:#eaf5eb}.title{font:700 40px Arial,sans-serif;fill:#173f35}.status{font:700 20px Arial,sans-serif;fill:#77551c}.head{font:700 29px Arial,sans-serif;fill:#173f35}.midhead{font:700 25px Arial,sans-serif;fill:#173f35}.body{font:24px Arial,sans-serif;fill:#344c41}.small{font:22px Arial,sans-serif;fill:#344c41}.tiny{font:20px Arial,sans-serif;fill:#344c41}.diagramLabel{font:700 24px Arial,sans-serif;fill:#173f35}.diagramSmall{font:22px Arial,sans-serif;fill:#344c41}.chip{fill:#fffefa;stroke:#8c2f2b;stroke-width:2}.step{fill:#fffefa;stroke:#244a3c;stroke-width:2}.limit{font:700 22px Arial,sans-serif;fill:#7a2926}.amber{fill:#7b5114}.red{fill:#7a2926}.green{fill:#173f35}.footText{font:700 18px Arial,sans-serif;fill:#7a2926}.label{font:700 21px Arial,sans-serif;fill:#173f35}.number{font:700 25px Arial,sans-serif;fill:#fff}.numberDot{fill:#244a3c}.x{stroke:#8c2f2b;stroke-width:7;stroke-linecap:round}.tick{fill:none;stroke:#244a3c;stroke-width:7;stroke-linecap:round;stroke-linejoin:round}
     </style>
     <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a5a10"/></marker>
   </defs>
@@ -33,17 +33,18 @@
   <text class="small" x="58" y="646">□ Exact materials · hourly checks · release + dispatch ability</text>
   <text class="limit" x="58" y="676">One NO / UNKNOWN on the method gates = DO NOT SET.</text>
 
-  <rect class="blue" x="34" y="704" width="932" height="134" rx="10"/>
-  <text class="midhead" x="58" y="741">EXACT KIT — NO VALIDATED SUBSTITUTE</text>
-  <text class="tiny" x="58" y="777">3–4-strand brass rabbit wire, doubled to 6–8 at noose · smooth running eye</text>
-  <text class="tiny" x="58" y="807">fixed stop · rot-proof cord · firm peg · notched support · marker · cutters</text>
-  <text class="limit" x="58" y="833">No fishing line, string, plant fibre, spring pole, drag or self-locking loop.</text>
+  <rect class="blue" x="34" y="696" width="932" height="148" rx="10"/>
+  <text class="midhead" x="58" y="724">EXACT KIT — NO VALIDATED SUBSTITUTE</text>
+  <text class="tiny" x="58" y="754">Prepared, inspected 3–4-strand brass snare assembly, doubled to 6–8 at noose</text>
+  <text class="tiny" x="58" y="781">smooth running eye · fixed minimum-loop stop · secure wire-to-cord join</text>
+  <text class="tiny" x="58" y="808">short rot-proof cord · firm peg · notched support · marker · cutters</text>
+  <text class="limit" x="58" y="836">No fishing line, string, plant fibre, spring pole, drag or self-locking loop.</text>
 
   <rect class="footer" x="0" y="852" width="1000" height="48"/>
   <text class="footText" x="500" y="882" text-anchor="middle">READ ALL 4 PANELS · ORDINARY VICTORIAN USE IS NOT AUTHORISED HERE</text>
 
   <!-- PANEL B: 900-1800 -->
-  <text class="title" x="34" y="956">BUILD A FREE-RUNNING STOPPED LOOP</text>
+  <text class="title" x="34" y="956">CHECK THE PREPARED STOPPED LOOP</text>
   <text class="status" x="966" y="991" text-anchor="end">WORKING CARD · PANEL B OF 4 · PANEL A CONTROLS</text>
 
   <rect class="warn" x="34" y="1012" width="932" height="92" rx="10"/>
@@ -51,31 +52,43 @@
   <text class="tiny" x="58" y="1080">Improvised design lacks Victoria's ordinary-use spring, two swivels and prescribed hardware.</text>
 
   <rect class="box" x="34" y="1124" width="932" height="470" rx="10"/>
-  <circle class="line" cx="250" cy="1331" r="116"/>
-  <circle cx="366" cy="1331" r="13" fill="#fffefa" stroke="#173f35" stroke-width="7"/>
-  <path class="line" d="M379 1331 C470 1331, 530 1284, 620 1284 L810 1284"/>
-  <rect x="515" y="1266" width="20" height="36" rx="4" fill="#8a5a10"/>
-  <path class="thin" d="M810 1284 C846 1320, 842 1360, 866 1392"/>
-  <path class="thin" d="M866 1392 L906 1392 L888 1498 L848 1498 Z"/>
-  <line class="ground" x1="724" y1="1500" x2="936" y2="1500"/>
+  <text class="midhead" x="58" y="1162">DIMENSIONED CONSTRUCTION VIEW — NOT TO SCALE</text>
+  <text class="tiny red" x="58" y="1194">ASSEMBLY ONLY: no eye, knot, splice or peg-depth fabrication is shown.</text>
 
-  <line class="dim" x1="134" y1="1490" x2="366" y2="1490"/>
-  <text class="label amber" x="250" y="1530" text-anchor="middle">10 cm open loop diameter</text>
-  <path class="dash" d="M366 1195 L366 1250"/>
-  <text class="label" x="366" y="1175" text-anchor="middle">smooth running eye</text>
-  <path class="dash" d="M525 1210 L525 1255"/>
-  <text class="label amber" x="525" y="1188" text-anchor="middle">fixed stop</text>
-  <text class="tiny" x="520" y="1410">14 cm measured along moving wire</text>
-  <text class="tiny" x="520" y="1438">from eye to stop — not diameter</text>
-  <text class="label" x="858" y="1252" text-anchor="middle">rot-proof tether</text>
-  <text class="label" x="882" y="1540" text-anchor="middle">firm peg</text>
+  <circle class="line" cx="205" cy="1380" r="108"/>
+  <circle cx="313" cy="1380" r="15" fill="#fffefa" stroke="#173f35" stroke-width="7"/>
+  <path class="line" d="M328 1380 L704 1380"/>
+  <rect x="255" y="1278" width="24" height="44" rx="4" fill="#8a5a10" transform="rotate(35 267 1300)"/>
+  <circle cx="704" cy="1380" r="10" fill="#173f35"/>
+  <path class="thin" d="M714 1380 C760 1392, 792 1468, 836 1482"/>
+  <path class="thin" d="M836 1482 L870 1482 L866 1522 L832 1522 Z"/>
+  <line class="ground" x1="760" y1="1512" x2="930" y2="1512"/>
+
+  <text class="diagramLabel amber" x="150" y="1238" text-anchor="middle">FIXED STOP</text>
+  <text class="tiny amber" x="150" y="1265" text-anchor="middle">ON NOOSE-SIDE WIRE</text>
+  <path class="dash" d="M232 1274 L253 1292"/>
+  <path class="dash" d="M313 1380 A108 108 0 0 0 267 1292"/>
+  <text class="diagramLabel amber" x="412" y="1242" text-anchor="middle">ABOUT 14 cm</text>
+  <text class="tiny amber" x="412" y="1269" text-anchor="middle">ALONG MOVING LOOP WIRE</text>
+  <text class="diagramLabel" x="398" y="1342" text-anchor="middle">RUNNING EYE</text>
+  <path class="dash" d="M360 1350 L324 1372"/>
+  <text class="tiny amber" x="205" y="1428" text-anchor="middle">stop must not slide</text>
+
+  <text class="diagramLabel" x="704" y="1334" text-anchor="middle">SECURE JOIN</text>
+  <text class="diagramLabel" x="800" y="1366" text-anchor="middle">SHORT TETHER</text>
+  <text class="diagramLabel" x="828" y="1552" text-anchor="middle">PEG NEARLY FLUSH</text>
+
+  <line class="dim" x1="97" y1="1520" x2="313" y2="1520"/>
+  <text class="diagramLabel amber" x="205" y="1560" text-anchor="middle">ABOUT 10 cm OPEN LOOP</text>
+  <text class="tiny" x="478" y="1464" text-anchor="middle">Pull moving wire → loop closes</text>
+  <text class="tiny" x="478" y="1492" text-anchor="middle">Release tension → loop must loosen</text>
+  <text class="tiny red" x="942" y="1582" text-anchor="end">Use only the exact prepared, inspected assembly named on Panel A.</text>
 
   <rect class="blue" x="34" y="1608" width="932" height="140" rx="10"/>
-  <text class="midhead" x="58" y="1638">MAKE + TEST</text>
-  <text class="tiny" x="58" y="1666">1  Pass free wire through smooth eye. Pull smaller; release.</text>
-  <text class="tiny" x="58" y="1692">2  Crimp stop 14 cm along moving wire. Shape 10 cm loop.</text>
-  <text class="tiny" x="58" y="1718">3  Secure wire → rot-proof cord → peg. Keep tether clear.</text>
-  <text class="limit" x="58" y="1741">Must relax; stop + peg must hold. Any bind, kink or fray = STOP.</text>
+  <text class="midhead" x="58" y="1638">CHECK + TEST BEFORE SETTING</text>
+  <text class="diagramSmall" x="58" y="1673">CONFIRM WIRE RUNS THROUGH EYE  →  PULL LOOP SMALLER  →  RELEASE</text>
+  <text class="diagramSmall" x="58" y="1707">LOOP RELAXES FREELY  ·  PULL TETHER HARD  →  STOP + PEG HOLD</text>
+  <text class="limit" x="58" y="1739">BINDS · KINKS · FRAYS · STOP MOVES · PEG SHIFTS = DO NOT SET</text>
 
   <rect class="footer" x="0" y="1752" width="1000" height="48"/>
   <text class="footText" x="500" y="1782" text-anchor="middle">PANEL A GATE CONTROLS · DO NOT USE THIS DETACHED PANEL ALONE</text>
@@ -84,37 +97,73 @@
   <text class="title" x="34" y="1856">SET, MARK AND WATCH</text>
   <text class="status" x="966" y="1891" text-anchor="end">WORKING CARD · PANEL C OF 4 · PANELS A–B CONTROL</text>
 
-  <rect class="yes" x="34" y="1912" width="450" height="390" rx="10"/>
-  <text class="head" x="58" y="1952">USE: OPEN RABBIT RUN</text>
-  <line class="ground" x1="72" y1="2220" x2="448" y2="2220"/>
-  <circle class="line" cx="250" cy="2074" r="70"/>
-  <path class="thin" d="M320 2074 C350 2100, 360 2140, 400 2170"/>
-  <path class="thin" d="M214 2144 L194 2220 M286 2144 L306 2220"/>
-  <path class="thin" d="M194 2220 L190 2245 M306 2220 L310 2245"/>
-  <line class="dim" x1="155" y1="2220" x2="155" y2="2144"/>
-  <text class="label amber" x="118" y="2188" transform="rotate(-90 118 2188)" text-anchor="middle">9 cm</text>
-  <text class="tiny" x="58" y="2270">Short vegetation · several fresh rabbit signs</text>
-  <text class="tiny" x="58" y="2296">Loop across centre · support releases freely</text>
+  <rect class="yes" x="34" y="1912" width="932" height="432" rx="10"/>
+  <line class="divider" x1="500" y1="1930" x2="500" y2="2326"/>
 
-  <rect class="warn" x="516" y="1912" width="450" height="390" rx="10"/>
-  <text class="head red" x="540" y="1952">REJECT THE SITE</text>
-  <text class="small" x="540" y="1992">× Burrow mouth or fence gap</text>
-  <text class="small" x="540" y="2030">× Waterhole or gully crossing</text>
-  <text class="small" x="540" y="2068">× Road, public track or camp</text>
-  <text class="small" x="540" y="2106">× Pet or livestock route</text>
-  <text class="small" x="540" y="2144">× Tree, root, rock, scrub or drop</text>
-  <text class="small" x="540" y="2182">× Native-animal or hare sign</text>
-  <text class="limit" x="540" y="2224">No entanglement, suspension,</text>
-  <text class="limit" x="540" y="2255">drowning or weather exposure.</text>
+  <text class="midhead" x="58" y="1952">TOP VIEW — ACROSS RUN</text>
+  <text class="tiny" x="58" y="1980">NOT TO SCALE · SHORT VEGETATION</text>
+  <text class="tiny" x="58" y="2005">OPEN RABBIT RUN</text>
+  <path class="guide" d="M128 2025 C108 2080, 112 2190, 132 2284"/>
+  <path class="guide" d="M356 2025 C376 2080, 372 2190, 352 2284"/>
+  <line class="dim" x1="242" y1="2028" x2="242" y2="2258"/>
+  <text class="diagramSmall amber" x="242" y="2308" text-anchor="middle">RABBIT TRAVEL · BOTH WAYS</text>
+  <line class="line" x1="140" y1="2136" x2="344" y2="2136"/>
+  <circle cx="344" cy="2136" r="12" fill="#fffefa" stroke="#173f35" stroke-width="6"/>
+  <path class="thin" d="M356 2136 C392 2136, 402 2092, 438 2086"/>
+  <path class="thin" d="M438 2072 L458 2082 L446 2130 L426 2122 Z"/>
+  <rect class="labelPlate" x="112" y="2075" width="260" height="38" rx="4"/>
+  <text class="diagramLabel" x="242" y="2105" text-anchor="middle">LOOP ACROSS CENTRE</text>
+  <path class="sweep" d="M438 2078 C462 2052 478 2024 482 1998"/>
+  <path class="sweep" d="M450 2106 C478 2144 482 2176 474 2204"/>
+  <rect class="labelPlate" x="286" y="2022" width="210" height="38" rx="4"/>
+  <text class="diagramSmall" x="391" y="2050" text-anchor="middle">PEG OUTSIDE RUN</text>
+  <rect class="labelPlate" x="112" y="2212" width="260" height="74" rx="4"/>
+  <text class="tiny red" x="242" y="2236" text-anchor="middle">CLEAR ENTIRE POSSIBLE</text>
+  <text class="tiny red" x="242" y="2258" text-anchor="middle">SWEEP AROUND PEG</text>
+  <text class="tiny red" x="242" y="2280" text-anchor="middle">NO DRAG</text>
 
-  <rect class="blue" x="34" y="2322" width="932" height="302" rx="10"/>
-  <text class="head" x="58" y="2362">SET ONLY DURING A SHORT, AWAKE WATCH</text>
-  <text class="small" x="58" y="2402">1  Clear the whole tether radius. Drive peg nearly flush. Do not use a drag.</text>
-  <text class="small" x="58" y="2442">2  Mark + number the set. Record location and time. Start with one.</text>
-  <text class="small" x="58" y="2482">3  Watch from a distance when possible. Physically inspect at least HOURLY.</text>
-  <text class="small" x="58" y="2522">4  Check at once after weather, animal noise or line movement.</text>
-  <text class="small" x="58" y="2562">5  Remove before sleep, movement, lost inspection ability or rescue.</text>
-  <text class="limit" x="58" y="2602">Hourly is a conservative project limit—not a capture or welfare guarantee.</text>
+  <text class="midhead" x="524" y="1952">SIDE VIEW — HEIGHT</text>
+  <text class="tiny" x="524" y="1982">NOT TO SCALE · peg remains outside run</text>
+  <line class="ground" x1="536" y1="2264" x2="942" y2="2264"/>
+  <circle class="line" cx="650" cy="2110" r="70"/>
+  <line class="dim" x1="576" y1="2194" x2="576" y2="2264"/>
+  <path class="thin" d="M820 2264 L735 2122 L720 2113 L734 2104"/>
+  <rect class="amberBox" x="580" y="2194" width="370" height="44" rx="7"/>
+  <text class="diagramSmall amber" x="765" y="2224" text-anchor="middle">ABOUT 9 cm TO LOOP BOTTOM</text>
+  <text class="diagramLabel" x="650" y="2104" text-anchor="middle">ABOUT 10 cm</text>
+
+  <circle cx="720" cy="2110" r="7" fill="#fffefa" stroke="#173f35" stroke-width="3"/>
+  <path class="dash" d="M900 2076 L740 2086"/>
+  <text class="diagramSmall" x="800" y="2032" text-anchor="middle">ONE NOTCHED SUPPORT</text>
+  <text class="diagramSmall" x="800" y="2062" text-anchor="middle">wire rests lightly in notch</text>
+  <text class="limit" x="739" y="2310" text-anchor="middle">LIFT FREE · STAYS SET · NEVER TIE</text>
+
+  <rect class="warn" x="34" y="2360" width="932" height="128" rx="10"/>
+  <text class="midhead red" x="58" y="2393">REJECT THE SITE</text>
+  <rect class="chip" x="58" y="2408" width="274" height="30" rx="5"/>
+  <rect class="chip" x="363" y="2408" width="274" height="30" rx="5"/>
+  <rect class="chip" x="668" y="2408" width="274" height="30" rx="5"/>
+  <rect class="chip" x="58" y="2446" width="274" height="30" rx="5"/>
+  <rect class="chip" x="363" y="2446" width="274" height="30" rx="5"/>
+  <rect class="chip" x="668" y="2446" width="274" height="30" rx="5"/>
+  <text class="tiny red" x="72" y="2430">× BURROW / NEAR FENCE</text>
+  <text class="tiny red" x="377" y="2430">× WATER / STEEP DROP</text>
+  <text class="tiny red" x="682" y="2430">× ROAD / TRACK / CAMP</text>
+  <text class="tiny red" x="72" y="2468">× PET / LIVESTOCK ROUTE</text>
+  <text class="tiny red" x="377" y="2468">× HARE / NATIVE SIGN</text>
+  <text class="tiny red" x="682" y="2468">× OBJECT WITHIN REACH</text>
+
+  <rect class="blue" x="34" y="2504" width="932" height="144" rx="10"/>
+  <text class="midhead" x="58" y="2536">SHORT, AWAKE WATCH ONLY</text>
+  <rect class="step" x="58" y="2550" width="432" height="34" rx="5"/>
+  <rect class="step" x="510" y="2550" width="432" height="34" rx="5"/>
+  <rect class="step" x="58" y="2586" width="432" height="32" rx="5"/>
+  <rect class="step" x="510" y="2586" width="432" height="32" rx="5"/>
+  <text class="tiny" x="70" y="2574">1  MARK + NUMBER THE SET</text>
+  <text class="tiny" x="524" y="2574">2  RECORD PLACE + TIME</text>
+  <text class="tiny" x="68" y="2610">3  STAY AWAKE · CHECK AT LEAST HOURLY</text>
+  <text class="footText" x="524" y="2610">4  REMOVE: SLEEP · MOVE · STORM · RESCUE</text>
+  <text class="footText" x="500" y="2638" text-anchor="middle">Check immediately after disturbance. Hourly is not a welfare or capture guarantee.</text>
 
   <rect class="footer" x="0" y="2652" width="1000" height="48"/>
   <text class="footText" x="500" y="2682" text-anchor="middle">EVERY SET MUST BE FOUND AND REMOVED · READ PANEL D BEFORE SETTING</text>

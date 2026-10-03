@@ -83,6 +83,10 @@ If a purpose-built, non-injuring confinement or cage trap is already available a
 >
 > **Estimated confidence (subjective):** 95% that the priority and legal warning matches the cited sources; 70% that the dimensions below match the cited same-species guidance; 55% for completeness and effectiveness in Victorian conditions; 40% that written instruction alone can produce a humane novice dispatch. These are editorial estimates—not probabilities of capture, legality, safety, humane outcome or survival.
 
+![Emergency-only stopped rabbit snare: a four-panel working card shows the strict entry gate; a prepared-assembly view with the 10 cm loop and the stop about 14 cm from the eye on the noose side; top and side placement views with the loop across the run, peg outside it, notched support and 9 cm height; monitoring, capture response and removal.](../assets/emergency-rabbit-snare-card.svg)
+
+*IM-208. Read this whole four-panel card before using either enlarged diagram below. Panel A controls entry; Panel B shows the prepared assembly; Panel C shows placement; Panel D controls capture response. The card does not invent an eye-making method, knot, splice, peg depth or clearance radius. This is a low-confidence emergency fallback for European rabbits only, not a normally lawful Victorian trap design. It does not clear a carcass for eating or supply field-dressing and rabbit-cooking instructions.*
+
 #### Every answer must be yes before setting
 
 1. Have you already protected emergency contact, first aid, body temperature, shelter, safe water and the known rescue position?
@@ -90,7 +94,7 @@ If a purpose-built, non-injuring confinement or cage trap is already available a
 3. Are carried food and safer, already-identified foods unavailable or insufficient?
 4. Can you set and inspect the snare without leaving the safe waiting place, using more water or energy than the likely return, or weakening the rescue plan?
 5. Have you seen a European rabbit or found several fresh rabbit signs at this exact open run—and no sign of a hare, native animal, pet or livestock using it?
-6. Do you have the exact wire, smooth running eye, fixed stop, secure tether, peg, support stick, marker and wire cutters described below? **No material substitution is validated.**
+6. Do you have a **complete purpose-made stopped rabbit-snare assembly** with the exact wire, smooth running eye, fixed stop, secure wire-to-cord connection, short rot-proof tether and firm peg described below, plus a support stick, marker and wire cutters? **No field fabrication or material substitution is validated.**
 7. Can you remain awake and close, check the set at least hourly, release a non-target safely and promptly dispatch a rabbit?
 8. Is there no poison warning, laid carrot or oat bait, multiple dead or abnormal rabbits, unexplained bruising or bleeding, or known control operation?
 
@@ -98,37 +102,39 @@ One **no** or **unknown** on items 1–7 means do not set this snare. Positive e
 
 #### What you need
 
-- purpose-made **3- or 4-strand brass rabbit-snare wire**, prepared as 3–4 strands at a smooth free-running eye and doubled to 6–8 strands around the noose;
-- a fixed crimp stop that cannot slide;
-- strong rot-proof cord and a firm ground peg;
+- one complete purpose-made stopped rabbit-snare assembly, prepared and checked before the trip: **3- or 4-strand brass wire**, prepared as 3–4 strands at a smooth free-running eye and doubled to 6–8 strands around the noose; a fixed stop already fitted about 14 cm from the eye on the noose-side wire; and a secure manufactured wire-to-cord connection, short rot-proof tether and firm ground peg;
 - a short notched support stick, called a tealer;
 - a visible marker and a way to record the set location and time;
 - wire cutters that can cut the noose itself;
 - long sleeves, gloves if available, and a solid blunt bar for humane dispatch.
 
-Do **not** substitute fishing line, single sharp wire, steel cable, string, plant fibre, a spring pole, a drag, a self-locking eye or an unstopped loop. If the eye, stop or wire is damaged, rusty, kinked or rough, do not use it.
+Do **not** make the eye, stop, wire-to-cord connection or peg from this book. No raw-wire method, crimping tool, knot, splice, peg design or substitute has been validated. This is not a no-equipment method. Do **not** substitute fishing line, single sharp wire, steel cable, string, plant fibre, a spring pole, a drag, a self-locking eye or an unstopped loop. If the complete prepared and pre-checked assembly is unavailable—or its eye, stop, connection, tether, peg or wire is damaged, rusty, kinked, rough or uncertain—do not set it.
 
-#### Make the free-running stopped loop
+#### Open and check the prepared stopped loop
 
-1. Feed the free end of the brass wire through the smooth eye to form a noose. Pull the noose smaller, then release the tension. It must loosen freely without being pushed open. If it stays tight, it is self-locking: **stop**.
-2. Measure **14 cm along the moving wire from the running eye** and crimp the fixed stop there. This measurement becomes the smallest possible loop circumference; it is not the diameter across the open loop. The humane outcome of this stop position has not been established in a Victorian field trial.
-3. Shape the open loop to about **10 cm diameter**. Natural England and the Defra code agree on this European-rabbit setup; a 2022 Scottish guide instead uses a wider 18 × 13 cm oval. That unresolved difference is why the performance confidence is only 55%.
-4. Attach the fixed end securely to rot-proof cord, then to a peg that cannot pull out. Keep the tether only long enough for the loop to work while preventing the rabbit from reaching any obstacle, drop or water.
-5. Test again: pull the loop down to the stop, release tension, and confirm that it relaxes. Pull hard on the tether and peg. If the stop moves, the eye binds, the wire kinks or the anchor shifts, **do not set it**.
+1. Lay out the complete assembly. Find the smooth running eye, the fixed stop and the wire-to-cord connection. The stop must be already fixed **about 14 cm from the eye along the noose-side wire**—the part that travels around the loop before it passes through the eye. It must not be between the eye and tether and must not slide. When the noose-side segment is gently straightened for its pre-trip check, the working distance runs from where that wire passes through the eye to the near face of the stop. This approximate distance sets the smallest possible loop circumference; it is not the open-loop diameter. Do not bend or kink the wire to recheck it in the emergency. This stop position has not been proved humane in Victorian field use.
+2. Confirm that the noose wire passes freely through the smooth eye. Pull the loop smaller until the eye meets the stop, then release the tension. The loop must loosen without being pushed open. If it stays tight, the stop passes through the eye, or either part binds: **do not set it**.
+3. Open the loop to about **10 cm diameter**. Natural England and the Defra code agree on this approximate European-rabbit setup; a 2022 Scottish guide instead uses a wider 18 × 13 cm oval. That unresolved difference is why the performance confidence is only 55%.
+4. Check the complete anchor side: the prepared wire-to-cord connection, short rot-proof tether and firm peg must all be present and secure. No knot or joining method is supplied here. The final set must prevent the rabbit from reaching any obstacle, drop or water.
+5. Test the complete assembly again. Close the loop to the stop and release it; confirm that it loosens. Pull firmly on the tether, connection and peg before setting. If the stop or connection moves, the eye binds, the wire kinks or the peg shifts, **do not set it**.
 
-![Emergency-only stopped rabbit snare: a four-panel working card shows the strict entry gate, correct components and measurements, safe versus rejected placement, hourly monitoring, non-target release, humane rabbit dispatch and complete removal.](../assets/emergency-rabbit-snare-card.svg)
+![Large prepared-assembly diagram for the emergency-only stopped rabbit snare, showing the noose wire through a smooth running eye, the fixed stop about 14 cm from the eye on the noose side, the about 10 cm open loop, secure manufactured connection, short rot-proof tether, nearly flush peg and the pull-release test.](../assets/rabbit-snare-construction-diagram.svg)
 
-*IM-208. Original working construction and use card. It is a low-confidence emergency fallback for European rabbits only, not a normally lawful Victorian trap design. It does not clear a carcass for eating or supply field-dressing and rabbit-cooking instructions.*
+*IM-209. Large working prepared-assembly schematic. It shows how already fabricated components relate and function; it does not teach a raw-wire eye, stop/crimp, joining knot, splice, peg design or peg depth. The measurements are source-bounded working choices, not proof of humane or optimal Victorian performance.*
 
 #### Set it on the run
 
-1. Choose the centre of a clearly used rabbit run in **short, open vegetation** near rabbit harbourage. Do not set at a burrow mouth, fence gap, waterhole, gully crossing, road, public track, campsite, pet or livestock route, or anywhere another species may pass.
-2. Clear the entire reach of the tether. There must be no branch, trunk, shrub, root, rock, fence, steep drop or water around which a captured animal could wrap, hang or drown.
-3. Put the round loop upright across the run. Rest it lightly in the notch of the support stick so its bottom edge is about **9 cm above the ground**. The support must pull free; do not tie the noose to it.
+1. Choose the centre of a clearly used rabbit run in **short, open vegetation** near rabbit harbourage. Do not set at a burrow mouth; under, through or near a fence, gate or hedge; beside any water or steep bank; on a road, public track, campsite, pet or livestock route; or anywhere another species may pass.
+2. Clear everything the snare and tether could reach. There must be no branch, sapling, trunk, shrub, root, rock, wall, fence, stake, steep drop or water around which a captured animal could wrap, hang or drown.
+3. Put the round loop upright across the run. Rest it lightly in the notch of one short support stick, sometimes called a tealer, so its bottom edge is about **9 cm above the ground**. The loop must lift freely out of the notch; keep the support firmly set and never tie the loop to it.
 4. Drive the anchor peg nearly flush with the ground outside the run. The tether must be secure and unable to become a drag.
 5. Mark and number the set. Record its location and the time. Use one set first; more sets create more non-target and inspection risk.
 6. Set only for a short period while you are awake and close—typically around dusk when rabbits are active. Watch from a distance when possible and physically inspect **at least every hour**. This one-hour limit is a conservative project rule, not a validated capture interval or guarantee. Check immediately after weather, animal noise or line movement.
 7. Deactivate and remove it before sleep, movement, worsening weather, loss of inspection capacity or rescue. Count every wire, peg and marker back in.
+
+![Large placement diagram for the emergency-only stopped rabbit snare, with a top view of the loop centred across the rabbit run and the peg outside it, a side view of the about 9 cm lower-edge height and one notched support, full-reach clearance and rejected locations.](../assets/rabbit-snare-placement-diagram.svg)
+
+*IM-210. Large working placement schematic. It is not to scale and gives no numeric tether length, clearance radius, peg design or peg depth. Clear everything the snare and tether could reach; the loop must lift freely from the notch while the single support stays firmly set.*
 
 #### If an animal is caught
 
@@ -611,4 +617,4 @@ Do not handle bats, including an injured one. After a bite or scratch, wash the 
 
 **Sources:** [Victorian Health bat lyssavirus](https://www.health.vic.gov.au/infectious-diseases/rabies-and-australian-bat-lyssavirus), [Australian Immunisation Handbook](https://immunisationhandbook.health.gov.au/contents/vaccine-preventable-diseases/rabies-and-other-lyssaviruses), St John S-168; S-164–S-168.
 
-**Review record:** [EP-008](../../research/evidence-packets/EP-008-victorian-bites-and-stings.md), the [Victorian fish action evidence packet](../../research/FISH_ACTION_EVIDENCE_PACKET.md), the [fish-atlas content and test packet](../../research/FISH_ATLAS_CONTENT_DRAFT.md), the [fish-atlas image-rights packet](../../research/FISH_ATLAS_IMAGE_RIGHTS_PACKET.md), D-075/D-077, R-497/R-499, S-491–S-502, SP-042–SP-043, SR12-31–SR12-35, IM-070, IM-116 and IM-173–IM-183/IM-207–IM-208. Updated 3 October 2026; the chapter now includes one low-confidence, emergency-only stopped free-running rabbit-snare route from entry gate through construction, placement, hourly monitoring, non-target response, rabbit dispatch, death confirmation and full removal. It deliberately excludes ordinary improvised-trap use, self-locking or killing snares, deadfalls, material substitutions, native-animal capture, rabbit dressing and rabbit-specific cooking. The fishing knot diagram and atlas have not passed practical or specialist review. The atlas has no universal terminal action for an unidentified catch, no novice-safe non-colour black-versus-yellowfin bream separator, and incomplete carp, hybrid and redfin views. Fish-specific dispatch, bleeding and anatomy-dependent cleaning, field tests and specialist approval remain incomplete, so those procedures remain withheld. Shellfish remain warning-only. `FIELD_READY_BUILD` remains `NO`.
+**Review record:** [EP-008](../../research/evidence-packets/EP-008-victorian-bites-and-stings.md), the [Victorian fish action evidence packet](../../research/FISH_ACTION_EVIDENCE_PACKET.md), the [fish-atlas content and test packet](../../research/FISH_ATLAS_CONTENT_DRAFT.md), the [fish-atlas image-rights packet](../../research/FISH_ATLAS_IMAGE_RIGHTS_PACKET.md), D-075/D-077/D-078, R-497/R-499/R-500, S-491–S-502, SP-042–SP-043, SR12-31–SR12-35, IM-070, IM-116 and IM-173–IM-183/IM-207–IM-210. Updated 3 October 2026; the chapter now includes one low-confidence, emergency-only stopped free-running rabbit-snare route from entry gate through prepared-assembly checks, placement, hourly monitoring, non-target response, rabbit dispatch, death confirmation and full removal. IM-209 and IM-210 give larger prepared-assembly and placement diagrams without inventing component-fabrication methods. The route deliberately excludes ordinary improvised-trap use, self-locking or killing snares, deadfalls, material substitutions, native-animal capture, rabbit dressing and rabbit-specific cooking. The fishing knot diagram and atlas have not passed practical or specialist review. The atlas has no universal terminal action for an unidentified catch, no novice-safe non-colour black-versus-yellowfin bream separator, and incomplete carp, hybrid and redfin views. Fish-specific dispatch, bleeding and anatomy-dependent cleaning, field tests and specialist approval remain incomplete, so those procedures remain withheld. Shellfish remain warning-only. `FIELD_READY_BUILD` remains `NO`.

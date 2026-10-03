@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Stopped rabbit snare construction diagram</title>
+  <desc id="desc">A large working construction diagram for the emergency-only European-rabbit snare. It shows a prepared, inspected assembly with the moving noose-side wire passing through a purpose-made smooth running eye, a fixed minimum-loop stop about fourteen centimetres along that loop wire so the stop reaches the eye as the loop closes, an about ten centimetre open loop, a labelled secure wire-to-cord connection, short rot-proof tether and a firm peg with its top nearly flush to the ground. It also shows the pull-release function test. It does not show how to fabricate the eye, stop, joint or peg.</desc>
+  <defs>
+    <style>
+      .bg{fill:#fffefa}.panel{fill:#f2f6f3;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.test{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.title{font:700 42px Arial,sans-serif;fill:#173f35}.status{font:700 24px Arial,sans-serif;fill:#77551c}.head{font:700 31px Arial,sans-serif;fill:#173f35}.label{font:700 28px Arial,sans-serif;fill:#173f35}.body{font:26px Arial,sans-serif;fill:#344c41}.small{font:24px Arial,sans-serif;fill:#344c41}.fail{font:700 26px Arial,sans-serif;fill:#7a2926}.red{fill:#7a2926}.amber{fill:#7b5114}.wire{fill:none;stroke:#173f35;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}.cord{fill:none;stroke:#173f35;stroke-width:5;stroke-linecap:round}.dim{fill:none;stroke:#8a5a10;stroke-width:4;marker-start:url(#arrow);marker-end:url(#arrow)}.call{fill:none;stroke:#8a5a10;stroke-width:3;stroke-dasharray:10 8}.ground{stroke:#6e806f;stroke-width:6}.stop{fill:#8a5a10}.footer{fill:#fff0ed}.foot{font:700 24px Arial,sans-serif;fill:#7a2926}
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a5a10"/></marker>
+  </defs>
+
+  <rect class="bg" width="1000" height="1000"/>
+  <text class="title" x="34" y="56">RABBIT SNARE — CONSTRUCTION</text>
+  <text class="status" x="966" y="91" text-anchor="end">WORKING DIAGRAM · EMERGENCY GATE MUST PASS</text>
+
+  <rect class="warn" x="34" y="112" width="932" height="104" rx="10"/>
+  <text class="label red" x="58" y="151">NOT TO SCALE · PREPARED, INSPECTED ASSEMBLY ONLY</text>
+  <text class="small" x="58" y="187">No eye, stop, knot, splice, peg fabrication or substitute method is supplied.</text>
+
+  <rect class="panel" x="34" y="236" width="932" height="500" rx="10"/>
+  <line x1="492" y1="254" x2="492" y2="470" stroke="#9eb0a7" stroke-width="2"/>
+
+  <text class="head" x="58" y="278">1  RUNNING EYE</text>
+  <text class="small" x="58" y="316">Moving wire through smooth eye.</text>
+  <line class="wire" x1="92" y1="382" x2="438" y2="382"/>
+  <circle cx="266" cy="382" r="35" fill="#fffefa" stroke="#173f35" stroke-width="10"/>
+  <line class="dim" x1="122" y1="442" x2="410" y2="442"/>
+  <text class="small amber" x="266" y="478" text-anchor="middle">PULL CLOSES · RELEASE LOOSENS</text>
+  <text class="small red" x="266" y="511" text-anchor="middle">If it grips or stays closed: STOP.</text>
+
+  <text class="head" x="518" y="278">2  FIXED STOP</text>
+  <path class="wire" d="M620 404 C690 330 830 338 868 400"/>
+  <circle cx="868" cy="400" r="20" fill="#fffefa" stroke="#173f35" stroke-width="8"/>
+  <line class="wire" x1="888" y1="400" x2="930" y2="400"/>
+  <rect class="stop" x="716" y="322" width="28" height="48" rx="5"/>
+  <path class="call" d="M848 382 C810 348 770 338 730 342"/>
+  <text class="body amber" x="730" y="315" text-anchor="middle">ABOUT 14 cm ALONG LOOP WIRE</text>
+  <text class="body amber" x="730" y="446" text-anchor="middle">NOT LOOP DIAMETER</text>
+  <text class="small" x="730" y="482" text-anchor="middle">STOP REACHES EYE AS LOOP CLOSES</text>
+  <text class="small red" x="950" y="515" text-anchor="end">Source limits; humane/optimal unproved.</text>
+
+  <line x1="58" y1="536" x2="942" y2="536" stroke="#9eb0a7" stroke-width="2"/>
+  <text class="head" x="58" y="568">3  ASSEMBLED SYSTEM</text>
+
+  <path class="wire" d="M332 640 C332 558 82 558 82 640 C82 722 332 722 332 640"/>
+  <circle cx="332" cy="640" r="16" fill="#fffefa" stroke="#173f35" stroke-width="8"/>
+  <line class="wire" x1="348" y1="640" x2="671" y2="640"/>
+  <rect class="stop" x="94" y="590" width="24" height="38" rx="4" transform="rotate(-25 106 609)"/>
+  <circle cx="671" cy="640" r="10" fill="#173f35"/>
+  <path class="cord" d="M681 640 C742 646 772 669 829 673"/>
+  <line class="ground" x1="720" y1="686" x2="932" y2="686"/>
+  <path class="cord" d="M829 664 L876 664 L872 698 L825 698 Z"/>
+
+  <line class="dim" x1="82" y1="684" x2="332" y2="684"/>
+  <text class="body amber" x="207" y="724" text-anchor="middle">ABOUT 10 cm OPEN LOOP</text>
+  <text class="small amber" x="190" y="640" text-anchor="middle">FIXED STOP</text>
+  <path class="call" d="M132 616 L114 610"/>
+  <text class="small" x="410" y="606" text-anchor="middle">RUNNING EYE</text>
+  <text class="small" x="671" y="606" text-anchor="middle">SECURE JOIN</text>
+  <text class="small" x="790" y="632" text-anchor="middle">SHORT ROT-PROOF CORD</text>
+  <text class="small" x="840" y="728" text-anchor="middle">PEG NEARLY FLUSH</text>
+
+  <rect class="test" x="34" y="756" width="932" height="174" rx="10"/>
+  <text class="head" x="58" y="797">TEST BEFORE SETTING</text>
+  <text class="body" x="58" y="837">PULL LOOP SMALLER  →  RELEASE</text>
+  <text class="body" x="535" y="837">LOOP MUST LOOSEN FREELY</text>
+  <text class="body" x="58" y="876">PULL TETHER HARD  →  STOP + JOIN + PEG HOLD</text>
+  <text class="fail" x="58" y="916">BIND · KINK · FRAY · MOVING STOP · SHIFTING PEG = DO NOT SET</text>
+
+  <rect class="footer" x="0" y="938" width="1000" height="62"/>
+  <text class="foot" x="500" y="966" text-anchor="middle">WORKING, UNAPPROVED · LIFE-THREATENING EMERGENCY ONLY</text>
+  <text class="foot" x="500" y="993" text-anchor="middle">USE WITH CHAPTER 12</text>
+</svg>
