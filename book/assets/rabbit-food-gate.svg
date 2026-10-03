@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1800" viewBox="0 0 1000 1800" role="img" aria-labelledby="title desc">
   <title id="title">Victoria rabbit food, ordinary rules and true emergency gate</title>
-  <desc id="desc">A working two-panel decision card. Panel A puts human life first when a person faces an immediate risk of death or really serious injury and an otherwise prohibited act is the only reasonable response. It says this is not blanket permission and that hunger or low food alone is not the threshold. It then summarises ordinary Victorian trapping boundaries and states that the card gives no emergency trapping method. Panel B labels the complete checklist as the ordinary food route, repeats the separate immediate-life-danger boundary, and retains identity, effectiveness, non-target, humane-treatment, poison-history and food-safety limits. The card gives no trap construction, bait, placement, dispatch, cutting or cooking method.</desc>
+  <desc id="desc">A working two-panel decision card. Panel A puts human life first when a person faces an immediate risk of death or really serious injury and an otherwise prohibited act is the only reasonable response. It says this is not blanket permission and that hunger or low food alone is not the threshold. It summarises ordinary Victorian trapping boundaries and routes only a qualifying emergency to the separate IM-208 stopped-rabbit-snare card. Panel B labels the complete checklist as the ordinary food route, repeats the separate immediate-life-danger boundary, and retains identity, effectiveness, non-target, humane-treatment, poison-history and food-safety limits. This gate does not clear captured meat as safe food.</desc>
   <defs>
     <style>
       .bg{fill:#fffefa}.box{fill:#f3f6f3;stroke:#244a3c;stroke-width:3}.blue{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.amberBox{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.footer{fill:#fff0ed}
@@ -25,8 +25,8 @@
   <text class="small" x="58" y="410">95% wording estimate only — not legal advice, food safety or survival odds.</text>
 
   <rect class="blue" x="34" y="450" width="932" height="108" rx="10"/>
-  <text class="head" x="58" y="490">THIS CARD GIVES NO EMERGENCY TRAP METHOD</text>
-  <text class="limit" x="58" y="530">No construction, bait, placement, dispatch, dressing or cooking steps.</text>
+  <text class="head" x="58" y="490">QUALIFYING EMERGENCY? CONTINUE TO IM-208</text>
+  <text class="limit" x="58" y="530">Its exact materials, build, site, monitoring and capture rules control.</text>
 
   <rect class="box" x="34" y="580" width="932" height="118" rx="10"/>
   <text class="head" x="58" y="620">ORDINARY RULES — SNARES, DEADFALLS + LEG-HOLDS</text>
@@ -58,19 +58,19 @@
   <text class="body" x="58" y="1380">□ Site baiting and poison-treatment history positively known — unknown = STOP</text>
   <text class="body" x="58" y="1420">□ Live capture; no abnormal behaviour, disease sign or chemical concern</text>
   <text class="body" x="58" y="1460">□ Hygienic dressing, cooling and cooking can be completed safely</text>
-  <text class="limit" x="58" y="1490">This card supplies none of the missing capture, dispatch or processing methods.</text>
+  <text class="limit" x="58" y="1490">Ordinary route only. IM-208 does not make improvised ordinary use acceptable.</text>
 
   <rect class="blue" x="34" y="1512" width="932" height="190" rx="10"/>
   <text class="head" x="58" y="1548">SEPARATE IMMEDIATE LIFE-DANGER CHECK</text>
   <text class="body" x="58" y="1584">Only immediate risk of death or really serious injury reaches this branch.</text>
   <text class="small" x="58" y="1620">Without delaying action, try 000 or SOS. Use a lawful option that can work in time.</text>
   <text class="small" x="58" y="1656">Otherwise: only reasonable, least-harmful action; stop when danger ends.</text>
-  <text class="limit" x="58" y="1688">Not legal permission. This does not unlock a missing trap or food method.</text>
+  <text class="limit" x="58" y="1688">If every emergency gate passes, use IM-208 exactly. Capture is not safe food.</text>
 
   <rect class="warn" x="34" y="1712" width="932" height="58" rx="10"/>
   <text class="midhead red" x="58" y="1738">SIGNS ARE NOT PERMISSION OR PLACEMENT</text>
   <text class="small" x="58" y="1762">Warrens, dung or grazing marks do not clear species, land, trap or food.</text>
 
   <rect class="footer" x="0" y="1776" width="1000" height="24"/>
-  <text class="footText" x="500" y="1794" text-anchor="middle">NO CONSTRUCTION · NO PLACEMENT · NO DISPATCH · NOT FIELD-APPROVED</text>
+  <text class="footText" x="500" y="1794" text-anchor="middle">IM-208 IS EMERGENCY-ONLY · FIELD DRESSING + COOKING STILL MISSING</text>
 </svg>

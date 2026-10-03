@@ -203,7 +203,7 @@ test('local print endpoint returns only the current fail-closed canonical projec
 
 test('all registered working images have files, warnings, attribution and source records', async () => {
   const { images, files } = await readBookImages(projectRoot);
-  assert.equal(Object.keys(images).length, 146);
+  assert.equal(Object.keys(images).length, 147);
   for (const item of Object.values(images)) {
     assert.equal(item.status, 'working-draft');
     for (const field of ['registerId', 'caption', 'credit', 'source', 'licence', 'limit']) assert.ok(item[field], field);
@@ -218,16 +218,16 @@ test('page-slice metadata covers every portrait SVG with semantic context', asyn
   const { images } = await readBookImages(projectRoot);
   const diagrams = Object.values(images).filter(item => item.filename.endsWith('.svg'));
   const portrait = diagrams.filter(item => item.pageLayoutRequired);
-  assert.equal(diagrams.length, 47);
-  assert.equal(portrait.length, 39);
-  assert.equal(portrait.filter(item => item.pageSlices).length, 39);
+  assert.equal(diagrams.length, 48);
+  assert.equal(portrait.length, 40);
+  assert.equal(portrait.filter(item => item.pageSlices).length, 40);
   for (const item of portrait) {
     assert.equal(item.pageSlices[0], item.viewBox.y, item.filename);
     assert.equal(item.pageSlices.at(-1), item.viewBox.y + item.viewBox.height, item.filename);
     assert.equal(item.pageSliceNotes.length, item.pageSlices.length - 1, item.filename);
   }
-  assert.equal(portrait.reduce((total, item) => total + item.pageSlices.length - 1, 0), 119);
-  assert.equal(Object.values(images).reduce((total, item) => total + (item.pageSlices ? item.pageSlices.length - 1 : 1), 0), 226);
+  assert.equal(portrait.reduce((total, item) => total + item.pageSlices.length - 1, 0), 123);
+  assert.equal(Object.values(images).reduce((total, item) => total + (item.pageSlices ? item.pageSlices.length - 1 : 1), 0), 230);
   assert.deepEqual(images['book/assets/sheet-shelter-setup-card.svg'].pageSlices, [0, 560, 1205, 2235, 3275, 4200]);
   assert.deepEqual(images['book/assets/warrigal-bower-stop-check.svg'].pageSlices, [0, 900, 1800]);
   assert.deepEqual(images['book/assets/asthma-first-aid-card.svg'].pageSlices, [0, 1000, 1900, 2700]);
@@ -236,6 +236,7 @@ test('page-slice metadata covers every portrait SVG with semantic context', asyn
   assert.deepEqual(images['book/assets/serious-deterioration-action-card.svg'].pageSlices, [0, 900, 1800, 2700]);
   assert.deepEqual(images['book/assets/layered-signalling-safe-site-card.svg'].pageSlices, [0, 900, 1800, 2700]);
   assert.deepEqual(images['book/assets/rabbit-food-gate.svg'].pageSlices, [0, 900, 1800]);
+  assert.deepEqual(images['book/assets/emergency-rabbit-snare-card.svg'].pageSlices, [0, 900, 1800, 2700, 3600]);
   assert.equal(images['book/assets/bower-spinach-fruit-beaumaris.jpg'].licence, 'CC BY-NC 4.0; personal non-commercial edition only');
 });
 
@@ -270,8 +271,8 @@ test('every chapter image resolves to its canonical registered local asset', asy
       count++;
     }
   }
-  assert.equal(count, 146);
-  assert.equal(referenced.size, 146);
+  assert.equal(count, 147);
+  assert.equal(referenced.size, 147);
   assert.deepEqual([...referenced].sort(), Object.keys(library.images).sort());
 });
 
@@ -296,10 +297,10 @@ test('image endpoint rejects writes and foreign-site requests', async () => {
   }
 });
 
-test('production bundle emits all 146 registered image files without a second asset collection', async () => {
+test('production bundle emits all 147 registered image files without a second asset collection', async () => {
   const emitted = [];
   await bookLibraryPlugin().generateBundle.call({ emitFile(item) { emitted.push(item); } });
-  assert.equal(emitted.length, 146);
+  assert.equal(emitted.length, 147);
   for (const item of emitted) {
     assert.equal(item.type, 'asset');
     assert.deepEqual(item.source, await readFile(path.join(projectRoot, 'book/assets', path.basename(item.fileName))));

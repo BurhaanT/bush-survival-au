@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="3600" viewBox="0 0 1000 3600" role="img" aria-labelledby="title desc">
+  <title id="title">Emergency-only stopped rabbit snare</title>
+  <desc id="desc">A four-panel working card for a life-threatening Victorian survival emergency. Panel A gives the strict entry gate and exact materials. Panel B diagrams a passive free-running stopped brass-wire snare with a ten centimetre loop, a fourteen centimetre stop measurement, a smooth eye, tether, peg and nine centimetre set height. Panel C shows a clear rabbit run, rejected sites, marking and hourly inspection. Panel D routes a non-target animal to cautious release and a positively identified European rabbit to the separately warned Australian humane-dispatch and death-confirmation sequence. The card is not an ordinarily lawful Victorian trap design and remains unapproved.</desc>
+  <defs>
+    <style>
+      .bg{fill:#fffefa}.box{fill:#f2f6f3;stroke:#244a3c;stroke-width:3}.blue{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.amberBox{fill:#fff7e6;stroke:#8a5a10;stroke-width:3}.yes{fill:#eaf5eb;stroke:#244a3c;stroke-width:3}.footer{fill:#fff0ed}.line{fill:none;stroke:#173f35;stroke-width:8;stroke-linecap:round;stroke-linejoin:round}.thin{fill:none;stroke:#173f35;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}.dim{fill:none;stroke:#8a5a10;stroke-width:3;marker-start:url(#arrow);marker-end:url(#arrow)}.dash{fill:none;stroke:#8a5a10;stroke-width:3;stroke-dasharray:10 8}.ground{stroke:#6e806f;stroke-width:5}.title{font:700 40px Arial,sans-serif;fill:#173f35}.status{font:700 20px Arial,sans-serif;fill:#77551c}.head{font:700 29px Arial,sans-serif;fill:#173f35}.midhead{font:700 25px Arial,sans-serif;fill:#173f35}.body{font:24px Arial,sans-serif;fill:#344c41}.small{font:22px Arial,sans-serif;fill:#344c41}.tiny{font:20px Arial,sans-serif;fill:#344c41}.limit{font:700 22px Arial,sans-serif;fill:#7a2926}.amber{fill:#7b5114}.red{fill:#7a2926}.green{fill:#173f35}.footText{font:700 18px Arial,sans-serif;fill:#7a2926}.label{font:700 21px Arial,sans-serif;fill:#173f35}.number{font:700 25px Arial,sans-serif;fill:#fff}.numberDot{fill:#244a3c}.x{stroke:#8c2f2b;stroke-width:7;stroke-linecap:round}.tick{fill:none;stroke:#244a3c;stroke-width:7;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a5a10"/></marker>
+  </defs>
+  <rect class="bg" width="1000" height="3600"/>
+
+  <!-- PANEL A: 0-900 -->
+  <text class="title" x="34" y="56">RABBIT SNARE — EMERGENCY GATE</text>
+  <text class="status" x="966" y="91" text-anchor="end">WORKING CARD · PANEL A OF 4 · VICTORIA</text>
+
+  <rect class="warn" x="34" y="112" width="932" height="168" rx="10"/>
+  <text class="midhead red" x="58" y="151">LIFE-THREATENING EMERGENCY ONLY</text>
+  <text class="small" x="58" y="188">Food must be needed to protect life or prevent really serious injury before rescue.</text>
+  <text class="small" x="58" y="222">Rescue · first aid · warmth · shelter · water · findability remain first.</text>
+  <text class="limit" x="58" y="259">Not for practice, ordinary hunting, convenience or hunger alone.</text>
+
+  <rect class="amberBox" x="34" y="300" width="932" height="142" rx="10"/>
+  <text class="midhead amber" x="58" y="338">WORKING, UNAPPROVED METHOD</text>
+  <text class="small" x="58" y="376">95% source-match of priority/legal warning · 70% source-match of dimensions</text>
+  <text class="small" x="58" y="410">55% Victorian completeness/effectiveness · 40% written novice dispatch.</text>
+  <text class="tiny" x="58" y="434">Editorial estimates—not probabilities of capture, legality, safety or survival.</text>
+
+  <rect class="yes" x="34" y="462" width="932" height="222" rx="10"/>
+  <text class="head" x="58" y="500">ALL MUST PASS BEFORE SETTING</text>
+  <text class="small" x="58" y="538">□ Human-life threshold + only reasonable food route in time</text>
+  <text class="small" x="58" y="574">□ European rabbit evidence here; no non-target sign</text>
+  <text class="small" x="58" y="610">□ Stay at the safe waiting place; remain awake and close</text>
+  <text class="small" x="58" y="646">□ Exact materials · hourly checks · release + dispatch ability</text>
+  <text class="limit" x="58" y="676">One NO / UNKNOWN on the method gates = DO NOT SET.</text>
+
+  <rect class="blue" x="34" y="704" width="932" height="134" rx="10"/>
+  <text class="midhead" x="58" y="741">EXACT KIT — NO VALIDATED SUBSTITUTE</text>
+  <text class="tiny" x="58" y="777">3–4-strand brass rabbit wire, doubled to 6–8 at noose · smooth running eye</text>
+  <text class="tiny" x="58" y="807">fixed stop · rot-proof cord · firm peg · notched support · marker · cutters</text>
+  <text class="limit" x="58" y="833">No fishing line, string, plant fibre, spring pole, drag or self-locking loop.</text>
+
+  <rect class="footer" x="0" y="852" width="1000" height="48"/>
+  <text class="footText" x="500" y="882" text-anchor="middle">READ ALL 4 PANELS · ORDINARY VICTORIAN USE IS NOT AUTHORISED HERE</text>
+
+  <!-- PANEL B: 900-1800 -->
+  <text class="title" x="34" y="956">BUILD A FREE-RUNNING STOPPED LOOP</text>
+  <text class="status" x="966" y="991" text-anchor="end">WORKING CARD · PANEL B OF 4 · PANEL A CONTROLS</text>
+
+  <rect class="warn" x="34" y="1012" width="932" height="92" rx="10"/>
+  <text class="limit" x="58" y="1048">PASS PANEL A FIRST. THIS RESTRAINS; IT MUST NOT BE USED TO STRANGLE.</text>
+  <text class="tiny" x="58" y="1080">Improvised design lacks Victoria's ordinary-use spring, two swivels and prescribed hardware.</text>
+
+  <rect class="box" x="34" y="1124" width="932" height="470" rx="10"/>
+  <circle class="line" cx="250" cy="1331" r="116"/>
+  <circle cx="366" cy="1331" r="13" fill="#fffefa" stroke="#173f35" stroke-width="7"/>
+  <path class="line" d="M379 1331 C470 1331, 530 1284, 620 1284 L810 1284"/>
+  <rect x="515" y="1266" width="20" height="36" rx="4" fill="#8a5a10"/>
+  <path class="thin" d="M810 1284 C846 1320, 842 1360, 866 1392"/>
+  <path class="thin" d="M866 1392 L906 1392 L888 1498 L848 1498 Z"/>
+  <line class="ground" x1="724" y1="1500" x2="936" y2="1500"/>
+
+  <line class="dim" x1="134" y1="1490" x2="366" y2="1490"/>
+  <text class="label amber" x="250" y="1530" text-anchor="middle">10 cm open loop diameter</text>
+  <path class="dash" d="M366 1195 L366 1250"/>
+  <text class="label" x="366" y="1175" text-anchor="middle">smooth running eye</text>
+  <path class="dash" d="M525 1210 L525 1255"/>
+  <text class="label amber" x="525" y="1188" text-anchor="middle">fixed stop</text>
+  <text class="tiny" x="520" y="1410">14 cm measured along moving wire</text>
+  <text class="tiny" x="520" y="1438">from eye to stop — not diameter</text>
+  <text class="label" x="858" y="1252" text-anchor="middle">rot-proof tether</text>
+  <text class="label" x="882" y="1540" text-anchor="middle">firm peg</text>
+
+  <rect class="blue" x="34" y="1608" width="932" height="140" rx="10"/>
+  <text class="midhead" x="58" y="1638">MAKE + TEST</text>
+  <text class="tiny" x="58" y="1666">1  Pass free wire through smooth eye. Pull smaller; release.</text>
+  <text class="tiny" x="58" y="1692">2  Crimp stop 14 cm along moving wire. Shape 10 cm loop.</text>
+  <text class="tiny" x="58" y="1718">3  Secure wire → rot-proof cord → peg. Keep tether clear.</text>
+  <text class="limit" x="58" y="1741">Must relax; stop + peg must hold. Any bind, kink or fray = STOP.</text>
+
+  <rect class="footer" x="0" y="1752" width="1000" height="48"/>
+  <text class="footText" x="500" y="1782" text-anchor="middle">PANEL A GATE CONTROLS · DO NOT USE THIS DETACHED PANEL ALONE</text>
+
+  <!-- PANEL C: 1800-2700 -->
+  <text class="title" x="34" y="1856">SET, MARK AND WATCH</text>
+  <text class="status" x="966" y="1891" text-anchor="end">WORKING CARD · PANEL C OF 4 · PANELS A–B CONTROL</text>
+
+  <rect class="yes" x="34" y="1912" width="450" height="390" rx="10"/>
+  <text class="head" x="58" y="1952">USE: OPEN RABBIT RUN</text>
+  <line class="ground" x1="72" y1="2220" x2="448" y2="2220"/>
+  <circle class="line" cx="250" cy="2074" r="70"/>
+  <path class="thin" d="M320 2074 C350 2100, 360 2140, 400 2170"/>
+  <path class="thin" d="M214 2144 L194 2220 M286 2144 L306 2220"/>
+  <path class="thin" d="M194 2220 L190 2245 M306 2220 L310 2245"/>
+  <line class="dim" x1="155" y1="2220" x2="155" y2="2144"/>
+  <text class="label amber" x="118" y="2188" transform="rotate(-90 118 2188)" text-anchor="middle">9 cm</text>
+  <text class="tiny" x="58" y="2270">Short vegetation · several fresh rabbit signs</text>
+  <text class="tiny" x="58" y="2296">Loop across centre · support releases freely</text>
+
+  <rect class="warn" x="516" y="1912" width="450" height="390" rx="10"/>
+  <text class="head red" x="540" y="1952">REJECT THE SITE</text>
+  <text class="small" x="540" y="1992">× Burrow mouth or fence gap</text>
+  <text class="small" x="540" y="2030">× Waterhole or gully crossing</text>
+  <text class="small" x="540" y="2068">× Road, public track or camp</text>
+  <text class="small" x="540" y="2106">× Pet or livestock route</text>
+  <text class="small" x="540" y="2144">× Tree, root, rock, scrub or drop</text>
+  <text class="small" x="540" y="2182">× Native-animal or hare sign</text>
+  <text class="limit" x="540" y="2224">No entanglement, suspension,</text>
+  <text class="limit" x="540" y="2255">drowning or weather exposure.</text>
+
+  <rect class="blue" x="34" y="2322" width="932" height="302" rx="10"/>
+  <text class="head" x="58" y="2362">SET ONLY DURING A SHORT, AWAKE WATCH</text>
+  <text class="small" x="58" y="2402">1  Clear the whole tether radius. Drive peg nearly flush. Do not use a drag.</text>
+  <text class="small" x="58" y="2442">2  Mark + number the set. Record location and time. Start with one.</text>
+  <text class="small" x="58" y="2482">3  Watch from a distance when possible. Physically inspect at least HOURLY.</text>
+  <text class="small" x="58" y="2522">4  Check at once after weather, animal noise or line movement.</text>
+  <text class="small" x="58" y="2562">5  Remove before sleep, movement, lost inspection ability or rescue.</text>
+  <text class="limit" x="58" y="2602">Hourly is a conservative project limit—not a capture or welfare guarantee.</text>
+
+  <rect class="footer" x="0" y="2652" width="1000" height="48"/>
+  <text class="footText" x="500" y="2682" text-anchor="middle">EVERY SET MUST BE FOUND AND REMOVED · READ PANEL D BEFORE SETTING</text>
+
+  <!-- PANEL D: 2700-3600 -->
+  <text class="title" x="34" y="2756">CAPTURE: ACT NOW</text>
+  <text class="status" x="966" y="2791" text-anchor="end">WORKING CARD · PANEL D OF 4 · PANELS A–C CONTROL</text>
+
+  <rect class="warn" x="34" y="2812" width="932" height="106" rx="10"/>
+  <text class="limit" x="58" y="2849">APPROACH QUIETLY · LONG SLEEVES / GLOVES · FACE CLEAR OF TEETH + CLAWS</text>
+  <text class="small" x="58" y="2885">A snare is not selective. Identify the animal before choosing the next branch.</text>
+
+  <rect class="blue" x="34" y="2938" width="932" height="186" rx="10"/>
+  <text class="head" x="58" y="2977">WRONG ANIMAL — RELEASE, DO NOT EAT</text>
+  <text class="small" x="58" y="3015">If apparently uninjured and release is safe: hold the line away from your body</text>
+  <text class="small" x="58" y="3051">with a long forked stick; cut the NOOSE ITSELF so no loop remains; step back.</text>
+  <text class="small" x="58" y="3087">Unsafe release: back away; protect people. 000 is only for immediate human danger.</text>
+  <text class="limit" x="58" y="3116">Otherwise seek vet / wildlife rescue / land manager. Do not invent a killing method.</text>
+
+  <rect class="yes" x="34" y="3144" width="932" height="342" rx="10"/>
+  <text class="head" x="58" y="3183">EUROPEAN RABBIT — DISPATCH NOW</text>
+  <text class="tiny" x="58" y="3220">UNDER 1 kg + already proficient: hold both hind legs, head down. Place neck at</text>
+  <text class="tiny" x="58" y="3250">skull base between two fingers; push down while stretching neck/head backward.</text>
+  <text class="tiny" x="58" y="3290">OVER 1 kg OR UNKNOWN: one heavy, sharp blow with solid blunt bar to back of</text>
+  <text class="tiny" x="58" y="3320">skull immediately behind ears; immediately complete neck dislocation above.</text>
+  <text class="limit" x="58" y="3358">Failure sign? Repeat stun + dislocation AT ONCE. Kicking alone may be involuntary.</text>
+  <text class="tiny" x="58" y="3398">Confirm ALL: no rhythmic breathing · no eye blink/reflex · fixed glazed eyes ·</text>
+  <text class="tiny" x="58" y="3428">pale mouth tissue that does not regain colour after brief pressure.</text>
+  <text class="limit" x="58" y="3468">40% confidence that text alone enables humane novice use. Training is required.</text>
+
+  <rect class="amberBox" x="34" y="3498" width="932" height="74" rx="10"/>
+  <text class="limit amber" x="58" y="3525">CAPTURE ≠ SAFE FOOD</text>
+  <text class="tiny" x="58" y="3553">Poison, illness, carcass, dressing and cooking gates still control. Remove all sets.</text>
+
+  <rect class="footer" x="0" y="3576" width="1000" height="24"/>
+  <text class="footText" x="500" y="3595" text-anchor="middle">NOT FIELD-APPROVED · NOT ORDINARY HUNTING · COMPLETE METHOD + REVIEW STILL REQUIRED</text>
+</svg>

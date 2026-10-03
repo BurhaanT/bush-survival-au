@@ -2,7 +2,7 @@
 
 ## What to do when you are lost, injured or stranded
 
-**Personal illustrated working edition 0.15 · Victoria, Australia · updated 2 October 2026**
+**Personal illustrated working edition 0.16 · Victoria, Australia · updated 3 October 2026**
 
 This guide starts where an ordinary trip becomes an emergency. You may have arrived by foot, vehicle or boat. What matters now is the danger, the people, the equipment you can reach and the help you can obtain.
 

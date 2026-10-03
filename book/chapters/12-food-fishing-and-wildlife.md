@@ -14,7 +14,7 @@
 4. Give no food, drink or gel to anyone who is drowsy, cannot swallow normally or is recovering poorly from a seizure.
 5. **Do not eat wild mushrooms, shellfish, an unknown fish or a plant first identified during the emergency.**
 6. In ordinary circumstances, do not hunt, trap or take native mammals, birds, reptiles, frogs or eggs using this guide. Victorian native wildlife is protected.
-7. This edition does not yet supply a safe, reviewed improvised-snare, deadfall or leg-hold method. The [life-first emergency test](01-how-to-use-this-guide.md#when-a-rule-conflicts-with-saving-a-life) does not supply or validate that missing method. Do not invent one from this chapter.
+7. Do not improvise a trap for ordinary hunting. If lack of food is likely to cause or materially worsen a life-threatening problem before rescue, use the [emergency-only stopped rabbit-snare method](#emergency-only-stopped-rabbit-snare-working-method) only after every entry gate passes.
 
 Do not budget calories from an unweighed wild food. A number for commercial fillet or fruit does not identify a species or describe a whole catch. Treat its energy as **unknown** unless the species, edible cooked part, preparation and weight all match a reliable value.
 
@@ -36,25 +36,25 @@ Sources: [Victorian mushroom advice](https://www.health.vic.gov.au/health-adviso
 
 > **WARNING — LIFE FIRST; CAPTURE AND FOOD-SAFETY REVIEW OUTSTANDING**
 >
-> **Normal circumstances:** follow Victorian trap, wildlife and animal-welfare rules. This guide does not supply an improvised trap method.
+> **Normal circumstances:** follow Victorian trap, wildlife and animal-welfare rules. The improvised method below is not an ordinary hunting or pest-control route.
 >
 > **Genuine life-threatening emergency:** protect human life. This guide deliberately uses an immediate risk of death or really serious injury as its conservative trigger. Use an effective lawful option if one can work in time. Otherwise, act outside the ordinary rule only when it is the only reasonable way to deal with the emergency; choose the least harmful workable response and do no more than necessary.
 >
 > Separately, section 322R of Victoria's *Crimes Act 1958* may provide a complete defence when the person reasonably believes a sudden or extraordinary emergency exists, reasonably believes the conduct is the only reasonable way to deal with it, and the conduct is a reasonable response. The additional death-or-really-serious-injury condition in s 322R(3) concerns murder. This page cannot decide whether the defence applies.
 >
-> **Evidence confidence: High** for the current statutory test and ordinary trap categories; **Moderate** for this condensed field summary; **Insufficient** for novice capture, humane dispatch, carcass inspection, field dressing or rabbit-specific cooking. **Wording confidence: 95% (subjective).** This is not a prediction of legality, capture success, food safety or survival.
+> **Evidence confidence: High** for the current statutory test and ordinary trap categories; **Moderate** for this condensed field summary; **Low** for novice improvised capture and written humane-dispatch instruction; **Insufficient** for carcass inspection, field dressing or rabbit-specific cooking. **Wording confidence: 95% (subjective).** This is not a prediction of legality, capture success, food safety or survival.
 
 ### Do this now
 
 - Use carried food first. Food remains below rescue, warmth, shelter and water.
 - Do not leave a known rescue position to follow tracks or search for a warren.
-- In an ordinary or planned food attempt, lack of lawful equipment, permission, training or a humane plan means **do not trap**.
+- In an ordinary or planned food attempt, lack of lawful equipment, permission, training or a humane plan means **do not trap**. The emergency method below does not change that.
 - In a true immediate threat to human life, call 000 or activate rescue if possible. Use an effective lawful option if it can work in time. Otherwise, act outside the ordinary rule only if it is the only reasonable way to deal with the emergency, and choose the least harmful workable response. Hunger, inconvenience or a long wait is not enough by itself.
-- In the ordinary food route, do not trap native wildlife. A true immediate threat to human life uses the life-first test above, but this edition supplies no native-animal capture or food-safety method. Never eat an animal found dead or a rabbit from a site with positive or unknown baiting or poison-treatment history.
+- In the ordinary food route, do not trap native wildlife. A true immediate threat to human life uses the life-first test above, but this edition supplies no native-animal capture or food-safety method. Never eat an animal found dead. Positive poison evidence or a known control operation is a hard food stop. Unknown treatment history stops the ordinary route; in a true life-threatening emergency it remains an unresolved risk, never proof that the rabbit is safe.
 
-![Victoria rabbit-food gate: human life comes first in a genuine immediate emergency, while ordinary food attempts follow Victorian rules; the card then separates legal status from the still-required identity, practical, welfare and food-safety checks and explains that this edition supplies no improvised trap or processing method.](../assets/rabbit-food-gate.svg)
+![Victoria rabbit-food gate: human life comes first in a genuine immediate emergency, while ordinary food attempts follow Victorian rules; the card separates legal status from identity, practical, welfare and food-safety checks and routes only a qualifying emergency to the working snare method.](../assets/rabbit-food-gate.svg)
 
-*IM-207. Original working decision card. It gives no trap construction, bait, placement, dispatch, cutting or cooking method. Victorian legal, animal-welfare, wild-game food-safety, practical and stressed-reader review remain outstanding.*
+*IM-207. Original working decision card. It routes only the strict life-threatening branch to IM-208. It does not itself teach trapping or clear captured meat as food. Victorian legal, animal-welfare, wild-game food-safety, practical and stressed-reader review remain outstanding.*
 
 ### Ordinary or pre-planned trapping rules
 
@@ -62,7 +62,7 @@ The table below describes ordinary or pre-planned use. It does not decide a sudd
 
 | Method | Victorian position | What this guide tells you |
 |---|---|---|
-| Improvised wire or cord snare | Non-kill snares require Ministerial approval and prescribed features. | **Do not make or set one.** |
+| Improvised wire or cord snare | Non-kill snares require Ministerial approval and prescribed features. | **Do not make or set one for ordinary use.** The working method below is only for the strict life-threatening-emergency branch. |
 | Deadfall, spring snare or other kill trap | Kill traps require Ministerial approval and humane-design controls. | **Do not make or set one.** |
 | Small leg-hold trap | A compliant small trap is for **rabbits only**. It needs owner or occupier approval, cannot be used or possessed on Crown land, and needs extra approval in an urban area. | Pre-planned private-land pest control only. No setting method. |
 | Cage or confinement trap | It needs owner, occupier or Crown-land-manager consent, non-target controls and inspection. A captured pest must be humanely killed as soon as reasonably possible. | Exact compliant trap, prior permission and training only. No design or placement method. |
@@ -70,6 +70,85 @@ The table below describes ordinary or pre-planned use. It does not decide a sudd
 The trapping regulation titled **“Emergency use of traps”** concerns a Ministerial response to a new pest incursion, not personal survival. The separate *Crimes Act* defence above is fact-specific and cannot be planned as permission to ignore ordinary rules. In a genuine immediate threat to human life, however, do not let an ordinary activity rule make you withhold the only reasonable lifesaving response. Where safe, record the danger, the alternatives tried, rescue calls and why the action was necessary.
 
 Sources: [current *Crimes Act 1958*](https://www.legislation.vic.gov.au/in-force/acts/crimes-act-1958/323), [in-force Victorian trap regulations](https://www.legislation.vic.gov.au/in-force/statutory-rules/prevention-cruelty-animals-regulations-2019/004), [leghold traps](https://agriculture.vic.gov.au/biosecurity/pest-animals/trapping-pest-animals/leghold-traps), [confinement traps](https://agriculture.vic.gov.au/biosecurity/pest-animals/trapping-pest-animals/confinement-traps), [animal-welfare approvals](https://agriculture.vic.gov.au/livestock-and-animals/animal-welfare-victoria/pocta-act-1986/animal-welfare-licences-and-approvals) and [Victorian hunting welfare code](https://agriculture.vic.gov.au/livestock-and-animals/animal-welfare-victoria/pocta-act-1986/victorian-codes-of-practice-for-animal-welfare/code-of-practice-for-the-welfare-of-animals-in-hunting-revision-no-1). Rules and approvals can change.
+
+If a purpose-built, non-injuring confinement or cage trap is already available and can work in time, prefer it. Victoria ordinarily treats a compliant confinement trap more permissively than a snare, although land consent, inspection, non-target and humane-treatment duties still apply. This edition does not yet validate an improvised cage-trap design.
+
+### Emergency-only stopped rabbit snare — working method
+
+> **WARNING — LIFE-THREATENING EMERGENCY ONLY; EXPERT AND FIELD REVIEW OUTSTANDING**
+>
+> This is a **passive, free-running restraint**, not a killing snare. It can still strangle, cut, entangle, injure or catch the wrong animal. Ordinary Victorian use requires prior approval and prescribed features this improvised design does not have, including anti-constriction hardware, a shock spring and two swivels. Personal acceptance of risk does not change the law or make the method reliable.
+>
+> Use it only if you reasonably believe lack of food before rescue is likely to cause or materially worsen a threat of death or really serious injury, and it is the only reasonable effective food route in time. Rescue, first aid, warmth, shelter, safe water and findability remain first.
+>
+> **Estimated confidence (subjective):** 95% that the priority and legal warning matches the cited sources; 70% that the dimensions below match the cited same-species guidance; 55% for completeness and effectiveness in Victorian conditions; 40% that written instruction alone can produce a humane novice dispatch. These are editorial estimates—not probabilities of capture, legality, safety, humane outcome or survival.
+
+#### Every answer must be yes before setting
+
+1. Have you already protected emergency contact, first aid, body temperature, shelter, safe water and the known rescue position?
+2. Is lack of food likely to cause or materially worsen a life-threatening problem **before rescue**, rather than merely causing hunger or discomfort?
+3. Are carried food and safer, already-identified foods unavailable or insufficient?
+4. Can you set and inspect the snare without leaving the safe waiting place, using more water or energy than the likely return, or weakening the rescue plan?
+5. Have you seen a European rabbit or found several fresh rabbit signs at this exact open run—and no sign of a hare, native animal, pet or livestock using it?
+6. Do you have the exact wire, smooth running eye, fixed stop, secure tether, peg, support stick, marker and wire cutters described below? **No material substitution is validated.**
+7. Can you remain awake and close, check the set at least hourly, release a non-target safely and promptly dispatch a rabbit?
+8. Is there no poison warning, laid carrot or oat bait, multiple dead or abnormal rabbits, unexplained bruising or bleeding, or known control operation?
+
+One **no** or **unknown** on items 1–7 means do not set this snare. Positive evidence in item 8 is also a hard food stop. Unknown poison history is not proof of safety; in a true life-threatening emergency, weigh that unresolved risk against the immediate danger.
+
+#### What you need
+
+- purpose-made **3- or 4-strand brass rabbit-snare wire**, prepared as 3–4 strands at a smooth free-running eye and doubled to 6–8 strands around the noose;
+- a fixed crimp stop that cannot slide;
+- strong rot-proof cord and a firm ground peg;
+- a short notched support stick, called a tealer;
+- a visible marker and a way to record the set location and time;
+- wire cutters that can cut the noose itself;
+- long sleeves, gloves if available, and a solid blunt bar for humane dispatch.
+
+Do **not** substitute fishing line, single sharp wire, steel cable, string, plant fibre, a spring pole, a drag, a self-locking eye or an unstopped loop. If the eye, stop or wire is damaged, rusty, kinked or rough, do not use it.
+
+#### Make the free-running stopped loop
+
+1. Feed the free end of the brass wire through the smooth eye to form a noose. Pull the noose smaller, then release the tension. It must loosen freely without being pushed open. If it stays tight, it is self-locking: **stop**.
+2. Measure **14 cm along the moving wire from the running eye** and crimp the fixed stop there. This measurement becomes the smallest possible loop circumference; it is not the diameter across the open loop. The humane outcome of this stop position has not been established in a Victorian field trial.
+3. Shape the open loop to about **10 cm diameter**. Natural England and the Defra code agree on this European-rabbit setup; a 2022 Scottish guide instead uses a wider 18 × 13 cm oval. That unresolved difference is why the performance confidence is only 55%.
+4. Attach the fixed end securely to rot-proof cord, then to a peg that cannot pull out. Keep the tether only long enough for the loop to work while preventing the rabbit from reaching any obstacle, drop or water.
+5. Test again: pull the loop down to the stop, release tension, and confirm that it relaxes. Pull hard on the tether and peg. If the stop moves, the eye binds, the wire kinks or the anchor shifts, **do not set it**.
+
+![Emergency-only stopped rabbit snare: a four-panel working card shows the strict entry gate, correct components and measurements, safe versus rejected placement, hourly monitoring, non-target release, humane rabbit dispatch and complete removal.](../assets/emergency-rabbit-snare-card.svg)
+
+*IM-208. Original working construction and use card. It is a low-confidence emergency fallback for European rabbits only, not a normally lawful Victorian trap design. It does not clear a carcass for eating or supply field-dressing and rabbit-cooking instructions.*
+
+#### Set it on the run
+
+1. Choose the centre of a clearly used rabbit run in **short, open vegetation** near rabbit harbourage. Do not set at a burrow mouth, fence gap, waterhole, gully crossing, road, public track, campsite, pet or livestock route, or anywhere another species may pass.
+2. Clear the entire reach of the tether. There must be no branch, trunk, shrub, root, rock, fence, steep drop or water around which a captured animal could wrap, hang or drown.
+3. Put the round loop upright across the run. Rest it lightly in the notch of the support stick so its bottom edge is about **9 cm above the ground**. The support must pull free; do not tie the noose to it.
+4. Drive the anchor peg nearly flush with the ground outside the run. The tether must be secure and unable to become a drag.
+5. Mark and number the set. Record its location and the time. Use one set first; more sets create more non-target and inspection risk.
+6. Set only for a short period while you are awake and close—typically around dusk when rabbits are active. Watch from a distance when possible and physically inspect **at least every hour**. This one-hour limit is a conservative project rule, not a validated capture interval or guarantee. Check immediately after weather, animal noise or line movement.
+7. Deactivate and remove it before sleep, movement, worsening weather, loss of inspection capacity or rescue. Count every wire, peg and marker back in.
+
+#### If an animal is caught
+
+1. Approach quietly. Keep other people away. Wear long sleeves and gloves if available; keep your face clear of teeth, claws and kicking hind legs.
+2. **Wrong animal:** do not kill it for food. If it appears uninjured and release is safe, control the line from a distance with a long forked stick, cut the **noose itself** so no loop remains on the animal, then step back and let it leave. Do not cut only the anchor line. This generic release is not validated for every Victorian species. If release is unsafe, back away and protect people. Call 000 only for immediate human danger; otherwise seek a vet, wildlife rescue or land-manager direction when contact is possible. Do not improvise a species-unknown killing method.
+3. **Positively identified European rabbit:** a live trapped rabbit must be dispatched promptly. The Australian rabbit-control procedure below requires training and practice; if you cannot carry it through, you should not have set the snare.
+
+#### Humane dispatch — Australian working method
+
+- Approach calmly and restrain the rabbit by both hind legs. Do not rely on the snare to strangle it.
+- For a rabbit **under 1 kg**, manual neck dislocation is reserved for someone already proficient: hold both hind legs in one hand with the head downward; with the other palm facing the head, place the neck at the skull base between two fingers; push down while stretching the neck and drawing the head backward until dislocation is felt.
+- For a rabbit **over 1 kg or of unknown weight**, first deliver one heavy, sharp blow with a solid blunt bar to the back of the skull immediately behind the ears. Immediately complete the neck-dislocation step above; do not pause for a full death check between the two actions.
+- Rhythmic breathing, a blink or other reflex, vocalisation or purposeful movement means the attempt failed. Immediately repeat the appropriate method; for a rabbit over 1 kg or of unknown weight, repeat the stun and neck dislocation. Kicking alone may be an involuntary movement after loss of consciousness.
+- Confirm death before releasing or processing the body: no rhythmic breathing; no blink when the eye surface is touched; fixed, glazed eyes; and pale mouth tissue that does not regain colour after brief pressure. If any sign is uncertain, repeat the appropriate method immediately.
+
+The national procedure says physical euthanasia should be performed by trained operators. A study in a controlled rabbit setting found blunt-force failure in 13 of 58 attempts, so a vague “hit it” instruction is not adequate. This written sequence remains unapproved and is not a substitute for supervised practice.
+
+After any capture, discard the snare if it is kinked, frayed, rough or no longer free-running. Remove every set when the food need or emergency ends. Capture does **not** make the rabbit safe to eat: apply the poison, illness and carcass gates below. This revision still needs a separately reviewed field-dressing and thorough-cooking sequence.
+
+Sources: [Scottish Government-endorsed 2022 snaring code](https://www.gwct.org.uk/media/1380725/Snaring-in-Scotland-Code-of-Practice-December-2022.pdf), [Scottish Government technical review](https://www.gov.scot/publications/review-snaring-scottish-government-prepared-snh/pages/10/), [Natural England rabbit-management note](https://www.hartlepool.gov.uk/download/downloads/id/57/rabbits_-_management_options_for_preventing_damagepdf.pdf), [Defra rabbit-snare code](https://www.antisnaring.org.uk/assets/images/defra-snares-code-of-practice.pdf), [Defra-funded humaneness study](https://data.parliament.uk/DepositedPapers/Files/DEP2012-0577/Document.pdf), [PestSmart national rabbit trapping procedure](https://pestsmart.org.au/toolkit-resource/trapping-of-rabbits-using-padded-jaw-traps/) and [Victorian animal-welfare approvals](https://agriculture.vic.gov.au/livestock-and-animals/animal-welfare-victoria/pocta-act-1986/animal-welfare-licences-and-approvals).
 
 ### A rabbit trap is a complete system
 
@@ -79,19 +158,21 @@ For this guide to treat trapping as a complete method, every answer must be **ye
 2. Which branch applies?
    - **Ordinary or planned use:** is the exact method lawful here today, with every required permission or approval?
    - **Immediate life threat:** is there a present risk of death or really serious injury, has rescue been attempted where possible, is this the only reasonable way to deal with the danger, and is the response reasonable and limited to what is needed?
-3. Is the exact capture method familiar, dependable enough for the emergency and able to be inspected as regularly as possible rather than treating a legal maximum as a target interval?
+3. Is the exact capture method familiar, dependable enough for the emergency and able to be monitored at the method's stated interval rather than treating a legal maximum as a target?
 4. Can you prevent and safely manage an injured or non-target capture?
 5. Can you humanely kill a captured rabbit as soon as reasonably possible, using a reviewed method and suitable equipment?
-6. Do you positively know the site's baiting and poison-treatment history, have no chemical concern, see no abnormal behaviour or disease sign, and have a safe way to dress, cool and cook the rabbit hygienically?
+6. Which food-safety branch applies?
+   - **Ordinary or planned use:** do you positively know the site's baiting and poison-treatment history, have no chemical concern or abnormal animal sign, and have a safe way to dress, cool and cook the rabbit hygienically?
+   - **Immediate life threat:** is there no baiting sign, laid bait, known control operation, cluster of dead or abnormal rabbits, unexplained bleeding or bruising, or other positive poison warning? Unknown treatment history remains an unresolved risk to weigh against the immediate danger; it is never proof of safety. Do you already have a safe dressing and thorough-cooking method? This edition does not yet supply one.
 7. Can you do this without weakening rescue, shelter, warmth or the water plan?
 
-An unknown legal permission does not by itself outrank an immediate threat to human life. The identity, effectiveness, non-target, humane-treatment and food-safety questions still determine whether trapping is a reasonable lifesaving response. This edition cannot support construction, placement, dispatch, field dressing or cooking by a reader who lacks an independently learned, dependable method. Do not treat the life-first rule as a method, safety clearance or endorsement of improvisation.
+An unknown legal permission does not by itself outrank an immediate threat to human life. Identity, effectiveness, non-target harm, humane treatment and food safety still determine whether trapping is a reasonable lifesaving response. The working method above now supplies one source-bounded construction, placement, inspection and rabbit-dispatch route, but its low confidence, exact-material rules and stop conditions control. It still does not supply field dressing or rabbit-specific cooking. Do not treat the life-first rule as a safety clearance or permission to invent another trap.
 
-### Rabbit signs are for observation, not trap placement
+### Rabbit signs — observation first; emergency placement only after the gate
 
 European rabbits are usually active from late afternoon to early morning. Warrens, dung heaps, short-grazed patches, scratchings and seedlings cut at about 45 degrees may show activity. They often use well-drained ground and cover near creek banks, gullies, rocks, logs, scrub, buildings or debris.
 
-These signs do **not** prove species, permission, a safe trap site or safe food. Observe from the safe waiting place. Do not reach into a burrow or follow signs away from rescue visibility.
+These signs do **not** prove species, permission, a safe trap site or safe food. Observe from the safe waiting place. Only the strict emergency method above uses multiple fresh signs to help choose an already nearby run; never follow signs away from rescue visibility or reach into a burrow.
 
 European hares are larger and use shallow above-ground resting places rather than rabbit warrens. A rule applying to a rabbit trap does not automatically apply to a hare. This edition has no hare-trapping method.
 
@@ -117,7 +198,8 @@ Source: [FSANZ Australian Food Composition Database](https://www.foodstandards.g
 | Native mammals, birds, reptiles, frogs or eggs | In ordinary circumstances, **do not take or trap them using this guide**. In a genuine immediate threat to human life, use the life-first test above; this edition still supplies no identification, capture, dispatch or food-safety method. |
 | Rats or mice | **Do not use as food.** Low return, native-rodent confusion, disease and poison risk outweigh possible energy. |
 | Roadkill or an animal found dead | **Do not eat it.** Time, temperature, injury, disease, poison and contamination are unknown. |
-| Rabbit where baiting or poison-treatment history is positive or unknown | **Do not eat it.** Do not assume cooking makes a possibly poisoned rabbit safe; this guide supplies no clearance method. |
+| Rabbit with positive poison evidence or a known control operation | **Do not eat it.** Cooking does not clear poison; this guide supplies no clearance method. |
+| Rabbit where baiting or poison-treatment history is unknown | **Ordinary route: do not eat it.** In a true life-threatening emergency, unknown history is unresolved risk to compare with the immediate danger—not proof of safety. Positive evidence remains a hard stop. |
 | Yabbies | A possible later entry, but only with positive identification, current VFA rules, lawful gear, safe bank access and known crustacean tolerance. Do not transfer fish instructions. |
 | Insects, grubs, snails or worms | No generic Victorian eating rule is supplied. Species, pesticide, parasite and allergy risks make “eat bugs” unsafe advice. |
 
@@ -529,4 +611,4 @@ Do not handle bats, including an injured one. After a bite or scratch, wash the 
 
 **Sources:** [Victorian Health bat lyssavirus](https://www.health.vic.gov.au/infectious-diseases/rabies-and-australian-bat-lyssavirus), [Australian Immunisation Handbook](https://immunisationhandbook.health.gov.au/contents/vaccine-preventable-diseases/rabies-and-other-lyssaviruses), St John S-168; S-164–S-168.
 
-**Review record:** [EP-008](../../research/evidence-packets/EP-008-victorian-bites-and-stings.md), the [Victorian fish action evidence packet](../../research/FISH_ACTION_EVIDENCE_PACKET.md), the [fish-atlas content and test packet](../../research/FISH_ATLAS_CONTENT_DRAFT.md), the [fish-atlas image-rights packet](../../research/FISH_ATLAS_IMAGE_RIGHTS_PACKET.md), D-075, R-497, S-491–S-498, SP-042–SP-043, SR12-31–SR12-32, IM-070, IM-116 and IM-173–IM-183/IM-207. Updated 2 October 2026; the chapter now includes a Victoria-specific rabbit/small-animal gate, legal method table, rabbit/hare observation limits and source-bounded nutrition values. It deliberately gives no improvised snare, deadfall, trap placement, humane-dispatch, rabbit-dressing or rabbit-cooking method. The fishing knot diagram and atlas have not passed practical or specialist review. The atlas has no universal terminal action for an unidentified catch, no novice-safe non-colour black-versus-yellowfin bream separator, and incomplete carp, hybrid and redfin views. Species-specific dispatch, bleeding and anatomy-dependent cleaning, field tests and specialist approval remain incomplete, so those procedures are withheld. Shellfish remain warning-only. `FIELD_READY_BUILD` remains `NO`.
+**Review record:** [EP-008](../../research/evidence-packets/EP-008-victorian-bites-and-stings.md), the [Victorian fish action evidence packet](../../research/FISH_ACTION_EVIDENCE_PACKET.md), the [fish-atlas content and test packet](../../research/FISH_ATLAS_CONTENT_DRAFT.md), the [fish-atlas image-rights packet](../../research/FISH_ATLAS_IMAGE_RIGHTS_PACKET.md), D-075/D-077, R-497/R-499, S-491–S-502, SP-042–SP-043, SR12-31–SR12-35, IM-070, IM-116 and IM-173–IM-183/IM-207–IM-208. Updated 3 October 2026; the chapter now includes one low-confidence, emergency-only stopped free-running rabbit-snare route from entry gate through construction, placement, hourly monitoring, non-target response, rabbit dispatch, death confirmation and full removal. It deliberately excludes ordinary improvised-trap use, self-locking or killing snares, deadfalls, material substitutions, native-animal capture, rabbit dressing and rabbit-specific cooking. The fishing knot diagram and atlas have not passed practical or specialist review. The atlas has no universal terminal action for an unidentified catch, no novice-safe non-colour black-versus-yellowfin bream separator, and incomplete carp, hybrid and redfin views. Fish-specific dispatch, bleeding and anatomy-dependent cleaning, field tests and specialist approval remain incomplete, so those procedures remain withheld. Shellfish remain warning-only. `FIELD_READY_BUILD` remains `NO`.
