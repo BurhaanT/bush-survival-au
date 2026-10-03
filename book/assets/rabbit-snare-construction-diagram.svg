@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
-  <title id="title">Stopped rabbit snare construction diagram</title>
-  <desc id="desc">A large working construction diagram for the emergency-only European-rabbit snare. It shows a prepared, inspected assembly with the moving noose-side wire passing through a purpose-made smooth running eye, a fixed minimum-loop stop about fourteen centimetres along that loop wire so the stop reaches the eye as the loop closes, an about ten centimetre open loop, a labelled secure wire-to-cord connection, short rot-proof tether and a firm peg with its top nearly flush to the ground. It also shows the pull-release function test. It does not show how to fabricate the eye, stop, joint or peg.</desc>
+  <title id="title">Stopped rabbit snare prepared-assembly diagram</title>
+  <desc id="desc">A large working prepared-assembly diagram for the emergency-only European-rabbit snare. It shows a prepared, inspected assembly with the moving noose-side wire passing through a purpose-made smooth running eye, a fixed minimum-loop stop about fourteen centimetres along that loop wire so the stop reaches the eye as the loop closes, an about ten centimetre open loop, a labelled secure wire-to-cord connection, short rot-proof tether and a firm peg with its top nearly flush to the ground. It also shows the pull-release function test. It does not show how to fabricate the eye, stop, joint or peg.</desc>
   <defs>
     <style>
       .bg{fill:#fffefa}.panel{fill:#f2f6f3;stroke:#244a3c;stroke-width:3}.warn{fill:#fff0ed;stroke:#8c2f2b;stroke-width:3}.test{fill:#eaf1f6;stroke:#244a3c;stroke-width:3}.title{font:700 42px Arial,sans-serif;fill:#173f35}.status{font:700 24px Arial,sans-serif;fill:#77551c}.head{font:700 31px Arial,sans-serif;fill:#173f35}.label{font:700 28px Arial,sans-serif;fill:#173f35}.body{font:26px Arial,sans-serif;fill:#344c41}.small{font:24px Arial,sans-serif;fill:#344c41}.fail{font:700 26px Arial,sans-serif;fill:#7a2926}.red{fill:#7a2926}.amber{fill:#7b5114}.wire{fill:none;stroke:#173f35;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}.cord{fill:none;stroke:#173f35;stroke-width:5;stroke-linecap:round}.dim{fill:none;stroke:#8a5a10;stroke-width:4;marker-start:url(#arrow);marker-end:url(#arrow)}.call{fill:none;stroke:#8a5a10;stroke-width:3;stroke-dasharray:10 8}.ground{stroke:#6e806f;stroke-width:6}.stop{fill:#8a5a10}.footer{fill:#fff0ed}.foot{font:700 24px Arial,sans-serif;fill:#7a2926}
@@ -9,7 +9,7 @@
   </defs>
 
   <rect class="bg" width="1000" height="1000"/>
-  <text class="title" x="34" y="56">RABBIT SNARE — CONSTRUCTION</text>
+  <text class="title" x="34" y="56">RABBIT SNARE — PREPARED ASSEMBLY</text>
   <text class="status" x="966" y="91" text-anchor="end">WORKING DIAGRAM · EMERGENCY GATE MUST PASS</text>
 
   <rect class="warn" x="34" y="112" width="932" height="104" rx="10"/>
